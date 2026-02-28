@@ -35,10 +35,9 @@ function loadSettings() {
     if (mode && FURIGANA_MODES.includes(mode)) {
       state.furiganaMode = mode;
     }
-    const exposures = localStorage.getItem('moomin-kanji-exposures');
-    if (exposures) {
-      state.kanjiExposures = JSON.parse(exposures);
-    }
+    // kanjiExposures are now computed deterministically from chapter data
+    // (see computePriorExposures). Clean up any stale persisted data.
+    localStorage.removeItem('moomin-kanji-exposures');
   } catch (e) {
     console.warn('Could not load settings:', e);
   }
@@ -47,7 +46,6 @@ function loadSettings() {
 function saveSettings() {
   try {
     localStorage.setItem('moomin-furigana-mode', state.furiganaMode);
-    localStorage.setItem('moomin-kanji-exposures', JSON.stringify(state.kanjiExposures));
   } catch (e) {
     console.warn('Could not save settings:', e);
   }
@@ -116,6 +114,69 @@ function escapeHtml(str) {
 
 // ----- Furigana Rendering -----
 
+const KANA_RE  = /[\u3040-\u309f\u30a0-\u30ff]/;
+const KANJI_RE = /[\u4e00-\u9fff]/;
+
+/**
+ * Split a surface + reading into kanji stem, stem reading, and okurigana.
+ *
+ *   splitOkurigana("待つ", "まつ")  → { stem: "待", reading: "ま", oku: "つ" }
+ *   splitOkurigana("少し", "すこし") → { stem: "少", reading: "すこ", oku: "し" }
+ *   splitOkurigana("帽子", "ぼうし") → { stem: "帽子", reading: "ぼうし", oku: "" }
+ *
+ * Trailing kana in the surface that match the trailing kana of the reading
+ * are stripped off as okurigana — they already appear in the base text and
+ * don't need furigana.
+ */
+function splitOkurigana(surface, reading) {
+  // Count trailing kana in the surface
+  let trailing = 0;
+  for (let i = surface.length - 1; i >= 0; i--) {
+    if (KANA_RE.test(surface[i])) trailing++;
+    else break;
+  }
+
+  // No trailing kana, or surface is ALL kana → full ruby
+  if (trailing === 0 || trailing === surface.length) {
+    return { stem: surface, reading, oku: '' };
+  }
+
+  const oku = surface.slice(surface.length - trailing);
+
+  // Verify the reading ends with the same kana (guards against sound changes)
+  if (reading.endsWith(oku)) {
+    return {
+      stem: surface.slice(0, surface.length - trailing),
+      reading: reading.slice(0, reading.length - trailing),
+      oku,
+    };
+  }
+
+  // Can't split cleanly — fall back to full ruby
+  return { stem: surface, reading, oku: '' };
+}
+
+/**
+ * For AUTO mode: count how many times each kanji surface appeared in
+ * all chapters *before* the given chapter number.  This makes the count
+ * deterministic and independent of browsing order — going back to ch 1
+ * always shows full furigana because there are zero prior chapters.
+ */
+function computePriorExposures(chapterNum) {
+  const exposures = {};
+  for (const num of state.chapterList) {
+    if (num >= chapterNum) break;          // only earlier chapters
+    const ch = state.chapters[num];
+    if (!ch) continue;
+    for (const s of ch.sentences) {
+      for (const r of (s.readings || [])) {
+        exposures[r.surface] = (exposures[r.surface] || 0) + 1;
+      }
+    }
+  }
+  return exposures;
+}
+
 function renderJapaneseWithFurigana(sentence) {
   const text = sentence.japanese;
   const readings = sentence.readings || [];
@@ -124,56 +185,53 @@ function renderJapaneseWithFurigana(sentence) {
     return escapeHtml(text);
   }
 
-  // Build a map of kanji surface → reading
-  const readingMap = {};
-  for (const r of readings) {
-    readingMap[r.surface] = r.reading;
-  }
-
-  // Track kanji exposures for AUTO mode
-  if (state.furiganaMode === 'AUTO') {
-    for (const r of readings) {
-      if (!state.kanjiExposures[r.surface]) {
-        state.kanjiExposures[r.surface] = 0;
-      }
-    }
-  }
-
-  // Replace kanji words with ruby annotations
-  let result = '';
-  let pos = 0;
-
-  // Sort readings by position in text (find each occurrence)
+  // --- Build placements: advance searchPos so duplicate surfaces
+  //     (e.g. 木 appearing twice in "木、木。") each match their own
+  //     occurrence in the source text.
   const placements = [];
+  let searchPos = 0;
   for (const r of readings) {
-    const idx = text.indexOf(r.surface, pos);
+    const idx = text.indexOf(r.surface, searchPos);
     if (idx >= 0) {
-      placements.push({ start: idx, end: idx + r.surface.length, surface: r.surface, reading: r.reading });
+      placements.push({
+        start: idx,
+        end: idx + r.surface.length,
+        surface: r.surface,
+        reading: r.reading,
+      });
+      searchPos = idx + r.surface.length;
     }
   }
   placements.sort((a, b) => a.start - b.start);
 
+  // --- Render
+  let result = '';
+  let pos = 0;
+
   for (const p of placements) {
-    // Add text before this kanji
+    // Text before this token
     if (p.start > pos) {
       result += escapeHtml(text.slice(pos, p.start));
     }
 
-    // Determine if furigana should be visible
+    // AUTO visibility
     let showFurigana = true;
     if (state.furiganaMode === 'AUTO') {
       const exposures = state.kanjiExposures[p.surface] || 0;
       showFurigana = exposures < FURIGANA_FADE_THRESHOLD;
-      // Increment exposure
       state.kanjiExposures[p.surface] = exposures + 1;
     }
 
     const visClass = showFurigana ? '' : ' class="furigana-hidden"';
-    result += `<ruby>${escapeHtml(p.surface)}<rt${visClass}>${escapeHtml(p.reading)}</rt></ruby>`;
+
+    // Split okurigana so furigana only sits above the kanji stem
+    const { stem, reading, oku } = splitOkurigana(p.surface, p.reading);
+    result += `<ruby>${escapeHtml(stem)}<rt${visClass}>${escapeHtml(reading)}</rt></ruby>${escapeHtml(oku)}`;
+
     pos = p.end;
   }
 
-  // Add remaining text
+  // Remaining text after last token
   if (pos < text.length) {
     result += escapeHtml(text.slice(pos));
   }
@@ -262,6 +320,14 @@ function renderLanding() {
 // ----- Rendering: Reader -----
 
 function renderReader(chapter) {
+  // For AUTO mode, seed exposure counts from all *earlier* chapters.
+  // This makes the count deterministic: ch 1 always shows full furigana
+  // (no prior chapters), and later chapters fade out well-known kanji.
+  // Within-chapter exposure increments still happen during rendering.
+  if (state.furiganaMode === 'AUTO') {
+    state.kanjiExposures = computePriorExposures(chapter.chapter);
+  }
+
   // Header
   document.getElementById('reader-chapter-num').textContent = `Chapter ${chapter.chapter}`;
   document.getElementById('reader-chapter-title').textContent = chapter.title;
