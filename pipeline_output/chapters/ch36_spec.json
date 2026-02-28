@@ -1,0 +1,710 @@
+{
+  "chapter": 36,
+  "title": "気持ち の 話",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "ムーミンやしきの居間",
+    "description": "The cozy Moomin house living room. Tea and cakes on the table. Warm lamplight, sociable atmosphere.",
+    "characters": [
+      "ムーミン",
+      "ママ",
+      "パパ"
+    ],
+    "props": [
+      "家"
+    ]
+  },
+  "newLemmas": [
+    "聞き出す",
+    "優しい",
+    "中身",
+    "邪魔",
+    "気持ち",
+    "えーと",
+    "夫婦",
+    "はなす"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あるく",
+    "あれ",
+    "い",
+    "いい",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いっぱい",
+    "いつ",
+    "いや",
+    "いらっしゃる",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "えーと",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "およぐ",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "すむ",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たって",
+    "たつ",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とにかく",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なく",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はなす",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "やれ",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "タール",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "ハート",
+    "パパ",
+    "パンケーキ",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "上がる",
+    "上る",
+    "下",
+    "下さる",
+    "不",
+    "中身",
+    "事件",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "伯母",
+    "修理",
+    "俺",
+    "優しい",
+    "兄",
+    "先",
+    "出発",
+    "切手",
+    "別",
+    "利く",
+    "前",
+    "助ける",
+    "動く",
+    "化け物",
+    "危ない",
+    "取る",
+    "回",
+    "地獄",
+    "場所",
+    "壊れる",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "天才",
+    "夫婦",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "実",
+    "客",
+    "少し",
+    "嵐",
+    "川",
+    "度",
+    "張る",
+    "御覧",
+    "必要",
+    "忘れる",
+    "怒る",
+    "怖い",
+    "悪い",
+    "戻る",
+    "手",
+    "手伝う",
+    "拾う",
+    "捨てる",
+    "教える",
+    "日",
+    "明日",
+    "昨日",
+    "時間",
+    "書く",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次回",
+    "止める",
+    "此奴",
+    "毒",
+    "気圧",
+    "気持ち",
+    "水",
+    "海岸",
+    "漕ぐ",
+    "潜る",
+    "無くなる",
+    "王",
+    "珍しい",
+    "目",
+    "知れる",
+    "砂",
+    "確か",
+    "秒",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "結ぶ",
+    "絶対",
+    "考える",
+    "聞き出す",
+    "聞こえる",
+    "自信",
+    "自分",
+    "花",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "話",
+    "調子",
+    "起こる",
+    "足",
+    "辺",
+    "返す",
+    "追う",
+    "通り",
+    "連れる",
+    "違う",
+    "邪魔",
+    "部屋",
+    "鋸",
+    "間",
+    "降る",
+    "随分",
+    "隠れる",
+    "集める",
+    "雨",
+    "非",
+    "面白い",
+    "頭",
+    "風",
+    "飛行",
+    "飾り",
+    "髪の毛",
+    "鬼",
+    "鼾",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch36-01",
+      "japanese": "客 が きた。",
+      "imagePrompt": "The doorbell rings at the Moomin house. A guest has arrived! Mama hurries to the entrance with a warm smile. Afternoon light fills the hallway. Mama hurrying to the door. Medium shot, eye-level. Warm afternoon light, welcoming mood.",
+      "readings": [
+        {
+          "surface": "客",
+          "reading": "きゃく"
+        }
+      ]
+    },
+    {
+      "id": "ch36-02",
+      "japanese": "夫婦 が きた。",
+      "imagePrompt": "A married couple stands at the door, carrying travel bags. A couple has arrived! They look tired but happy to have found the Moomin house. Couple at the Moomin house door. Medium shot, eye-level. Warm welcoming light, arrival mood.",
+      "readings": [
+        {
+          "surface": "夫婦",
+          "reading": "ふうふ"
+        }
+      ]
+    },
+    {
+      "id": "ch36-03",
+      "japanese": "あの 夫婦 は 優しい。",
+      "imagePrompt": "The couple sits in the living room, smiling gently at everyone. That couple is kind! Their warm demeanor fills the room. Tea cups steam on the table. Kind couple in the living room. Medium shot, eye-level. Warm cozy lamplight, gentle kindness mood.",
+      "readings": [
+        {
+          "surface": "夫婦",
+          "reading": "ふうふ"
+        },
+        {
+          "surface": "優しい",
+          "reading": "やさしい"
+        }
+      ]
+    },
+    {
+      "id": "ch36-04",
+      "japanese": "夫婦 の 話 を きいた。",
+      "imagePrompt": "Everyone gathers around the couple, listening to their travel stories. They heard the couple's story! The couple gestures as they describe their journey. Group listening to the couple. Medium shot, eye-level. Warm engaged lamplight, storytelling mood.",
+      "readings": [
+        {
+          "surface": "夫婦",
+          "reading": "ふうふ"
+        },
+        {
+          "surface": "話",
+          "reading": "はなし"
+        }
+      ]
+    },
+    {
+      "id": "ch36-05",
+      "japanese": "ママ は 優しい。",
+      "imagePrompt": "Mama brings more tea and pastries for the visitors. Mama is kind! She makes everyone comfortable. Her smile is warm and genuine. Mama serving tea. Medium shot, eye-level. Warm caring lamplight, maternal hospitality mood.",
+      "readings": [
+        {
+          "surface": "優しい",
+          "reading": "やさしい"
+        }
+      ]
+    },
+    {
+      "id": "ch36-06",
+      "japanese": "優しい ひと だ。",
+      "imagePrompt": "Moomintroll watches Mama care for the visitors and smiles. A kind person! Her warmth makes the house feel safe. A kind person. Moomintroll watching Mama warmly. Medium close-up, eye-level. Warm admiring light, appreciating kindness mood.",
+      "readings": [
+        {
+          "surface": "優しい",
+          "reading": "やさしい"
+        }
+      ]
+    },
+    {
+      "id": "ch36-07",
+      "japanese": "秘密 を 聞き出す。",
+      "imagePrompt": "Moomintroll leans forward, trying to learn more about the couple's journey. Extracting the secret! His curiosity shows. The couple exchange a knowing look. Moomintroll leaning forward curiously. Medium shot, eye-level. Warm curious lamplight, extracting information mood.",
+      "readings": [
+        {
+          "surface": "秘密",
+          "reading": "ひみつ"
+        },
+        {
+          "surface": "聞き出す",
+          "reading": "ききだす"
+        }
+      ]
+    },
+    {
+      "id": "ch36-08",
+      "japanese": "聞き出した！",
+      "imagePrompt": "Moomintroll's eyes widen — he got the information! The couple let something slip. He sits back with a satisfied expression. Moomintroll with widened eyes. Medium close-up, eye-level. Warm triumphant light, successful extraction mood.",
+      "readings": [
+        {
+          "surface": "聞き出し",
+          "reading": "ききだし"
+        }
+      ]
+    },
+    {
+      "id": "ch36-09",
+      "japanese": "聞き出す の は 悪い。",
+      "imagePrompt": "Mama gently scolds Moomintroll. Prying is bad! You should not force people to tell secrets. Moomintroll looks down sheepishly. Mama scolding Moomintroll gently. Medium shot, eye-level. Warm corrective light, gentle reprimand mood.",
+      "readings": [
+        {
+          "surface": "聞き出す",
+          "reading": "ききだす"
+        },
+        {
+          "surface": "悪い",
+          "reading": "わるい"
+        }
+      ]
+    },
+    {
+      "id": "ch36-10",
+      "japanese": "中身 が ない。",
+      "imagePrompt": "The couple opens their travel bag to show something — but the inside is empty! No contents! They look surprised and dismayed. Empty travel bag. Empty travel bag shown. Medium close-up, eye-level. Warm surprised light, empty discovery mood.",
+      "readings": [
+        {
+          "surface": "中身",
+          "reading": "なかみ"
+        }
+      ]
+    },
+    {
+      "id": "ch36-11",
+      "japanese": "中身 を みせて。",
+      "imagePrompt": "Moomintroll asks to see the contents of another bag. Show the contents! The couple hesitates, then slowly opens it. Anticipation builds. Couple opening a bag. Medium shot, eye-level. Warm anticipatory light, requesting to see mood.",
+      "readings": [
+        {
+          "surface": "中身",
+          "reading": "なかみ"
+        }
+      ]
+    },
+    {
+      "id": "ch36-12",
+      "japanese": "この 中身 は 秘密 だ。",
+      "imagePrompt": "The couple covers the open bag quickly. This content is a secret! They smile mysteriously. Something special is inside. Couple covering the bag. Medium close-up, eye-level. Warm mysterious light, guarding a secret mood.",
+      "readings": [
+        {
+          "surface": "中身",
+          "reading": "なかみ"
+        },
+        {
+          "surface": "秘密",
+          "reading": "ひみつ"
+        }
+      ]
+    },
+    {
+      "id": "ch36-13",
+      "japanese": "邪魔 だ！",
+      "imagePrompt": "Sniff bumps into the tea table while trying to peek at the bag. In the way! Tea cups rattle. Everyone turns to look at him. Sniff bumping the tea table. Medium shot, eye-level. Warm startled light, clumsy disruption mood.",
+      "readings": [
+        {
+          "surface": "邪魔",
+          "reading": "じゃま"
+        }
+      ]
+    },
+    {
+      "id": "ch36-14",
+      "japanese": "邪魔 を する な。",
+      "imagePrompt": "Papa tells Sniff not to interfere. Do not be a bother! Sniff shrinks back apologetically. The tea table is righted. Papa telling off Sniff. Medium shot, eye-level. Warm stern light, admonishing mood.",
+      "readings": [
+        {
+          "surface": "邪魔",
+          "reading": "じゃま"
+        }
+      ]
+    },
+    {
+      "id": "ch36-15",
+      "japanese": "邪魔 に なる。",
+      "imagePrompt": "Sniff sits in the corner, pouting. He became a hindrance! But he cannot help his curiosity. He eyes the mysterious bag. Sniff pouting in the corner. Medium shot, eye-level. Warm sulky light, sidelined mood.",
+      "readings": [
+        {
+          "surface": "邪魔",
+          "reading": "じゃま"
+        }
+      ]
+    },
+    {
+      "id": "ch36-16",
+      "japanese": "気持ち が いい ね。",
+      "imagePrompt": "The living room is warm and peaceful now. The feeling is good! Tea steam rises, lamplight glows, and conversation flows. Everyone is relaxed. Cozy living room scene. Medium-wide shot, eye-level. Warm peaceful lamplight, comfortable mood.",
+      "readings": [
+        {
+          "surface": "気持ち",
+          "reading": "きもち"
+        }
+      ]
+    },
+    {
+      "id": "ch36-17",
+      "japanese": "この 気持ち は 楽しい。",
+      "imagePrompt": "Moomintroll sits contentedly among friends and visitors. This feeling is fun! The warmth of company fills him. He smiles broadly. Contented Moomintroll in company. Medium close-up, eye-level. Warm joyful light, enjoying togetherness mood.",
+      "readings": [
+        {
+          "surface": "気持ち",
+          "reading": "きもち"
+        },
+        {
+          "surface": "楽しい",
+          "reading": "たのしい"
+        }
+      ]
+    },
+    {
+      "id": "ch36-18",
+      "japanese": "気持ち を はなした。",
+      "imagePrompt": "The couple shares their feelings about their long journey. They spoke of their feelings! Their expressions are sincere and vulnerable. Everyone listens quietly. Couple sharing feelings. Medium shot, eye-level. Warm intimate lamplight, sharing emotions mood.",
+      "readings": [
+        {
+          "surface": "気持ち",
+          "reading": "きもち"
+        }
+      ]
+    },
+    {
+      "id": "ch36-19",
+      "japanese": "えーと、なに だった？",
+      "imagePrompt": "Sniff tries to remember something and hesitates. Umm, what was it? He scratches his head. The word is on the tip of his tongue. Sniff scratching his head. Medium close-up, eye-level. Warm hesitant light, trying-to-remember mood.",
+      "readings": []
+    },
+    {
+      "id": "ch36-20",
+      "japanese": "えーと… あれ だ。",
+      "imagePrompt": "Sniff snaps his fingers — he remembered! Umm... that is it! His face lights up with the recollection. Sniff snapping his fingers. Medium close-up, eye-level. Warm eureka light, sudden recall mood.",
+      "readings": []
+    },
+    {
+      "id": "ch36-21",
+      "japanese": "「えーと、ここ に あった。」 と スニフ が 言った。",
+      "imagePrompt": "Sniff points at a spot on the shelf — he found what he was looking for. Umm, it was here! A small box sits where he points. Sniff pointing at a shelf. Medium shot, eye-level. Warm discovering light, located-it mood.",
+      "readings": [
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch36-22",
+      "japanese": "みんな に はなした。",
+      "imagePrompt": "The couple stands and addresses everyone in the room. They told everyone! An important announcement. All faces turn toward them. Couple addressing the room. Medium shot, eye-level. Warm announcement light, sharing-with-all mood.",
+      "readings": []
+    },
+    {
+      "id": "ch36-23",
+      "japanese": "はなす の が 楽しい ね。",
+      "imagePrompt": "The evening passes in warm conversation. Talking is fun! Laughter and stories fill the cozy living room. The lamplight flickers gently. Warm conversation scene. Medium-wide shot, eye-level. Warm golden evening light, enjoying conversation mood.",
+      "readings": [
+        {
+          "surface": "楽しい",
+          "reading": "たのしい"
+        }
+      ]
+    },
+    {
+      "id": "ch36-24",
+      "japanese": "はなして！",
+      "imagePrompt": "Moomintroll eagerly asks the couple to tell more stories. Talk! Tell us more! His eyes are wide with anticipation. He leans forward eagerly. Moomintroll eagerly requesting more stories. Medium close-up, eye-level. Warm eager light, wanting-more mood.",
+      "readings": []
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 24,
+      "newLemmaUsage": {
+        "えーと": 3,
+        "はなす": 4,
+        "中身": 3,
+        "優しい": 3,
+        "夫婦": 3,
+        "気持ち": 3,
+        "聞き出す": 3,
+        "邪魔": 3
+      }
+    }
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "chapter": 11,
+  "title": "あそぶ",
+  "grammarStep": 7,
+  "grammarName": "Sentence particles: ね / よ",
+  "scene": {
+    "location": "ムーミンやしきとにわ",
+    "description": "Moomin house and garden on a warm afternoon. Characters playing hide-and-seek. Trees, bushes, and the house provide hiding spots. Mimura is visiting.",
+    "characters": [
+      "ムーミン",
+      "ミムラ",
+      "スニフ",
+      "ニンニ"
+    ],
+    "props": [
+      "家",
+      "き"
+    ]
+  },
+  "newLemmas": [
+    "こと",
+    "さん",
+    "よう",
+    "なか",
+    "はやい",
+    "目",
+    "変わる",
+    "あそぶ"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あそこ",
+    "あそぶ",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いえ",
+    "いく",
+    "いや",
+    "いる",
+    "うみ",
+    "うん",
+    "ええ",
+    "お",
+    "おい",
+    "おく",
+    "おもう",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "くる",
+    "くん",
+    "けど",
+    "けれど",
+    "ここ",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さがす",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しる",
+    "じゃ",
+    "すがた",
+    "する",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たち",
+    "たべる",
+    "だ",
+    "だいじょうぶ",
+    "だけ",
+    "だれ",
+    "ちゃん",
+    "ちょっと",
+    "って",
+    "つ",
+    "つくる",
+    "で",
+    "でる",
+    "と",
+    "ところ",
+    "どう",
+    "どこ",
+    "な",
+    "ない",
+    "なか",
+    "なに",
+    "なる",
+    "に",
+    "ね",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はいる",
+    "はやい",
+    "ひと",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まつ",
+    "まで",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もつ",
+    "もの",
+    "やま",
+    "やる",
+    "よ",
+    "よう",
+    "よし",
+    "ら",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ムーミン",
+    "モラン",
+    "・",
+    "一",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "変わる",
+    "奴",
+    "目",
+    "見える",
+    "話",
+    "非",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch11-01",
+      "japanese": "今日 は みんな で あそぶ。",
+      "imagePrompt": "Moomin house garden on a warm afternoon, Moomintroll stands on the grass calling out to friends with arms wide. Garden trees and bushes as hiding spots. Medium shot, eye-level. Bright warm afternoon sun, inviting playful mood.",
+      "readings": [
+        {
+          "surface": "今日",
+          "reading": "きょう"
+        }
+      ]
+    },
+    {
+      "id": "ch11-02",
+      "japanese": "あそぶ よ！",
+      "imagePrompt": "Moomintroll jumps excitedly in the garden, one arm raised announcing the game. Bushes and the Moomin house behind him. Medium close-up, eye-level. Bright cheerful sunlight, eager announcement mood.",
+      "readings": []
+    },
+    {
+      "id": "ch11-03",
+      "japanese": "スニフ さん！",
+      "imagePrompt": "Moomintroll calls toward Sniff who peeks from behind a garden bush. Sniff's ears visible above the green leaves. Medium shot, eye-level. Dappled afternoon light through leaves, friendly calling mood.",
+      "readings": []
+    },
+    {
+      "id": "ch11-04",
+      "japanese": "ニンニ さん も あそぶ ね。",
+      "imagePrompt": "Ninny's faint outline stands near Moomintroll in the garden, nodding shyly. Moomintroll gestures welcomingly. Faint shimmer where Ninny stands. Medium two-shot, eye-level. Soft warm afternoon light, gentle inclusion mood.",
+      "readings": []
+    },
+    {
+      "id": "ch11-05",
+      "japanese": "スナフキン さん は どう？",
+      "imagePrompt": "Moomintroll looks toward Snufkin who sits under a tree with his fishing hat, considering whether to join. Guitar beside him on the grass. Medium shot, eye-level. Dappled shade under tree, relaxed questioning mood.",
+      "readings": []
+    },
+    {
+      "id": "ch11-06",
+      "japanese": "うん、いい よ。",
+      "imagePrompt": "Snufkin nods with a gentle smile under the tree, setting his guitar aside. He stands up to join the game. Close-up of Snufkin nodding. Medium close-up, eye-level. Warm shade light, easy-going agreement mood.",
+      "readings": []
+    },
+    {
+      "id": "ch11-07",
+      "japanese": "よし、さがす！",
+      "imagePrompt": "Moomintroll covers his eyes with both hands, counting against a large tree trunk. Other characters scatter into the garden behind him. Moomintroll counting at the tree. Medium shot, eye-level. Bright afternoon light, game-starting excitement mood.",
+      "readings": []
+    },
+    {
+      "id": "ch11-08",
+      "japanese": "木 の なか に いる か？",
+      "imagePrompt": "Moomintroll peers into the hollow of a large garden tree, one hand on the bark. Dark hole in the trunk, leaves above. Moomintroll searching a tree hollow. Medium shot, slightly low angle. Dappled green light, curious searching mood.",
+      "readings": [
+        {
+          "surface": "木",
+          "reading": "き"
+        }
+      ]
+    },
+    {
+      "id": "ch11-09",
+      "japanese": "ほら、なか を みる！",
+      "imagePrompt": "Moomintroll pulls back a bush to reveal the dark interior, leaning in to look. Leaves part to show shadows inside. Moomintroll parting bushes to look inside. Medium close-up, eye-level. Bright outside contrasting dark inside, discovery mood.",
+      "readings": []
+    },
+    {
+      "id": "ch11-10",
+      "japanese": "この なか に いる？",
+      "imagePrompt": "Moomintroll crouches beside a garden shed, peering through a crack in the wooden door. Afternoon light falls on the shed wall. Moomintroll at the shed door. Medium shot, eye-level. Warm wood tones with shadow, investigative mood.",
+      "readings": []
+    },
+    {
+      "id": "ch11-11",
+      "japanese": "ほら、目！",
+      "imagePrompt": "Close view of a bush where two gleaming eyes peer out from between dark leaves. Moomintroll points at them with surprise. Eyes glinting in the bush. Close-up, eye-level. Bright garden light contrasting shadowy bush interior, startled discovery mood.",
+      "readings": [
+        {
+          "surface": "目",
+          "reading": "め"
+        }
+      ]
+    },
+    {
+      "id": "ch11-12",
+      "japanese": "目 が 見えた！",
+      "imagePrompt": "Moomintroll jumps back with excitement, pointing at the bush where Sniff's eyes are now clearly visible among the leaves. Sniff caught hiding. Medium shot, eye-level. Bright cheerful afternoon light, triumphant finding mood.",
+      "readings": [
+        {
+          "surface": "目",
+          "reading": "め"
+        },
+        {
+          "surface": "見え",
+          "reading": "みえ"
+        }
+      ]
+    },
+    {
+      "id": "ch11-13",
+      "japanese": "はやい！",
+      "imagePrompt": "Sniff bursts from the bush and sprints across the garden, a blur of movement. Leaves scatter behind him. Sniff running fast through the garden. Medium-wide shot, eye-level. Bright action-filled afternoon light, sudden speed mood.",
+      "readings": []
+    },
+    {
+      "id": "ch11-14",
+      "japanese": "はやい よ！",
+      "imagePrompt": "Moomintroll chases after Sniff but falls behind, arms pumping. Sniff is already far ahead near the house. The chase across the garden. Medium-wide shot, eye-level. Bright dynamic afternoon light, breathless pursuit mood.",
+      "readings": []
+    },
+    {
+      "id": "ch11-15",
+      "japanese": "スニフ は はやい ね。",
+      "imagePrompt": "Moomintroll stands catching his breath, hands on knees, looking at Sniff who reached the safe tree first. Sniff grins triumphantly. Moomintroll out of breath, Sniff at the tree. Medium two-shot, eye-level. Warm afternoon light, admiring concession mood.",
+      "readings": []
+    },
+    {
+      "id": "ch11-16",
+      "japanese": "ちょっと 待つ！",
+      "imagePrompt": "Moomintroll calls out with one hand raised, still bent over catching his breath. Sniff pauses mid-stride and looks back. Moomintroll signaling to wait. Medium shot, eye-level. Bright afternoon light, playful protest mood.",
+      "readings": [
+        {
+          "surface": "待つ",
+          "reading": "まつ"
+        }
+      ]
+    },
+    {
+      "id": "ch11-17",
+      "japanese": "スニフ の 目 は いい ね。",
+      "imagePrompt": "Sniff stands tall and proud, his large round eyes sparkling. Moomintroll looks at him with respect. Sniff with bright alert eyes. Medium close-up, eye-level. Warm golden afternoon light, appreciative compliment mood.",
+      "readings": [
+        {
+          "surface": "目",
+          "reading": "め"
+        }
+      ]
+    },
+    {
+      "id": "ch11-18",
+      "japanese": "よう が 変わった！",
+      "imagePrompt": "The garden scene shifts as clouds pass over the sun, shadows moving across the lawn. The familiar garden looks different in changed light. Garden in shifting light. Wide shot, slightly elevated. Dramatic cloud-shadow light, surprising transformation mood.",
+      "readings": [
+        {
+          "surface": "変わっ",
+          "reading": "かわっ"
+        }
+      ]
+    },
+    {
+      "id": "ch11-19",
+      "japanese": "なに が 変わる？",
+      "imagePrompt": "Moomintroll looks around the garden with a puzzled expression, noticing the changed atmosphere. Trees cast longer shadows now. Moomintroll looking around confused. Medium shot, eye-level. Mixed sun-and-shadow afternoon light, questioning mood.",
+      "readings": [
+        {
+          "surface": "変わる",
+          "reading": "かわる"
+        }
+      ]
+    },
+    {
+      "id": "ch11-20",
+      "japanese": "ああ、変わった！",
+      "imagePrompt": "Snufkin points at the sky where clouds have parted again, sunlight streaming back. The garden brightens suddenly. Snufkin pointing up at clearing sky. Medium shot, eye-level. Bright returning sunlight, relieved recognition mood.",
+      "readings": [
+        {
+          "surface": "変わっ",
+          "reading": "かわっ"
+        }
+      ]
+    },
+    {
+      "id": "ch11-21",
+      "japanese": "いい こと だ。",
+      "imagePrompt": "Everyone gathers on the garden lawn, sitting in a circle, satisfied after the game. Warm smiles all around. Characters resting in a circle on the grass. Medium-wide shot, slightly elevated. Warm late-afternoon light, contented reflection mood.",
+      "readings": []
+    },
+    {
+      "id": "ch11-22",
+      "japanese": "そんな こと は ない よ。",
+      "imagePrompt": "Sniff shakes his head denying something, waving one hand dismissively while the others laugh. Playful disagreement in the group. Medium group shot, eye-level. Warm late-afternoon light, lighthearted denial mood.",
+      "readings": []
+    },
+    {
+      "id": "ch11-23",
+      "japanese": "いい こと が あった ね。",
+      "imagePrompt": "Moomintroll and Snufkin sit side by side on the grass, looking out at the garden as the sun lowers. Peaceful end to the game. Two friends resting in the garden. Medium shot, eye-level. Golden late-afternoon light, shared warm memory mood.",
+      "readings": []
+    },
+    {
+      "id": "ch11-24",
+      "japanese": "この よう に あそぶ ね。",
+      "imagePrompt": "All the characters walk back toward the Moomin house together, chatting happily. The garden stretches behind them with trampled grass from the game. Group walking home from the garden. Medium-wide shot, eye-level. Warm golden hour light, satisfied togetherness mood.",
+      "readings": []
+    },
+    {
+      "id": "ch11-25",
+      "japanese": "あの よう だ ね。",
+      "imagePrompt": "Final view of the garden at golden hour, the tree where they counted still visible, bushes where they hid, the shed door open. An empty peaceful garden after play. The garden at rest. Wide shot, slightly elevated. Deep golden sunset light, nostalgic gentle mood.",
+      "readings": []
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 25,
+      "newLemmaUsage": {
+        "あそぶ": 4,
+        "こと": 3,
+        "さん": 3,
+        "なか": 3,
+        "はやい": 3,
+        "よう": 3,
+        "変わる": 3,
+        "目": 3
+      }
+    }
+  }
+}

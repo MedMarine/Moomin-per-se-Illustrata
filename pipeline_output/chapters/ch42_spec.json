@@ -1,0 +1,788 @@
+{
+  "chapter": 42,
+  "title": "嵐 の 入り口",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "ムーミンやしきの中（嵐の夜）",
+    "description": "Inside the Moomin house during a thunderstorm. Lightning flashes through round windows.",
+    "characters": [
+      "ムーミン",
+      "パパ",
+      "ママ",
+      "スニフ"
+    ],
+    "props": [
+      "家"
+    ]
+  },
+  "newLemmas": [
+    "入り口",
+    "驚く",
+    "全く",
+    "よいしょ",
+    "持ち主",
+    "為",
+    "取り戻す",
+    "所為"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "あら",
+    "ありがとう",
+    "ある",
+    "あるく",
+    "あれ",
+    "い",
+    "いい",
+    "いいえ",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いっぱい",
+    "いつ",
+    "いや",
+    "いらっしゃる",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "えーと",
+    "お",
+    "おい",
+    "おお",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "およぐ",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こわす",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "すむ",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そう-伝聞",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たくさん",
+    "たち",
+    "たって",
+    "たつ",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちいさな",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とにかく",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なく",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はなす",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "やれ",
+    "ゆっくり",
+    "よ",
+    "よいしょ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "タール",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "ハート",
+    "パパ",
+    "パンケーキ",
+    "パーティー",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "上がる",
+    "上る",
+    "上陸",
+    "下",
+    "下さる",
+    "不",
+    "中身",
+    "事件",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "会う",
+    "伯母",
+    "信じる",
+    "修理",
+    "俺",
+    "優しい",
+    "兄",
+    "先",
+    "入り口",
+    "全く",
+    "出でる",
+    "出掛ける",
+    "出発",
+    "切手",
+    "別",
+    "利く",
+    "前",
+    "力",
+    "助ける",
+    "動く",
+    "勝手",
+    "化け物",
+    "危ない",
+    "友達",
+    "取り戻す",
+    "取る",
+    "嘘",
+    "回",
+    "図",
+    "地獄",
+    "場所",
+    "壊れる",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "大事",
+    "大変",
+    "天才",
+    "夫婦",
+    "奥",
+    "女王",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "実",
+    "客",
+    "少し",
+    "嵐",
+    "川",
+    "帆",
+    "度",
+    "張る",
+    "御覧",
+    "必要",
+    "忘れる",
+    "怒る",
+    "怖い",
+    "急ぐ",
+    "悪い",
+    "感じる",
+    "戻る",
+    "所為",
+    "手",
+    "手伝う",
+    "拾う",
+    "持ち主",
+    "捨てる",
+    "教える",
+    "日",
+    "明日",
+    "昨日",
+    "時間",
+    "書く",
+    "木苺",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次回",
+    "止める",
+    "此奴",
+    "毒",
+    "気圧",
+    "気持ち",
+    "水",
+    "波",
+    "洞穴",
+    "海岸",
+    "消える",
+    "済む",
+    "漕ぐ",
+    "潜る",
+    "濡れる",
+    "為",
+    "無くなる",
+    "王",
+    "珍しい",
+    "痛い",
+    "目",
+    "眠る",
+    "知れる",
+    "砂",
+    "確か",
+    "秒",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "結ぶ",
+    "絶対",
+    "考える",
+    "聞き出す",
+    "聞こえる",
+    "自信",
+    "自分",
+    "色",
+    "花",
+    "苛める",
+    "茶",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "設計",
+    "話",
+    "調子",
+    "起こる",
+    "足",
+    "辺",
+    "返す",
+    "追う",
+    "通り",
+    "連れる",
+    "違う",
+    "邪魔",
+    "部屋",
+    "鋸",
+    "間",
+    "降る",
+    "随分",
+    "隠す",
+    "隠れる",
+    "集める",
+    "雨",
+    "静か",
+    "非",
+    "面白い",
+    "頂く",
+    "頭",
+    "風",
+    "飛行",
+    "飾り",
+    "驚く",
+    "髪の毛",
+    "鬼",
+    "鼾",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch42-01",
+      "japanese": "入り口 から 風 が はいった。",
+      "imagePrompt": "Inside the Moomin house during a thunderstorm. Wind bursts through the front entrance. Wind came in from the entrance! Curtains billow. Lightning flashes through the round windows. Wind through the entrance. Medium shot, eye-level. Dramatic lightning flash, wind intrusion mood.",
+      "readings": [
+        {
+          "surface": "入り口",
+          "reading": "いりぐち"
+        },
+        {
+          "surface": "風",
+          "reading": "かぜ"
+        }
+      ]
+    },
+    {
+      "id": "ch42-02",
+      "japanese": "あの 入り口 は おおきい。",
+      "imagePrompt": "Papa pushes hard against the door to close it. Closed the entrance! The wind howls against it. Rain sprays through the gap before it shuts. Papa closing the door. Medium shot, eye-level. Dark stormy flash, battling the storm mood.",
+      "readings": [
+        {
+          "surface": "入り口",
+          "reading": "いりぐち"
+        }
+      ]
+    },
+    {
+      "id": "ch42-03",
+      "japanese": "入り口 に いた。",
+      "imagePrompt": "Everyone huddles near the closed entrance, listening to the storm outside. They were by the entrance! The door shakes with each gust. Rain hammers against it. Group by the door. Medium shot, eye-level. Dim trembling storm light, sheltering mood.",
+      "readings": [
+        {
+          "surface": "入り口",
+          "reading": "いりぐち"
+        }
+      ]
+    },
+    {
+      "id": "ch42-04",
+      "japanese": "驚いた！",
+      "imagePrompt": "A massive crack of thunder shakes the entire house. Startled! Everyone jumps. A dish falls from the shelf and shatters on the floor. Lightning fills every window. Everyone jumping in shock. Medium shot, eye-level. Blinding lightning flash, shock mood.",
+      "readings": [
+        {
+          "surface": "驚い",
+          "reading": "おどろい"
+        }
+      ]
+    },
+    {
+      "id": "ch42-05",
+      "japanese": "みんな が 驚いた。",
+      "imagePrompt": "The group stands frozen after the thunderclap. Everyone was startled! Eyes wide, hands over ears. The house creaks around them. Group frozen in alarm. Medium shot, eye-level. Aftermath dim light, collective shock mood.",
+      "readings": [
+        {
+          "surface": "驚い",
+          "reading": "おどろい"
+        }
+      ]
+    },
+    {
+      "id": "ch42-06",
+      "japanese": "驚く こと が ある。",
+      "imagePrompt": "Snufkin speaks calmly over the next rumble. Being startled is natural! He sits by the fireplace, unfazed. His calm steadies the room. Snufkin sitting calmly. Medium shot, eye-level. Warm firelight vs storm flash, calming voice mood.",
+      "readings": [
+        {
+          "surface": "驚く",
+          "reading": "おどろく"
+        }
+      ]
+    },
+    {
+      "id": "ch42-07",
+      "japanese": "全く だめ だ。",
+      "imagePrompt": "The storm worsens. Completely no good! Water begins seeping under the door. The fire sputters in the hearth, casting flickering orange light. Puddles form on the floor. Water seeping under door. Medium shot, eye-level. Flickering firelight with lightning flashes through the windows, worsening mood.",
+      "readings": [
+        {
+          "surface": "全く",
+          "reading": "まったく"
+        }
+      ]
+    },
+    {
+      "id": "ch42-08",
+      "japanese": "全く わからない。",
+      "imagePrompt": "Papa scratches his head looking at the leaking spots, firelight flickering on his puzzled face. I do not understand at all! Water comes in from three places at once. He is at a loss. Papa confused by leaks. Medium shot, eye-level. Warm firelight on Papa's face with storm-grey behind, confusion mood.",
+      "readings": [
+        {
+          "surface": "全く",
+          "reading": "まったく"
+        }
+      ]
+    },
+    {
+      "id": "ch42-09",
+      "japanese": "嵐 は 全く すごい ね。",
+      "imagePrompt": "A lightning bolt reveals the garden outside — trees bent double, waves of rain. The storm is utterly amazing! Its power is beyond anything they have seen. Storm-ravaged garden. Medium-wide shot, eye-level. Brilliant lightning reveal, awe at nature mood.",
+      "readings": [
+        {
+          "surface": "嵐",
+          "reading": "あらし"
+        },
+        {
+          "surface": "全く",
+          "reading": "まったく"
+        }
+      ]
+    },
+    {
+      "id": "ch42-10",
+      "japanese": "よいしょ！",
+      "imagePrompt": "Papa heaves a heavy chest against the leaking door. Heave-ho! His muscles strain. The chest scrapes across the floor with a grinding sound. Papa pushing heavy chest. Medium shot, eye-level. Dim exertion firelight, physical effort mood.",
+      "readings": []
+    },
+    {
+      "id": "ch42-11",
+      "japanese": "「よいしょ！」 と パパ が 言った。",
+      "imagePrompt": "Papa calls out again as Moomintroll helps push. Heave-ho says Papa! The two push together. The chest slides into place, blocking the draft. Papa and Moomintroll pushing together. Medium shot, eye-level. Warm teamwork firelight, joint effort mood.",
+      "readings": [
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch42-12",
+      "japanese": "よいしょ、よいしょ！",
+      "imagePrompt": "Everyone joins in pushing furniture against the walls to block leaks. Heave-ho, heave-ho! Multiple voices chanting together. Chairs and tables slide across the floor. Group moving furniture. Medium shot, eye-level. Active warm firelight, collective labor mood.",
+      "readings": []
+    },
+    {
+      "id": "ch42-13",
+      "japanese": "これ の 持ち主 は だれ？",
+      "imagePrompt": "Among the moved furniture, an unfamiliar hat falls to the floor. Who is the owner of this? Nobody recognizes it. It must have been left by a visitor. Strange hat on the floor. Medium close-up, eye-level. Curious dim firelight, mystery discovery mood.",
+      "readings": [
+        {
+          "surface": "持ち主",
+          "reading": "もちぬし"
+        }
+      ]
+    },
+    {
+      "id": "ch42-14",
+      "japanese": "持ち主 が いない。",
+      "imagePrompt": "Everyone looks at each other — no one claims the hat. There is no owner! The hat sits unclaimed on the floor. A mystery during the storm. Unclaimed hat among the group. Medium shot, eye-level. Dim puzzled firelight, ownerless mystery mood.",
+      "readings": [
+        {
+          "surface": "持ち主",
+          "reading": "もちぬし"
+        }
+      ]
+    },
+    {
+      "id": "ch42-15",
+      "japanese": "持ち主 を さがす。",
+      "imagePrompt": "Moomintroll picks up the hat carefully. We will look for the owner! He examines it for clues. The storm rages outside but inside there is a mystery. Moomintroll examining the hat. Medium close-up, eye-level. Warm detective firelight, investigation mood.",
+      "readings": [
+        {
+          "surface": "持ち主",
+          "reading": "もちぬし"
+        }
+      ]
+    },
+    {
+      "id": "ch42-16",
+      "japanese": "みんな の 為 に やった。",
+      "imagePrompt": "Mama brings warm blankets for everyone shivering from the cold drafts. She did it for everyone's sake! Her kindness warms the room more than the fire. Mama distributing blankets. Medium shot, eye-level. Warm nurturing firelight, selfless kindness mood.",
+      "readings": [
+        {
+          "surface": "為",
+          "reading": "ため"
+        }
+      ]
+    },
+    {
+      "id": "ch42-17",
+      "japanese": "友達 の 為 に する。",
+      "imagePrompt": "Snufkin offers his dry scarf to Sniff who is trembling. I do it for my friend's sake! A simple act of friendship during the storm. Snufkin giving his scarf. Medium shot, eye-level. Warm friendship firelight, generous gesture mood.",
+      "readings": [
+        {
+          "surface": "友達",
+          "reading": "ともだち"
+        },
+        {
+          "surface": "為",
+          "reading": "ため"
+        }
+      ]
+    },
+    {
+      "id": "ch42-18",
+      "japanese": "為 に なる こと を した。",
+      "imagePrompt": "Moomintroll seals a window crack with cloth, stopping a leak. He did something helpful! Water stops dripping. Everyone cheers quietly. Moomintroll fixing a window leak. Medium shot, eye-level. Satisfied warm firelight, helpful accomplishment mood.",
+      "readings": [
+        {
+          "surface": "為",
+          "reading": "ため"
+        }
+      ]
+    },
+    {
+      "id": "ch42-19",
+      "japanese": "風 が 帽子 を とった。",
+      "imagePrompt": "A sudden gust rips Papa's hat from his head through a window crack. The wind took the hat! It flies into the stormy night. Papa reaches after it helplessly. Hat flying into the storm. Medium shot, eye-level. Dark dramatic storm flash, sudden loss mood.",
+      "readings": [
+        {
+          "surface": "風",
+          "reading": "かぜ"
+        },
+        {
+          "surface": "帽子",
+          "reading": "ぼうし"
+        }
+      ]
+    },
+    {
+      "id": "ch42-20",
+      "japanese": "取り戻す！",
+      "imagePrompt": "Papa declares he will retrieve his beloved hat. I will get it back! His face is determined. The storm roars outside but his hat is out there. Papa with determined face. Medium close-up, eye-level. Firm brave firelight, resolve mood.",
+      "readings": [
+        {
+          "surface": "取り戻す",
+          "reading": "とりもどす"
+        }
+      ]
+    },
+    {
+      "id": "ch42-21",
+      "japanese": "帽子 を 取り戻した。",
+      "imagePrompt": "Papa returns from outside, soaking wet but triumphant, hat in hand. He got the hat back! Water drips everywhere but he grins. Everyone cheers. Papa dripping wet with hat. Medium shot, eye-level. Warm celebratory firelight, triumphant return mood.",
+      "readings": [
+        {
+          "surface": "帽子",
+          "reading": "ぼうし"
+        },
+        {
+          "surface": "取り戻し",
+          "reading": "とりもどし"
+        }
+      ]
+    },
+    {
+      "id": "ch42-22",
+      "japanese": "取り戻す の は 大変 だった。",
+      "imagePrompt": "Papa collapses into a chair, exhausted. Getting it back was terrible work! He is soaked from head to tail. But the hat sits safely on his head again. Papa exhausted in chair. Medium shot, eye-level. Warm relieved firelight, exhausted triumph mood.",
+      "readings": [
+        {
+          "surface": "取り戻す",
+          "reading": "とりもどす"
+        },
+        {
+          "surface": "大変",
+          "reading": "たいへん"
+        }
+      ]
+    },
+    {
+      "id": "ch42-23",
+      "japanese": "嵐 の 所為 だ。",
+      "imagePrompt": "The group surveys the mess of water and moved furniture. It is the storm's fault! Puddles on the floor, furniture piled against walls. But everyone is safe. Messy room aftermath. Medium-wide shot, eye-level. Calm dim post-storm light, blaming the weather mood.",
+      "readings": [
+        {
+          "surface": "嵐",
+          "reading": "あらし"
+        },
+        {
+          "surface": "所為",
+          "reading": "せい"
+        }
+      ]
+    },
+    {
+      "id": "ch42-24",
+      "japanese": "全く スニフ の 所為 だ。",
+      "imagePrompt": "Little My points at Sniff who left a window open earlier. Completely Sniff's fault! Sniff protests but the open window was his doing. My points accusingly. My blaming Sniff. Medium shot, eye-level. Sharp accusatory firelight, blame game mood.",
+      "readings": [
+        {
+          "surface": "全く",
+          "reading": "まったく"
+        },
+        {
+          "surface": "所為",
+          "reading": "せい"
+        }
+      ]
+    },
+    {
+      "id": "ch42-25",
+      "japanese": "ぼく の 所為 で は ない。",
+      "imagePrompt": "Sniff waves his hands defensively. It is not my fault! His voice cracks. But everyone remembers he opened the window to cool down. Sniff defending himself. Medium shot, eye-level. Defensive dim firelight, denial mood.",
+      "readings": [
+        {
+          "surface": "所為",
+          "reading": "せい"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 25,
+      "newLemmaUsage": {
+        "よいしょ": 4,
+        "入り口": 3,
+        "全く": 4,
+        "取り戻す": 3,
+        "所為": 3,
+        "持ち主": 3,
+        "為": 3,
+        "驚く": 3
+      }
+    }
+  }
+}

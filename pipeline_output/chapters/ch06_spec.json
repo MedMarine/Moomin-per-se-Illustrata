@@ -1,0 +1,380 @@
+{
+  "chapter": 6,
+  "title": "貝殻 が あった！",
+  "grammarStep": 4,
+  "grammarName": "は vs が contrast",
+  "scene": {
+    "location": "海のそば",
+    "description": "Sandy shore near the sea. Shells scattered on the beach. Waves. Mountains visible in the background. A dark silhouette (the Groke) far away.",
+    "characters": [
+      "ムーミン",
+      "スニフ",
+      "フローレン"
+    ],
+    "props": [
+      "貝殻",
+      "海"
+    ]
+  },
+  "newLemmas": [
+    "もつ",
+    "スナフキン",
+    "ああ",
+    "モラン",
+    "もう",
+    "見える",
+    "わかる",
+    "かいがら"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あそこ",
+    "あなた",
+    "あの",
+    "ある",
+    "あれ",
+    "いい",
+    "いえ",
+    "いく",
+    "いる",
+    "うみ",
+    "お",
+    "か",
+    "かいがら",
+    "から",
+    "が",
+    "き",
+    "くる",
+    "くん",
+    "けど",
+    "けれど",
+    "ここ",
+    "この",
+    "これ",
+    "ご",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "じゃ",
+    "する",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "た",
+    "たち",
+    "たべる",
+    "だ",
+    "だけ",
+    "だれ",
+    "ちゃん",
+    "って",
+    "つ",
+    "で",
+    "でる",
+    "と",
+    "どう",
+    "どこ",
+    "な",
+    "ない",
+    "なに",
+    "なる",
+    "に",
+    "ね",
+    "の",
+    "のむ",
+    "は",
+    "はいる",
+    "ひと",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まで",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もつ",
+    "もの",
+    "やま",
+    "やる",
+    "よ",
+    "よう",
+    "ら",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ムーミン",
+    "モラン",
+    "・",
+    "不",
+    "二",
+    "見える",
+    "非",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch06-01",
+      "japanese": "貝殻 が あった！",
+      "imagePrompt": "Sandy beach at low tide, Moomintroll bends down and spots a beautiful iridescent shell half-buried in wet sand. His eyes go wide. Shell discovered in wet sand. Close-up of the shell and Moomintroll's hand, slightly elevated. Bright coastal morning light, excited discovery mood.",
+      "readings": [
+        {
+          "surface": "貝殻",
+          "reading": "かいがら"
+        }
+      ]
+    },
+    {
+      "id": "ch06-02",
+      "japanese": "この 貝殻 は いい！",
+      "imagePrompt": "Moomintroll holds the shell up to the sunlight, examining its spiral pattern and rainbow colors. He grins broadly. Moomintroll admiring the shell in sunlight. Medium close-up, eye-level. Bright light refracting through the shell, appreciative admiration mood.",
+      "readings": [
+        {
+          "surface": "貝殻",
+          "reading": "かいがら"
+        }
+      ]
+    },
+    {
+      "id": "ch06-03",
+      "japanese": "もう 貝殻 が あった！",
+      "imagePrompt": "A few steps further on the beach, another shell appears in the sand. Then another. Moomintroll runs between them collecting. More shells appearing along the beach. Medium shot, eye-level along the beach. Bright warm coastal light, increasing excitement mood.",
+      "readings": [
+        {
+          "surface": "貝殻",
+          "reading": "かいがら"
+        }
+      ]
+    },
+    {
+      "id": "ch06-04",
+      "japanese": "ああ、いい 貝殻 だ。",
+      "imagePrompt": "Moomintroll sits on the beach with a small pile of shells before him, sorting through them with wonder. Each one is unique and beautiful. Moomintroll sorting a shell collection on the sand. Medium shot, slightly elevated. Warm morning beach light, contented wonder mood.",
+      "readings": [
+        {
+          "surface": "貝殻",
+          "reading": "かいがら"
+        }
+      ]
+    },
+    {
+      "id": "ch06-05",
+      "japanese": "人 が 見えた！",
+      "imagePrompt": "Moomintroll stands on the beach and shields his eyes. In the distance along the shore, a figure walks toward them playing a mouth organ. Distant figure on the beach. Medium-wide shot, eye-level. Bright hazy beach light, curious spotting mood.",
+      "readings": [
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "見え",
+          "reading": "みえ"
+        }
+      ]
+    },
+    {
+      "id": "ch06-06",
+      "japanese": "あの 人 は だれ だ？",
+      "imagePrompt": "Moomintroll squints at the approaching figure on the beach, still too far to identify. Waves break between them. The still-distant figure on the shore. Medium shot, eye-level. Bright glaring coastal light, questioning identity mood.",
+      "readings": [
+        {
+          "surface": "人",
+          "reading": "ひと"
+        }
+      ]
+    },
+    {
+      "id": "ch06-07",
+      "japanese": "スナフキン だ！",
+      "imagePrompt": "The figure is close enough to see now — green hat, travelling coat, harmonica. It is Snufkin. Moomintroll waves excitedly. Snufkin recognized on the beach approach. Medium shot, eye-level. Warm beach light, joyful recognition mood.",
+      "readings": []
+    },
+    {
+      "id": "ch06-08",
+      "japanese": "スナフキン は いい 人 だ ね。",
+      "imagePrompt": "Snufkin and Moomintroll sit together on a beach log, Snufkin playing his harmonica while Moomintroll listens. The sea behind them. Snufkin playing harmonica on the beach. Medium two-shot, eye-level. Warm golden beach light, admiring friendship mood.",
+      "readings": [
+        {
+          "surface": "人",
+          "reading": "ひと"
+        }
+      ]
+    },
+    {
+      "id": "ch06-09",
+      "japanese": "貝殻 を もつ。",
+      "imagePrompt": "Moomintroll extends his hands full of shells toward Snufkin, offering to share his collection. Shells overflow from his small hands. Moomintroll holding out shells to Snufkin. Close-up of hands with shells, eye-level. Warm coastal light on iridescent shells, generous sharing mood.",
+      "readings": [
+        {
+          "surface": "貝殻",
+          "reading": "かいがら"
+        }
+      ]
+    },
+    {
+      "id": "ch06-10",
+      "japanese": "スニフ も もつ。",
+      "imagePrompt": "Sniff has arrived at the beach and is cramming shells into his pockets and bag, grabbing as many as he can. His cheeks puff with effort. Sniff stuffing shells in his pockets. Medium shot, eye-level. Bright beach light, greedy comedic collecting mood.",
+      "readings": []
+    },
+    {
+      "id": "ch06-11",
+      "japanese": "もう ない。",
+      "imagePrompt": "Sniff searches the sand but finds no more shells in this stretch of beach. His shoulders slump in disappointment. Empty sand. Sniff searching empty sand. Medium shot, slightly elevated. Flat midday beach light, disappointed emptiness mood.",
+      "readings": []
+    },
+    {
+      "id": "ch06-12",
+      "japanese": "もう、もつ！",
+      "imagePrompt": "Moomintroll clutches his shell collection tightly to his chest, not wanting to lose any. He hugs the pile protectively. Moomintroll clutching shells protectively. Medium close-up, eye-level. Warm beach light, protective holding mood.",
+      "readings": []
+    },
+    {
+      "id": "ch06-13",
+      "japanese": "なに が 見える？",
+      "imagePrompt": "Snufkin stands and looks down the beach, hand shading his eyes. Something dark and large looms far down the shore. A dark shape at the far end of the beach. Medium-wide shot, eye-level. Suddenly cooler beach light, uneasy questioning mood.",
+      "readings": [
+        {
+          "surface": "見える",
+          "reading": "みえる"
+        }
+      ]
+    },
+    {
+      "id": "ch06-14",
+      "japanese": "モラン が いた！",
+      "imagePrompt": "The dark shape resolves into the Groke — huge, cold, dark. She sits on the rocks at the far end of the beach. Ice forms around her. The Groke on distant beach rocks. Wide shot, eye-level. Cold blue-grey light around the Groke, frightened discovery mood.",
+      "readings": []
+    },
+    {
+      "id": "ch06-15",
+      "japanese": "モラン は あそこ に いる。",
+      "imagePrompt": "Snufkin points calmly at the Groke in the distance. She is far away and not moving. The sand near her has frosted over. Snufkin pointing at the distant Groke. Medium shot, eye-level. Mixed warm and cold light, cautious identification mood.",
+      "readings": []
+    },
+    {
+      "id": "ch06-16",
+      "japanese": "わかる？モラン だ。",
+      "imagePrompt": "Moomintroll looks between Snufkin and the distant Groke, understanding dawning on his face. Sniff hides behind Moomintroll. Understanding the Groke from a safe distance. Medium shot, eye-level. Shifting coastal light, dawning comprehension mood.",
+      "readings": []
+    },
+    {
+      "id": "ch06-17",
+      "japanese": "わかった。ああ。",
+      "imagePrompt": "Moomintroll nods seriously with a sigh, then turns back to his shell collection with determination. The Groke remains far and still. Moomintroll returning to his shells. Medium shot, eye-level. Warm beach light returning, resolved acceptance mood.",
+      "readings": []
+    },
+    {
+      "id": "ch06-18",
+      "japanese": "山 が 見える。",
+      "imagePrompt": "From the beach, the valley mountains are visible beyond the shore. Soft purple peaks against blue sky. Moomintroll points them out. Mountains visible from the beach. Wide shot, eye-level. Clear afternoon light, expansive perspective mood.",
+      "readings": [
+        {
+          "surface": "山",
+          "reading": "やま"
+        },
+        {
+          "surface": "見える",
+          "reading": "みえる"
+        }
+      ]
+    },
+    {
+      "id": "ch06-19",
+      "japanese": "島 も 見える。",
+      "imagePrompt": "Offshore, a small island dots the horizon. Moomintroll points at it too — the same island from chapter 2. An island visible from the beach shore. Wide shot, eye-level. Bright afternoon light on the sea, recognizing familiar places mood.",
+      "readings": [
+        {
+          "surface": "島",
+          "reading": "しま"
+        },
+        {
+          "surface": "見える",
+          "reading": "みえる"
+        }
+      ]
+    },
+    {
+      "id": "ch06-20",
+      "japanese": "ああ、いい 海 だ。",
+      "imagePrompt": "Moomintroll, Snufkin, and Sniff sit together on the beach as the sun begins to set. Shells beside them, sea before them. Friends on the beach at sunset. Medium-wide shot, eye-level. Golden sunset beach light, contented appreciation mood.",
+      "readings": [
+        {
+          "surface": "海",
+          "reading": "うみ"
+        }
+      ]
+    },
+    {
+      "id": "ch06-21",
+      "japanese": "貝殻 は いい もの だ ね。",
+      "imagePrompt": "Close view of the shell collection spread on a flat rock. Each shell is unique — spiral, flat, spotted, iridescent. Beautiful in the evening light. Shell collection on a rock at sunset. Close-up, slightly elevated. Warm golden sunset light, treasuring objects mood.",
+      "readings": [
+        {
+          "surface": "貝殻",
+          "reading": "かいがら"
+        }
+      ]
+    },
+    {
+      "id": "ch06-22",
+      "japanese": "スナフキン は もう いない。",
+      "imagePrompt": "Moomintroll stands on the beach looking at the empty spot where Snufkin was sitting. The beach stretches away with only footprints in the sand. Snufkin's harmonica melody lingers in the air. Moomintroll alone on the beach with footprints. Medium shot, eye-level. Warm sunset light on Moomintroll's face, bittersweet absence mood.",
+      "readings": []
+    },
+    {
+      "id": "ch06-23",
+      "japanese": "スナフキン が いた。ここ に いた。",
+      "imagePrompt": "Moomintroll looks at the empty spot on the log where Snufkin sat, then down at a shell Snufkin left behind for him. The empty log with a shell left behind. Medium shot, eye-level. Warm late sunset light, reflective memory mood.",
+      "readings": []
+    },
+    {
+      "id": "ch06-24",
+      "japanese": "もう いい。わかる？",
+      "imagePrompt": "Moomintroll picks up his shells and looks at Sniff. The last light fades over the sea. Time to head home. Moomintroll ready to leave the beach at dusk. Medium two-shot, eye-level. Fading dusk light, gentle conclusion mood.",
+      "readings": []
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 24,
+      "newLemmaUsage": {
+        "ああ": 3,
+        "かいがら": 6,
+        "もう": 5,
+        "もつ": 3,
+        "わかる": 3,
+        "スナフキン": 4,
+        "モラン": 3,
+        "見える": 4
+      }
+    }
+  }
+}

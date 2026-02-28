@@ -1,0 +1,470 @@
+{
+  "chapter": 14,
+  "title": "たに",
+  "grammarStep": 9,
+  "grammarName": "い-adjectives",
+  "scene": {
+    "location": "ムーミン谷のたに",
+    "description": "Walking through the valley. Trees line the path, river visible below. Characters walking together in a group.",
+    "characters": [
+      "ムーミン",
+      "スナフキン",
+      "フローレン",
+      "ニンニ"
+    ],
+    "props": [
+      "き",
+      "船"
+    ]
+  },
+  "newLemmas": [
+    "楽しい",
+    "止める",
+    "度",
+    "下さる",
+    "にょろにょろ",
+    "違う",
+    "みたい",
+    "たに"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いえ",
+    "いく",
+    "いっか",
+    "いや",
+    "いる",
+    "うみ",
+    "うん",
+    "ええ",
+    "お",
+    "おい",
+    "おく",
+    "おまえ",
+    "おもう",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くる",
+    "くん",
+    "けど",
+    "けれど",
+    "ここ",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さがす",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しる",
+    "じゃ",
+    "すがた",
+    "する",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たち",
+    "たに",
+    "たべる",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だめ",
+    "だれ",
+    "ちゃん",
+    "ちょっと",
+    "って",
+    "つ",
+    "つくる",
+    "で",
+    "でも",
+    "でる",
+    "と",
+    "ところ",
+    "とても",
+    "どう",
+    "どこ",
+    "な",
+    "ない",
+    "なか",
+    "なに",
+    "なる",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はいる",
+    "はやい",
+    "ひと",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もつ",
+    "もの",
+    "やま",
+    "やる",
+    "よ",
+    "よう",
+    "よし",
+    "ら",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "スーツケース-suitcase",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "変わる",
+    "奴",
+    "子",
+    "度",
+    "楽しい",
+    "止める",
+    "目",
+    "絶対",
+    "見える",
+    "話",
+    "違う",
+    "隠れる",
+    "非",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch14-01",
+      "japanese": "谷 へ いく。",
+      "imagePrompt": "A wide green valley stretches before Moomintroll, a winding path leading down between tree-lined hills. River visible below. Moomintroll at the valley entrance. Medium-wide shot, eye-level. Bright morning light on green valley, inviting journey mood.",
+      "readings": [
+        {
+          "surface": "谷",
+          "reading": "たに"
+        }
+      ]
+    },
+    {
+      "id": "ch14-02",
+      "japanese": "楽しい！",
+      "imagePrompt": "Moomintroll runs down the valley path with arms spread wide, joyful. Flowers and butterflies along the trail. Green hills on both sides. Moomintroll running joyfully in the valley. Medium shot, eye-level. Bright warm valley sunlight, pure joy mood.",
+      "readings": [
+        {
+          "surface": "楽しい",
+          "reading": "たのしい"
+        }
+      ]
+    },
+    {
+      "id": "ch14-03",
+      "japanese": "谷 は 楽しい ね。",
+      "imagePrompt": "Moomintroll and Snufkin walk side by side on the valley path, chatting happily. Trees line the trail, river glitters below. Two friends on the valley path. Medium two-shot, eye-level. Warm dappled valley light, shared enjoyment mood.",
+      "readings": [
+        {
+          "surface": "谷",
+          "reading": "たに"
+        },
+        {
+          "surface": "楽しい",
+          "reading": "たのしい"
+        }
+      ]
+    },
+    {
+      "id": "ch14-04",
+      "japanese": "にょろにょろ が いる！",
+      "imagePrompt": "Tall pale Hattifatteners emerge from behind rocks along the valley path, their tube-like bodies swaying. Moomintroll stops in surprise. Hattifatteners appearing on the path. Medium-wide shot, eye-level. Bright eerie valley light, startled encounter mood.",
+      "readings": []
+    },
+    {
+      "id": "ch14-05",
+      "japanese": "あれ は にょろにょろ みたい だ。",
+      "imagePrompt": "Moomintroll peers at the strange swaying shapes from a distance, squinting. The Hattifatteners' pale forms blend with the valley mist. Distant pale shapes in the valley. Medium shot, eye-level. Misty valley light, uncertain comparison mood.",
+      "readings": []
+    },
+    {
+      "id": "ch14-06",
+      "japanese": "にょろにょろ！止める！",
+      "imagePrompt": "Moomintroll runs toward the Hattifatteners who are heading for the river, arms waving to stop them. They sway but keep moving. Moomintroll chasing Hattifatteners. Medium-wide shot, eye-level. Bright urgent valley light, frantic stopping mood.",
+      "readings": [
+        {
+          "surface": "止める",
+          "reading": "とめる"
+        }
+      ]
+    },
+    {
+      "id": "ch14-07",
+      "japanese": "にょろにょろ を 止める。",
+      "imagePrompt": "Moomintroll stands in front of the Hattifatteners blocking their path, arms spread wide. They bump into him gently. Moomintroll blocking Hattifatteners. Medium shot, eye-level. Bright valley sunlight, determined blocking mood.",
+      "readings": [
+        {
+          "surface": "止める",
+          "reading": "とめる"
+        }
+      ]
+    },
+    {
+      "id": "ch14-08",
+      "japanese": "止める？ だめ だ！",
+      "imagePrompt": "Snufkin shakes his head watching Moomintroll struggle with the Hattifatteners. They simply flow around him like water. Hattifatteners flowing around Moomintroll. Medium shot, eye-level. Warm valley light, resigned wisdom mood.",
+      "readings": [
+        {
+          "surface": "止める",
+          "reading": "とめる"
+        }
+      ]
+    },
+    {
+      "id": "ch14-09",
+      "japanese": "山 みたい だ ね。",
+      "imagePrompt": "A particularly large group of Hattifatteners cluster together, their mass forming a shape resembling a small hill. Valley mountains behind for comparison. Hattifatteners clustered like a hill. Medium-wide shot, eye-level. Bright valley light, amused comparison mood.",
+      "readings": [
+        {
+          "surface": "山",
+          "reading": "やま"
+        }
+      ]
+    },
+    {
+      "id": "ch14-10",
+      "japanese": "違う！",
+      "imagePrompt": "Sniff points and shakes his head vigorously, recognizing the shapes are definitely Hattifatteners, not a hill. His expression is exasperated. Sniff correcting the comparison. Medium close-up, eye-level. Bright clear valley light, emphatic correction mood.",
+      "readings": [
+        {
+          "surface": "違う",
+          "reading": "ちがう"
+        }
+      ]
+    },
+    {
+      "id": "ch14-11",
+      "japanese": "それ は 違う よ。",
+      "imagePrompt": "Snufkin calmly gestures at the Hattifatteners who are now dispersing, showing they're individual creatures. Valley path stretches behind. Snufkin explaining the difference. Medium shot, eye-level. Warm steady valley light, patient correction mood.",
+      "readings": [
+        {
+          "surface": "違う",
+          "reading": "ちがう"
+        }
+      ]
+    },
+    {
+      "id": "ch14-12",
+      "japanese": "違う もの だ ね。",
+      "imagePrompt": "Moomintroll looks between the Hattifatteners and the distant mountain, seeing they're clearly different now. One Hattifattener bumps his leg. Moomintroll comparing creatures and mountain. Medium shot, eye-level. Bright clear valley light, thoughtful agreement mood.",
+      "readings": [
+        {
+          "surface": "違う",
+          "reading": "ちがう"
+        }
+      ]
+    },
+    {
+      "id": "ch14-13",
+      "japanese": "モラン みたい！",
+      "imagePrompt": "A shadow falls across the valley path as a large dark shape appears at the ridge. For a moment it looks like the Groke. Everyone freezes. Dark shape on the ridge. Medium-wide shot, eye-level. Sudden shadow in bright valley, alarmed comparison mood.",
+      "readings": []
+    },
+    {
+      "id": "ch14-14",
+      "japanese": "ママ が 下さった。",
+      "imagePrompt": "Moomintroll opens a wrapped bundle from his bag — a packed lunch from Moominmamma. Sandwiches and berries inside the cloth. The lunch bundle opened. Close-up, slightly elevated. Warm inviting valley light, grateful remembering mood.",
+      "readings": [
+        {
+          "surface": "下さっ",
+          "reading": "くださっ"
+        }
+      ]
+    },
+    {
+      "id": "ch14-15",
+      "japanese": "いい もの を 下さった。",
+      "imagePrompt": "The group sits on rocks eating the packed lunch. Each piece is carefully prepared with love. Valley stretches around them. Characters eating the packed lunch. Medium group shot, eye-level. Warm midday valley light, appreciative eating mood.",
+      "readings": [
+        {
+          "surface": "下さっ",
+          "reading": "くださっ"
+        }
+      ]
+    },
+    {
+      "id": "ch14-16",
+      "japanese": "下さる もの は いい ね。",
+      "imagePrompt": "Snufkin holds up a small jar of Moominmamma's jam, smiling at the taste. The jar catches the sunlight. Valley breeze rustles the grass. Snufkin enjoying the jam. Medium close-up, eye-level. Warm golden valley light, grateful appreciation mood.",
+      "readings": [
+        {
+          "surface": "下さる",
+          "reading": "くださる"
+        }
+      ]
+    },
+    {
+      "id": "ch14-17",
+      "japanese": "もう 一 度 みる。",
+      "imagePrompt": "Moomintroll walks back to where the Hattifatteners were, wanting another look. The valley path curves around a bend. Moomintroll walking back along the path. Medium shot, eye-level. Bright afternoon valley light, curious revisiting mood.",
+      "readings": [
+        {
+          "surface": "一",
+          "reading": "いち"
+        },
+        {
+          "surface": "度",
+          "reading": "ど"
+        }
+      ]
+    },
+    {
+      "id": "ch14-18",
+      "japanese": "一 度 きた ところ だ。",
+      "imagePrompt": "Moomintroll recognizes the rocks and trees from earlier — the same spot where they first saw the Hattifatteners. Familiar valley landmark. Moomintroll at a recognized spot. Medium shot, eye-level. Warm familiar afternoon light, recognition mood.",
+      "readings": [
+        {
+          "surface": "一",
+          "reading": "いち"
+        },
+        {
+          "surface": "度",
+          "reading": "ど"
+        }
+      ]
+    },
+    {
+      "id": "ch14-19",
+      "japanese": "二 度 も きた ね。",
+      "imagePrompt": "Sniff catches up with Moomintroll, out of breath, having followed him back to the spot. He gestures 'again?'. Sniff arriving at the revisited spot. Medium two-shot, eye-level. Warm afternoon valley light, amused repetition mood.",
+      "readings": [
+        {
+          "surface": "二",
+          "reading": "に"
+        },
+        {
+          "surface": "度",
+          "reading": "ど"
+        }
+      ]
+    },
+    {
+      "id": "ch14-20",
+      "japanese": "楽しい こと だ。",
+      "imagePrompt": "Everyone gathers as the valley path leads back toward home. They look back at the valley with satisfied expressions. Group looking back at the valley. Medium-wide shot, slightly elevated. Golden late-afternoon valley light, fulfilled reflection mood.",
+      "readings": [
+        {
+          "surface": "楽しい",
+          "reading": "たのしい"
+        }
+      ]
+    },
+    {
+      "id": "ch14-21",
+      "japanese": "この 谷 は いい ね。",
+      "imagePrompt": "Wide view of the valley at golden hour, the river glittering, trees swaying gently. The characters are small figures on the homeward path. The beautiful valley at golden hour. Wide shot, elevated. Deep golden sunset valley light, appreciative farewell mood.",
+      "readings": [
+        {
+          "surface": "谷",
+          "reading": "たに"
+        }
+      ]
+    },
+    {
+      "id": "ch14-22",
+      "japanese": "谷 の なか は いい ところ だ。",
+      "imagePrompt": "Final view looking down into the valley from the ridge. The whole valley spreads below — river, paths, trees. The Moomin house visible in the far distance. Valley overview from the ridge. Wide panoramic shot, elevated. Rich golden sunset light, satisfied conclusion mood.",
+      "readings": [
+        {
+          "surface": "谷",
+          "reading": "たに"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 22,
+      "newLemmaUsage": {
+        "たに": 4,
+        "にょろにょろ": 4,
+        "みたい": 3,
+        "下さる": 3,
+        "度": 3,
+        "楽しい": 3,
+        "止める": 3,
+        "違う": 3
+      }
+    }
+  }
+}

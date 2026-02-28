@@ -1,0 +1,511 @@
+{
+  "chapter": 18,
+  "title": "川 の そば",
+  "grammarStep": 12,
+  "grammarName": "ている: ongoing state",
+  "scene": {
+    "location": "かわのそば",
+    "description": "The riverbank with lush plants growing along the water. Shallow pools, holes in the muddy bank.",
+    "characters": [
+      "ムーミン",
+      "スナフキン",
+      "パパ"
+    ],
+    "props": []
+  },
+  "newLemmas": [
+    "動く",
+    "えっ",
+    "茸",
+    "スラン",
+    "面白い",
+    "すぐ",
+    "確か",
+    "植物"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いや",
+    "いる",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おく",
+    "おまえ",
+    "おもう",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くる",
+    "くん",
+    "けど",
+    "けれど",
+    "ここ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さがす",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "する",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たち",
+    "たに",
+    "たべる",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちょっと",
+    "って",
+    "つ",
+    "つくる",
+    "て",
+    "てる",
+    "で",
+    "でも",
+    "でる",
+    "と",
+    "ところ",
+    "とても",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "な",
+    "ない",
+    "なか",
+    "なに",
+    "なる",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はやい",
+    "ひと",
+    "ひとり",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もつ",
+    "もの",
+    "やっぱり",
+    "やま",
+    "やる",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "ら",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "動く",
+    "声",
+    "変わる",
+    "奴",
+    "子",
+    "少し",
+    "度",
+    "怖い",
+    "手",
+    "日",
+    "昨日",
+    "植物",
+    "楽しい",
+    "止める",
+    "目",
+    "確か",
+    "絶対",
+    "自分",
+    "茸",
+    "落ちる",
+    "見える",
+    "話",
+    "違う",
+    "隠れる",
+    "非",
+    "面白い",
+    "風",
+    "飛行",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch18-01",
+      "japanese": "ここ に きた。",
+      "imagePrompt": "Moomintroll and Snufkin arrive at the lush riverbank. Green plants line the water's edge, shallow pools glisten. They look around with interest. Characters arriving at the riverbank. Medium-wide shot, eye-level. Bright morning riverside light, fresh arrival mood.",
+      "readings": []
+    },
+    {
+      "id": "ch18-02",
+      "japanese": "スラン が いる！",
+      "imagePrompt": "Thingumy stands by the river holding a small bag, waving at the arrivals. Reeds sway behind him. He looks excited. Thingumy waving by the river. Medium shot, eye-level. Bright riverbank light, happy recognition mood.",
+      "readings": []
+    },
+    {
+      "id": "ch18-03",
+      "japanese": "確か に スラン だ ね。",
+      "imagePrompt": "Moomintroll squints and nods, confirming it is indeed Thingumy by the river. Snufkin agrees beside him. Moomintroll confirming recognition. Medium shot, eye-level. Clear bright riverside light, certain identification mood.",
+      "readings": [
+        {
+          "surface": "確か",
+          "reading": "たしか"
+        }
+      ]
+    },
+    {
+      "id": "ch18-04",
+      "japanese": "茸 が ある よ。",
+      "imagePrompt": "Thingumy points down at clusters of colorful mushrooms growing along the riverbank among the reeds. Red, yellow, brown caps visible. Mushroom clusters along the riverbank. Medium close-up, slightly elevated. Rich natural riverside light, delighted discovery mood.",
+      "readings": [
+        {
+          "surface": "茸",
+          "reading": "きのこ"
+        }
+      ]
+    },
+    {
+      "id": "ch18-05",
+      "japanese": "この 植物 は おおきい ね。",
+      "imagePrompt": "A tall broad-leafed plant towers over Moomintroll by the riverside. He cranes his neck to see the top, shading his eyes. Its leaves spread wide above him. Moomintroll looking up at a tall plant. Medium shot, eye-level. Bright green-filtered riverside light, impressed observation mood.",
+      "readings": [
+        {
+          "surface": "植物",
+          "reading": "しょくぶつ"
+        }
+      ]
+    },
+    {
+      "id": "ch18-06",
+      "japanese": "面白い 植物 だ。",
+      "imagePrompt": "A strange spiral-shaped plant grows from the muddy bank, its tendrils curling in unusual patterns. Everyone gathers around to examine it. Unusual spiral plant on the riverbank. Medium close-up, eye-level. Bright curious natural light, fascinated observation mood.",
+      "readings": [
+        {
+          "surface": "面白い",
+          "reading": "おもしろい"
+        },
+        {
+          "surface": "植物",
+          "reading": "しょくぶつ"
+        }
+      ]
+    },
+    {
+      "id": "ch18-07",
+      "japanese": "えっ、動いている！",
+      "imagePrompt": "The spiral plant's tendril slowly MOVES right now, curling upward in real time. Moomintroll jumps back in shock, eyes wide, finger pointing. The tendril is mid-motion, caught in the act of moving. Plant tendril actively curling. Medium shot, eye-level. Bright startled riverside light, shocked discovery of ongoing movement mood. PROGRESSIVE: action happening NOW.",
+      "readings": [
+        {
+          "surface": "動い",
+          "reading": "うごい"
+        }
+      ]
+    },
+    {
+      "id": "ch18-08",
+      "japanese": "植物 が 動いている！",
+      "imagePrompt": "Multiple plants along the riverbank are actively swaying and reaching, their stems bending in different directions right now. Leaves flutter with movement. The whole bank appears alive with motion. Plants actively moving along the bank. Medium-wide shot, eye-level. Dynamic bright riverside light, amazed ongoing observation mood. PROGRESSIVE: continuous action in progress.",
+      "readings": [
+        {
+          "surface": "植物",
+          "reading": "しょくぶつ"
+        },
+        {
+          "surface": "動い",
+          "reading": "うごい"
+        }
+      ]
+    },
+    {
+      "id": "ch18-09",
+      "japanese": "スラン は みている。",
+      "imagePrompt": "Thingumy sits on a rock by the river, chin in hands, intently WATCHING the moving plants right now. His eyes track the slow movement. He is in the middle of observing. Thingumy actively watching the plants. Medium shot, eye-level. Warm attentive riverside light, focused ongoing watching mood. PROGRESSIVE: watching in progress.",
+      "readings": []
+    },
+    {
+      "id": "ch18-10",
+      "japanese": "すぐ みて！",
+      "imagePrompt": "Moomintroll urgently pulls Snufkin's arm, pointing at the moving plants. He wants Snufkin to look right away, not wait. Moomintroll urgently pulling Snufkin's arm. Medium shot, eye-level. Bright urgent riverside light, immediate urgency mood.",
+      "readings": []
+    },
+    {
+      "id": "ch18-11",
+      "japanese": "面白い こと だ ね。",
+      "imagePrompt": "Snufkin crouches down to study the moving plants more closely, a fascinated half-smile on his face. He finds this genuinely interesting. Snufkin crouching to study plants closely. Medium shot, eye-level. Warm curious riverside light, intellectual fascination mood.",
+      "readings": [
+        {
+          "surface": "面白い",
+          "reading": "おもしろい"
+        }
+      ]
+    },
+    {
+      "id": "ch18-12",
+      "japanese": "うん、えっ あれ も？",
+      "imagePrompt": "Sniff nods along then suddenly does a double-take, pointing at another plant that also seems to be moving. His eyes go wide with disbelief. Sniff doing a double-take at another plant. Medium shot, eye-level. Bright surprised riverside light, incredulous secondary discovery mood.",
+      "readings": []
+    },
+    {
+      "id": "ch18-13",
+      "japanese": "茸 が 落ちている。",
+      "imagePrompt": "Several mushrooms have ALREADY FALLEN from the bank and lie scattered on the ground by the water. They are in their fallen state — not falling, already down. The result of having fallen is visible. Fallen mushrooms lying on the ground. Medium close-up, slightly elevated. Soft natural riverside light, quiet aftermath observation mood. RESULTATIVE: fallen state, not falling action.",
+      "readings": [
+        {
+          "surface": "茸",
+          "reading": "きのこ"
+        },
+        {
+          "surface": "落ち",
+          "reading": "おち"
+        }
+      ]
+    },
+    {
+      "id": "ch18-14",
+      "japanese": "ここ は 変わっている ね。",
+      "imagePrompt": "The riverbank looks completely DIFFERENT from what they remember — plants have grown tall, the path has shifted, new mushrooms everywhere. The change has ALREADY HAPPENED and the result is visible now. Changed riverbank landscape. Medium-wide shot, eye-level. Bright transformed riverside light, impressed recognition of completed change mood. RESULTATIVE: changed state, not changing action.",
+      "readings": [
+        {
+          "surface": "変わっ",
+          "reading": "かわっ"
+        }
+      ]
+    },
+    {
+      "id": "ch18-15",
+      "japanese": "確か、昨日 は 違った。",
+      "imagePrompt": "Moomintroll points at the riverbank and thinks back. A thought bubble shows yesterday's scene — shorter plants, fewer mushrooms. Things are different now. Moomintroll comparing present to memory. Medium shot, eye-level. Split warm light present vs soft memory light, recollecting contrast mood.",
+      "readings": [
+        {
+          "surface": "確か",
+          "reading": "たしか"
+        },
+        {
+          "surface": "昨日",
+          "reading": "きのう"
+        },
+        {
+          "surface": "違っ",
+          "reading": "ちがっ"
+        }
+      ]
+    },
+    {
+      "id": "ch18-16",
+      "japanese": "茸 も 動いている？",
+      "imagePrompt": "A large mushroom cap slowly TILTS to one side right now, as if turning to face the sun. Moomintroll gasps and points. The mushroom is mid-tilt, caught in motion. Mushroom actively tilting. Medium close-up, eye-level. Bright surprised riverside light, disbelieving observation of ongoing motion mood. PROGRESSIVE: movement happening now.",
+      "readings": [
+        {
+          "surface": "茸",
+          "reading": "きのこ"
+        },
+        {
+          "surface": "動い",
+          "reading": "うごい"
+        }
+      ]
+    },
+    {
+      "id": "ch18-17",
+      "japanese": "ほら、すぐ 動く よ。",
+      "imagePrompt": "Snufkin points at a still mushroom and predicts it will move any moment. The mushroom sits motionless — but a tiny quiver at its base suggests imminent movement. Mushroom about to move. Medium close-up, eye-level. Tense anticipatory riverside light, predicting imminent action mood.",
+      "readings": [
+        {
+          "surface": "動く",
+          "reading": "うごく"
+        }
+      ]
+    },
+    {
+      "id": "ch18-18",
+      "japanese": "とても 面白い！",
+      "imagePrompt": "Moomintroll clasps his hands together in delight, eyes shining, surrounded by the magical moving plants and mushrooms of the riverbank. Pure wonder on his face. Moomintroll delighted among moving plants. Medium shot, eye-level. Bright enchanted riverside light, pure wonder mood.",
+      "readings": [
+        {
+          "surface": "面白い",
+          "reading": "おもしろい"
+        }
+      ]
+    },
+    {
+      "id": "ch18-19",
+      "japanese": "スラン の 茸 は おおきい。",
+      "imagePrompt": "Thingumy holds up an enormous mushroom he found, almost as big as his head. He grins proudly. The mushroom dwarfs his small figure. Thingumy holding a huge mushroom. Medium shot, eye-level. Warm proud riverside light, showing off discovery mood.",
+      "readings": [
+        {
+          "surface": "茸",
+          "reading": "きのこ"
+        }
+      ]
+    },
+    {
+      "id": "ch18-20",
+      "japanese": "確か に 動く ね。",
+      "imagePrompt": "Everyone watches together as the large mushroom in Thingumy's hands gives a definite twitch. All eyes fixed on it. Undeniable movement confirmed. Group watching mushroom move in Thingumy's hands. Medium shot, eye-level. Bright confirming riverside light, certain agreement mood.",
+      "readings": [
+        {
+          "surface": "確か",
+          "reading": "たしか"
+        },
+        {
+          "surface": "動く",
+          "reading": "うごく"
+        }
+      ]
+    },
+    {
+      "id": "ch18-21",
+      "japanese": "また きて、みて！",
+      "imagePrompt": "Moomintroll turns toward the valley, calling out to invisible friends to come see the magical riverbank. His voice carries across the water. Moomintroll calling out toward the valley. Medium shot, eye-level. Bright enthusiastic riverside light, eager invitation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch18-22",
+      "japanese": "すぐ 帰る よ。",
+      "imagePrompt": "The group hurries along the river path heading home, eager to tell everyone about the moving plants. They walk quickly with excited energy. Group hurrying home along the river. Medium-wide shot, eye-level. Warm late afternoon riverside light, excited hurrying mood.",
+      "readings": [
+        {
+          "surface": "帰る",
+          "reading": "かえる"
+        }
+      ]
+    },
+    {
+      "id": "ch18-23",
+      "japanese": "ほら、えっ もう 帰る？",
+      "imagePrompt": "Thingumy looks disappointed, still holding his big mushroom, as the others start to leave. He wanted to stay longer at the magical riverbank. Thingumy looking disappointed as others leave. Medium shot, eye-level. Warm wistful riverside light, reluctant parting mood.",
+      "readings": [
+        {
+          "surface": "帰る",
+          "reading": "かえる"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 23,
+      "newLemmaUsage": {
+        "えっ": 3,
+        "すぐ": 3,
+        "スラン": 4,
+        "動く": 5,
+        "植物": 3,
+        "確か": 3,
+        "茸": 4,
+        "面白い": 3
+      }
+    }
+  }
+}

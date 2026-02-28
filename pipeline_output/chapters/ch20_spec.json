@@ -1,0 +1,530 @@
+{
+  "chapter": 20,
+  "title": "朝 の かくれんぼ",
+  "grammarStep": 14,
+  "grammarName": "Giving/receiving: あげる / もらう / くれる",
+  "scene": {
+    "location": "海岸のそば",
+    "description": "Rocky coastline with tide pools and a small cave. Characters exploring the shore. Shells scattered. Waves in the background.",
+    "characters": [
+      "ムーミン",
+      "ミムラ",
+      "スニフ"
+    ],
+    "props": [
+      "貝殻"
+    ]
+  },
+  "newLemmas": [
+    "おきる",
+    "さっき",
+    "まあ",
+    "かくれんぼ",
+    "雨",
+    "気圧",
+    "姉",
+    "書く"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いや",
+    "いる",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くる",
+    "くれる",
+    "くん",
+    "けど",
+    "けれど",
+    "ここ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さがす",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "する",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たに",
+    "たべる",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちょっと",
+    "って",
+    "つ",
+    "つくる",
+    "て",
+    "てる",
+    "で",
+    "でも",
+    "でる",
+    "と",
+    "ところ",
+    "とても",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "な",
+    "ない",
+    "なか",
+    "なに",
+    "なる",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はやい",
+    "ひと",
+    "ひとり",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もつ",
+    "もの",
+    "もらう",
+    "やっぱり",
+    "やま",
+    "やる",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "ら",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "先",
+    "助ける",
+    "動く",
+    "取る",
+    "声",
+    "変わる",
+    "奴",
+    "姉",
+    "子",
+    "少し",
+    "度",
+    "怖い",
+    "手",
+    "日",
+    "昨日",
+    "書く",
+    "植物",
+    "楽しい",
+    "止める",
+    "気圧",
+    "水",
+    "目",
+    "確か",
+    "穴",
+    "絶対",
+    "自信",
+    "自分",
+    "茸",
+    "落ちる",
+    "見える",
+    "話",
+    "違う",
+    "随分",
+    "隠れる",
+    "雨",
+    "非",
+    "面白い",
+    "風",
+    "飛行",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch20-01",
+      "japanese": "起きた！",
+      "imagePrompt": "Moomintroll sits up in bed, stretching his arms wide. Morning light streams through the round window. The bedroom is cozy and warm. Moomintroll waking up in bed. Medium shot, eye-level. Warm morning light through window, fresh waking mood.",
+      "readings": [
+        {
+          "surface": "起き",
+          "reading": "おき"
+        }
+      ]
+    },
+    {
+      "id": "ch20-02",
+      "japanese": "さっき 雨 が きた。",
+      "imagePrompt": "View through the round window showing wet ground and dripping leaves outside. Recent rain. Puddles glisten on the path. The world is damp and fresh. Wet world through the window. Medium shot, eye-level. Grey-blue morning light with wet surfaces, recently rained mood.",
+      "readings": [
+        {
+          "surface": "雨",
+          "reading": "あめ"
+        }
+      ]
+    },
+    {
+      "id": "ch20-03",
+      "japanese": "雨 の なか に いた。",
+      "imagePrompt": "Flashback image: Moomintroll stood outside in the rain earlier, getting wet. Rain streaked down around him. He didn't mind. Moomintroll in the rain. Medium shot, eye-level. Grey rain-streaked light, memory of being in rain mood.",
+      "readings": [
+        {
+          "surface": "雨",
+          "reading": "あめ"
+        }
+      ]
+    },
+    {
+      "id": "ch20-04",
+      "japanese": "気圧 が 変わった ね。",
+      "imagePrompt": "Moominpappa taps a barometer on the wall, noting the changing pressure. The needle has moved significantly. He nods knowingly. Moominpappa checking barometer. Medium close-up, eye-level. Warm indoor morning light, scientific observation mood.",
+      "readings": [
+        {
+          "surface": "気圧",
+          "reading": "きあつ"
+        },
+        {
+          "surface": "変わっ",
+          "reading": "かわっ"
+        }
+      ]
+    },
+    {
+      "id": "ch20-05",
+      "japanese": "まあ いい。",
+      "imagePrompt": "Moomintroll shrugs cheerfully, accepting that it rained. He's not bothered. A carefree expression on his face as he looks out the window. Moomintroll shrugging by the window. Medium shot, eye-level. Soft morning light, easygoing acceptance mood.",
+      "readings": []
+    },
+    {
+      "id": "ch20-06",
+      "japanese": "姉 が きた！",
+      "imagePrompt": "Mymble's daughter arrives at the Moomin house door, waving energetically. She has a bright smile and carries a small bag. Mymble's daughter at the door. Medium shot, eye-level. Bright morning doorway light, excited arrival mood.",
+      "readings": [
+        {
+          "surface": "姉",
+          "reading": "あね"
+        }
+      ]
+    },
+    {
+      "id": "ch20-07",
+      "japanese": "かくれんぼ を する。",
+      "imagePrompt": "Mymble's daughter announces the plan with both hands raised. Hide-and-seek! Everyone gathers in the living room to hear the rules. Group in the living room. Medium-wide shot, eye-level. Warm interior morning light, game planning mood.",
+      "readings": []
+    },
+    {
+      "id": "ch20-08",
+      "japanese": "ほら、姉 と かくれんぼ を する よ。",
+      "imagePrompt": "Moomintroll and Mymble's daughter head outside together for hide-and-seek. The wet garden glistens in the morning sun. Two characters heading outside. Medium shot, eye-level. Bright post-rain morning light, excited partnership mood.",
+      "readings": [
+        {
+          "surface": "姉",
+          "reading": "あね"
+        }
+      ]
+    },
+    {
+      "id": "ch20-09",
+      "japanese": "さっき ここ に いた。",
+      "imagePrompt": "Moomintroll points at a wet spot behind a bush where someone was hiding moments ago. Footprints in the damp earth. Only footprints remain. Pointing at footprints behind bush. Medium close-up, slightly elevated. Dappled morning light, detective observation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch20-10",
+      "japanese": "書く よ。",
+      "imagePrompt": "Moomintroll pulls out a small notebook and pencil, ready to write something down. He has an idea. The pencil is poised over the page. Moomintroll with notebook and pencil. Medium close-up, eye-level. Warm focused morning light, purposeful writing mood.",
+      "readings": [
+        {
+          "surface": "書く",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "id": "ch20-11",
+      "japanese": "なに を 書く？",
+      "imagePrompt": "Mymble's daughter peers over Moomintroll's shoulder at the blank notebook page, curious about what he'll write. The page is empty. Looking at blank notebook page. Medium close-up, slightly elevated. Bright curious morning light, wondering questioning mood.",
+      "readings": [
+        {
+          "surface": "書く",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "id": "ch20-12",
+      "japanese": "姉 に 書いて あげる。",
+      "imagePrompt": "Moomintroll writes a clue on the paper and hands it to Mymble's daughter with a smile. He's writing it for her to help with the game. Moomintroll writing and giving paper. Medium shot, eye-level. Warm generous morning light, giving help mood.",
+      "readings": [
+        {
+          "surface": "姉",
+          "reading": "あね"
+        },
+        {
+          "surface": "書い",
+          "reading": "かい"
+        }
+      ]
+    },
+    {
+      "id": "ch20-13",
+      "japanese": "姉 が 書いて くれた。",
+      "imagePrompt": "Now Mymble's daughter writes something on a paper and gives it to Moomintroll. She wrote a clue for him. He receives it with delight. Mymble's daughter giving written paper. Medium shot, eye-level. Warm reciprocal morning light, receiving gift mood.",
+      "readings": [
+        {
+          "surface": "姉",
+          "reading": "あね"
+        },
+        {
+          "surface": "書い",
+          "reading": "かい"
+        }
+      ]
+    },
+    {
+      "id": "ch20-14",
+      "japanese": "もらった！",
+      "imagePrompt": "Moomintroll holds up the paper clue happily, reading it with wide eyes. He received the gift of a clue! His face lights up. Moomintroll holding paper happily. Medium close-up, eye-level. Bright joyful morning light, happy receiving mood.",
+      "readings": []
+    },
+    {
+      "id": "ch20-15",
+      "japanese": "姉 に もらった よ。",
+      "imagePrompt": "Moomintroll shows the written clue to Snufkin, explaining he got it from Mymble's daughter. He points at her name on the paper. Moomintroll showing paper to Snufkin. Medium shot, eye-level. Warm sharing morning light, proud receiving mood.",
+      "readings": [
+        {
+          "surface": "姉",
+          "reading": "あね"
+        }
+      ]
+    },
+    {
+      "id": "ch20-16",
+      "japanese": "うん、まあ だいじょうぶ。",
+      "imagePrompt": "Sniff looks confused by the clue but Moomintroll reassures him with a casual wave. It'll be fine, they can figure it out. Moomintroll reassuring Sniff. Medium shot, eye-level. Calm reassuring morning light, easygoing acceptance mood.",
+      "readings": []
+    },
+    {
+      "id": "ch20-17",
+      "japanese": "起きて、かくれんぼ！",
+      "imagePrompt": "Moomintroll shakes a sleeping Sniff awake, pulling him toward the door. Wake up and play! The game is waiting. Everyone else is already outside. Moomintroll pulling sleepy Sniff. Medium shot, eye-level. Bright energetic morning light, urgent excitement mood.",
+      "readings": [
+        {
+          "surface": "起き",
+          "reading": "おき"
+        }
+      ]
+    },
+    {
+      "id": "ch20-18",
+      "japanese": "さっき 起きた よ。",
+      "imagePrompt": "Sniff protests, pointing at himself with sleepy eyes. He already woke up earlier! He yawns while standing in the doorway. Sleepy Sniff protesting. Medium shot, eye-level. Soft morning light on sleepy face, drowsy protest mood.",
+      "readings": [
+        {
+          "surface": "起き",
+          "reading": "おき"
+        }
+      ]
+    },
+    {
+      "id": "ch20-19",
+      "japanese": "ほら、気圧 が 変わっている。",
+      "imagePrompt": "Moominpappa shows everyone the barometer again — the pressure has shifted to fair weather. The needle points clearly. Result of the change is visible now. Moominpappa showing barometer. Medium close-up, eye-level. Clear bright morning light, confirmed state change mood. RESULTATIVE: already changed state.",
+      "readings": [
+        {
+          "surface": "気圧",
+          "reading": "きあつ"
+        },
+        {
+          "surface": "変わっ",
+          "reading": "かわっ"
+        }
+      ]
+    },
+    {
+      "id": "ch20-20",
+      "japanese": "まあ 雨 も いい ね。",
+      "imagePrompt": "Everyone stands in the wet garden, enjoying how fresh and green everything looks after the rain. Droplets sparkle on leaves. The post-rain world is beautiful. Group in the fresh wet garden. Medium-wide shot, eye-level. Sparkling post-rain light, appreciative acceptance mood.",
+      "readings": [
+        {
+          "surface": "雨",
+          "reading": "あめ"
+        }
+      ]
+    },
+    {
+      "id": "ch20-21",
+      "japanese": "書いて もらった。",
+      "imagePrompt": "Moomintroll holds a beautifully written scroll that Moominpappa made for the hide-and-seek game — the rules, written in elegant handwriting. Moomintroll holding written scroll. Medium close-up, eye-level. Warm admiring light, grateful receiving mood.",
+      "readings": [
+        {
+          "surface": "書い",
+          "reading": "かい"
+        }
+      ]
+    },
+    {
+      "id": "ch20-22",
+      "japanese": "ここ に 書く。",
+      "imagePrompt": "Moomintroll kneels on the ground and writes the final score of hide-and-seek on a flat rock by the coast. The pencil scratches on stone. Writing on a flat rock. Medium close-up, slightly elevated. Warm afternoon coastal light, recording completion mood.",
+      "readings": [
+        {
+          "surface": "書く",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "id": "ch20-23",
+      "japanese": "この 気圧 は 違う ね。",
+      "imagePrompt": "Evening now. Moominpappa checks the barometer one last time. The pressure has shifted again — different from this morning. Something new coming. Moominpappa at the barometer. Medium close-up, eye-level. Warm evening interior light, observant closing mood.",
+      "readings": [
+        {
+          "surface": "気圧",
+          "reading": "きあつ"
+        },
+        {
+          "surface": "違う",
+          "reading": "ちがう"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 23,
+      "newLemmaUsage": {
+        "おきる": 3,
+        "かくれんぼ": 3,
+        "さっき": 3,
+        "まあ": 3,
+        "姉": 5,
+        "書く": 6,
+        "気圧": 3,
+        "雨": 3
+      }
+    }
+  }
+}

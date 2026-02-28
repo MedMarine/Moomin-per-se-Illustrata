@@ -1,0 +1,792 @@
+{
+  "chapter": 44,
+  "title": "沖 の 三つ",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "ムーミンやしきのベランダ（午後）",
+    "description": "Veranda of the Moomin house on a warm lazy afternoon. Hammocks and cushions. A gentle breeze.",
+    "characters": [
+      "ムーミン",
+      "スナフキン",
+      "ママ"
+    ],
+    "props": [
+      "家"
+    ]
+  },
+  "newLemmas": [
+    "三",
+    "沖",
+    "分",
+    "ううん",
+    "沈む",
+    "化け",
+    "計",
+    "次"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "あら",
+    "ありがとう",
+    "ある",
+    "あるく",
+    "あれ",
+    "い",
+    "いい",
+    "いいえ",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いっぱい",
+    "いつ",
+    "いや",
+    "いらっしゃる",
+    "いる",
+    "いれる",
+    "ううん",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "えーと",
+    "お",
+    "おい",
+    "おお",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "およぐ",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こわす",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "すむ",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そう-伝聞",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たくさん",
+    "たち",
+    "たって",
+    "たつ",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちいさな",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つかう",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とにかく",
+    "とぶ",
+    "とまる",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なく",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はなす",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "やれ",
+    "ゆっくり",
+    "よ",
+    "よいしょ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "タール",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "ハート",
+    "パパ",
+    "パンケーキ",
+    "パーティー",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "三",
+    "上",
+    "上がる",
+    "上る",
+    "上陸",
+    "下",
+    "下さる",
+    "不",
+    "中身",
+    "事件",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "会う",
+    "伯母",
+    "信じる",
+    "修理",
+    "俺",
+    "優しい",
+    "兄",
+    "先",
+    "入り口",
+    "全く",
+    "出でる",
+    "出掛ける",
+    "出発",
+    "分",
+    "切手",
+    "別",
+    "利く",
+    "前",
+    "力",
+    "助ける",
+    "動く",
+    "勝手",
+    "化け",
+    "化け物",
+    "危ない",
+    "友達",
+    "取り戻す",
+    "取る",
+    "嘘",
+    "回",
+    "図",
+    "地獄",
+    "場所",
+    "壊れる",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "大事",
+    "大変",
+    "天才",
+    "夫婦",
+    "奥",
+    "女王",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "実",
+    "客",
+    "少し",
+    "嵐",
+    "川",
+    "帆",
+    "度",
+    "張る",
+    "御覧",
+    "心配",
+    "必要",
+    "忘れる",
+    "怒る",
+    "怖い",
+    "急ぐ",
+    "悪い",
+    "感じる",
+    "戻る",
+    "所為",
+    "手",
+    "手伝う",
+    "拾う",
+    "持ち主",
+    "捨てる",
+    "教える",
+    "旅",
+    "日",
+    "明日",
+    "昨日",
+    "時間",
+    "書く",
+    "木苺",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次",
+    "次回",
+    "止める",
+    "此奴",
+    "毒",
+    "気圧",
+    "気持ち",
+    "水",
+    "沈む",
+    "沖",
+    "波",
+    "洞穴",
+    "海岸",
+    "消える",
+    "済む",
+    "漕ぐ",
+    "潜る",
+    "濡れる",
+    "為",
+    "無くなる",
+    "然う然う",
+    "王",
+    "珍しい",
+    "痛い",
+    "目",
+    "眠る",
+    "知れる",
+    "砂",
+    "確か",
+    "秒",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "結ぶ",
+    "絶対",
+    "考える",
+    "聞き出す",
+    "聞こえる",
+    "自信",
+    "自分",
+    "色",
+    "花",
+    "苛める",
+    "茶",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "計",
+    "設計",
+    "許す",
+    "話",
+    "調子",
+    "起こる",
+    "足",
+    "辺",
+    "返す",
+    "追う",
+    "退屈",
+    "逃げる",
+    "通り",
+    "連れる",
+    "違う",
+    "邪魔",
+    "部屋",
+    "鋸",
+    "間",
+    "降る",
+    "随分",
+    "隠す",
+    "隠れる",
+    "集める",
+    "雨",
+    "静か",
+    "非",
+    "面白い",
+    "頂く",
+    "頭",
+    "風",
+    "飛行",
+    "飾り",
+    "驚く",
+    "髪の毛",
+    "鬼",
+    "鼾",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch44-01",
+      "japanese": "三つ ある。",
+      "imagePrompt": "On the Moomin house veranda on a warm lazy afternoon. Three things sit on the railing — a shell, a feather, and a smooth stone. There are three! Hammocks sway gently. Warm breeze. Three objects on the veranda railing. Medium close-up, eye-level. Warm lazy afternoon light, counting mood.",
+      "readings": [
+        {
+          "surface": "三",
+          "reading": "みっ"
+        }
+      ]
+    },
+    {
+      "id": "ch44-02",
+      "japanese": "三つ の もの を みつけた。",
+      "imagePrompt": "Moomintroll presents the three treasures from the morning walk. Found three things! He places them carefully on the veranda table. Each is unique. Three treasures on the table. Medium shot, eye-level. Warm golden afternoon light, proud display mood.",
+      "readings": [
+        {
+          "surface": "三",
+          "reading": "みっ"
+        }
+      ]
+    },
+    {
+      "id": "ch44-03",
+      "japanese": "三 が いい。",
+      "imagePrompt": "Little My counts on her fingers. Three is good! Not too many, not too few. She approves of the number. A warm breeze ruffles her hair. My counting approvingly. Medium close-up, eye-level. Warm amused afternoon light, numerical opinion mood.",
+      "readings": [
+        {
+          "surface": "三",
+          "reading": "さん"
+        }
+      ]
+    },
+    {
+      "id": "ch44-04",
+      "japanese": "沖 に なに か が みえる。",
+      "imagePrompt": "From the veranda, the distant sea is visible. Something is visible offshore! A dark shape on the horizon. Everyone shields their eyes to look. Group looking toward the sea. Medium-wide shot, eye-level. Hazy warm afternoon light, distant sighting mood.",
+      "readings": [
+        {
+          "surface": "沖",
+          "reading": "おき"
+        }
+      ]
+    },
+    {
+      "id": "ch44-05",
+      "japanese": "沖 から きた。",
+      "imagePrompt": "The shape is a boat sailing in from offshore. It came from offshore! The sail catches the afternoon light. It grows larger as it approaches. Boat approaching from offshore. Medium shot, eye-level. Warm golden sea-light, approaching vessel mood.",
+      "readings": [
+        {
+          "surface": "沖",
+          "reading": "おき"
+        }
+      ]
+    },
+    {
+      "id": "ch44-06",
+      "japanese": "あの 沖 は 危ない。",
+      "imagePrompt": "Snufkin points to where dark currents swirl far from shore. That offshore area is dangerous! Hidden rocks lurk beneath the surface. The water looks different there. Snufkin pointing at dangerous waters. Medium shot, eye-level. Warm cautionary afternoon light, warning mood.",
+      "readings": [
+        {
+          "surface": "沖",
+          "reading": "おき"
+        },
+        {
+          "surface": "危ない",
+          "reading": "あぶない"
+        }
+      ]
+    },
+    {
+      "id": "ch44-07",
+      "japanese": "自分 の 分 だ。",
+      "imagePrompt": "Mama divides afternoon snacks evenly on the veranda table. This is your share! Each plate has the same amount. Everyone gets their fair portion. Equal portions on plates. Medium shot, eye-level. Warm equitable afternoon light, fair sharing mood.",
+      "readings": [
+        {
+          "surface": "自分",
+          "reading": "じぶん"
+        },
+        {
+          "surface": "分",
+          "reading": "ぶん"
+        }
+      ]
+    },
+    {
+      "id": "ch44-08",
+      "japanese": "スニフ の 分 が おおきい。",
+      "imagePrompt": "Sniff somehow has a larger portion than everyone else. Sniff's share is big! He grins innocently. Little My narrows her eyes suspiciously. Sniff with a big plate. Medium shot, eye-level. Warm suspicious afternoon light, unfair portion mood.",
+      "readings": [
+        {
+          "surface": "分",
+          "reading": "ぶん"
+        }
+      ]
+    },
+    {
+      "id": "ch44-09",
+      "japanese": "みんな の 分 が ある。",
+      "imagePrompt": "Mama redistributes to make things equal again. She divided everyone's shares! Each plate is now the same. Fairness is restored. Sniff looks disappointed. Mama redistributing equally. Medium shot, eye-level. Warm just afternoon light, fairness mood.",
+      "readings": [
+        {
+          "surface": "分",
+          "reading": "ぶん"
+        }
+      ]
+    },
+    {
+      "id": "ch44-10",
+      "japanese": "ううん、ちがう。",
+      "imagePrompt": "Moomintroll shakes his head at something Sniff said. No, that is wrong! He gently corrects the misunderstanding. The lazy afternoon continues. Moomintroll shaking his head. Medium close-up, eye-level. Warm gentle afternoon light, gentle correction mood.",
+      "readings": []
+    },
+    {
+      "id": "ch44-11",
+      "japanese": "ううん。",
+      "imagePrompt": "Snufkin gives a simple no to the question of going inside. No! He is perfectly content on the veranda. The breeze is too nice. Snufkin shaking his head contentedly. Medium close-up, eye-level. Warm content afternoon light, refusal mood.",
+      "readings": []
+    },
+    {
+      "id": "ch44-12",
+      "japanese": "「ううん、まだ だ。」 と スニフ が 言った。",
+      "imagePrompt": "Sniff says he is not done eating yet. No not yet says Sniff! He has one more piece to finish. His cheeks are full. Crumbs on his chin. Sniff eating with full cheeks. Medium close-up, eye-level. Warm indulgent afternoon light, still eating mood.",
+      "readings": [
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch44-13",
+      "japanese": "船 が 沈んだ！",
+      "imagePrompt": "From the veranda they see it — the boat they spotted earlier has sunk! The boat sank! Only the top of the mast remains visible. Waves lap over it. Sunken boat visible from veranda. Medium-wide shot, eye-level. Alarmed warm afternoon light, distant disaster mood.",
+      "readings": [
+        {
+          "surface": "船",
+          "reading": "ふね"
+        },
+        {
+          "surface": "沈ん",
+          "reading": "しずん"
+        }
+      ]
+    },
+    {
+      "id": "ch44-14",
+      "japanese": "沈む の を みた。",
+      "imagePrompt": "Everyone watched it go down from the safety of the veranda. They saw it sink! The mast disappears beneath the waves. Bubbles rise. Group watching from the veranda. Medium shot, eye-level. Solemn warm afternoon light, witnessing mood.",
+      "readings": [
+        {
+          "surface": "沈む",
+          "reading": "しずむ"
+        }
+      ]
+    },
+    {
+      "id": "ch44-15",
+      "japanese": "沈んでいる。",
+      "imagePrompt": "Only a dark shadow remains beneath the water where the boat was. It is sinking! The outline fades as it descends. The sea looks calm again. Shadow of the sunken boat. Medium shot, eye-level. Still warm afternoon light, aftermath mood.",
+      "readings": [
+        {
+          "surface": "沈ん",
+          "reading": "しずん"
+        }
+      ]
+    },
+    {
+      "id": "ch44-16",
+      "japanese": "あの 化け は なに？",
+      "imagePrompt": "Something rises from the water where the boat sank — a strange shape. What is that apparition? It does not look like a boat part. Mist curls around it. Strange shape rising from water. Medium shot, eye-level. Eerie warm afternoon light, mysterious sighting mood.",
+      "readings": [
+        {
+          "surface": "化け",
+          "reading": "ばけ"
+        }
+      ]
+    },
+    {
+      "id": "ch44-17",
+      "japanese": "化け が 出た。",
+      "imagePrompt": "The shape fully emerges — a bizarre creature or thing from the deep. An apparition appeared! It moves across the water surface. Everyone stares from the veranda. Creature on the water. Medium shot, eye-level. Strange warm afternoon light, apparition mood.",
+      "readings": [
+        {
+          "surface": "化け",
+          "reading": "ばけ"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        }
+      ]
+    },
+    {
+      "id": "ch44-18",
+      "japanese": "化け みたい だ ね。",
+      "imagePrompt": "Sniff grabs Papa's arm from the side, pressing close. It looks like an apparition! But as it gets closer, it seems less scary — maybe just driftwood and seaweed tangled together. Sniff clinging to Papa's arm. Medium shot, eye-level. Relieved warm afternoon light, false alarm mood.",
+      "readings": [
+        {
+          "surface": "化け",
+          "reading": "ばけ"
+        }
+      ]
+    },
+    {
+      "id": "ch44-19",
+      "japanese": "パパ の 時間計 だ。",
+      "imagePrompt": "Papa pulls out his old chronometer to check the time of the sighting. It is Papa's timepiece! The brass instrument glints in the afternoon sun. He notes the time. Papa with his chronometer. Medium close-up, eye-level. Warm glinting afternoon light, precise timing mood.",
+      "readings": [
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        },
+        {
+          "surface": "計",
+          "reading": "けい"
+        }
+      ]
+    },
+    {
+      "id": "ch44-20",
+      "japanese": "時間計 を みた。",
+      "imagePrompt": "Moomintroll peers at the chronometer's face. He looked at the timepiece! The hands and numbers are beautifully crafted. Time passes on the lazy afternoon. Moomintroll peering at the chronometer. Medium close-up, eye-level. Warm curious afternoon light, examining instrument mood.",
+      "readings": [
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        },
+        {
+          "surface": "計",
+          "reading": "けい"
+        }
+      ]
+    },
+    {
+      "id": "ch44-21",
+      "japanese": "時間計 が ある。",
+      "imagePrompt": "The chronometer sits on the veranda table among the snack plates. There is a timepiece! It ticks steadily. A reliable companion for keeping track of lazy hours. Chronometer on the table. Medium close-up, eye-level. Warm steady afternoon light, timekeeping mood.",
+      "readings": [
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        },
+        {
+          "surface": "計",
+          "reading": "けい"
+        }
+      ]
+    },
+    {
+      "id": "ch44-22",
+      "japanese": "次 は なに？",
+      "imagePrompt": "Moomintroll looks up from the chronometer. What is next? The afternoon adventure has been exciting from the veranda. Everyone ponders the next thing. Moomintroll asking what is next. Medium shot, eye-level. Warm curious afternoon light, anticipation mood.",
+      "readings": [
+        {
+          "surface": "次",
+          "reading": "つぎ"
+        }
+      ]
+    },
+    {
+      "id": "ch44-23",
+      "japanese": "この 次 の こと を する。",
+      "imagePrompt": "Papa stands up and stretches. We do the next thing! He suggests they walk down to the beach to investigate the sunken boat. Energy stirs. Papa standing up with purpose. Medium shot, eye-level. Warm purposeful afternoon light, next-step mood.",
+      "readings": [
+        {
+          "surface": "次",
+          "reading": "つぎ"
+        }
+      ]
+    },
+    {
+      "id": "ch44-24",
+      "japanese": "次 に 会おう。",
+      "imagePrompt": "Snufkin stands at the fork in the path, facing the group with a warm smile. Let us meet next time! He tips his hat in farewell. The bridge stretches behind him in golden light. Snufkin saying goodbye, facing the viewer. Medium shot, eye-level. Golden late-afternoon light, warm parting mood.",
+      "readings": [
+        {
+          "surface": "次",
+          "reading": "つぎ"
+        },
+        {
+          "surface": "会おう",
+          "reading": "あおう"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 24,
+      "newLemmaUsage": {
+        "ううん": 3,
+        "三": 3,
+        "分": 3,
+        "化け": 3,
+        "次": 3,
+        "沈む": 3,
+        "沖": 3,
+        "計": 3
+      }
+    }
+  }
+}

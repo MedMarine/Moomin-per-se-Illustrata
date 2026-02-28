@@ -1,0 +1,419 @@
+{
+  "chapter": 10,
+  "title": "今日 の 船",
+  "grammarStep": 6,
+  "grammarName": "Transitive action: を",
+  "scene": {
+    "location": "ムーミンやしきの庭と川",
+    "description": "Moomin house garden sloping down to the riverbank. A tent being set up on the flat ground near the water.",
+    "characters": [
+      "ムーミン",
+      "パパ",
+      "ママ",
+      "スニフ"
+    ],
+    "props": []
+  },
+  "newLemmas": [
+    "かお",
+    "ありがとう",
+    "いや",
+    "のる",
+    "こんな",
+    "まつ",
+    "今日",
+    "つくる"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あそこ",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "いい",
+    "いえ",
+    "いく",
+    "いや",
+    "いる",
+    "うみ",
+    "うん",
+    "ええ",
+    "お",
+    "おい",
+    "おく",
+    "おもう",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "くる",
+    "くん",
+    "けど",
+    "けれど",
+    "ここ",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さがす",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しる",
+    "じゃ",
+    "すがた",
+    "する",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "た",
+    "たち",
+    "たべる",
+    "だ",
+    "だいじょうぶ",
+    "だけ",
+    "だれ",
+    "ちゃん",
+    "ちょっと",
+    "って",
+    "つ",
+    "つくる",
+    "で",
+    "でる",
+    "と",
+    "ところ",
+    "どう",
+    "どこ",
+    "な",
+    "ない",
+    "なに",
+    "なる",
+    "に",
+    "ね",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はいる",
+    "ひと",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まつ",
+    "まで",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もつ",
+    "もの",
+    "やま",
+    "やる",
+    "よ",
+    "よう",
+    "よし",
+    "ら",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ムーミン",
+    "モラン",
+    "・",
+    "一",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "奴",
+    "見える",
+    "話",
+    "非",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch10-01",
+      "japanese": "今日、船 を つくる！",
+      "imagePrompt": "Bright morning in the garden near the river. Moominpappa stands before planks of wood and tools, sleeves rolled up. Project day. Moominpappa ready to build by the river. Medium shot, eye-level. Bright enthusiastic morning light, ambitious project mood.",
+      "readings": [
+        {
+          "surface": "今日",
+          "reading": "きょう"
+        },
+        {
+          "surface": "船",
+          "reading": "ふね"
+        }
+      ]
+    },
+    {
+      "id": "ch10-02",
+      "japanese": "パパ は 船 を つくる。",
+      "imagePrompt": "Moominpappa hammers nails into wooden planks on the riverbank. The boat frame is taking shape. Sawdust and wood shavings around. Moominpappa building the boat frame. Medium shot, eye-level. Warm morning work light, focused craftsmanship mood.",
+      "readings": [
+        {
+          "surface": "船",
+          "reading": "ふね"
+        }
+      ]
+    },
+    {
+      "id": "ch10-03",
+      "japanese": "いい 船 を つくった。",
+      "imagePrompt": "Close view of the finished hull, carefully sanded smooth. Moominpappa's attention to detail is evident. Beautiful woodwork gleaming. Finished boat hull gleaming. Close-up, eye-level. Warm golden work light, meticulous care mood.",
+      "readings": [
+        {
+          "surface": "船",
+          "reading": "ふね"
+        }
+      ]
+    },
+    {
+      "id": "ch10-04",
+      "japanese": "ぼく も つくる！",
+      "imagePrompt": "Moomintroll grabs a small hammer and starts helping with the boat construction, enthusiastically but clumsily. Moominpappa guides his hand. Moomintroll helping build the boat. Medium shot, eye-level. Bright morning work light, eager helping mood.",
+      "readings": []
+    },
+    {
+      "id": "ch10-05",
+      "japanese": "ちょっと 待つ。",
+      "imagePrompt": "Moominpappa holds up a hand to stop Moomintroll from adding a piece too soon. The glue needs to dry. Patience required. Moominpappa telling Moomintroll to wait. Medium two-shot, eye-level. Warm patient afternoon light, teaching patience mood.",
+      "readings": [
+        {
+          "surface": "待つ",
+          "reading": "まつ"
+        }
+      ]
+    },
+    {
+      "id": "ch10-06",
+      "japanese": "待つ？いや！",
+      "imagePrompt": "Moomintroll and Sniff sit on the riverbank watching the boat dry, fidgeting impatiently. They keep looking back at the boat then at each other. Two impatient watchers on the riverbank. Medium shot, eye-level. Warm but slow afternoon light, restless waiting mood.",
+      "readings": [
+        {
+          "surface": "待つ",
+          "reading": "まつ"
+        }
+      ]
+    },
+    {
+      "id": "ch10-07",
+      "japanese": "いや、もう いい。",
+      "imagePrompt": "Sniff stands up impatiently, gesturing that it must be done by now. He can't wait any longer. Moominpappa shakes his head. Sniff's impatience by the boat. Medium shot, eye-level. Bright afternoon light, impatient protest mood.",
+      "readings": []
+    },
+    {
+      "id": "ch10-08",
+      "japanese": "今日、のる！",
+      "imagePrompt": "Finally Moominpappa announces the boat is ready. Everyone jumps up. The finished boat gleams in the afternoon sun on the riverbank. The completed boat on the riverbank. Medium-wide shot, eye-level. Brilliant afternoon sunlight on new wood, triumphant completion mood.",
+      "readings": [
+        {
+          "surface": "今日",
+          "reading": "きょう"
+        }
+      ]
+    },
+    {
+      "id": "ch10-09",
+      "japanese": "船 に のる！",
+      "imagePrompt": "Moomintroll climbs into the boat first, rocking it gently on the river. His face is pure excitement. The river sparkles around the boat. Moomintroll climbing into the new boat. Medium shot, eye-level from the bank. Sparkling river light, thrilling first-boarding mood.",
+      "readings": [
+        {
+          "surface": "船",
+          "reading": "ふね"
+        }
+      ]
+    },
+    {
+      "id": "ch10-10",
+      "japanese": "みんな、のる！",
+      "imagePrompt": "The whole family piles into the boat — Moominpappa at the stern, Moominmamma in the middle, Moomintroll and Sniff at the bow. Full boat launch. Everyone boarding the new boat. Medium-wide shot, from the riverbank. Bright joyful afternoon light, communal excitement mood.",
+      "readings": []
+    },
+    {
+      "id": "ch10-11",
+      "japanese": "ママ の 顔。いい！",
+      "imagePrompt": "Moomintroll glances at Moominmamma as the boat pushes off from shore. She has a beautiful serene smile of contentment. Moominmamma's happy face on the boat. Medium close-up, eye-level. Warm river-reflected light, observing happiness mood.",
+      "readings": [
+        {
+          "surface": "顔",
+          "reading": "かお"
+        }
+      ]
+    },
+    {
+      "id": "ch10-12",
+      "japanese": "パパ の 顔 も いい。",
+      "imagePrompt": "Moominpappa steers the boat with a proud satisfied grin, hat firmly on head. His creation floats beautifully. Moominpappa's proud face steering. Medium close-up, eye-level. Bright proud afternoon light, satisfied creator mood.",
+      "readings": [
+        {
+          "surface": "顔",
+          "reading": "かお"
+        }
+      ]
+    },
+    {
+      "id": "ch10-13",
+      "japanese": "こんな 船 は いい ね！",
+      "imagePrompt": "The boat glides smoothly down the river, everyone aboard. It handles beautifully — a fine vessel. Trees slide past on the banks. The boat sailing smoothly downriver. Wide shot, eye-level from the bank. Beautiful afternoon river light, admiring exclamation mood.",
+      "readings": [
+        {
+          "surface": "船",
+          "reading": "ふね"
+        }
+      ]
+    },
+    {
+      "id": "ch10-14",
+      "japanese": "船 の すがた が いい ね。",
+      "imagePrompt": "The boat's elegant silhouette catches the afternoon light on the river, its beautiful curved shape reflected in the water. A graceful, proud vessel. Elegant boat silhouette on the river. Medium-wide shot, eye-level. Golden afternoon light, admiring beauty mood.",
+      "readings": [
+        {
+          "surface": "船",
+          "reading": "ふね"
+        }
+      ]
+    },
+    {
+      "id": "ch10-15",
+      "japanese": "こんな いい もの は ない。",
+      "imagePrompt": "Moomintroll runs his hand along the boat's smooth wooden rail, marveling at the craftsmanship. The wood is warm from the sun. Moomintroll touching the boat rail. Close-up, eye-level. Warm sunlit wood, deep appreciation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch10-16",
+      "japanese": "パパ、ありがとう！",
+      "imagePrompt": "Moomintroll turns to Moominpappa and thanks him with a big hug on the boat. Moominpappa looks touched, hat slightly askew from the hug. Moomintroll hugging Moominpappa on the boat. Medium shot, eye-level. Warm golden afternoon light, heartfelt gratitude mood.",
+      "readings": []
+    },
+    {
+      "id": "ch10-17",
+      "japanese": "ありがとう、ママ。",
+      "imagePrompt": "Moomintroll also thanks Moominmamma, who packed food and drinks for the maiden voyage. She smiles and pats his head. Moomintroll thanking Moominmamma on the boat. Medium shot, eye-level. Warm soft afternoon light, gentle gratitude mood.",
+      "readings": []
+    },
+    {
+      "id": "ch10-18",
+      "japanese": "いや、ぼく が つくる！",
+      "imagePrompt": "Moomintroll declares he will build the next boat himself. He picks up a piece of driftwood from the river and holds it like a plank. Moomintroll with driftwood declaring future plans. Medium shot, eye-level. Bright ambitious afternoon light, determined declaration mood.",
+      "readings": []
+    },
+    {
+      "id": "ch10-19",
+      "japanese": "こんな 顔！",
+      "imagePrompt": "Sniff makes a funny surprised face as the boat hits a small wave, and everyone laughs. Water splashes slightly over the side. Sniff's funny face as the boat bounces. Close-up, eye-level. Bright splashing river light, comedic surprise mood.",
+      "readings": [
+        {
+          "surface": "顔",
+          "reading": "かお"
+        }
+      ]
+    },
+    {
+      "id": "ch10-20",
+      "japanese": "今日 は ほんとう に いい ね。",
+      "imagePrompt": "The boat drifts gently on the calm river as the sun begins to set. Everyone sits quietly, satisfied. The valley glows golden around them. Peaceful boat on the evening river. Wide shot, slightly elevated. Golden sunset river light, perfect day contemplation mood.",
+      "readings": [
+        {
+          "surface": "今日",
+          "reading": "きょう"
+        }
+      ]
+    },
+    {
+      "id": "ch10-21",
+      "japanese": "ありがとう。今日 の 船 は いい 船 だ。",
+      "imagePrompt": "The boat tied up at the riverbank at sunset. The family walks back toward the house, looking back at their new boat one more time. Family walking home, looking back at the boat. Medium-wide shot, eye-level. Deep golden sunset light, satisfying conclusion mood.",
+      "readings": [
+        {
+          "surface": "今日",
+          "reading": "きょう"
+        },
+        {
+          "surface": "船",
+          "reading": "ふね"
+        },
+        {
+          "surface": "船",
+          "reading": "ふね"
+        }
+      ]
+    },
+    {
+      "id": "ch10-22",
+      "japanese": "みんな の 顔 が いい。",
+      "imagePrompt": "Final view of the whole family's happy faces in the last light of day. Moomintroll, Moominmamma, Moominpappa, Sniff — all content and glowing. Family faces in golden light. Medium group shot, eye-level. Warm golden last-light, joyful togetherness mood.",
+      "readings": [
+        {
+          "surface": "顔",
+          "reading": "かお"
+        }
+      ]
+    },
+    {
+      "id": "ch10-23",
+      "japanese": "いい もの だ ね。待つ よ。",
+      "imagePrompt": "Night falls over the valley. The new boat sits at the riverbank under stars, ready for tomorrow's adventure. Moonlight reflects off the river. The boat at rest under moonlight. Wide shot, slightly elevated. Silver moonlight on still water, peaceful patience mood.",
+      "readings": [
+        {
+          "surface": "待つ",
+          "reading": "まつ"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 23,
+      "newLemmaUsage": {
+        "ありがとう": 3,
+        "いや": 3,
+        "かお": 4,
+        "こんな": 3,
+        "つくる": 5,
+        "のる": 3,
+        "まつ": 3,
+        "今日": 4
+      }
+    }
+  }
+}

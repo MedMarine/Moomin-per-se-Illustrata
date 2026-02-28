@@ -1,0 +1,748 @@
+{
+  "chapter": 35,
+  "title": "砂 の 事件",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "山腹の洞穴",
+    "description": "Dark cave entrance in a grassy hillside. Inside: damp walls with black tar streaks. Light filters in from the entrance.",
+    "characters": [
+      "ムーミン",
+      "フローレン",
+      "ニンニ"
+    ],
+    "props": []
+  },
+  "newLemmas": [
+    "砂",
+    "俺",
+    "潜る",
+    "鋸",
+    "タール",
+    "鬼",
+    "危ない",
+    "事件"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あるく",
+    "あれ",
+    "い",
+    "いい",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いっぱい",
+    "いつ",
+    "いや",
+    "いらっしゃる",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "およぐ",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "すむ",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たって",
+    "たつ",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とにかく",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なく",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "やれ",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "タール",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "ハート",
+    "パパ",
+    "パンケーキ",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "上がる",
+    "上る",
+    "下",
+    "下さる",
+    "不",
+    "事件",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "伯母",
+    "修理",
+    "俺",
+    "兄",
+    "先",
+    "出発",
+    "切手",
+    "別",
+    "利く",
+    "前",
+    "助ける",
+    "動く",
+    "化け物",
+    "危ない",
+    "取る",
+    "回",
+    "地獄",
+    "場所",
+    "壊れる",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "天才",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "実",
+    "客",
+    "少し",
+    "嵐",
+    "川",
+    "度",
+    "張る",
+    "御覧",
+    "必要",
+    "忘れる",
+    "怒る",
+    "怖い",
+    "悪い",
+    "戻る",
+    "手",
+    "手伝う",
+    "拾う",
+    "捨てる",
+    "教える",
+    "日",
+    "明日",
+    "昨日",
+    "時間",
+    "書く",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次回",
+    "止める",
+    "此奴",
+    "毒",
+    "気圧",
+    "水",
+    "海岸",
+    "漕ぐ",
+    "潜る",
+    "無くなる",
+    "王",
+    "珍しい",
+    "目",
+    "知れる",
+    "砂",
+    "確か",
+    "秒",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "結ぶ",
+    "絶対",
+    "考える",
+    "聞こえる",
+    "自信",
+    "自分",
+    "花",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "話",
+    "調子",
+    "起こる",
+    "足",
+    "辺",
+    "返す",
+    "追う",
+    "通り",
+    "連れる",
+    "違う",
+    "部屋",
+    "鋸",
+    "間",
+    "降る",
+    "随分",
+    "隠れる",
+    "集める",
+    "雨",
+    "非",
+    "面白い",
+    "頭",
+    "風",
+    "飛行",
+    "飾り",
+    "髪の毛",
+    "鬼",
+    "鼾",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch35-01",
+      "japanese": "また あの 場所 に きた。",
+      "imagePrompt": "The group returns to the hillside cave entrance. They came to the cave again! The dark opening awaits. Determination on their faces. Group at the cave entrance again. Medium shot, eye-level. Warm afternoon light at cave mouth, returning mood.",
+      "readings": [
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        }
+      ]
+    },
+    {
+      "id": "ch35-02",
+      "japanese": "砂 が ある。",
+      "imagePrompt": "Inside the cave, the floor is covered with fine sand. There is sand! It crunches underfoot. The sand spreads deep into the cave. Sandy cave floor. Medium close-up, slightly elevated. Dim cave light, noticing sand mood.",
+      "readings": [
+        {
+          "surface": "砂",
+          "reading": "すな"
+        }
+      ]
+    },
+    {
+      "id": "ch35-03",
+      "japanese": "なに か が 砂 の なか に いる。",
+      "imagePrompt": "Something moves under the sand — a ripple crosses the surface. Something is in the sand! Everyone freezes. The movement is slow but definite. Ripple in the cave sand. Medium close-up, eye-level. Dim tense cave light, hidden creature mood.",
+      "readings": [
+        {
+          "surface": "砂",
+          "reading": "すな"
+        }
+      ]
+    },
+    {
+      "id": "ch35-04",
+      "japanese": "砂 の 上 を あるいた。",
+      "imagePrompt": "Moomintroll walks carefully across the sand, leaving footprints. He walked on the sand! Each step sinks slightly. The sand is deep and soft. Footprints in the cave sand. Medium shot, eye-level. Dim cautious cave light, careful walking mood.",
+      "readings": [
+        {
+          "surface": "砂",
+          "reading": "すな"
+        },
+        {
+          "surface": "上",
+          "reading": "うえ"
+        }
+      ]
+    },
+    {
+      "id": "ch35-05",
+      "japanese": "「俺 だ！」 と 言った。",
+      "imagePrompt": "A gruff voice echoes from the darkness of the cave. It is me! A rough, deep voice. Everyone jumps. The voice comes from deeper inside. Everyone startled by a voice in the cave. Medium shot, eye-level. Dark startling cave light, sudden voice mood.",
+      "readings": [
+        {
+          "surface": "俺",
+          "reading": "おれ"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch35-06",
+      "japanese": "俺 が やる。",
+      "imagePrompt": "A shadowy figure steps forward from the darkness, declaring it will handle things. I will do it! The figure is large and rough-looking. Sand crunches under heavy feet. Shadowy figure stepping forward. Medium shot, eye-level. Dark imposing cave light, claiming authority mood.",
+      "readings": [
+        {
+          "surface": "俺",
+          "reading": "おれ"
+        }
+      ]
+    },
+    {
+      "id": "ch35-07",
+      "japanese": "「俺 は ここ に 住んでいる。」 と 言った。",
+      "imagePrompt": "The figure reveals itself as a gruff cave-dweller. I live here! His eyes gleam in the dim light. He crosses his arms. Cave-dweller with gleaming eyes. Medium shot, eye-level. Dim territorial cave light, resident declaration mood.",
+      "readings": [
+        {
+          "surface": "俺",
+          "reading": "おれ"
+        },
+        {
+          "surface": "住ん",
+          "reading": "すん"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch35-08",
+      "japanese": "下 に 潜った。",
+      "imagePrompt": "Moomintroll crouches at a low rock shelf in the cave, peering into the space below. He is about to go under! His face is determined, one hand on the rock edge. A lantern on the ground beside him lights his face. Moomintroll crouching at a rock shelf. Medium shot, eye-level. Warm lantern light on Moomintroll's face, adventurous anticipation mood.",
+      "readings": [
+        {
+          "surface": "下",
+          "reading": "した"
+        },
+        {
+          "surface": "潜っ",
+          "reading": "もぐっ"
+        }
+      ]
+    },
+    {
+      "id": "ch35-09",
+      "japanese": "潜る の は 危ない。",
+      "imagePrompt": "Papa calls out a warning — diving under the rocks is dangerous! The shelf could collapse. Stones crumble from the edge. Papa warning about danger. Medium shot, eye-level. Dim warning cave light, cautioning mood.",
+      "readings": [
+        {
+          "surface": "潜る",
+          "reading": "もぐる"
+        },
+        {
+          "surface": "危ない",
+          "reading": "あぶない"
+        }
+      ]
+    },
+    {
+      "id": "ch35-10",
+      "japanese": "水 に 潜った。",
+      "imagePrompt": "Moomintroll kneels at the edge of a clear pool in the cave, peering into the water below. He went under the water! The pool glows faintly with reflected lantern light. His face is lit by the water's blue-green shimmer. Moomintroll at the edge of a cave pool. Medium shot, eye-level. Warm lantern light reflecting off clear water, underwater exploration mood.",
+      "readings": [
+        {
+          "surface": "水",
+          "reading": "みず"
+        },
+        {
+          "surface": "潜っ",
+          "reading": "もぐっ"
+        }
+      ]
+    },
+    {
+      "id": "ch35-11",
+      "japanese": "パパ の 鋸 だ。",
+      "imagePrompt": "Papa produces a small saw from his pack — he brought it for cutting through obstacles. Papa's saw! The metal blade glints in the dim cave light. Papa holding a saw. Medium close-up, eye-level. Dim metallic-glint light, tool-ready mood.",
+      "readings": [
+        {
+          "surface": "鋸",
+          "reading": "のこぎり"
+        }
+      ]
+    },
+    {
+      "id": "ch35-12",
+      "japanese": "鋸 が ある。",
+      "imagePrompt": "Papa sets the saw down on a flat rock. There is a saw! Ready for use. The teeth are sharp despite the old handle. Saw on a flat rock. Medium close-up, eye-level. Dim practical cave light, tool-available mood.",
+      "readings": [
+        {
+          "surface": "鋸",
+          "reading": "のこぎり"
+        }
+      ]
+    },
+    {
+      "id": "ch35-13",
+      "japanese": "鋸 を もっている。",
+      "imagePrompt": "Papa holds the saw firmly, ready to cut through a wooden barrier blocking a passage. He has the saw! His grip is confident. The barrier is old and rotten. Papa gripping the saw at a barrier. Medium shot, eye-level. Dim determined cave light, ready-to-cut mood.",
+      "readings": [
+        {
+          "surface": "鋸",
+          "reading": "のこぎり"
+        }
+      ]
+    },
+    {
+      "id": "ch35-14",
+      "japanese": "タール が ある。",
+      "imagePrompt": "Black streaks of tar cover the cave walls. There is tar! Thick, dark, and sticky-looking. It has been here for ages. The walls shine darkly. Tar streaks on cave walls. Medium close-up, eye-level. Dim dark-gleaming light, tar discovery mood.",
+      "readings": []
+    },
+    {
+      "id": "ch35-15",
+      "japanese": "タール みたい だ。",
+      "imagePrompt": "Snufkin touches the dark substance on the wall and rubs his fingers together. Seems like tar! His fingertips are stained black. The substance is indeed thick and oily. Snufkin testing the dark substance. Medium close-up, eye-level. Dim analytical light, identification mood.",
+      "readings": []
+    },
+    {
+      "id": "ch35-16",
+      "japanese": "タール の なか に はいった。",
+      "imagePrompt": "The passage narrows and the walls are coated with tar. They entered the tar section! Everyone squeezes through carefully, trying not to touch the walls. Group squeezing through tar-coated passage. Medium shot, eye-level. Dim sticky-dark light, navigating carefully mood.",
+      "readings": []
+    },
+    {
+      "id": "ch35-17",
+      "japanese": "飛行鬼 の 場所 だ。",
+      "imagePrompt": "Snufkin holds a lantern up to the cave wall, illuminating strange carved symbols. This is the Hobgoblin's place! The lantern light reveals the markings clearly. Snufkin's face is lit by the warm glow, his expression serious. Snufkin with lantern at carved wall symbols. Medium close-up, eye-level. Warm lantern light on wall carvings against dark cave, ominous recognition mood.",
+      "readings": [
+        {
+          "surface": "飛行",
+          "reading": "ひこう"
+        },
+        {
+          "surface": "鬼",
+          "reading": "き"
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        }
+      ]
+    },
+    {
+      "id": "ch35-18",
+      "japanese": "あの 飛行鬼 は すごい。",
+      "imagePrompt": "Papa speaks in awe about the Hobgoblin, gesturing at the massive carved symbols on the wall. That Hobgoblin is amazing! Lantern light catches the enormous scale of the carvings above. Papa's face is upturned, lit warmly from below. Papa gazing at massive wall carvings. Medium shot, eye-level. Warm lantern light illuminating grand carvings, awe-inspiring mood.",
+      "readings": [
+        {
+          "surface": "飛行",
+          "reading": "ひこう"
+        },
+        {
+          "surface": "鬼",
+          "reading": "き"
+        }
+      ]
+    },
+    {
+      "id": "ch35-19",
+      "japanese": "飛行鬼 が きた かもしれない。",
+      "imagePrompt": "A distant rumbling echoes through the cave. The Hobgoblin might have come! Everyone freezes. Is the owner returning? Fear and excitement mix. Group frozen, listening to rumbling. Medium shot, eye-level. Dark frightened cave light, uncertain presence mood.",
+      "readings": [
+        {
+          "surface": "飛行",
+          "reading": "ひこう"
+        },
+        {
+          "surface": "鬼",
+          "reading": "き"
+        }
+      ]
+    },
+    {
+      "id": "ch35-20",
+      "japanese": "危ない！",
+      "imagePrompt": "Rocks start falling from the ceiling! Dangerous! Papa pushes everyone toward the exit. Dust fills the air. Small stones bounce around them. Rocks falling from the ceiling. Medium shot, eye-level. Dark urgent cave light, immediate danger mood.",
+      "readings": [
+        {
+          "surface": "危ない",
+          "reading": "あぶない"
+        }
+      ]
+    },
+    {
+      "id": "ch35-21",
+      "japanese": "危ない 場所 だ。",
+      "imagePrompt": "Moomintroll and Papa emerge from the cave mouth into daylight, dust on their shoulders. A dangerous place! Behind them, pebbles still fall from the crumbling cave ceiling. Relief and alarm on their faces. Moomintroll and Papa emerging from cave into light. Medium shot, eye-level. Bright outdoor light on faces, dust behind them, narrow escape mood.",
+      "readings": [
+        {
+          "surface": "危ない",
+          "reading": "あぶない"
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        }
+      ]
+    },
+    {
+      "id": "ch35-22",
+      "japanese": "ここ は 危ない。",
+      "imagePrompt": "Outside the cave, everyone catches their breath. It is dangerous here! The cave entrance rumbles behind them. They are safe now but shaken. Group catching breath outside the cave. Medium shot, eye-level. Bright relieved outdoor light, recovering-from-danger mood.",
+      "readings": [
+        {
+          "surface": "危ない",
+          "reading": "あぶない"
+        }
+      ]
+    },
+    {
+      "id": "ch35-23",
+      "japanese": "すごい 事件 だ ね。",
+      "imagePrompt": "Everyone talks excitedly about what happened. An amazing incident! The Hobgoblin's cave, the tar, the falling rocks — what an adventure. Excited faces. Group talking excitedly outside. Medium shot, eye-level. Bright animated outdoor light, recounting excitement mood.",
+      "readings": [
+        {
+          "surface": "事件",
+          "reading": "じけん"
+        }
+      ]
+    },
+    {
+      "id": "ch35-24",
+      "japanese": "事件 が 起こった。",
+      "imagePrompt": "Moomintroll describes the adventure to himself — an incident occurred! He will remember this forever. His eyes shine with the thrill. Moomintroll with shining eyes. Medium close-up, eye-level. Bright reflective outdoor light, memorable experience mood.",
+      "readings": [
+        {
+          "surface": "事件",
+          "reading": "じけん"
+        },
+        {
+          "surface": "起こっ",
+          "reading": "おこっ"
+        }
+      ]
+    },
+    {
+      "id": "ch35-25",
+      "japanese": "事件 の あと で 帰る。",
+      "imagePrompt": "The group heads back toward the shore. After the incident, they go home! The cave adventure is over for now. They walk through the afternoon sun. Group heading toward the shore. Medium-wide shot, eye-level. Warm golden afternoon light, returning-home mood.",
+      "readings": [
+        {
+          "surface": "事件",
+          "reading": "じけん"
+        },
+        {
+          "surface": "帰る",
+          "reading": "かえる"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 25,
+      "newLemmaUsage": {
+        "タール": 3,
+        "事件": 3,
+        "俺": 3,
+        "危ない": 4,
+        "潜る": 3,
+        "砂": 3,
+        "鋸": 3,
+        "鬼": 3
+      }
+    }
+  }
+}

@@ -1,0 +1,699 @@
+{
+  "chapter": 38,
+  "title": "パーティー の 夜",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "ムーミンやしきの台所（パーティー準備）",
+    "description": "The Moomin kitchen in festive chaos. Decorations half-hung, doors open. Characters carry supplies.",
+    "characters": [
+      "ムーミン",
+      "ママ",
+      "スニフ",
+      "フローレン"
+    ],
+    "props": []
+  },
+  "newLemmas": [
+    "茶",
+    "パーティー",
+    "そう-伝聞",
+    "眠る",
+    "友達",
+    "木苺",
+    "いいえ",
+    "勝手"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "あら",
+    "ありがとう",
+    "ある",
+    "あるく",
+    "あれ",
+    "い",
+    "いい",
+    "いいえ",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いっぱい",
+    "いつ",
+    "いや",
+    "いらっしゃる",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "えーと",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "およぐ",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "すむ",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そう-伝聞",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たって",
+    "たつ",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちいさな",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とにかく",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なく",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はなす",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "やれ",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "タール",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "ハート",
+    "パパ",
+    "パンケーキ",
+    "パーティー",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "上がる",
+    "上る",
+    "下",
+    "下さる",
+    "不",
+    "中身",
+    "事件",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "伯母",
+    "修理",
+    "俺",
+    "優しい",
+    "兄",
+    "先",
+    "出発",
+    "切手",
+    "別",
+    "利く",
+    "前",
+    "助ける",
+    "動く",
+    "勝手",
+    "化け物",
+    "危ない",
+    "友達",
+    "取る",
+    "回",
+    "地獄",
+    "場所",
+    "壊れる",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "大事",
+    "天才",
+    "夫婦",
+    "女王",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "実",
+    "客",
+    "少し",
+    "嵐",
+    "川",
+    "度",
+    "張る",
+    "御覧",
+    "必要",
+    "忘れる",
+    "怒る",
+    "怖い",
+    "悪い",
+    "戻る",
+    "手",
+    "手伝う",
+    "拾う",
+    "捨てる",
+    "教える",
+    "日",
+    "明日",
+    "昨日",
+    "時間",
+    "書く",
+    "木苺",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次回",
+    "止める",
+    "此奴",
+    "毒",
+    "気圧",
+    "気持ち",
+    "水",
+    "波",
+    "洞穴",
+    "海岸",
+    "済む",
+    "漕ぐ",
+    "潜る",
+    "無くなる",
+    "王",
+    "珍しい",
+    "痛い",
+    "目",
+    "眠る",
+    "知れる",
+    "砂",
+    "確か",
+    "秒",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "結ぶ",
+    "絶対",
+    "考える",
+    "聞き出す",
+    "聞こえる",
+    "自信",
+    "自分",
+    "花",
+    "茶",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "話",
+    "調子",
+    "起こる",
+    "足",
+    "辺",
+    "返す",
+    "追う",
+    "通り",
+    "連れる",
+    "違う",
+    "邪魔",
+    "部屋",
+    "鋸",
+    "間",
+    "降る",
+    "随分",
+    "隠れる",
+    "集める",
+    "雨",
+    "非",
+    "面白い",
+    "頭",
+    "風",
+    "飛行",
+    "飾り",
+    "髪の毛",
+    "鬼",
+    "鼾",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch38-01",
+      "japanese": "パーティー が ある。",
+      "imagePrompt": "The Moomin house kitchen is decorated for a party! Colorful streamers hang from the ceiling. Mama sets the table. Excitement fills the air. Decorated kitchen for a party. Medium-wide shot, eye-level. Bright festive light, party preparation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch38-02",
+      "japanese": "パーティー を する。",
+      "imagePrompt": "Mama claps her hands — let's have a party! Everyone cheers. Plates and cups are set out. The kitchen bustles with activity. Mama announcing the party. Medium shot, eye-level. Bright cheerful light, party initiation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch38-03",
+      "japanese": "楽しい パーティー だ ね。",
+      "imagePrompt": "The party is in full swing — laughter, food, and decorations everywhere. A fun party! Everyone is smiling and eating. The kitchen glows with warmth. Party in full swing. Medium-wide shot, eye-level. Warm joyful party light, celebration mood.",
+      "readings": [
+        {
+          "surface": "楽しい",
+          "reading": "たのしい"
+        }
+      ]
+    },
+    {
+      "id": "ch38-04",
+      "japanese": "お 茶 を のむ。",
+      "imagePrompt": "Mama pours tea into pretty cups for everyone. Drinking tea! Steam rises from each cup. The cups have flower patterns. Mama pouring tea. Medium close-up, eye-level. Warm domestic light, tea-serving mood.",
+      "readings": [
+        {
+          "surface": "茶",
+          "reading": "ちゃ"
+        }
+      ]
+    },
+    {
+      "id": "ch38-05",
+      "japanese": "友達 と 茶 を のんだ。",
+      "imagePrompt": "The couple from the previous visit sips their tea contentedly. Tea is good! The flavor is perfect. They nod appreciatively to Mama. Guests sipping tea. Medium shot, eye-level. Warm satisfied light, enjoying tea mood.",
+      "readings": [
+        {
+          "surface": "友達",
+          "reading": "ともだち"
+        },
+        {
+          "surface": "茶",
+          "reading": "ちゃ"
+        }
+      ]
+    },
+    {
+      "id": "ch38-06",
+      "japanese": "お 茶 を いれた。",
+      "imagePrompt": "Mama made tea! The pot is full and fresh. She carries it to the table with both hands. The aroma fills the kitchen. Mama carrying the teapot. Medium shot, eye-level. Warm aromatic light, freshly brewed mood.",
+      "readings": [
+        {
+          "surface": "茶",
+          "reading": "ちゃ"
+        }
+      ]
+    },
+    {
+      "id": "ch38-07",
+      "japanese": "友達 が きた。",
+      "imagePrompt": "More friends arrive at the door for the party. A friend came! Snufkin appears with his harmonica. Moomintroll runs to greet him. Snufkin arriving at the door. Medium shot, eye-level. Bright welcoming light, friend arriving mood.",
+      "readings": [
+        {
+          "surface": "友達",
+          "reading": "ともだち"
+        }
+      ]
+    },
+    {
+      "id": "ch38-08",
+      "japanese": "友達 を よんだ。",
+      "imagePrompt": "Moomintroll called all his friends for the party. He invited friends! Everyone he knows was told to come. The house fills with voices. Moomintroll welcoming friends at the door. Medium shot, eye-level. Warm inviting light, gathering friends mood.",
+      "readings": [
+        {
+          "surface": "友達",
+          "reading": "ともだち"
+        }
+      ]
+    },
+    {
+      "id": "ch38-09",
+      "japanese": "ムーミン の 友達 だ。",
+      "imagePrompt": "Moomintroll stands proudly among his gathered friends. Moomin's friends! He knows so many wonderful people. The room is crowded and happy. Moomintroll among friends. Medium shot, eye-level. Warm proud light, surrounded by friends mood.",
+      "readings": [
+        {
+          "surface": "友達",
+          "reading": "ともだち"
+        }
+      ]
+    },
+    {
+      "id": "ch38-10",
+      "japanese": "木苺 が ある。",
+      "imagePrompt": "A bowl of fresh wild strawberries sits on the table, bright red and fragrant. There are wild strawberries! Mama picked them that morning. The berries glisten. Bowl of wild strawberries. Medium close-up, eye-level. Warm berry-red light, fresh produce mood.",
+      "readings": [
+        {
+          "surface": "木苺",
+          "reading": "きいちご"
+        }
+      ]
+    },
+    {
+      "id": "ch38-11",
+      "japanese": "この 木苺 を 食べた。",
+      "imagePrompt": "Everyone eats the sweet wild strawberries. They ate wild strawberries! Juice stains fingers and lips. The flavor is incredible. Everyone eating wild strawberries. Medium shot, eye-level. Warm sweet light, enjoying berries mood.",
+      "readings": [
+        {
+          "surface": "木苺",
+          "reading": "きいちご"
+        },
+        {
+          "surface": "食べ",
+          "reading": "たべ"
+        }
+      ]
+    },
+    {
+      "id": "ch38-12",
+      "japanese": "木苺 の ジュース だ。",
+      "imagePrompt": "Mama also made wild strawberry juice. Wild strawberry juice! The pink drink sparkles in glasses. Children reach eagerly for the glasses. Pink juice in glasses. Medium close-up, eye-level. Warm pink-tinted light, special drink mood.",
+      "readings": [
+        {
+          "surface": "木苺",
+          "reading": "きいちご"
+        }
+      ]
+    },
+    {
+      "id": "ch38-13",
+      "japanese": "友達 が くる そう だ。",
+      "imagePrompt": "Moomintroll hears that more friends are coming. They say friends are coming! He heard the news and his eyes light up. More company expected. Moomintroll hearing good news. Medium close-up, eye-level. Bright anticipatory light, hearsay excitement mood.",
+      "readings": [
+        {
+          "surface": "友達",
+          "reading": "ともだち"
+        }
+      ]
+    },
+    {
+      "id": "ch38-14",
+      "japanese": "降る そう だ。",
+      "imagePrompt": "Someone mentions it might rain tonight. They say it will rain! Dark clouds gather outside the kitchen window. But the party is inside, safe and warm. Dark clouds through the window. Medium shot, eye-level. Contrast warm interior/grey exterior light, weather hearsay mood.",
+      "readings": [
+        {
+          "surface": "降る",
+          "reading": "ふる"
+        }
+      ]
+    },
+    {
+      "id": "ch38-15",
+      "japanese": "きた そう だ。",
+      "imagePrompt": "Word spreads that Snufkin has arrived. They say he came! The news passes from person to person. Excitement ripples through the party. People whispering the news. Medium shot, eye-level. Warm whispering light, news spreading mood.",
+      "readings": []
+    },
+    {
+      "id": "ch38-16",
+      "japanese": "もう 眠った。",
+      "imagePrompt": "Sniff has fallen asleep on the couch in the middle of the party. He already fell asleep! His head droops. A half-eaten strawberry still in his hand. Sniff asleep on the couch. Medium close-up, eye-level. Warm drowsy light, fallen asleep mood.",
+      "readings": [
+        {
+          "surface": "眠っ",
+          "reading": "ねむっ"
+        }
+      ]
+    },
+    {
+      "id": "ch38-17",
+      "japanese": "眠る の は まだ だめ だ。",
+      "imagePrompt": "Mama gently shakes Sniff — it is too early to sleep. Sleeping is not allowed yet! The party is not over. Sniff blinks groggily. Mama shaking Sniff awake. Medium shot, eye-level. Warm admonishing light, too-early-to-sleep mood.",
+      "readings": [
+        {
+          "surface": "眠る",
+          "reading": "ねむる"
+        }
+      ]
+    },
+    {
+      "id": "ch38-18",
+      "japanese": "眠っている。",
+      "imagePrompt": "Despite Mama's efforts, Sniff has dozed off again. He is sleeping! His steady breathing is audible. A blanket appears over him. Sniff sleeping with a blanket. Medium close-up, eye-level. Warm peaceful light, giving-up-and-sleeping mood.",
+      "readings": [
+        {
+          "surface": "眠っ",
+          "reading": "ねむっ"
+        }
+      ]
+    },
+    {
+      "id": "ch38-19",
+      "japanese": "いいえ、ちがう。",
+      "imagePrompt": "Mama shakes her head firmly at a suggestion. No, that is wrong! Her response is clear. She has a different idea for the party. Mama shaking her head firmly. Medium close-up, eye-level. Warm firm light, polite disagreement mood.",
+      "readings": []
+    },
+    {
+      "id": "ch38-20",
+      "japanese": "いいえ！",
+      "imagePrompt": "Mama says no to Sniff taking more strawberries before dinner. No! Her voice is firm but kind. Sniff's reaching hand pauses. Mama stopping Sniff from taking berries. Medium shot, eye-level. Warm firm light, clear refusal mood.",
+      "readings": []
+    },
+    {
+      "id": "ch38-21",
+      "japanese": "いいえ、だめ だ。",
+      "imagePrompt": "Papa tries to eat the decorative cake early. No, that is not allowed! Mama guards the cake. It is for later. Papa looks disappointed. Mama guarding the cake. Medium shot, eye-level. Warm amused-firm light, protecting the cake mood.",
+      "readings": []
+    },
+    {
+      "id": "ch38-22",
+      "japanese": "勝手 に する な。",
+      "imagePrompt": "Mama scolds someone for acting without asking. Do not do as you please! Rules matter even at a party. She wags her finger. Mama wagging her finger. Medium close-up, eye-level. Warm scolding light, setting boundaries mood.",
+      "readings": [
+        {
+          "surface": "勝手",
+          "reading": "かって"
+        }
+      ]
+    },
+    {
+      "id": "ch38-23",
+      "japanese": "スニフ は 勝手 だ。",
+      "imagePrompt": "Sniff has helped himself to cake anyway. Selfish! Crumbs on his face. He shrugs unapologetically. Mama sighs. Sniff with cake crumbs on his face. Medium close-up, eye-level. Warm exasperated light, caught-being-selfish mood.",
+      "readings": [
+        {
+          "surface": "勝手",
+          "reading": "かって"
+        }
+      ]
+    },
+    {
+      "id": "ch38-24",
+      "japanese": "勝手 な こと を しない で。",
+      "imagePrompt": "Papa addresses the whole room. Do not do selfish things! The party is for everyone to enjoy together. His voice carries authority. Papa addressing the room. Medium shot, eye-level. Warm authoritative light, group reminder mood.",
+      "readings": [
+        {
+          "surface": "勝手",
+          "reading": "かって"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 24,
+      "newLemmaUsage": {
+        "いいえ": 3,
+        "そう-伝聞": 3,
+        "パーティー": 3,
+        "勝手": 3,
+        "友達": 5,
+        "木苺": 3,
+        "眠る": 3,
+        "茶": 3
+      }
+    }
+  }
+}

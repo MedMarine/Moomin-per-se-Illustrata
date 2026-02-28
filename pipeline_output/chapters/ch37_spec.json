@@ -1,0 +1,699 @@
+{
+  "chapter": 37,
+  "title": "ちいさな 波",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "ムーミンやしきの居間（静かな午後）",
+    "description": "Quiet afternoon in the Moomin house. Tea set on the table, steam rising from cups.",
+    "characters": [
+      "ムーミン",
+      "ママ",
+      "フローレン",
+      "スニフ"
+    ],
+    "props": []
+  },
+  "newLemmas": [
+    "あら",
+    "波",
+    "済む",
+    "洞穴",
+    "女王",
+    "大事",
+    "ちいさな",
+    "痛い"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "あら",
+    "ありがとう",
+    "ある",
+    "あるく",
+    "あれ",
+    "い",
+    "いい",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いっぱい",
+    "いつ",
+    "いや",
+    "いらっしゃる",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "えーと",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "およぐ",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "すむ",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たって",
+    "たつ",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちいさな",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とにかく",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なく",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はなす",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "やれ",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "タール",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "ハート",
+    "パパ",
+    "パンケーキ",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "上がる",
+    "上る",
+    "下",
+    "下さる",
+    "不",
+    "中身",
+    "事件",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "伯母",
+    "修理",
+    "俺",
+    "優しい",
+    "兄",
+    "先",
+    "出発",
+    "切手",
+    "別",
+    "利く",
+    "前",
+    "助ける",
+    "動く",
+    "化け物",
+    "危ない",
+    "取る",
+    "回",
+    "地獄",
+    "場所",
+    "壊れる",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "大事",
+    "天才",
+    "夫婦",
+    "女王",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "実",
+    "客",
+    "少し",
+    "嵐",
+    "川",
+    "度",
+    "張る",
+    "御覧",
+    "必要",
+    "忘れる",
+    "怒る",
+    "怖い",
+    "悪い",
+    "戻る",
+    "手",
+    "手伝う",
+    "拾う",
+    "捨てる",
+    "教える",
+    "日",
+    "明日",
+    "昨日",
+    "時間",
+    "書く",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次回",
+    "止める",
+    "此奴",
+    "毒",
+    "気圧",
+    "気持ち",
+    "水",
+    "波",
+    "洞穴",
+    "海岸",
+    "済む",
+    "漕ぐ",
+    "潜る",
+    "無くなる",
+    "王",
+    "珍しい",
+    "痛い",
+    "目",
+    "知れる",
+    "砂",
+    "確か",
+    "秒",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "結ぶ",
+    "絶対",
+    "考える",
+    "聞き出す",
+    "聞こえる",
+    "自信",
+    "自分",
+    "花",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "話",
+    "調子",
+    "起こる",
+    "足",
+    "辺",
+    "返す",
+    "追う",
+    "通り",
+    "連れる",
+    "違う",
+    "邪魔",
+    "部屋",
+    "鋸",
+    "間",
+    "降る",
+    "随分",
+    "隠れる",
+    "集める",
+    "雨",
+    "非",
+    "面白い",
+    "頭",
+    "風",
+    "飛行",
+    "飾り",
+    "髪の毛",
+    "鬼",
+    "鼾",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch37-01",
+      "japanese": "あら、みんな が きた。",
+      "imagePrompt": "Mama enters the quiet tea room and sees a tea set already prepared. Oh, there is tea! Steam rises from the pot. The afternoon is warm and peaceful. Mama finding tea already prepared. Medium shot, eye-level. Warm quiet afternoon light, pleasant surprise mood.",
+      "readings": []
+    },
+    {
+      "id": "ch37-02",
+      "japanese": "あら！",
+      "imagePrompt": "Mama gasps at something she sees through the window — a beautiful butterfly has landed on the sill. Oh! A moment of pure surprise and delight. Mama gasping at a butterfly. Medium close-up, eye-level. Bright surprised afternoon light, delighted exclamation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch37-03",
+      "japanese": "あら、大事 な こと だ。",
+      "imagePrompt": "Mama listens seriously to Moomintroll's account of the cave adventure. Oh, that is an important thing! Her expression turns concerned. She puts down her tea. Mama listening seriously. Medium shot, eye-level. Warm concerned light, realizing importance mood.",
+      "readings": [
+        {
+          "surface": "大事",
+          "reading": "だいじ"
+        }
+      ]
+    },
+    {
+      "id": "ch37-04",
+      "japanese": "波 が きた。",
+      "imagePrompt": "Moomintroll describes the island — waves crashed on the shore! He gestures with his hands, showing the wave motion. His story brings the sea into the room. Moomintroll describing waves with gestures. Medium shot, eye-level. Warm storytelling light, animated narration mood.",
+      "readings": [
+        {
+          "surface": "波",
+          "reading": "なみ"
+        }
+      ]
+    },
+    {
+      "id": "ch37-05",
+      "japanese": "ちいさな 波 だ。",
+      "imagePrompt": "In the tea cup, a tiny wave ripples as Mama sets it down. A small wave! Even in the quiet room, there are little waves. The tea surface trembles. Tiny wave in the tea cup. Medium close-up, eye-level. Warm miniature light, small observation mood.",
+      "readings": [
+        {
+          "surface": "波",
+          "reading": "なみ"
+        }
+      ]
+    },
+    {
+      "id": "ch37-06",
+      "japanese": "波 の なか で およいだ。",
+      "imagePrompt": "Moomintroll tells Mama about swimming in the island waves. He swam in the waves! His voice is proud. Mama nods and smiles. Moomintroll telling about swimming. Medium shot, eye-level. Warm proud light, recounting adventure mood.",
+      "readings": [
+        {
+          "surface": "波",
+          "reading": "なみ"
+        }
+      ]
+    },
+    {
+      "id": "ch37-07",
+      "japanese": "もう 済んだ。",
+      "imagePrompt": "Moomintroll finishes telling the cave story. It is already done! The tale is complete. He sits back with satisfaction. Mama absorbs the story. Moomintroll finished telling the story. Medium shot, eye-level. Warm concluded light, story-complete mood.",
+      "readings": [
+        {
+          "surface": "済ん",
+          "reading": "すん"
+        }
+      ]
+    },
+    {
+      "id": "ch37-08",
+      "japanese": "済んで よかった ね。",
+      "imagePrompt": "Mama sighs with relief that the adventure ended safely. It finished well! She places her hand over her heart. The danger is past. Mama relieved. Medium close-up, eye-level. Warm relieved light, grateful-for-safety mood.",
+      "readings": [
+        {
+          "surface": "済ん",
+          "reading": "すん"
+        }
+      ]
+    },
+    {
+      "id": "ch37-09",
+      "japanese": "済む まで まつ。",
+      "imagePrompt": "Sniff is still talking about his part of the adventure. Wait until it is finished! Moomintroll waits patiently for Sniff to finish. Tea gets cold. Moomintroll waiting for Sniff to finish. Medium shot, eye-level. Warm patient light, waiting mood.",
+      "readings": [
+        {
+          "surface": "済む",
+          "reading": "すむ"
+        }
+      ]
+    },
+    {
+      "id": "ch37-10",
+      "japanese": "あの 洞穴 は 危ない。",
+      "imagePrompt": "Mama expresses concern about the cave they explored. That cave is dangerous! Her maternal worry shows. She does not want them to go back. Mama looking worried. Medium close-up, eye-level. Warm worried light, maternal concern mood.",
+      "readings": [
+        {
+          "surface": "洞穴",
+          "reading": "ほらあな"
+        },
+        {
+          "surface": "危ない",
+          "reading": "あぶない"
+        }
+      ]
+    },
+    {
+      "id": "ch37-11",
+      "japanese": "洞穴 の なか に はいった。",
+      "imagePrompt": "Moomintroll describes entering the cave. They went inside the cave! He uses his hands to show the narrow entrance. Mama's eyes widen. Moomintroll describing the cave entrance. Medium shot, eye-level. Warm descriptive light, narrating entry mood.",
+      "readings": [
+        {
+          "surface": "洞穴",
+          "reading": "ほらあな"
+        }
+      ]
+    },
+    {
+      "id": "ch37-12",
+      "japanese": "洞穴 が あった。",
+      "imagePrompt": "The story includes finding the cave in the hillside. There was a cave! It appeared suddenly in the green slope. A discovery worth telling. Moomintroll telling about the cave. Medium shot, eye-level. Warm narrative light, recounting discovery mood.",
+      "readings": [
+        {
+          "surface": "洞穴",
+          "reading": "ほらあな"
+        }
+      ]
+    },
+    {
+      "id": "ch37-13",
+      "japanese": "女王 が いた かもしれない。",
+      "imagePrompt": "Moomintroll speculates about who lived in the cave. A queen might have been there! He imagines a regal figure in the cave's grandeur. Imagination fills his eyes. Moomintroll imagining a queen. Medium close-up, eye-level. Warm imaginative light, speculating mood.",
+      "readings": [
+        {
+          "surface": "女王",
+          "reading": "じょおう"
+        }
+      ]
+    },
+    {
+      "id": "ch37-14",
+      "japanese": "女王 の 場所 だ。",
+      "imagePrompt": "The cave was grand enough for royalty in Moomintroll's telling. A queen's place! He describes the high ceilings and carved walls. Mama listens, fascinated. Moomintroll describing a grand cave. Medium shot, eye-level. Warm fascinated light, regal description mood.",
+      "readings": [
+        {
+          "surface": "女王",
+          "reading": "じょおう"
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        }
+      ]
+    },
+    {
+      "id": "ch37-15",
+      "japanese": "女王 みたい だ。",
+      "imagePrompt": "Mama sits regally in her armchair, tea cup in hand. Like a queen! Moomintroll giggles at the comparison. Mama plays along with dignity. Mama sitting regally. Medium shot, eye-level. Warm amused light, playful comparison mood.",
+      "readings": [
+        {
+          "surface": "女王",
+          "reading": "じょおう"
+        }
+      ]
+    },
+    {
+      "id": "ch37-16",
+      "japanese": "大事 な こと だ。",
+      "imagePrompt": "Mama becomes serious — the children's safety is what matters most. An important thing! She looks at Moomintroll firmly. Safety comes first. Mama serious about safety. Medium close-up, eye-level. Warm serious light, emphasizing importance mood.",
+      "readings": [
+        {
+          "surface": "大事",
+          "reading": "だいじ"
+        }
+      ]
+    },
+    {
+      "id": "ch37-17",
+      "japanese": "大事 に する。",
+      "imagePrompt": "Moomintroll promises to take care. I will treasure it! He holds the strange stone from the cave carefully. Mama nods approvingly. Moomintroll holding the stone carefully. Medium close-up, eye-level. Warm careful light, cherishing mood.",
+      "readings": [
+        {
+          "surface": "大事",
+          "reading": "だいじ"
+        }
+      ]
+    },
+    {
+      "id": "ch37-18",
+      "japanese": "これ が 大事 だ。",
+      "imagePrompt": "Mama places her hand on Moomintroll's head. This is what matters! Family, safety, coming home. The quiet room feels full of love. Mama's hand on Moomintroll's head. Medium close-up, eye-level. Warm tender light, emphasizing what matters mood.",
+      "readings": [
+        {
+          "surface": "大事",
+          "reading": "だいじ"
+        }
+      ]
+    },
+    {
+      "id": "ch37-19",
+      "japanese": "あの ちいさな もの を みつけた。",
+      "imagePrompt": "Moomintroll shows Mama the small treasures found on the island — tiny shells, a smooth pebble, the cave stone. He found small things! Precious small objects on the table. Small treasures on the tea table. Medium close-up, eye-level. Warm admiring light, showing treasures mood.",
+      "readings": []
+    },
+    {
+      "id": "ch37-20",
+      "japanese": "ちいさな 子 が いる。",
+      "imagePrompt": "Through the window, small children play in the garden. Small children are there! Their laughter drifts in. The peaceful afternoon continues. Children playing in the garden through the window. Medium shot, eye-level. Warm peaceful light, observing children mood.",
+      "readings": [
+        {
+          "surface": "子",
+          "reading": "こ"
+        }
+      ]
+    },
+    {
+      "id": "ch37-21",
+      "japanese": "手 が 痛い。",
+      "imagePrompt": "Papa rubs his hand — it hurts from all the rowing. The hand hurts! His palm is red and blistered. Mama gets ointment. Papa rubbing his sore hand. Medium close-up, eye-level. Warm sympathetic light, acknowledging pain mood.",
+      "readings": [
+        {
+          "surface": "手",
+          "reading": "て"
+        },
+        {
+          "surface": "痛い",
+          "reading": "いたい"
+        }
+      ]
+    },
+    {
+      "id": "ch37-22",
+      "japanese": "痛い！",
+      "imagePrompt": "Papa winces as Mama applies ointment. Ouch! The medicine stings. He grits his teeth but holds still. A small sacrifice for the adventure. Papa wincing at medicine. Medium close-up, eye-level. Warm caring light, enduring treatment mood.",
+      "readings": [
+        {
+          "surface": "痛い",
+          "reading": "いたい"
+        }
+      ]
+    },
+    {
+      "id": "ch37-23",
+      "japanese": "痛い の は いや だ ね。",
+      "imagePrompt": "Sniff shakes his head — he does not like pain. Being in pain is awful! He wraps his own unblistered hands protectively. Mama smiles at his reaction. Sniff protecting his hands. Medium shot, eye-level. Warm amused-caring light, avoiding pain mood.",
+      "readings": [
+        {
+          "surface": "痛い",
+          "reading": "いたい"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 23,
+      "newLemmaUsage": {
+        "あら": 3,
+        "ちいさな": 3,
+        "大事": 4,
+        "女王": 3,
+        "波": 3,
+        "洞穴": 3,
+        "済む": 3,
+        "痛い": 3
+      }
+    }
+  }
+}

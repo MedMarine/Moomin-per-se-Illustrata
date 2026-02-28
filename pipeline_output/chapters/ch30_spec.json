@@ -1,0 +1,647 @@
+{
+  "chapter": 30,
+  "title": "化け物 の 夜",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "森のはずれ（夕方）",
+    "description": "Edge of the forest at dusk. Characters search for a rumored monster. Eerie but playful twilight atmosphere.",
+    "characters": [
+      "ムーミン",
+      "スニフ"
+    ],
+    "props": []
+  },
+  "newLemmas": [
+    "飾り",
+    "化け物",
+    "ハート",
+    "やれ",
+    "兄",
+    "なく",
+    "鼾",
+    "回"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いつ",
+    "いや",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たって",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なく",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "やれ",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "ハート",
+    "パパ",
+    "パンケーキ",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "下",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "伯母",
+    "修理",
+    "兄",
+    "先",
+    "切手",
+    "前",
+    "助ける",
+    "動く",
+    "化け物",
+    "取る",
+    "回",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "天才",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "少し",
+    "嵐",
+    "川",
+    "度",
+    "必要",
+    "忘れる",
+    "怖い",
+    "悪い",
+    "戻る",
+    "手",
+    "拾う",
+    "捨てる",
+    "教える",
+    "日",
+    "明日",
+    "昨日",
+    "時間",
+    "書く",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次回",
+    "止める",
+    "気圧",
+    "水",
+    "海岸",
+    "無くなる",
+    "珍しい",
+    "目",
+    "知れる",
+    "確か",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "絶対",
+    "考える",
+    "聞こえる",
+    "自信",
+    "自分",
+    "花",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "話",
+    "起こる",
+    "足",
+    "返す",
+    "追う",
+    "通り",
+    "違う",
+    "部屋",
+    "間",
+    "随分",
+    "隠れる",
+    "集める",
+    "雨",
+    "非",
+    "面白い",
+    "頭",
+    "風",
+    "飛行",
+    "飾り",
+    "鼾",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch30-01",
+      "japanese": "飾り が ある。",
+      "imagePrompt": "Decorations hang from trees at the edge of the forest — paper lanterns and ribbons left from a festival. They sway gently in the twilight breeze. An eerie but festive forest edge. Decorations on trees at dusk. Medium-wide shot, eye-level. Dim atmospheric twilight light, eerie-festive mood.",
+      "readings": [
+        {
+          "surface": "飾り",
+          "reading": "かざり"
+        }
+      ]
+    },
+    {
+      "id": "ch30-02",
+      "japanese": "きれい な 飾り だ。",
+      "imagePrompt": "Moomintroll touches one of the decorations — a beautiful paper lantern shaped like a star. It glows faintly in the fading light. Pretty but slightly spooky. Moomintroll touching a decoration. Medium close-up, eye-level. Warm glowing twilight light, beautiful-eerie mood.",
+      "readings": [
+        {
+          "surface": "飾り",
+          "reading": "かざり"
+        }
+      ]
+    },
+    {
+      "id": "ch30-03",
+      "japanese": "化け物 が いる？",
+      "imagePrompt": "Sniff clutches Moomintroll's arm, eyes wide. Is there a monster out there in the darkening forest? Shadows between the trees form unsettling shapes. Sniff clutching Moomintroll fearfully. Medium shot, eye-level. Dark uncertain twilight light, fearful questioning mood.",
+      "readings": [
+        {
+          "surface": "化け物",
+          "reading": "ばけもの"
+        }
+      ]
+    },
+    {
+      "id": "ch30-04",
+      "japanese": "「化け物！」 と 言った。",
+      "imagePrompt": "Sniff points into the forest and screams — a large shadow moves between the trees. Monster! But is it really? The shadow is ambiguous. Sniff pointing and screaming. Medium shot, eye-level. Dark dramatic twilight light, panicked cry mood.",
+      "readings": [
+        {
+          "surface": "化け物",
+          "reading": "ばけもの"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch30-05",
+      "japanese": "この ハート が はやい。",
+      "imagePrompt": "Moomintroll puts his hand on his chest — his heart is beating fast! The excitement and fear make his pulse race. He can feel it pounding. Moomintroll holding his chest. Medium close-up, eye-level. Dark nervous twilight light, racing heartbeat mood.",
+      "readings": []
+    },
+    {
+      "id": "ch30-06",
+      "japanese": "やれ やれ。",
+      "imagePrompt": "Snufkin sighs and shakes his head. Good grief. He is the calm one while others panic around him. His expression is world-weary but amused. Snufkin sighing calmly. Medium shot, eye-level. Dim calm twilight light, exasperated patience mood.",
+      "readings": []
+    },
+    {
+      "id": "ch30-07",
+      "japanese": "兄 が いる。",
+      "imagePrompt": "An older brother figure stands bravely at the front of the group, facing the dark forest. He is here, ready to protect. Solid and reassuring presence. Older brother figure standing bravely. Medium shot, eye-level. Dark brave twilight light, protective presence mood.",
+      "readings": [
+        {
+          "surface": "兄",
+          "reading": "あに"
+        }
+      ]
+    },
+    {
+      "id": "ch30-08",
+      "japanese": "この 兄 と いく。",
+      "imagePrompt": "The group follows the brave older brother into the forest edge. Moomintroll walks close beside him. Together they advance into the shadows. Group following the older brother into the forest. Medium shot, eye-level. Dark adventurous twilight light, brave companionship mood.",
+      "readings": [
+        {
+          "surface": "兄",
+          "reading": "あに"
+        }
+      ]
+    },
+    {
+      "id": "ch30-09",
+      "japanese": "泣く の は やめて。",
+      "imagePrompt": "Sniff has started crying from fear. Moomintroll turns to him — stop crying! There is nothing to be afraid of. But Sniff's tears flow freely. Moomintroll telling crying Sniff to stop. Medium shot, eye-level. Dark comforting twilight light, managing-fear mood.",
+      "readings": [
+        {
+          "surface": "泣く",
+          "reading": "なく"
+        }
+      ]
+    },
+    {
+      "id": "ch30-10",
+      "japanese": "泣かない で！",
+      "imagePrompt": "Moomintroll gently but firmly holds Sniff's shoulders. Do not cry! Be brave! Sniff sniffles and tries to compose himself. Tears still on his cheeks. Moomintroll encouraging Sniff firmly. Medium close-up, eye-level. Warm encouraging twilight light, brave-encouragement mood.",
+      "readings": [
+        {
+          "surface": "泣か",
+          "reading": "なか"
+        }
+      ]
+    },
+    {
+      "id": "ch30-11",
+      "japanese": "鼾 が 聞こえる。",
+      "imagePrompt": "Everyone freezes — a loud snoring sound comes from behind a bush. Not a monster, but something sleeping! The sound is unmistakable. Rhythmic snoring. Group frozen, listening to snoring. Medium shot, eye-level. Dark surprised twilight light, comic discovery mood.",
+      "readings": [
+        {
+          "surface": "鼾",
+          "reading": "いびき"
+        },
+        {
+          "surface": "聞こえる",
+          "reading": "きこえる"
+        }
+      ]
+    },
+    {
+      "id": "ch30-12",
+      "japanese": "すごい 鼾 だ。",
+      "imagePrompt": "The snoring is incredibly loud — the bush vibrates with each breath. An amazing snore! Leaves flutter with each exhale. Everyone stares in disbelief. Bush vibrating with loud snoring. Medium shot, eye-level. Dark amused twilight light, amazed-by-snoring mood.",
+      "readings": [
+        {
+          "surface": "鼾",
+          "reading": "いびき"
+        }
+      ]
+    },
+    {
+      "id": "ch30-13",
+      "japanese": "もう 一 回。",
+      "imagePrompt": "Another tremendous snore rings out. One more time! The group jumps at the sound then laughs. The rhythm continues. They count the snores. Group reacting to another snore. Medium shot, eye-level. Dark comic twilight light, repeated surprise mood.",
+      "readings": [
+        {
+          "surface": "一",
+          "reading": "いち"
+        },
+        {
+          "surface": "回",
+          "reading": "かい"
+        }
+      ]
+    },
+    {
+      "id": "ch30-14",
+      "japanese": "一 回 は 化け物 を みた こと が ある。",
+      "imagePrompt": "Moomintroll tells the others that he has seen a monster once before — in a memory flashback. He gestures while telling the story. The experience made him brave. Moomintroll telling a story with gestures. Medium shot, eye-level. Warm storytelling twilight light, experienced-narrator mood.",
+      "readings": [
+        {
+          "surface": "一",
+          "reading": "いち"
+        },
+        {
+          "surface": "回",
+          "reading": "かい"
+        },
+        {
+          "surface": "化け物",
+          "reading": "ばけもの"
+        }
+      ]
+    },
+    {
+      "id": "ch30-15",
+      "japanese": "飾り を みつけた。",
+      "imagePrompt": "In the bushes near the snoring, more decorations are discovered — hidden among the branches. Someone decorated deep in the forest too. A trail of decorations. Hidden decorations in the bushes. Medium close-up, eye-level. Dim discovering twilight light, hidden-trail mood.",
+      "readings": [
+        {
+          "surface": "飾り",
+          "reading": "かざり"
+        }
+      ]
+    },
+    {
+      "id": "ch30-16",
+      "japanese": "ハート の 飾り だ。",
+      "imagePrompt": "One decoration is shaped like a heart — red and glowing faintly among the dark leaves. A heart decoration! Sweet and slightly magical in the twilight. Heart-shaped decoration glowing. Medium close-up, eye-level. Warm glowing twilight light, sweet discovery mood.",
+      "readings": [
+        {
+          "surface": "飾り",
+          "reading": "かざり"
+        }
+      ]
+    },
+    {
+      "id": "ch30-17",
+      "japanese": "やれ、また か。",
+      "imagePrompt": "Snufkin sighs again as another snore erupts. Good grief, again? His resigned expression is comic. He puts his hands in his pockets and waits. Snufkin sighing resignedly. Medium shot, eye-level. Dim resigned twilight light, comic exasperation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch30-18",
+      "japanese": "兄 に 言った。",
+      "imagePrompt": "Moomintroll whispers to the older brother, pointing at the snoring bush. He reports what they have found — not a monster, just a sleeper. Moomintroll whispering to the older brother. Medium close-up, eye-level. Dark conspiratorial twilight light, reporting mood.",
+      "readings": [
+        {
+          "surface": "兄",
+          "reading": "あに"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch30-19",
+      "japanese": "鼾 を きいた こと が ある。",
+      "imagePrompt": "The older brother nods knowingly — he has heard snoring like this before. He recognizes the sound. Experience shows on his face. Older brother nodding knowingly. Medium shot, eye-level. Dark knowing twilight light, experienced recognition mood.",
+      "readings": [
+        {
+          "surface": "鼾",
+          "reading": "いびき"
+        }
+      ]
+    },
+    {
+      "id": "ch30-20",
+      "japanese": "ハート が ある。",
+      "imagePrompt": "Moomintroll picks up the heart decoration and holds it against his chest. There is a heart here — both the decoration and his own brave heart. A touching moment. Moomintroll holding heart decoration to his chest. Medium close-up, eye-level. Warm touching twilight light, brave-heart mood.",
+      "readings": []
+    },
+    {
+      "id": "ch30-21",
+      "japanese": "泣く こと は ない。",
+      "imagePrompt": "Moomintroll turns to Sniff with a reassuring smile. There is no need to cry. The monster was just someone sleeping. Sniff wipes his eyes and manages a small smile. Moomintroll reassuring Sniff. Medium shot, eye-level. Warm reassuring twilight light, comforting-no-tears mood.",
+      "readings": [
+        {
+          "surface": "泣く",
+          "reading": "なく"
+        }
+      ]
+    },
+    {
+      "id": "ch30-22",
+      "japanese": "やれ、すごい ね。",
+      "imagePrompt": "Snufkin gives a half-smile, looking at the sleeping figure in the bush. Good grief, quite something. The adventure turned out to be funny rather than scary. Snufkin half-smiling at the sleeper. Medium shot, eye-level. Warm amused twilight light, wry conclusion mood.",
+      "readings": []
+    },
+    {
+      "id": "ch30-23",
+      "japanese": "この 回 は 楽しかった ね。",
+      "imagePrompt": "The group heads home through the decorated forest path, lanterns glowing around them. This time was fun! Laughter echoes in the twilight. The monster hunt became a comedy. Group walking home through lantern-lit path. Medium-wide shot, eye-level. Warm glowing lantern-lit path, joyful conclusion mood.",
+      "readings": [
+        {
+          "surface": "回",
+          "reading": "かい"
+        },
+        {
+          "surface": "楽しかっ",
+          "reading": "たのしかっ"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 23,
+      "newLemmaUsage": {
+        "なく": 3,
+        "やれ": 4,
+        "ハート": 3,
+        "兄": 3,
+        "化け物": 3,
+        "回": 3,
+        "飾り": 4,
+        "鼾": 3
+      }
+    }
+  }
+}

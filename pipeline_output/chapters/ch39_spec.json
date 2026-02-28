@@ -1,0 +1,754 @@
+{
+  "chapter": 39,
+  "title": "帆 を 張って",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "海の上（雨）",
+    "description": "Open sea in rain. The boat pitches on grey waves. A makeshift sail strains in the wind.",
+    "characters": [
+      "ムーミン",
+      "パパ",
+      "スナフキン"
+    ],
+    "props": [
+      "船"
+    ]
+  },
+  "newLemmas": [
+    "設計",
+    "図",
+    "急ぐ",
+    "帆",
+    "上陸",
+    "濡れる",
+    "感じる",
+    "たくさん"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "あら",
+    "ありがとう",
+    "ある",
+    "あるく",
+    "あれ",
+    "い",
+    "いい",
+    "いいえ",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いっぱい",
+    "いつ",
+    "いや",
+    "いらっしゃる",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "えーと",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "およぐ",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "すむ",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そう-伝聞",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たくさん",
+    "たち",
+    "たって",
+    "たつ",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちいさな",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とにかく",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なく",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はなす",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "やれ",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "タール",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "ハート",
+    "パパ",
+    "パンケーキ",
+    "パーティー",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "上がる",
+    "上る",
+    "上陸",
+    "下",
+    "下さる",
+    "不",
+    "中身",
+    "事件",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "伯母",
+    "修理",
+    "俺",
+    "優しい",
+    "兄",
+    "先",
+    "出発",
+    "切手",
+    "別",
+    "利く",
+    "前",
+    "助ける",
+    "動く",
+    "勝手",
+    "化け物",
+    "危ない",
+    "友達",
+    "取る",
+    "回",
+    "図",
+    "地獄",
+    "場所",
+    "壊れる",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "大事",
+    "天才",
+    "夫婦",
+    "女王",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "実",
+    "客",
+    "少し",
+    "嵐",
+    "川",
+    "帆",
+    "度",
+    "張る",
+    "御覧",
+    "必要",
+    "忘れる",
+    "怒る",
+    "怖い",
+    "急ぐ",
+    "悪い",
+    "感じる",
+    "戻る",
+    "手",
+    "手伝う",
+    "拾う",
+    "捨てる",
+    "教える",
+    "日",
+    "明日",
+    "昨日",
+    "時間",
+    "書く",
+    "木苺",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次回",
+    "止める",
+    "此奴",
+    "毒",
+    "気圧",
+    "気持ち",
+    "水",
+    "波",
+    "洞穴",
+    "海岸",
+    "済む",
+    "漕ぐ",
+    "潜る",
+    "濡れる",
+    "無くなる",
+    "王",
+    "珍しい",
+    "痛い",
+    "目",
+    "眠る",
+    "知れる",
+    "砂",
+    "確か",
+    "秒",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "結ぶ",
+    "絶対",
+    "考える",
+    "聞き出す",
+    "聞こえる",
+    "自信",
+    "自分",
+    "花",
+    "茶",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "設計",
+    "話",
+    "調子",
+    "起こる",
+    "足",
+    "辺",
+    "返す",
+    "追う",
+    "通り",
+    "連れる",
+    "違う",
+    "邪魔",
+    "部屋",
+    "鋸",
+    "間",
+    "降る",
+    "随分",
+    "隠れる",
+    "集める",
+    "雨",
+    "非",
+    "面白い",
+    "頭",
+    "風",
+    "飛行",
+    "飾り",
+    "髪の毛",
+    "鬼",
+    "鼾",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch39-01",
+      "japanese": "設計 を みた。",
+      "imagePrompt": "Papa spreads out a design plan on the boat's deck. He looked at the design! Pencil marks show the sail rigging. Rain spots begin to appear on the paper. Papa studying a design plan on deck. Medium close-up, eye-level. Grey marine light, studying plans mood.",
+      "readings": [
+        {
+          "surface": "設計",
+          "reading": "せっけい"
+        }
+      ]
+    },
+    {
+      "id": "ch39-02",
+      "japanese": "設計 の 図 だ。",
+      "imagePrompt": "The paper shows detailed drawings of the sail setup. A design diagram! Lines and measurements cover the page. Papa points at key parts. Design diagram of the sail. Medium close-up, eye-level. Grey detailed light, technical drawing mood.",
+      "readings": [
+        {
+          "surface": "設計",
+          "reading": "せっけい"
+        },
+        {
+          "surface": "図",
+          "reading": "ず"
+        }
+      ]
+    },
+    {
+      "id": "ch39-03",
+      "japanese": "この 設計 が いい。",
+      "imagePrompt": "Papa nods approvingly at his own design work. This design is good! The sail plan should work perfectly. Confidence in his expression. Papa approving his design. Medium close-up, eye-level. Grey satisfied light, approving one's work mood.",
+      "readings": [
+        {
+          "surface": "設計",
+          "reading": "せっけい"
+        }
+      ]
+    },
+    {
+      "id": "ch39-04",
+      "japanese": "図 を みせた。",
+      "imagePrompt": "Papa shows the diagram to Moomintroll and Snufkin. He showed the drawing! They peer at the lines and nod. Understanding dawns on their faces. Papa showing the diagram. Medium shot, eye-level. Grey collaborative light, sharing plans mood.",
+      "readings": [
+        {
+          "surface": "図",
+          "reading": "ず"
+        }
+      ]
+    },
+    {
+      "id": "ch39-05",
+      "japanese": "図 の 通り に する。",
+      "imagePrompt": "The group follows the diagram exactly as they set up the sail. Do it according to the drawing! Ropes go where the lines indicate. The mast rises. Following the diagram. Medium shot, eye-level. Grey methodical light, following instructions mood.",
+      "readings": [
+        {
+          "surface": "図",
+          "reading": "ず"
+        },
+        {
+          "surface": "通り",
+          "reading": "とおり"
+        }
+      ]
+    },
+    {
+      "id": "ch39-06",
+      "japanese": "この 図 は 変 だ。",
+      "imagePrompt": "Sniff looks at the diagram upside down and is confused. This drawing is strange! He turns it around. The sail plan makes no sense to him. Sniff confused by the diagram. Medium close-up, eye-level. Grey confused light, puzzled mood.",
+      "readings": [
+        {
+          "surface": "図",
+          "reading": "ず"
+        },
+        {
+          "surface": "変",
+          "reading": "へん"
+        }
+      ]
+    },
+    {
+      "id": "ch39-07",
+      "japanese": "帆 を 張った。",
+      "imagePrompt": "The sail rises on the mast, catching the wind. The sail is hoisted! It billows out, pulling the boat forward. Everyone cheers. The sail raised and filling with wind. Medium-wide shot, eye-level. Grey dramatic light, sail raising mood.",
+      "readings": [
+        {
+          "surface": "帆",
+          "reading": "ほ"
+        },
+        {
+          "surface": "張っ",
+          "reading": "はっ"
+        }
+      ]
+    },
+    {
+      "id": "ch39-08",
+      "japanese": "帆 が ある。",
+      "imagePrompt": "The sail stands proud on the mast, a white canvas against the grey sky. There is a sail! It flaps and snaps in the strengthening wind. Sail against grey sky. Medium shot, eye-level. Grey proud light, sail standing mood.",
+      "readings": [
+        {
+          "surface": "帆",
+          "reading": "ほ"
+        }
+      ]
+    },
+    {
+      "id": "ch39-09",
+      "japanese": "この 帆 は おおきい。",
+      "imagePrompt": "The sail is larger than expected — it towers over the small boat. This sail is big! Papa and Moomintroll stand on deck, looking up at the vast canvas above. The sail dwarfs them. Large sail towering over the boat. Medium-wide shot, eye-level. Grey impressive light, impressive-scale mood.",
+      "readings": [
+        {
+          "surface": "帆",
+          "reading": "ほ"
+        }
+      ]
+    },
+    {
+      "id": "ch39-10",
+      "japanese": "急いで！",
+      "imagePrompt": "Rain intensifies and Papa shouts for everyone to hurry. Hurry! Waves get bigger. The boat rocks. Everyone scrambles to secure gear. Papa shouting in the rain. Medium shot, eye-level. Dark urgent rain light, hurrying mood.",
+      "readings": [
+        {
+          "surface": "急い",
+          "reading": "いそい"
+        }
+      ]
+    },
+    {
+      "id": "ch39-11",
+      "japanese": "みんな が 急いだ。",
+      "imagePrompt": "Everyone moves fast on the rocking boat. Everyone hurried! Ropes are grabbed, bags are tied down. Coordinated urgency in the storm. Everyone moving fast on the boat. Medium-wide shot, eye-level. Dark frantic rain light, coordinated urgency mood.",
+      "readings": [
+        {
+          "surface": "急い",
+          "reading": "いそい"
+        }
+      ]
+    },
+    {
+      "id": "ch39-12",
+      "japanese": "急ぐ の は だめ だ。",
+      "imagePrompt": "Snufkin calmly advises against panic. Rushing is no good! Stay calm even in the storm. His steady voice cuts through the wind. Snufkin calm in the storm. Medium close-up, eye-level. Dark calm-amid-chaos light, steady counsel mood.",
+      "readings": [
+        {
+          "surface": "急ぐ",
+          "reading": "いそぐ"
+        }
+      ]
+    },
+    {
+      "id": "ch39-13",
+      "japanese": "濡れた！",
+      "imagePrompt": "A huge wave crashes over the side of the boat, drenching Moomintroll. Got wet! He splutters and wipes his face. Seawater drips from his fur. Moomintroll drenched by a wave. Medium shot, eye-level. Dark dramatic spray light, sudden drenching mood.",
+      "readings": [
+        {
+          "surface": "濡れ",
+          "reading": "ぬれ"
+        }
+      ]
+    },
+    {
+      "id": "ch39-14",
+      "japanese": "みんな が 濡れている。",
+      "imagePrompt": "Rain and spray have soaked everyone on the boat. Everyone is wet! Hair plastered, clothes dripping. But they keep working. No one stops. Whole crew soaked. Medium-wide shot, eye-level. Dark drenched rain light, everyone soaked mood.",
+      "readings": [
+        {
+          "surface": "濡れ",
+          "reading": "ぬれ"
+        }
+      ]
+    },
+    {
+      "id": "ch39-15",
+      "japanese": "濡れる の は いや だ。",
+      "imagePrompt": "Sniff shivers in his soaked clothes. Getting wet is terrible! He huddles under a canvas. Water pools at his feet. Sniff shivering under canvas. Medium shot, eye-level. Dark miserable light, hating-being-wet mood.",
+      "readings": [
+        {
+          "surface": "濡れる",
+          "reading": "ぬれる"
+        }
+      ]
+    },
+    {
+      "id": "ch39-16",
+      "japanese": "上陸 した。",
+      "imagePrompt": "The boat reaches shore and everyone jumps onto land. They landed! Feet touch solid ground. Relief on every face. The rocky shore feels wonderful. Everyone jumping ashore. Medium shot, eye-level. Grey relieved light, landing safely mood.",
+      "readings": [
+        {
+          "surface": "上陸",
+          "reading": "じょうりく"
+        }
+      ]
+    },
+    {
+      "id": "ch39-17",
+      "japanese": "上陸 する の は いい。",
+      "imagePrompt": "Everyone stands on solid ground, catching their breath. Landing is good! After the rough sea, the stability of land is heavenly. Smiles of relief. Group on solid ground with relief. Medium shot, eye-level. Grey grateful light, appreciating land mood.",
+      "readings": [
+        {
+          "surface": "上陸",
+          "reading": "じょうりく"
+        }
+      ]
+    },
+    {
+      "id": "ch39-18",
+      "japanese": "もう 上陸 だ。",
+      "imagePrompt": "Papa points at the approaching shore from the boat. Almost landed! The shore is close. Everyone prepares to disembark. Hope rises. Papa pointing at the approaching shore. Medium shot, eye-level. Grey hopeful light, approaching-land mood.",
+      "readings": [
+        {
+          "surface": "上陸",
+          "reading": "じょうりく"
+        }
+      ]
+    },
+    {
+      "id": "ch39-19",
+      "japanese": "風 を 感じた。",
+      "imagePrompt": "Moomintroll stands at the bow, feeling the wind change direction. He felt the wind! His fur ruffles in a new direction. Something is shifting in the weather. Moomintroll feeling the wind at the bow. Medium shot, eye-level. Grey perceptive light, sensing change mood.",
+      "readings": [
+        {
+          "surface": "風",
+          "reading": "かぜ"
+        },
+        {
+          "surface": "感じ",
+          "reading": "かんじ"
+        }
+      ]
+    },
+    {
+      "id": "ch39-20",
+      "japanese": "感じる の が いい ね。",
+      "imagePrompt": "Snufkin closes his eyes and feels the rain on his face. Feeling is good! He appreciates the raw sensation of nature. A meditative moment in the storm. Snufkin with closed eyes in the rain. Medium close-up, eye-level. Grey meditative light, appreciating sensation mood.",
+      "readings": [
+        {
+          "surface": "感じる",
+          "reading": "かんじる"
+        }
+      ]
+    },
+    {
+      "id": "ch39-21",
+      "japanese": "変 な こと を 感じた。",
+      "imagePrompt": "Moomintroll frowns — he senses something odd about the storm. He felt something strange! The waves have an unusual pattern. Unease shows on his face. Moomintroll frowning at the waves. Medium close-up, eye-level. Grey uneasy light, sensing strangeness mood.",
+      "readings": [
+        {
+          "surface": "変",
+          "reading": "へん"
+        },
+        {
+          "surface": "感じ",
+          "reading": "かんじ"
+        }
+      ]
+    },
+    {
+      "id": "ch39-22",
+      "japanese": "波 が たくさん ある。",
+      "imagePrompt": "The sea is covered with waves as far as the eye can see. Many waves! They roll endlessly. The boat rises and falls. The scale is overwhelming. Endless waves across the sea. Medium-wide shot, eye-level. Grey vast light, overwhelming waves mood.",
+      "readings": [
+        {
+          "surface": "波",
+          "reading": "なみ"
+        }
+      ]
+    },
+    {
+      "id": "ch39-23",
+      "japanese": "たくさん 食べた。",
+      "imagePrompt": "After landing, everyone eats from the packed lunch. They ate a lot! Hunger from the storm makes everything taste better. Food disappears quickly. Group eating hungrily on shore. Medium shot, eye-level. Warm relieved light, hungry eating mood.",
+      "readings": [
+        {
+          "surface": "食べ",
+          "reading": "たべ"
+        }
+      ]
+    },
+    {
+      "id": "ch39-24",
+      "japanese": "水 が たくさん ある。",
+      "imagePrompt": "Rainwater has collected everywhere — in the boat, on the ground, in every hollow. Lots of water! Puddles and pools surround them. The world is saturated. Water collected everywhere. Medium-wide shot, eye-level. Grey saturated light, water everywhere mood.",
+      "readings": [
+        {
+          "surface": "水",
+          "reading": "みず"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 24,
+      "newLemmaUsage": {
+        "たくさん": 3,
+        "上陸": 3,
+        "図": 4,
+        "帆": 3,
+        "急ぐ": 3,
+        "感じる": 3,
+        "濡れる": 3,
+        "設計": 3
+      }
+    }
+  }
+}

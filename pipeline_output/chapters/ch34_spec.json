@@ -1,0 +1,704 @@
+{
+  "chapter": 34,
+  "title": "降る 雨 の なか",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "森の奥のいけ",
+    "description": "Deep forest clearing with a strange bubbling pool. Dark water with occasional green-grey bubbles surfacing.",
+    "characters": [
+      "ムーミン",
+      "フローレン",
+      "ミムラ"
+    ],
+    "props": []
+  },
+  "newLemmas": [
+    "怒る",
+    "降る",
+    "毒",
+    "たつ",
+    "いっぱい",
+    "いらっしゃる",
+    "壊れる",
+    "出発"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あるく",
+    "あれ",
+    "い",
+    "いい",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いっぱい",
+    "いつ",
+    "いや",
+    "いらっしゃる",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "およぐ",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "すむ",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たって",
+    "たつ",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とにかく",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なく",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "やれ",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "ハート",
+    "パパ",
+    "パンケーキ",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "上がる",
+    "上る",
+    "下",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "伯母",
+    "修理",
+    "兄",
+    "先",
+    "出発",
+    "切手",
+    "別",
+    "利く",
+    "前",
+    "助ける",
+    "動く",
+    "化け物",
+    "取る",
+    "回",
+    "地獄",
+    "場所",
+    "壊れる",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "天才",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "実",
+    "客",
+    "少し",
+    "嵐",
+    "川",
+    "度",
+    "張る",
+    "御覧",
+    "必要",
+    "忘れる",
+    "怒る",
+    "怖い",
+    "悪い",
+    "戻る",
+    "手",
+    "手伝う",
+    "拾う",
+    "捨てる",
+    "教える",
+    "日",
+    "明日",
+    "昨日",
+    "時間",
+    "書く",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次回",
+    "止める",
+    "此奴",
+    "毒",
+    "気圧",
+    "水",
+    "海岸",
+    "漕ぐ",
+    "無くなる",
+    "王",
+    "珍しい",
+    "目",
+    "知れる",
+    "確か",
+    "秒",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "結ぶ",
+    "絶対",
+    "考える",
+    "聞こえる",
+    "自信",
+    "自分",
+    "花",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "話",
+    "調子",
+    "起こる",
+    "足",
+    "辺",
+    "返す",
+    "追う",
+    "通り",
+    "連れる",
+    "違う",
+    "部屋",
+    "間",
+    "降る",
+    "随分",
+    "隠れる",
+    "集める",
+    "雨",
+    "非",
+    "面白い",
+    "頭",
+    "風",
+    "飛行",
+    "飾り",
+    "髪の毛",
+    "鼾",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch34-01",
+      "japanese": "変 な 場所 に きた。",
+      "imagePrompt": "The group ventures deeper into dense forest on the island. Sunlight barely reaches the ground. Strange plants grow around a clearing. The group walking into dense forest. Medium-wide shot, eye-level. Dim filtered forest light, venturing deeper mood.",
+      "readings": [
+        {
+          "surface": "変",
+          "reading": "へん"
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        }
+      ]
+    },
+    {
+      "id": "ch34-02",
+      "japanese": "雨 が 降っている。",
+      "imagePrompt": "Rain starts to fall through the canopy. Drops patter on leaves and the group's heads. The sky darkens through the tree tops. Rain falling through forest canopy. Medium shot, eye-level. Grey rainy forest light, onset of rain mood.",
+      "readings": [
+        {
+          "surface": "雨",
+          "reading": "あめ"
+        },
+        {
+          "surface": "降っ",
+          "reading": "ふっ"
+        }
+      ]
+    },
+    {
+      "id": "ch34-03",
+      "japanese": "いっぱい 降った。",
+      "imagePrompt": "Heavy rain pours down now, soaking everyone. It rained a lot! Puddles form quickly on the forest floor. Water drips from every leaf. Heavy rain in the forest. Medium shot, eye-level. Dark heavy rain light, drenched mood.",
+      "readings": [
+        {
+          "surface": "降っ",
+          "reading": "ふっ"
+        }
+      ]
+    },
+    {
+      "id": "ch34-04",
+      "japanese": "水 で いっぱい だ。",
+      "imagePrompt": "The forest floor is completely flooded — water everywhere! Full of water! Puddles merge into shallow streams. The group sloshes through ankle-deep water. Flooded forest floor. Medium shot, eye-level. Grey reflective waterlogged light, flooded mood.",
+      "readings": [
+        {
+          "surface": "水",
+          "reading": "みず"
+        }
+      ]
+    },
+    {
+      "id": "ch34-05",
+      "japanese": "降る の は いや だ。",
+      "imagePrompt": "Sniff holds a large leaf over his head as a makeshift umbrella. Raining is terrible! His expression is miserable. Water streams down his arms. Sniff under a leaf umbrella. Medium shot, eye-level. Grey miserable rain light, discomfort mood.",
+      "readings": [
+        {
+          "surface": "降る",
+          "reading": "ふる"
+        }
+      ]
+    },
+    {
+      "id": "ch34-06",
+      "japanese": "スニフ が 怒った。",
+      "imagePrompt": "Sniff stamps his foot in a puddle, angry about getting lost and wet. Sniff got angry! His face is red. Mud splashes from the stomp. Sniff stamping angrily in a puddle. Medium shot, eye-level. Grey angry rain light, frustrated outburst mood.",
+      "readings": [
+        {
+          "surface": "怒っ",
+          "reading": "おこっ"
+        }
+      ]
+    },
+    {
+      "id": "ch34-07",
+      "japanese": "怒っている。",
+      "imagePrompt": "Sniff stands with arms crossed, fuming. He is angry! Steam practically rises from his head despite the rain. Nobody dares approach. Sniff standing with arms crossed, fuming. Medium shot, eye-level. Grey intense rain light, sustained anger mood.",
+      "readings": [
+        {
+          "surface": "怒っ",
+          "reading": "おこっ"
+        }
+      ]
+    },
+    {
+      "id": "ch34-08",
+      "japanese": "怒る の は だめ だ。",
+      "imagePrompt": "Moomintroll gently tells Sniff to calm down. Getting angry is no good! His hand on Sniff's shoulder. The rain continues around them. Moomintroll calming Sniff. Medium shot, eye-level. Grey soothing rain light, calming counsel mood.",
+      "readings": [
+        {
+          "surface": "怒る",
+          "reading": "おこる"
+        }
+      ]
+    },
+    {
+      "id": "ch34-09",
+      "japanese": "変 な 水 が ある。",
+      "imagePrompt": "The group discovers a strange bubbling pool in a clearing. Strange water is here! Green-grey bubbles rise from the dark surface. The pool steams slightly. Strange bubbling pool in a forest clearing. Medium shot, eye-level. Eerie dim green-tinged light, ominous discovery mood.",
+      "readings": [
+        {
+          "surface": "変",
+          "reading": "へん"
+        },
+        {
+          "surface": "水",
+          "reading": "みず"
+        }
+      ]
+    },
+    {
+      "id": "ch34-10",
+      "japanese": "これ は 毒 だ。",
+      "imagePrompt": "Snufkin crouches by the pool and sniffs cautiously, then recoils. This is poison! The water has a sickly sweet smell. Bubbles pop with faint hisses. Snufkin recoiling from the pool. Medium close-up, eye-level. Eerie toxic green light, dangerous recognition mood.",
+      "readings": [
+        {
+          "surface": "毒",
+          "reading": "どく"
+        }
+      ]
+    },
+    {
+      "id": "ch34-11",
+      "japanese": "毒 みたい だ ね。",
+      "imagePrompt": "A dead plant near the pool's edge has turned black and withered. It seems poisonous! The vegetation around the pool is all damaged. Dead plants by the pool. Medium close-up, eye-level. Sickly dim light, toxic evidence mood.",
+      "readings": [
+        {
+          "surface": "毒",
+          "reading": "どく"
+        }
+      ]
+    },
+    {
+      "id": "ch34-12",
+      "japanese": "毒 が いっぱい ある。",
+      "imagePrompt": "More pools of the same green-black water appear among the trees. Lots of poison! The clearing is dotted with toxic puddles. Steam rises from each one. Multiple toxic pools in the clearing. Medium-wide shot, eye-level. Eerie scattered green light, widespread danger mood.",
+      "readings": [
+        {
+          "surface": "毒",
+          "reading": "どく"
+        }
+      ]
+    },
+    {
+      "id": "ch34-13",
+      "japanese": "時間 が たった。",
+      "imagePrompt": "The rain continues. Time has passed. The group shelters under a large tree. Shadows lengthen around them. Water drips steadily. Group sheltering under a tree. Medium shot, eye-level. Grey dim afternoon light, time passing mood.",
+      "readings": [
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        }
+      ]
+    },
+    {
+      "id": "ch34-14",
+      "japanese": "そこ に たっている。",
+      "imagePrompt": "A lightning flash illuminates a mysterious figure standing motionless among the trees in the rain. Standing there! A shape that was not there before. Everyone stares. Mysterious figure revealed by lightning among trees. Medium shot, eye-level. Lightning-flash light against rainy grey, startling presence mood.",
+      "readings": []
+    },
+    {
+      "id": "ch34-15",
+      "japanese": "まだ 立っている。",
+      "imagePrompt": "The figure has not moved at all. Still standing! Seconds pass and it remains frozen in place. Rain streams down its silhouette. The group holds their breath. Motionless figure in the rain. Medium shot, eye-level. Dark tense rain light, unnerving stillness mood.",
+      "readings": [
+        {
+          "surface": "立っ",
+          "reading": "たっ"
+        }
+      ]
+    },
+    {
+      "id": "ch34-16",
+      "japanese": "動く の を まった。",
+      "imagePrompt": "The group waits tensely, watching the motionless figure among the trees. They waited for it to move. But the figure remains perfectly still. Rain falls between them. Group watching the figure tensely. Medium shot, eye-level. Dark tense rain light, watchful waiting mood.",
+      "readings": [
+        {
+          "surface": "動く",
+          "reading": "うごく"
+        }
+      ]
+    },
+    {
+      "id": "ch34-17",
+      "japanese": "「いらっしゃい。」 と ママ が 言った。",
+      "imagePrompt": "Mama steps forward bravely and greets the mysterious figure with a warm welcome. Welcome! Her voice is calm and kind despite the eerie setting. The figure stirs. Mama greeting the figure warmly. Medium shot, eye-level. Warm brave light amid rain, courageous hospitality mood.",
+      "readings": [
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch34-18",
+      "japanese": "いらっしゃいます か。",
+      "imagePrompt": "Mama asks politely if the figure is there. Are you there? Her polite tone cuts through the rain. The figure turns slightly toward her voice. Mama asking politely in the rain. Medium shot, eye-level. Soft polite light, gentle inquiry mood.",
+      "readings": []
+    },
+    {
+      "id": "ch34-19",
+      "japanese": "ここ に いらっしゃる。",
+      "imagePrompt": "The figure is indeed there — a forest creature, old and covered in moss. It is here! Mama nods calmly. The creature blinks slowly. Mossy forest creature revealed. Medium shot, eye-level. Dim revealing light, calm recognition mood.",
+      "readings": []
+    },
+    {
+      "id": "ch34-20",
+      "japanese": "なに か が 壊れた。",
+      "imagePrompt": "A crack sounds — a tree branch breaks and crashes into the pool, sending toxic water splashing. Something broke! Everyone jumps back. Broken branch in the toxic pool. Medium shot, eye-level. Dark dramatic light, sudden breakage mood.",
+      "readings": [
+        {
+          "surface": "壊れ",
+          "reading": "こわれ"
+        }
+      ]
+    },
+    {
+      "id": "ch34-21",
+      "japanese": "船 が 壊れている かもしれない。",
+      "imagePrompt": "Papa suddenly worries about the boat they left on the shore. The boat might be broken! The storm could have damaged it. His expression turns anxious. Papa looking worried about the boat. Medium close-up, eye-level. Grey anxious light, worried realization mood.",
+      "readings": [
+        {
+          "surface": "船",
+          "reading": "ふね"
+        },
+        {
+          "surface": "壊れ",
+          "reading": "こわれ"
+        }
+      ]
+    },
+    {
+      "id": "ch34-22",
+      "japanese": "壊れた もの を みた。",
+      "imagePrompt": "The group discovers a broken old wooden structure near the pool — remnants of something built long ago. They saw something broken! Rotting wood and rusted nails. Broken old wooden structure. Medium close-up, eye-level. Dim archaeological light, discovering ruins mood.",
+      "readings": [
+        {
+          "surface": "壊れ",
+          "reading": "こわれ"
+        }
+      ]
+    },
+    {
+      "id": "ch34-23",
+      "japanese": "もう 出発 だ。",
+      "imagePrompt": "Papa announces it is time to leave. Departure now! The rain is getting worse and the toxic pools are spreading. Everyone gathers their things. Papa announcing departure in the rain. Medium shot, eye-level. Grey urgent rain light, departure decision mood.",
+      "readings": [
+        {
+          "surface": "出発",
+          "reading": "しゅっぱつ"
+        }
+      ]
+    },
+    {
+      "id": "ch34-24",
+      "japanese": "出発 する。",
+      "imagePrompt": "The group sets off through the rain, heading back toward the shore. Departing! They move quickly through the wet forest, leaving the strange pools behind. Group departing through rainy forest. Medium-wide shot, eye-level. Grey determined rain light, leaving mood.",
+      "readings": [
+        {
+          "surface": "出発",
+          "reading": "しゅっぱつ"
+        }
+      ]
+    },
+    {
+      "id": "ch34-25",
+      "japanese": "出発 の 前 に ごらん。",
+      "imagePrompt": "Snufkin pauses before leaving and points at something on the cave wall — a carved symbol. Before departing, look! A clue left behind. The carving glows faintly. Snufkin pointing at a wall carving. Medium close-up, eye-level. Dim revealing light, last-minute discovery mood.",
+      "readings": [
+        {
+          "surface": "出発",
+          "reading": "しゅっぱつ"
+        },
+        {
+          "surface": "前",
+          "reading": "まえ"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 25,
+      "newLemmaUsage": {
+        "いっぱい": 3,
+        "いらっしゃる": 3,
+        "たつ": 3,
+        "出発": 3,
+        "壊れる": 3,
+        "怒る": 3,
+        "毒": 3,
+        "降る": 3
+      }
+    }
+  }
+}

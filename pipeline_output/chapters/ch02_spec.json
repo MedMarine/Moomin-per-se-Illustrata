@@ -1,0 +1,280 @@
+{
+  "chapter": 2,
+  "title": "島",
+  "grammarStep": 1,
+  "grammarName": "Existence: いる / ある",
+  "scene": {
+    "location": "小さな島の浜",
+    "description": "Sandy shore of a small island reached by boat. Rocky outcrops to climb. Turquoise water, white sand, blue sky.",
+    "characters": [
+      "ムーミン",
+      "スナフキン",
+      "スニフ"
+    ],
+    "props": [
+      "船"
+    ]
+  },
+  "newLemmas": [
+    "ぼく",
+    "いえ",
+    "しま",
+    "この",
+    "ない",
+    "そう",
+    "ひと",
+    "うみ"
+  ],
+  "whitelist": [
+    "…",
+    "、",
+    "。",
+    "ある",
+    "いえ",
+    "いる",
+    "うみ",
+    "が",
+    "き",
+    "この",
+    "しま",
+    "そう",
+    "ない",
+    "なに",
+    "に",
+    "ひと",
+    "ふね",
+    "ぼうし",
+    "ぼく",
+    "わたし",
+    "パパ",
+    "ママ",
+    "ムーミン",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch02-01",
+      "japanese": "海 が ある！",
+      "imagePrompt": "Dawn on a small island, turquoise sea stretching to the horizon. Moomintroll stands on white sand gazing outward. Vast ocean surrounding the island. Wide shot, eye-level from shore. Pink-gold dawn light on water, awed discovery mood.",
+      "readings": [
+        {
+          "surface": "海",
+          "reading": "うみ"
+        }
+      ]
+    },
+    {
+      "id": "ch02-02",
+      "japanese": "島 が ある。",
+      "imagePrompt": "Rocky outcrop on the small island, Moomintroll looks around at the island itself. Green vegetation, sandy beach, rocky edges. The island landscape from a hillock. Medium-wide shot, slightly elevated. Soft morning light, surveying mood.",
+      "readings": [
+        {
+          "surface": "島",
+          "reading": "しま"
+        }
+      ]
+    },
+    {
+      "id": "ch02-03",
+      "japanese": "この 島！",
+      "imagePrompt": "Moomintroll stamps one foot on the sand of the island, arms spread wide claiming it. Rocky shore and green bushes behind. Moomintroll claiming the island excitedly. Medium shot, eye-level. Bright morning sun, proud excited mood.",
+      "readings": [
+        {
+          "surface": "島",
+          "reading": "しま"
+        }
+      ]
+    },
+    {
+      "id": "ch02-04",
+      "japanese": "家 が ある！",
+      "imagePrompt": "Through the island's trees, a small round house is visible. Moomintroll pushes branches aside to see it. A cottage hidden among trees on the island. Medium shot, eye-level through foliage. Dappled green-gold light, surprised discovery mood.",
+      "readings": [
+        {
+          "surface": "家",
+          "reading": "いえ"
+        }
+      ]
+    },
+    {
+      "id": "ch02-05",
+      "japanese": "この 家！",
+      "imagePrompt": "Moomintroll stands before the small round house on the island, examining it. Wooden door, round windows, a chimney. The island cottage up close. Medium shot, eye-level. Warm morning light on the house, curious inspection mood.",
+      "readings": [
+        {
+          "surface": "家",
+          "reading": "いえ"
+        }
+      ]
+    },
+    {
+      "id": "ch02-06",
+      "japanese": "人 が いる！",
+      "imagePrompt": "Moomintroll peers through the round cottage window and sees a figure moving inside. His eyes go wide with surprise. A figure glimpsed through a round window. Close-up of Moomintroll's face at the window, eye-level. Interior warm light spilling out, startled discovery mood.",
+      "readings": [
+        {
+          "surface": "人",
+          "reading": "ひと"
+        }
+      ]
+    },
+    {
+      "id": "ch02-07",
+      "japanese": "ぼく が いる。",
+      "imagePrompt": "Moomintroll looks at his own reflection in the cottage window, realizing the person was himself. He touches the glass tentatively. Moomintroll seeing his reflection in glass. Close-up, eye-level. Soft reflected light, amused self-recognition mood.",
+      "readings": []
+    },
+    {
+      "id": "ch02-08",
+      "japanese": "ぼく、ムーミン。",
+      "imagePrompt": "Moomintroll taps his chest on the island shore, introducing himself to the empty beach. Waves lap at the sand behind him. Moomintroll's self-introduction on the beach. Medium shot, eye-level. Clear bright island morning light, cheerful solitary mood.",
+      "readings": []
+    },
+    {
+      "id": "ch02-09",
+      "japanese": "海 に 島 が ある。",
+      "imagePrompt": "Panoramic view from the island hilltop, ocean surrounding the island in every direction. Moomintroll gazes out at other tiny islands in the distance. Sea surrounding the island, distant islands visible. Wide panoramic shot, elevated. Brilliant blue morning light, vast perspective mood.",
+      "readings": [
+        {
+          "surface": "海",
+          "reading": "うみ"
+        },
+        {
+          "surface": "島",
+          "reading": "しま"
+        }
+      ]
+    },
+    {
+      "id": "ch02-10",
+      "japanese": "帽子 が ない！",
+      "imagePrompt": "Moomintroll pats the top of his head frantically on the beach, looking around. Footprints in the sand behind him, no hat anywhere. Moomintroll searching head for missing hat. Medium shot, slightly elevated. Harsh midday sun, panicked searching mood.",
+      "readings": [
+        {
+          "surface": "帽子",
+          "reading": "ぼうし"
+        }
+      ]
+    },
+    {
+      "id": "ch02-11",
+      "japanese": "ない？そう、ない！",
+      "imagePrompt": "Moomintroll running along the island beach looking left and right desperately. He confirms to himself it's really gone. Moomintroll searching the beach frantically. Medium-wide tracking shot, eye-level. Bright hot sun, desperate anxiety mood.",
+      "readings": []
+    },
+    {
+      "id": "ch02-12",
+      "japanese": "そう！木 に ある！",
+      "imagePrompt": "Moomintroll spots Moominpappa's top hat hanging from a tree branch above the beach. He stands below it, pointing upward triumphantly with a big grin. Hat in a tree branch with Moomintroll below. Medium shot, eye-level. Sunlight through leaves, eureka relief mood.",
+      "readings": [
+        {
+          "surface": "木",
+          "reading": "き"
+        }
+      ]
+    },
+    {
+      "id": "ch02-13",
+      "japanese": "この 木！",
+      "imagePrompt": "Moomintroll hugs the tree trunk where the hat hangs, looking up at the branch. A tall birch tree on the sandy island shore. Moomintroll at the base of the hat-tree. Medium shot, slightly low angle. Bright filtered sunlight, grateful relief mood.",
+      "readings": [
+        {
+          "surface": "木",
+          "reading": "き"
+        }
+      ]
+    },
+    {
+      "id": "ch02-14",
+      "japanese": "人 が いる。ぼく が いる。",
+      "imagePrompt": "Split scene: Moomintroll sees another figure on the far shore of the island, then looks down at himself. Two Moomin shapes — one distant, one close. Distant figure and Moomintroll on the island. Wide shot, eye-level. Afternoon island light, curious doubling mood.",
+      "readings": [
+        {
+          "surface": "人",
+          "reading": "ひと"
+        }
+      ]
+    },
+    {
+      "id": "ch02-15",
+      "japanese": "海 が ある。島 が ある。",
+      "imagePrompt": "Sunset view from the island shore, golden light on the calm sea. Small islands dot the horizon. Moomintroll sits contentedly on a rock watching. Evening seascape with islands. Wide panoramic shot, eye-level. Golden sunset light, peaceful contemplation mood.",
+      "readings": [
+        {
+          "surface": "海",
+          "reading": "うみ"
+        },
+        {
+          "surface": "島",
+          "reading": "しま"
+        }
+      ]
+    },
+    {
+      "id": "ch02-16",
+      "japanese": "海！この 海！",
+      "imagePrompt": "Moomintroll dips his feet in the warm shallow water at the island's edge, grinning broadly. Clear turquoise water around white sand. Moomintroll wading at the shore. Medium shot, slightly elevated. Warm afternoon light on water, satisfied appreciation mood.",
+      "readings": [
+        {
+          "surface": "海",
+          "reading": "うみ"
+        },
+        {
+          "surface": "海",
+          "reading": "うみ"
+        }
+      ]
+    },
+    {
+      "id": "ch02-17",
+      "japanese": "ママ が いる。パパ が いる。",
+      "imagePrompt": "A boat approaches the island shore carrying Moominmamma and Moominpappa. They wave from the deck. Moomintroll runs toward the water. Family arriving by boat at the island. Medium-wide shot, eye-level from shore. Late afternoon golden light, joyful reunion mood.",
+      "readings": []
+    },
+    {
+      "id": "ch02-18",
+      "japanese": "家 に 人 が いる。",
+      "imagePrompt": "Evening on the island, warm light glows from the round cottage windows. Shadows of family figures visible inside. The cottage lit up in the island evening. Medium-wide shot, eye-level. Warm interior light against dusk sky, cozy homecoming mood.",
+      "readings": [
+        {
+          "surface": "家",
+          "reading": "いえ"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        }
+      ]
+    },
+    {
+      "id": "ch02-19",
+      "japanese": "そう！ぼく、ムーミン！",
+      "imagePrompt": "Moomintroll stands proudly atop the island's highest rock at sunset, arms spread wide. The sea and sky stretch behind him in warm orange light. Moomintroll on the island summit at sunset. Medium-wide shot, eye-level. Warm dramatic sunset light, triumphant claiming mood.",
+      "readings": []
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 19,
+      "newLemmaUsage": {
+        "いえ": 3,
+        "うみ": 5,
+        "この": 4,
+        "しま": 4,
+        "そう": 3,
+        "ない": 3,
+        "ひと": 3,
+        "ぼく": 4
+      }
+    }
+  }
+}

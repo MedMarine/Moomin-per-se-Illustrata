@@ -1,0 +1,446 @@
+{
+  "chapter": 16,
+  "title": "風 の なか",
+  "grammarStep": 11,
+  "grammarName": "て-form: sequential and requests",
+  "scene": {
+    "location": "ムーミン谷のおか",
+    "description": "Hilltop overlooking the valley on a windy day. Leaves and petals blowing through the air. Bright sky, clouds moving fast.",
+    "characters": [
+      "ムーミン",
+      "スナフキン",
+      "スニフ"
+    ],
+    "props": [
+      "き"
+    ]
+  },
+  "newLemmas": [
+    "飛行",
+    "はい",
+    "風",
+    "日",
+    "あいつ",
+    "手",
+    "こちら",
+    "おりる"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いや",
+    "いる",
+    "うみ",
+    "うん",
+    "ええ",
+    "えー",
+    "お",
+    "おい",
+    "おく",
+    "おまえ",
+    "おもう",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くる",
+    "くん",
+    "けど",
+    "けれど",
+    "ここ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さがす",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しる",
+    "じゃ",
+    "すがた",
+    "する",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たち",
+    "たに",
+    "たべる",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だめ",
+    "だれ",
+    "ちゃん",
+    "ちょっと",
+    "って",
+    "つ",
+    "つくる",
+    "て",
+    "で",
+    "でも",
+    "でる",
+    "と",
+    "ところ",
+    "とても",
+    "どう",
+    "どこ",
+    "な",
+    "ない",
+    "なか",
+    "なに",
+    "なる",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はやい",
+    "ひと",
+    "ひとり",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もつ",
+    "もの",
+    "やっぱり",
+    "やま",
+    "やる",
+    "よ",
+    "よう",
+    "よし",
+    "ら",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "スーツケース-suitcase",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "変わる",
+    "奴",
+    "子",
+    "度",
+    "怖い",
+    "手",
+    "日",
+    "楽しい",
+    "止める",
+    "目",
+    "絶対",
+    "自分",
+    "落ちる",
+    "見える",
+    "話",
+    "違う",
+    "隠れる",
+    "非",
+    "風",
+    "飛行",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch16-01",
+      "japanese": "風 が きた！",
+      "imagePrompt": "Hilltop overlooking Moomin Valley, a strong gust blows leaves and petals horizontally. Moomintroll's ears flatten in the wind. Leaves flying on the hilltop. Medium-wide shot, eye-level. Bright windy daylight with flying debris, sudden wind arrival mood.",
+      "readings": [
+        {
+          "surface": "風",
+          "reading": "かぜ"
+        }
+      ]
+    },
+    {
+      "id": "ch16-02",
+      "japanese": "風 の なか に いる。",
+      "imagePrompt": "Moomintroll stands on the hilltop bracing against the wind, his body leaning forward. Grass and flowers bend around him. Moomintroll bracing in the wind. Medium shot, eye-level. Bright dynamic windy light, determined standing mood.",
+      "readings": [
+        {
+          "surface": "風",
+          "reading": "ふう"
+        }
+      ]
+    },
+    {
+      "id": "ch16-03",
+      "japanese": "いい 日 だ ね。",
+      "imagePrompt": "Despite the wind, the sky is bright blue with fast-moving white clouds. Sun shines through breaks. Valley stretches below. Bright windy sky over the valley. Wide shot, slightly elevated. Bright blue sky with moving clouds, cheerful despite wind mood.",
+      "readings": [
+        {
+          "surface": "日",
+          "reading": "ひ"
+        }
+      ]
+    },
+    {
+      "id": "ch16-04",
+      "japanese": "この 日 は 風 が ある。",
+      "imagePrompt": "Trees on the hilltop bend dramatically in the wind. Snufkin holds his hat with one hand, the other pointing at the valley. Snufkin holding his hat in wind. Medium shot, eye-level. Bright wind-tossed daylight, matter-of-fact observation mood.",
+      "readings": [
+        {
+          "surface": "日",
+          "reading": "ひ"
+        },
+        {
+          "surface": "風",
+          "reading": "かぜ"
+        }
+      ]
+    },
+    {
+      "id": "ch16-05",
+      "japanese": "あいつ は だれ？",
+      "imagePrompt": "Moomintroll squints into the wind at a figure approaching from the valley path below. Wind-blown silhouette climbing the hill. Distant figure in the wind. Medium shot, eye-level. Bright hazy windy light, squinting curiosity mood.",
+      "readings": []
+    },
+    {
+      "id": "ch16-06",
+      "japanese": "あいつ が きた！",
+      "imagePrompt": "Sniff emerges from behind the hilltop rocks, wind-blown and out of breath. His big ears flap in the gusts. Sniff arriving windblown on the hilltop. Medium shot, eye-level. Bright gusty light, breathless arrival mood.",
+      "readings": []
+    },
+    {
+      "id": "ch16-07",
+      "japanese": "ほら、あいつ は スニフ だ。",
+      "imagePrompt": "Sniff stands on the hilltop waving, his long ears streaming in the wind like flags. Moomintroll recognizes him. Sniff identified on the hilltop. Medium shot, eye-level. Bright clear windy light, recognition mood.",
+      "readings": []
+    },
+    {
+      "id": "ch16-08",
+      "japanese": "こちら に きて！",
+      "imagePrompt": "Moomintroll waves Sniff over, gesturing toward a sheltered spot behind a large rock on the hilltop. Wind whips around the rock. Moomintroll beckoning toward shelter. Medium shot, eye-level. Bright windy light with sheltered shadow, urgent invitation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch16-09",
+      "japanese": "はい！",
+      "imagePrompt": "Sniff nods eagerly and scrambles toward the sheltered spot behind the rock. His body leans against the wind. Sniff heading for shelter. Medium shot, eye-level. Bright gusty hilltop light, eager compliance mood.",
+      "readings": []
+    },
+    {
+      "id": "ch16-10",
+      "japanese": "この 手 を みて！",
+      "imagePrompt": "Moomintroll holds up his hands to show Sniff something — a small flying insect landed on his palm, sheltered from the wind. The insect on Moomintroll's hand. Close-up, eye-level. Bright sheltered light on the open palm, amazed showing mood.",
+      "readings": [
+        {
+          "surface": "手",
+          "reading": "て"
+        }
+      ]
+    },
+    {
+      "id": "ch16-11",
+      "japanese": "手 の なか に ある ね。",
+      "imagePrompt": "Close view of Moomintroll's cupped hands with the small creature inside, protected from the wind. Sniff leans in to look. Cupped hands with small creature. Close-up, slightly elevated. Warm sheltered light, gentle protective mood.",
+      "readings": [
+        {
+          "surface": "手",
+          "reading": "て"
+        }
+      ]
+    },
+    {
+      "id": "ch16-12",
+      "japanese": "飛行 が 見えた！",
+      "imagePrompt": "Moomintroll stands on the hilltop pointing upward at something flying in the strong wind — a large bird or a kite whipping through the sky. His face is full of wonder. Moomintroll spotting something flying. Medium shot, eye-level. Bright windy sky above, excited spotting mood.",
+      "readings": [
+        {
+          "surface": "飛行",
+          "reading": "ひこう"
+        },
+        {
+          "surface": "見え",
+          "reading": "みえ"
+        }
+      ]
+    },
+    {
+      "id": "ch16-13",
+      "japanese": "あの 飛行 は なに？",
+      "imagePrompt": "Everyone shades their eyes and looks up at the flying object being tossed by the wind. It spins and tumbles through the sky above them. Characters with hands raised looking upward on the hilltop. Medium-wide shot, eye-level. Bright windy sky, puzzled wondering mood.",
+      "readings": [
+        {
+          "surface": "飛行",
+          "reading": "ひこう"
+        }
+      ]
+    },
+    {
+      "id": "ch16-14",
+      "japanese": "風 で 飛行 が きた。",
+      "imagePrompt": "The flying object turns out to be a large leaf or piece of paper carried by the wind, spiraling down toward the hilltop. The object descending in the wind. Medium shot, eye-level. Bright windy sky with descending object, understanding realization mood.",
+      "readings": [
+        {
+          "surface": "風",
+          "reading": "ふう"
+        },
+        {
+          "surface": "飛行",
+          "reading": "ひこう"
+        }
+      ]
+    },
+    {
+      "id": "ch16-15",
+      "japanese": "おりる！",
+      "imagePrompt": "The flying object suddenly drops from the sky toward the group. Everyone ducks. It crashes into the grass nearby. Object dropping suddenly. Medium shot, eye-level. Bright flash of movement, urgent warning mood.",
+      "readings": []
+    },
+    {
+      "id": "ch16-16",
+      "japanese": "おりて きて！",
+      "imagePrompt": "Moomintroll waves urgently at Sniff who clings to a tall rock above him. Wind threatens to blow Sniff off. Moomintroll gestures downward with concern. Moomintroll calling Sniff down from the rock. Medium shot, eye-level. Bright dangerous windy light, urgent command mood.",
+      "readings": []
+    },
+    {
+      "id": "ch16-17",
+      "japanese": "はい、おりる よ。",
+      "imagePrompt": "Sniff carefully climbs down the rock, gripping with both hands. Wind tugs at his ears. The valley stretches far below. Sniff climbing down carefully. Medium shot, slightly low angle. Bright windy light, careful obedient mood.",
+      "readings": []
+    },
+    {
+      "id": "ch16-18",
+      "japanese": "手 で もつ。",
+      "imagePrompt": "Moomintroll grabs a rope tied to the rock with both hands, bracing against a strong gust. His grip is firm. Moomintroll gripping the rope. Close-up, eye-level. Bright tense windy light, firm gripping mood.",
+      "readings": [
+        {
+          "surface": "手",
+          "reading": "て"
+        }
+      ]
+    },
+    {
+      "id": "ch16-19",
+      "japanese": "こちら の ほう が いい。",
+      "imagePrompt": "Snufkin points to the sheltered side of the hill where the wind is calmer. Trees stand still on that side. Calm contrasts with windy. Snufkin pointing to the calm side. Medium shot, eye-level. Bright calm light versus windy side, wise direction mood.",
+      "readings": []
+    },
+    {
+      "id": "ch16-20",
+      "japanese": "ほら、こちら へ いく。",
+      "imagePrompt": "The group walks toward the sheltered side of the hilltop, wind dying down with each step. Relief visible on their faces. Group moving to shelter. Medium-wide shot, eye-level. Transitioning from windy to calm light, relieved retreat mood.",
+      "readings": []
+    },
+    {
+      "id": "ch16-21",
+      "japanese": "うん、はい！いい 日 だ ね。",
+      "imagePrompt": "On the calm side of the hill, everyone relaxes. The view is beautiful — valley, river, mountains. Wind is just a gentle breeze here. Group relaxing with valley view. Medium-wide shot, eye-level. Warm calm golden light, appreciative peaceful mood.",
+      "readings": [
+        {
+          "surface": "日",
+          "reading": "ひ"
+        }
+      ]
+    },
+    {
+      "id": "ch16-22",
+      "japanese": "飛行 を みて、あそこ へ いく。",
+      "imagePrompt": "Moomintroll spots the flying object now resting in the valley below and decides to go investigate. He points down the path. Moomintroll pointing down the hill. Medium shot, eye-level. Bright adventurous afternoon light, next-adventure planning mood.",
+      "readings": [
+        {
+          "surface": "飛行",
+          "reading": "ひこう"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 22,
+      "newLemmaUsage": {
+        "あいつ": 3,
+        "おりる": 3,
+        "こちら": 3,
+        "はい": 3,
+        "手": 3,
+        "日": 3,
+        "風": 4,
+        "飛行": 4
+      }
+    }
+  }
+}

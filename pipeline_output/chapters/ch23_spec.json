@@ -1,0 +1,589 @@
+{
+  "chapter": 23,
+  "title": "嵐 が きた！",
+  "grammarStep": 17,
+  "grammarName": "Relative clauses",
+  "scene": {
+    "location": "ムーミンやしきの外",
+    "description": "Dark clouds rolling in over the valley. Wind picking up. Characters looking up at the sky. Trees bending.",
+    "characters": [
+      "ムーミン",
+      "パパ",
+      "スニフ"
+    ],
+    "props": []
+  },
+  "newLemmas": [
+    "どんな",
+    "上",
+    "嵐",
+    "すごい",
+    "とぶ",
+    "前",
+    "忘れる",
+    "あと"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いつ",
+    "いや",
+    "いる",
+    "いれる",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たって",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "でも",
+    "でる",
+    "と",
+    "とく",
+    "ところ",
+    "とても",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "先",
+    "前",
+    "助ける",
+    "動く",
+    "取る",
+    "声",
+    "変",
+    "変わる",
+    "奴",
+    "姉",
+    "子",
+    "少し",
+    "嵐",
+    "度",
+    "必要",
+    "忘れる",
+    "怖い",
+    "手",
+    "日",
+    "昨日",
+    "書く",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "止める",
+    "気圧",
+    "水",
+    "海岸",
+    "無くなる",
+    "目",
+    "知れる",
+    "確か",
+    "穴",
+    "素晴らしい",
+    "絶対",
+    "自信",
+    "自分",
+    "茸",
+    "落ちる",
+    "見える",
+    "見せる",
+    "話",
+    "違う",
+    "部屋",
+    "間",
+    "随分",
+    "隠れる",
+    "雨",
+    "非",
+    "面白い",
+    "風",
+    "飛行",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch23-01",
+      "japanese": "嵐 が きた！",
+      "imagePrompt": "Dark clouds roll over the Moomin Valley as a tremendous storm arrives. Wind whips the trees sideways. Moomintroll and Moominpappa stand outside the house looking up at the sky. Storm clouds arriving over the valley. Medium-wide shot, eye-level. Dark dramatic storm light, alarmed arrival mood.",
+      "readings": [
+        {
+          "surface": "嵐",
+          "reading": "あらし"
+        }
+      ]
+    },
+    {
+      "id": "ch23-02",
+      "japanese": "すごい 嵐 だ！",
+      "imagePrompt": "The storm is incredible in its power. Rain lashes sideways, trees bend almost to the ground. Moomintroll shields his face with both hands. The force of the wind is visible. Moomintroll bracing against the storm. Medium shot, eye-level. Dark intense storm light, awed power mood.",
+      "readings": [
+        {
+          "surface": "嵐",
+          "reading": "あらし"
+        }
+      ]
+    },
+    {
+      "id": "ch23-03",
+      "japanese": "これ は どんな 嵐？",
+      "imagePrompt": "Sniff peers out from behind the Moomin house door, eyes wide with fear. What kind of storm is this? Lightning flashes in the distance behind the dark clouds. Sniff peering out the door fearfully. Medium close-up, eye-level. Flash-lit dark storm light, fearful questioning mood.",
+      "readings": [
+        {
+          "surface": "嵐",
+          "reading": "あらし"
+        }
+      ]
+    },
+    {
+      "id": "ch23-04",
+      "japanese": "風 が すごい。",
+      "imagePrompt": "A powerful gust sends leaves and small objects swirling through the air. The wind itself seems visible as a wall of force. Characters brace themselves. Wind visible with swirling debris. Medium-wide shot, eye-level. Grey turbulent storm light, raw elemental force mood.",
+      "readings": [
+        {
+          "surface": "風",
+          "reading": "かぜ"
+        }
+      ]
+    },
+    {
+      "id": "ch23-05",
+      "japanese": "帽子 が 飛んだ！",
+      "imagePrompt": "Moominpappa's top hat is ripped from his head by the wind and spirals upward into the stormy sky. He reaches for it helplessly. The hat tumbles away. Hat flying off Moominpappa's head. Medium shot, eye-level. Dark dramatic storm light, comical loss mood.",
+      "readings": [
+        {
+          "surface": "帽子",
+          "reading": "ぼうし"
+        },
+        {
+          "surface": "飛ん",
+          "reading": "とん"
+        }
+      ]
+    },
+    {
+      "id": "ch23-06",
+      "japanese": "上 に 飛んだ。",
+      "imagePrompt": "Moominpappa stands in the storm pointing upward, mouth agape, as his hat soars into the dark clouds above. The hat grows smaller against the stormy sky. Moominpappa watching his hat fly away. Medium shot, eye-level. Dark dramatic storm light, helpless watching mood.",
+      "readings": [
+        {
+          "surface": "上",
+          "reading": "うえ"
+        },
+        {
+          "surface": "飛ん",
+          "reading": "とん"
+        }
+      ]
+    },
+    {
+      "id": "ch23-07",
+      "japanese": "「すごい！」 と 言った。",
+      "imagePrompt": "Moomintroll shouts over the wind, pointing at the flying hat and other debris. His voice competes with the storm's roar. Excitement mixed with fear on his face. Moomintroll shouting in the storm. Medium shot, eye-level. Dark excited storm light, shouting exclamation mood.",
+      "readings": [
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch23-08",
+      "japanese": "前 に こんな もの は なかった。",
+      "imagePrompt": "Moomintroll looks around at the transformed landscape — toppled fences, scattered objects, bent trees. None of this existed before the storm. He has never seen anything like it. Moomintroll surveying storm damage. Medium-wide shot, eye-level. Grey awed storm light, disbelieving comparison mood.",
+      "readings": [
+        {
+          "surface": "前",
+          "reading": "まえ"
+        }
+      ]
+    },
+    {
+      "id": "ch23-09",
+      "japanese": "嵐 の 前 は いい 日 だった。",
+      "imagePrompt": "A thought bubble shows the peaceful valley from earlier today — sunny sky, calm trees, flowers in bloom. The contrast with the current storm is stark. Split image: peaceful memory vs current storm. Medium shot, eye-level. Warm memory light vs dark storm light, nostalgic contrast mood.",
+      "readings": [
+        {
+          "surface": "嵐",
+          "reading": "あらし"
+        },
+        {
+          "surface": "前",
+          "reading": "まえ"
+        },
+        {
+          "surface": "日",
+          "reading": "ひ"
+        }
+      ]
+    },
+    {
+      "id": "ch23-10",
+      "japanese": "忘れない で！",
+      "imagePrompt": "Moominmamma calls from the doorway, beckoning everyone inside urgently. Do not forget to come inside! She waves her arms. The rain pounds around her. Moominmamma calling from the doorway. Medium shot, eye-level. Warm doorway light against dark storm, urgent reminder mood.",
+      "readings": [
+        {
+          "surface": "忘れ",
+          "reading": "わすれ"
+        }
+      ]
+    },
+    {
+      "id": "ch23-11",
+      "japanese": "この 上 から もの が 落ちた。",
+      "imagePrompt": "A tree branch breaks loose from above and crashes to the ground near the characters. They jump back in alarm. Debris rains down from the thrashing trees. Branch crashing from above. Medium shot, slightly elevated. Dark falling storm light, dangerous debris mood.",
+      "readings": [
+        {
+          "surface": "上",
+          "reading": "うえ"
+        },
+        {
+          "surface": "落ち",
+          "reading": "おち"
+        }
+      ]
+    },
+    {
+      "id": "ch23-12",
+      "japanese": "どんな もの が 飛んだ？",
+      "imagePrompt": "Sniff and Moomintroll look at the scattered debris — branches, leaves, a bucket, pieces of fence. What kinds of things were sent flying? They catalog the wreckage. Characters examining scattered debris. Medium shot, eye-level. Grey aftermath storm light, cataloguing curiosity mood.",
+      "readings": [
+        {
+          "surface": "飛ん",
+          "reading": "とん"
+        }
+      ]
+    },
+    {
+      "id": "ch23-13",
+      "japanese": "前 に みた 嵐 と 違う。",
+      "imagePrompt": "Moominpappa shakes his head, comparing this storm to ones from his past. This is different — stronger, wilder. His memoir-writing expression shows deep thought. Moominpappa shaking his head thoughtfully. Medium shot, eye-level. Dark reflective storm light, comparative analysis mood.",
+      "readings": [
+        {
+          "surface": "前",
+          "reading": "まえ"
+        },
+        {
+          "surface": "嵐",
+          "reading": "あらし"
+        },
+        {
+          "surface": "違う",
+          "reading": "ちがう"
+        }
+      ]
+    },
+    {
+      "id": "ch23-14",
+      "japanese": "あと で みる。",
+      "imagePrompt": "Moominmamma pulls everyone inside and closes the door firmly. They will look at the damage later. Safety first. The door closes against the storm. Door closing against the storm. Medium shot, eye-level. Warm interior vs dark exterior, decisive shelter mood.",
+      "readings": []
+    },
+    {
+      "id": "ch23-15",
+      "japanese": "嵐 の あと に いく。",
+      "imagePrompt": "Inside the warm house, Moomintroll presses his face against the window, watching the storm. He will go out after it passes. Determination in his eyes. Moomintroll at the window watching the storm. Medium close-up, eye-level. Warm interior light with storm outside, patient determination mood.",
+      "readings": [
+        {
+          "surface": "嵐",
+          "reading": "あらし"
+        }
+      ]
+    },
+    {
+      "id": "ch23-16",
+      "japanese": "もの が 飛ぶ ね。",
+      "imagePrompt": "From inside, they can see amazing things flying past the windows — a wheelbarrow, sheets of roofing, a garden bench. Incredible what the storm has lifted. Objects flying past the windows. Medium shot, eye-level. Dark dramatic storm light through windows, amazed observation mood.",
+      "readings": [
+        {
+          "surface": "飛ぶ",
+          "reading": "とぶ"
+        }
+      ]
+    },
+    {
+      "id": "ch23-17",
+      "japanese": "忘れた もの が ある。",
+      "imagePrompt": "Moominmamma gasps and puts her hand to her mouth — she forgot something outside! A beloved plant pot or garden tool is still out in the storm. Moominmamma gasping with realization. Medium close-up, eye-level. Warm worried interior light, sudden memory mood.",
+      "readings": [
+        {
+          "surface": "忘れ",
+          "reading": "わすれ"
+        }
+      ]
+    },
+    {
+      "id": "ch23-18",
+      "japanese": "上 に 飛んだ もの を みた。",
+      "imagePrompt": "The family gathers at the window, faces lit by lightning flashes, watching an object that flew upward earlier now tumbling back down from the clouds. The storm tosses things up and brings them back. Family watching storm debris from the window. Medium shot, eye-level. Flash-lit interior against dark storm, tracking observation mood.",
+      "readings": [
+        {
+          "surface": "上",
+          "reading": "うえ"
+        },
+        {
+          "surface": "飛ん",
+          "reading": "とん"
+        }
+      ]
+    },
+    {
+      "id": "ch23-19",
+      "japanese": "忘れて は だめ だ。",
+      "imagePrompt": "Moominpappa writes a note on a piece of paper — a reminder not to forget things during storms. He posts it by the front door. Never forget! Note being posted by the door. Medium close-up, eye-level. Warm interior light, serious reminder mood.",
+      "readings": [
+        {
+          "surface": "忘れ",
+          "reading": "わすれ"
+        }
+      ]
+    },
+    {
+      "id": "ch23-20",
+      "japanese": "あと が 楽しみ だ ね。",
+      "imagePrompt": "The storm begins to weaken. Patches of sky appear between the clouds. Everyone looks out hopefully. The aftermath will bring discoveries. What comes after will be exciting. Family looking hopefully as storm weakens. Medium-wide shot, eye-level. Brightening transitional light, hopeful anticipation mood.",
+      "readings": [
+        {
+          "surface": "楽しみ",
+          "reading": "たのしみ"
+        }
+      ]
+    },
+    {
+      "id": "ch23-21",
+      "japanese": "どんな あと に なる？",
+      "imagePrompt": "Moomintroll and Sniff press their faces against the window, imagining what the valley will look like after the storm passes. What kind of aftermath awaits? Two faces at the window wondering. Medium close-up, eye-level. Soft clearing light, wondering anticipation mood.",
+      "readings": []
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 21,
+      "newLemmaUsage": {
+        "あと": 4,
+        "すごい": 3,
+        "とぶ": 5,
+        "どんな": 3,
+        "上": 3,
+        "前": 3,
+        "嵐": 6,
+        "忘れる": 3
+      }
+    }
+  }
+}

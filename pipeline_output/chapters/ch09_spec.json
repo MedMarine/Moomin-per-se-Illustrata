@@ -1,0 +1,349 @@
+{
+  "chapter": 9,
+  "title": "ほら、みる！",
+  "grammarStep": 6,
+  "grammarName": "Transitive action: を",
+  "scene": {
+    "location": "森のそばのキャンプ",
+    "description": "A clearing near the forest with a pitched tent. Campfire remnants. Backpacks and supplies. Moonlight through trees.",
+    "characters": [
+      "ムーミン",
+      "スナフキン",
+      "パパ"
+    ],
+    "props": [
+      "き"
+    ]
+  },
+  "newLemmas": [
+    "ちょっと",
+    "話",
+    "ほら",
+    "奴",
+    "きっと",
+    "だいじょうぶ",
+    "すがた",
+    "そんな"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あそこ",
+    "あなた",
+    "あの",
+    "ある",
+    "あれ",
+    "いい",
+    "いえ",
+    "いく",
+    "いる",
+    "うみ",
+    "うん",
+    "ええ",
+    "お",
+    "おい",
+    "おく",
+    "おもう",
+    "か",
+    "かいがら",
+    "かえる",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "くる",
+    "くん",
+    "けど",
+    "けれど",
+    "ここ",
+    "この",
+    "これ",
+    "ご",
+    "さがす",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しる",
+    "じゃ",
+    "すがた",
+    "する",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "た",
+    "たち",
+    "たべる",
+    "だ",
+    "だいじょうぶ",
+    "だけ",
+    "だれ",
+    "ちゃん",
+    "ちょっと",
+    "って",
+    "つ",
+    "で",
+    "でる",
+    "と",
+    "ところ",
+    "どう",
+    "どこ",
+    "な",
+    "ない",
+    "なに",
+    "なる",
+    "に",
+    "ね",
+    "の",
+    "のむ",
+    "は",
+    "はいる",
+    "ひと",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まで",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もつ",
+    "もの",
+    "やま",
+    "やる",
+    "よ",
+    "よう",
+    "よし",
+    "ら",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ムーミン",
+    "モラン",
+    "・",
+    "一",
+    "不",
+    "二",
+    "今",
+    "奴",
+    "見える",
+    "話",
+    "非",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch09-01",
+      "japanese": "なに を たべる？",
+      "imagePrompt": "Forest campsite at dusk, a crackling fire in the center. Moomintroll sits on a log looking at food supplies spread out. Snufkin tends the fire. Campfire with food supplies. Medium shot, eye-level from across the fire. Warm orange firelight against dark forest, appetizing anticipation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch09-02",
+      "japanese": "ちょっと たべる。",
+      "imagePrompt": "Moomintroll takes a small piece of bread and cheese, eating modestly by the fire. Firelight on his face. Moomintroll eating a small snack by the fire. Medium close-up, eye-level. Warm close firelight, modest enjoyment mood.",
+      "readings": []
+    },
+    {
+      "id": "ch09-03",
+      "japanese": "なに を のむ？",
+      "imagePrompt": "Snufkin pours something from a kettle into mugs by the campfire. Steam rises into the cool night air. Mugs by the campfire. Snufkin pouring hot drinks by the fire. Medium shot, eye-level. Warm fire and steam glow, cozy preparation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch09-04",
+      "japanese": "パパ の 話 を きく。",
+      "imagePrompt": "Moominpappa sits on a log by the fire, gesturing dramatically as he tells a story. Everyone leans in to listen. Firelight dances on their faces. Moominpappa telling a campfire story. Medium shot, eye-level. Dramatic flickering firelight, storytelling mood.",
+      "readings": [
+        {
+          "surface": "話",
+          "reading": "はなし"
+        }
+      ]
+    },
+    {
+      "id": "ch09-05",
+      "japanese": "その 話 は ほんとう？",
+      "imagePrompt": "Sniff looks skeptical, arms crossed, questioning whether Moominpappa's story is true. Moominpappa looks affronted. Sniff doubting the campfire story. Medium two-shot, eye-level. Warm firelight, playful skepticism mood.",
+      "readings": [
+        {
+          "surface": "話",
+          "reading": "はなし"
+        }
+      ]
+    },
+    {
+      "id": "ch09-06",
+      "japanese": "きっと ほんとう だ。",
+      "imagePrompt": "Moominpappa nods firmly, insisting his story is true. He taps his pipe for emphasis. The fire crackles in agreement. Moominpappa insisting on his story's truth. Medium close-up, eye-level. Steady warm firelight, dignified insistence mood.",
+      "readings": []
+    },
+    {
+      "id": "ch09-07",
+      "japanese": "ほら！あの すがた！",
+      "imagePrompt": "Moomintroll suddenly points into the dark forest beyond the fire circle. A large dark shape is barely visible between the trees. Something lurking just outside the firelight. Medium-wide shot, eye-level past the fire into darkness. Sharp contrast of firelight and dark forest, alarmed pointing mood.",
+      "readings": []
+    },
+    {
+      "id": "ch09-08",
+      "japanese": "あれ を みる！",
+      "imagePrompt": "Everyone turns to look where Moomintroll points. The dark shape is still there — large, unmoving, cold. Sniff grabs Moomintroll's arm. Everyone staring into the dark forest. Medium-wide shot, eye-level. Firelight barely reaching into darkness, tense staring mood.",
+      "readings": []
+    },
+    {
+      "id": "ch09-09",
+      "japanese": "すがた が 見えた！",
+      "imagePrompt": "Two pale eyes gleam from the tree line, catching the campfire's warm glow. Moonlight illuminates the massive dark silhouette between the trees. The campfire in the foreground casts flickering orange light toward the shape. Eyes reflecting campfire light at the forest edge. Medium shot, eye-level. Warm campfire foreground against moonlit forest, frightening confirmation mood.",
+      "readings": [
+        {
+          "surface": "見え",
+          "reading": "みえ"
+        }
+      ]
+    },
+    {
+      "id": "ch09-10",
+      "japanese": "あの 奴 は だれ だ？",
+      "imagePrompt": "Sniff whispers urgently, pointing at the shape. His voice shakes. The campfire crackles and pops. Everyone frozen in place. Sniff whispering fearfully at the campfire. Close-up, eye-level. Flickering uncertain firelight, fearful questioning mood.",
+      "readings": [
+        {
+          "surface": "奴",
+          "reading": "やつ"
+        }
+      ]
+    },
+    {
+      "id": "ch09-11",
+      "japanese": "きっと モラン だ。",
+      "imagePrompt": "Snufkin says it calmly — the Groke. He has seen her before. A chill creeps across the camp. Frost begins forming on the nearest grass. Snufkin calmly identifying the shape. Medium shot, eye-level. Cold-tinged firelight, calm dread mood.",
+      "readings": []
+    },
+    {
+      "id": "ch09-12",
+      "japanese": "だいじょうぶ だ よ。",
+      "imagePrompt": "Snufkin puts his hand on Moomintroll's shoulder reassuringly. The Groke has not come closer. The fire keeps her at bay. Snufkin reassuring Moomintroll by the fire. Medium close-up, eye-level. Warm steady firelight, calming reassurance mood.",
+      "readings": []
+    },
+    {
+      "id": "ch09-13",
+      "japanese": "そんな 奴 は ない。",
+      "imagePrompt": "Moominpappa waves dismissively toward the darkness, trying to calm everyone. He stokes the fire higher, sending sparks up. Moominpappa dismissing the fear by the fire. Medium shot, eye-level. Brightening firelight as flames grow, blustering reassurance mood.",
+      "readings": [
+        {
+          "surface": "奴",
+          "reading": "やつ"
+        }
+      ]
+    },
+    {
+      "id": "ch09-14",
+      "japanese": "ちょっと みる。",
+      "imagePrompt": "Snufkin stands at the edge of the campfire's glow, holding a lantern in front of him and facing the viewer. The lantern casts warm light on his calm, determined face. Dark forest stretches behind him. Snufkin with lantern at the firelight's edge, facing the viewer. Medium shot, eye-level. Warm lantern and firelight on Snufkin's face, brave investigation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch09-15",
+      "japanese": "もう いない。",
+      "imagePrompt": "Snufkin's lantern reveals only empty forest — the Groke has moved away silently. Frost on the ground marks where she stood. Empty frosty spot in the forest. Medium shot, eye-level by lantern light. Cool lantern light on frost, relieved emptiness mood.",
+      "readings": []
+    },
+    {
+      "id": "ch09-16",
+      "japanese": "そんな すがた は もう ない。",
+      "imagePrompt": "Back at the campfire, everyone relaxes. The dark shape is gone. The forest is just trees and moonlight again. Normal peaceful dark forest beyond the fire. Medium-wide shot, eye-level. Warm firelight restored, relieved normalcy mood.",
+      "readings": []
+    },
+    {
+      "id": "ch09-17",
+      "japanese": "あの 奴！そんな もの だ。",
+      "imagePrompt": "Sniff mutters about the Groke while poking the fire with a stick. The flames flicker. He shrugs it off. Sniff muttering by the fire. Medium close-up, eye-level. Warm steady firelight, dismissive commentary mood.",
+      "readings": [
+        {
+          "surface": "奴",
+          "reading": "やつ"
+        }
+      ]
+    },
+    {
+      "id": "ch09-18",
+      "japanese": "ほら、だいじょうぶ だ よ。",
+      "imagePrompt": "Snufkin returns to the fire circle and sits down, placing the lantern aside. He picks up his harmonica with a reassuring nod. Snufkin back at the campfire with harmonica. Medium shot, eye-level. Warm restored firelight, all-clear comfort mood.",
+      "readings": []
+    },
+    {
+      "id": "ch09-19",
+      "japanese": "だいじょうぶ。きっと だいじょうぶ だ。",
+      "imagePrompt": "Everyone settles back in around the fire. The fear has passed, replaced by fireside warmth. Snufkin nods reassuringly. All safe by the fire. Medium shot, eye-level. Steady warm firelight, restored cozy mood.",
+      "readings": []
+    },
+    {
+      "id": "ch09-20",
+      "japanese": "スニフ は ちょっと のむ。",
+      "imagePrompt": "Sniff takes a nervous sip from his mug, still glancing at the forest edge. But the drink is warm and calming. Sniff sipping nervously by the fire. Medium close-up, eye-level. Warm firelight on the mug, gradually calming mood.",
+      "readings": []
+    },
+    {
+      "id": "ch09-21",
+      "japanese": "ちょっと あの 話 を みる。",
+      "imagePrompt": "Moomintroll picks up Moominpappa's old adventure journal and leafs through it by firelight, looking at the stories and sketches. Moomintroll reading by firelight. Medium close-up, slightly elevated. Warm close firelight on pages, absorbed reading mood.",
+      "readings": [
+        {
+          "surface": "話",
+          "reading": "はなし"
+        }
+      ]
+    },
+    {
+      "id": "ch09-22",
+      "japanese": "ママ、ほら！",
+      "imagePrompt": "Moomintroll holds up the journal to show Moominmamma a picture of Moominpappa as a young traveller. She smiles warmly at the memory. Moomintroll showing the journal to Moominmamma. Medium two-shot, eye-level. Warm intimate firelight, sharing memories mood.",
+      "readings": []
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 22,
+      "newLemmaUsage": {
+        "きっと": 3,
+        "すがた": 3,
+        "そんな": 3,
+        "だいじょうぶ": 4,
+        "ちょっと": 4,
+        "ほら": 3,
+        "奴": 3,
+        "話": 3
+      }
+    }
+  }
+}

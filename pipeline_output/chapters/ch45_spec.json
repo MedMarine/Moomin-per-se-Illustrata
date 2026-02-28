@@ -1,0 +1,816 @@
+{
+  "chapter": 45,
+  "title": "春 の 物語",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "ムーミン谷（夕方）",
+    "description": "Moomin Valley at golden hour. All the familiar landmarks visible — the house, the river, the bridge, the mountains, the sea.",
+    "characters": [
+      "ムーミン",
+      "スナフキン",
+      "フローレン",
+      "スニフ"
+    ],
+    "props": [
+      "船",
+      "家"
+    ]
+  },
+  "newLemmas": [
+    "雲",
+    "夢",
+    "春",
+    "思い出す",
+    "一番",
+    "浮く",
+    "物語",
+    "ふざける"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "あら",
+    "ありがとう",
+    "ある",
+    "あるく",
+    "あれ",
+    "い",
+    "いい",
+    "いいえ",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いっぱい",
+    "いつ",
+    "いや",
+    "いらっしゃる",
+    "いる",
+    "いれる",
+    "ううん",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "えーと",
+    "お",
+    "おい",
+    "おお",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "およぐ",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こわす",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "すむ",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そう-伝聞",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たくさん",
+    "たち",
+    "たって",
+    "たつ",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちいさな",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つかう",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とにかく",
+    "とぶ",
+    "とまる",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なく",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はなす",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふざける",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "やれ",
+    "ゆっくり",
+    "よ",
+    "よいしょ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "タール",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "ハート",
+    "パパ",
+    "パンケーキ",
+    "パーティー",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "一番",
+    "三",
+    "上",
+    "上がる",
+    "上る",
+    "上陸",
+    "下",
+    "下さる",
+    "不",
+    "中身",
+    "事件",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "会う",
+    "伯母",
+    "信じる",
+    "修理",
+    "俺",
+    "優しい",
+    "兄",
+    "先",
+    "入り口",
+    "全く",
+    "出でる",
+    "出掛ける",
+    "出発",
+    "分",
+    "切手",
+    "別",
+    "利く",
+    "前",
+    "力",
+    "助ける",
+    "動く",
+    "勝手",
+    "化け",
+    "化け物",
+    "危ない",
+    "友達",
+    "取り戻す",
+    "取る",
+    "嘘",
+    "回",
+    "図",
+    "地獄",
+    "場所",
+    "壊れる",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "夢",
+    "大事",
+    "大変",
+    "天才",
+    "夫婦",
+    "奥",
+    "女王",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "実",
+    "客",
+    "少し",
+    "嵐",
+    "川",
+    "帆",
+    "度",
+    "張る",
+    "御覧",
+    "心配",
+    "必要",
+    "忘れる",
+    "怒る",
+    "怖い",
+    "思い出す",
+    "急ぐ",
+    "悪い",
+    "感じる",
+    "戻る",
+    "所為",
+    "手",
+    "手伝う",
+    "拾う",
+    "持ち主",
+    "捨てる",
+    "教える",
+    "旅",
+    "日",
+    "明日",
+    "春",
+    "昨日",
+    "時間",
+    "書く",
+    "木苺",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次",
+    "次回",
+    "止める",
+    "此奴",
+    "毒",
+    "気圧",
+    "気持ち",
+    "水",
+    "沈む",
+    "沖",
+    "波",
+    "洞穴",
+    "浮く",
+    "海岸",
+    "消える",
+    "済む",
+    "漕ぐ",
+    "潜る",
+    "濡れる",
+    "為",
+    "無くなる",
+    "然う然う",
+    "物語",
+    "王",
+    "珍しい",
+    "痛い",
+    "目",
+    "眠る",
+    "知れる",
+    "砂",
+    "確か",
+    "秒",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "結ぶ",
+    "絶対",
+    "考える",
+    "聞き出す",
+    "聞こえる",
+    "自信",
+    "自分",
+    "色",
+    "花",
+    "苛める",
+    "茶",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "計",
+    "設計",
+    "許す",
+    "話",
+    "調子",
+    "起こる",
+    "足",
+    "辺",
+    "返す",
+    "追う",
+    "退屈",
+    "逃げる",
+    "通り",
+    "連れる",
+    "違う",
+    "邪魔",
+    "部屋",
+    "鋸",
+    "間",
+    "降る",
+    "随分",
+    "隠す",
+    "隠れる",
+    "集める",
+    "雨",
+    "雲",
+    "静か",
+    "非",
+    "面白い",
+    "頂く",
+    "頭",
+    "風",
+    "飛行",
+    "飾り",
+    "驚く",
+    "髪の毛",
+    "鬼",
+    "鼾",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch45-01",
+      "japanese": "雲 が ある。",
+      "imagePrompt": "Moomin Valley at golden hour. All familiar landmarks visible — house, river, bridge, mountains, sea. Clouds drift overhead! White and gold clouds float across the wide sky. Valley panorama with clouds. Wide shot, eye-level. Golden hour light, panoramic beauty mood.",
+      "readings": [
+        {
+          "surface": "雲",
+          "reading": "くも"
+        }
+      ]
+    },
+    {
+      "id": "ch45-02",
+      "japanese": "雲 の なか に はいった。",
+      "imagePrompt": "The group has climbed to the hilltop and a low cloud envelops them. We went into the cloud! Golden sunlight filters through the mist, softly illuminating their faces. Moomintroll reaches out, watching his hand disappear into white. Group in golden mist on hilltop. Medium shot, eye-level. Warm golden light filtering through white mist, cloud immersion mood.",
+      "readings": [
+        {
+          "surface": "雲",
+          "reading": "くも"
+        }
+      ]
+    },
+    {
+      "id": "ch45-03",
+      "japanese": "あの 雲 は おおきい。",
+      "imagePrompt": "Looking out from the hilltop, a massive cloud formation towers over the valley. That cloud is big! It catches the golden sunlight on its billowing surface. Stunning and vast. Towering cloud over the valley. Wide shot, eye-level. Dramatic golden light, magnificent scale mood.",
+      "readings": [
+        {
+          "surface": "雲",
+          "reading": "くも"
+        }
+      ]
+    },
+    {
+      "id": "ch45-04",
+      "japanese": "夢 を みた。",
+      "imagePrompt": "Moomintroll sits on the hilltop remembering a dream from last night. I had a dream! In it the valley was full of strange colorful creatures. The golden light makes it feel dreamlike. Moomintroll reminiscing on hilltop. Medium shot, eye-level. Dreamy golden light, remembering dreams mood.",
+      "readings": [
+        {
+          "surface": "夢",
+          "reading": "ゆめ"
+        }
+      ]
+    },
+    {
+      "id": "ch45-05",
+      "japanese": "いい 夢 だった。",
+      "imagePrompt": "Moomintroll smiles at the memory. It was a good dream! The valley below matches his dream's beauty. Flowers bloom everywhere. Golden light on blooming valley. Medium shot, eye-level. Warm happy golden light, pleasant memory mood.",
+      "readings": [
+        {
+          "surface": "夢",
+          "reading": "ゆめ"
+        }
+      ]
+    },
+    {
+      "id": "ch45-06",
+      "japanese": "夢 みたい な 場所 だ。",
+      "imagePrompt": "The hilltop view is breathtaking — the whole valley glows at golden hour. This is a dreamlike place! Everything looks magical. The group sits together taking it in. Group on hilltop overlooking valley. Wide shot, eye-level. Magical golden light, dreamlike reality mood.",
+      "readings": [
+        {
+          "surface": "夢",
+          "reading": "ゆめ"
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        }
+      ]
+    },
+    {
+      "id": "ch45-07",
+      "japanese": "春 が きた。",
+      "imagePrompt": "Trees are in full bloom, flowers carpet the meadows, the river sparkles. Spring has come! The valley is alive with new growth. Birds circle overhead. Blooming spring valley. Wide shot, eye-level. Vibrant golden spring light, seasonal arrival mood.",
+      "readings": [
+        {
+          "surface": "春",
+          "reading": "はる"
+        }
+      ]
+    },
+    {
+      "id": "ch45-08",
+      "japanese": "一番 いい の は 春 だ。",
+      "imagePrompt": "Snufkin breathes in the warm spring air. Spring is the best! The season of travel and new beginnings. He looks content and free. Snufkin breathing spring air. Medium shot, eye-level. Warm perfect spring light, seasonal perfection mood.",
+      "readings": [
+        {
+          "surface": "一番",
+          "reading": "いちばん"
+        },
+        {
+          "surface": "春",
+          "reading": "はる"
+        }
+      ]
+    },
+    {
+      "id": "ch45-09",
+      "japanese": "春 の 風 を 感じた。",
+      "imagePrompt": "A warm spring breeze ruffles everyone's fur and hair. A spring wind is blowing! Cherry blossom petals dance in the air. Scarves flutter gently. Group in a spring breeze. Medium shot, eye-level. Soft flowing golden light, gentle wind mood.",
+      "readings": [
+        {
+          "surface": "春",
+          "reading": "はる"
+        },
+        {
+          "surface": "風",
+          "reading": "かぜ"
+        },
+        {
+          "surface": "感じ",
+          "reading": "かんじ"
+        }
+      ]
+    },
+    {
+      "id": "ch45-10",
+      "japanese": "あの こと を 思い出した。",
+      "imagePrompt": "Papa suddenly remembers an adventure from long ago. I remembered that thing! His eyes light up with the memory. The golden valley triggers nostalgia. Papa remembering with bright eyes. Medium close-up, eye-level. Warm nostalgic golden light, sudden memory mood.",
+      "readings": [
+        {
+          "surface": "思い出し",
+          "reading": "おもいだし"
+        }
+      ]
+    },
+    {
+      "id": "ch45-11",
+      "japanese": "思い出す の が 楽しい ね。",
+      "imagePrompt": "Everyone starts sharing memories of past adventures. Remembering is fun! They laugh and point at places in the valley below — there is where the Groke came, there is where they found the ruby. Group sharing memories. Medium shot, eye-level. Warm happy golden light, collective nostalgia mood.",
+      "readings": [
+        {
+          "surface": "思い出す",
+          "reading": "おもいだす"
+        },
+        {
+          "surface": "楽しい",
+          "reading": "たのしい"
+        }
+      ]
+    },
+    {
+      "id": "ch45-12",
+      "japanese": "いい こと を 思い出した。",
+      "imagePrompt": "Mama smiles, remembering the day the family first moved to Moomin Valley. I remembered something good! Her eyes shine with happy tears. The house is visible below, surrounded by garden. Mama with happy tears. Medium close-up, eye-level. Tender golden light, cherished memory mood.",
+      "readings": [
+        {
+          "surface": "思い出し",
+          "reading": "おもいだし"
+        }
+      ]
+    },
+    {
+      "id": "ch45-13",
+      "japanese": "一番 いい もの だ。",
+      "imagePrompt": "Moomintroll holds up the smooth stone from this morning and declares it the best treasure. This is the best thing! Better than rubies or gold. Simple and perfect. Moomintroll holding up a stone. Medium close-up, eye-level. Glowing golden light, declaring the best mood.",
+      "readings": [
+        {
+          "surface": "一番",
+          "reading": "いちばん"
+        }
+      ]
+    },
+    {
+      "id": "ch45-14",
+      "japanese": "ここ が 一番 いい。",
+      "imagePrompt": "Moomintroll surveys the valley from the hilltop with deep contentment. I like this place the best! The whole valley stretches before him — home. Everything he loves is here. Moomintroll surveying the valley. Medium shot, eye-level. Warm devoted golden light, love of home mood.",
+      "readings": [
+        {
+          "surface": "一番",
+          "reading": "いちばん"
+        }
+      ]
+    },
+    {
+      "id": "ch45-15",
+      "japanese": "一番 楽しい 旅 だった。",
+      "imagePrompt": "Papa reflects on all their adventures. It was the most fun trip! From storms to sunshine, caves to seas, every moment was worthwhile. The group nods in agreement. Papa reflecting with the group. Medium shot, eye-level. Rich golden light, reflective satisfaction mood.",
+      "readings": [
+        {
+          "surface": "一番",
+          "reading": "いちばん"
+        },
+        {
+          "surface": "楽しい",
+          "reading": "たのしい"
+        },
+        {
+          "surface": "旅",
+          "reading": "たび"
+        }
+      ]
+    },
+    {
+      "id": "ch45-16",
+      "japanese": "なに か が 浮いている。",
+      "imagePrompt": "Moomintroll leans on the hilltop railing and spots something floating on the river below. Something is floating! A strange round object drifts on the current. Sunlight glints off it. Moomintroll looking at a floating object on the river. Medium shot, eye-level. Golden river-light, curiosity mood.",
+      "readings": [
+        {
+          "surface": "浮い",
+          "reading": "うい"
+        }
+      ]
+    },
+    {
+      "id": "ch45-17",
+      "japanese": "雲 が 浮いている。",
+      "imagePrompt": "The group gazes up at the sky from the hilltop. Clouds are floating! Vast white clouds drift serenely across the golden sky, their shadows passing slowly over the valley. Everything is peaceful. Group watching clouds from the hilltop. Wide shot, eye-level. Serene golden sky light, floating peace mood.",
+      "readings": [
+        {
+          "surface": "雲",
+          "reading": "くも"
+        },
+        {
+          "surface": "浮い",
+          "reading": "うい"
+        }
+      ]
+    },
+    {
+      "id": "ch45-18",
+      "japanese": "水 に 浮いた。",
+      "imagePrompt": "Moomintroll tosses a flower onto the river from the bridge below. It floated on the water! The flower drifts gently downstream, spinning slowly. A simple beautiful moment. Flower floating on the river. Medium close-up, eye-level. Warm golden water-light, floating beauty mood.",
+      "readings": [
+        {
+          "surface": "水",
+          "reading": "みず"
+        },
+        {
+          "surface": "浮い",
+          "reading": "うい"
+        }
+      ]
+    },
+    {
+      "id": "ch45-19",
+      "japanese": "物語 を きいた。",
+      "imagePrompt": "The group sits together on the hilltop as Papa tells a story. They listened to a story! His voice carries over the valley. Everyone listens, rapt. The sun begins to descend. Papa telling a story on the hilltop. Medium shot, eye-level. Warm storytelling golden light, narrative gathering mood.",
+      "readings": [
+        {
+          "surface": "物語",
+          "reading": "ものがたり"
+        }
+      ]
+    },
+    {
+      "id": "ch45-20",
+      "japanese": "いい 物語 だ ね。",
+      "imagePrompt": "Everyone is captivated by Papa's tale. It is a good story! Even Little My listens without interrupting. The valley provides the perfect backdrop. Group listening intently. Medium shot, eye-level. Rich warm golden light, enthralled audience mood.",
+      "readings": [
+        {
+          "surface": "物語",
+          "reading": "ものがたり"
+        }
+      ]
+    },
+    {
+      "id": "ch45-21",
+      "japanese": "この 物語 は みんな の もの だ。",
+      "imagePrompt": "Papa gestures to the whole group — this story belongs to all of them. This story is everyone's! Each person played a part. Their adventures together make the tale. Papa gesturing to the group. Medium-wide shot, eye-level. Inclusive golden light, shared ownership mood.",
+      "readings": [
+        {
+          "surface": "物語",
+          "reading": "ものがたり"
+        }
+      ]
+    },
+    {
+      "id": "ch45-22",
+      "japanese": "ふざけた！",
+      "imagePrompt": "Little My pushes Sniff's hat over his eyes for a joke. She joked around! Sniff stumbles blindly while everyone laughs. The golden light catches their laughter. My pranking Sniff. Medium shot, eye-level. Bright playful golden light, comic relief mood.",
+      "readings": []
+    },
+    {
+      "id": "ch45-23",
+      "japanese": "ふざける の は やめて。",
+      "imagePrompt": "Sniff pouts and tells My to stop. Stop joking around! But he is trying not to laugh too. The mood is too good to stay angry. Sniff trying not to laugh. Medium close-up, eye-level. Warm amused golden light, playful protest mood.",
+      "readings": []
+    },
+    {
+      "id": "ch45-24",
+      "japanese": "ふざけない で。",
+      "imagePrompt": "Mama gently tells My to be kind, though she is smiling too. Do not joke around! But the warmth in her voice shows she does not really mind. The golden hour continues. Mama smiling while scolding. Medium shot, eye-level. Warm indulgent golden light, gentle scolding mood.",
+      "readings": []
+    },
+    {
+      "id": "ch45-25",
+      "japanese": "この 春 の 物語 は みんな の もの だ。",
+      "imagePrompt": "The golden hour deepens over Moomin Valley. The spring story still continues! The house, the river, the bridge, the mountains — all glow in amber light. The adventure goes on. Everyone together, looking out over their home. Full valley panorama at golden hour. Wide shot, eye-level. Deep amber golden light, continuing story mood.",
+      "readings": [
+        {
+          "surface": "春",
+          "reading": "はる"
+        },
+        {
+          "surface": "物語",
+          "reading": "ものがたり"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 25,
+      "newLemmaUsage": {
+        "ふざける": 3,
+        "一番": 4,
+        "夢": 3,
+        "思い出す": 3,
+        "春": 4,
+        "浮く": 3,
+        "物語": 4,
+        "雲": 4
+      }
+    }
+  }
+}

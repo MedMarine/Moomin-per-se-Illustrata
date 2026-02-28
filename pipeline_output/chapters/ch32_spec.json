@@ -1,0 +1,698 @@
+{
+  "chapter": 32,
+  "title": "ごらん なさい",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "小さな島の浜",
+    "description": "Sandy shore of a small island reached by boat. Rocky outcrops to climb. Turquoise water, white sand, blue sky.",
+    "characters": [
+      "ムーミン",
+      "スナフキン",
+      "スニフ"
+    ],
+    "props": [
+      "船"
+    ]
+  },
+  "newLemmas": [
+    "あるく",
+    "御覧",
+    "上がる",
+    "調子",
+    "連れる",
+    "結ぶ",
+    "髪の毛",
+    "利く"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あるく",
+    "あれ",
+    "い",
+    "いい",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いつ",
+    "いや",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "およぐ",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たって",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とにかく",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なく",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "やれ",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "ハート",
+    "パパ",
+    "パンケーキ",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "上がる",
+    "下",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "伯母",
+    "修理",
+    "兄",
+    "先",
+    "切手",
+    "利く",
+    "前",
+    "助ける",
+    "動く",
+    "化け物",
+    "取る",
+    "回",
+    "地獄",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "天才",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "少し",
+    "嵐",
+    "川",
+    "度",
+    "張る",
+    "御覧",
+    "必要",
+    "忘れる",
+    "怖い",
+    "悪い",
+    "戻る",
+    "手",
+    "手伝う",
+    "拾う",
+    "捨てる",
+    "教える",
+    "日",
+    "明日",
+    "昨日",
+    "時間",
+    "書く",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次回",
+    "止める",
+    "此奴",
+    "気圧",
+    "水",
+    "海岸",
+    "漕ぐ",
+    "無くなる",
+    "珍しい",
+    "目",
+    "知れる",
+    "確か",
+    "秒",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "結ぶ",
+    "絶対",
+    "考える",
+    "聞こえる",
+    "自信",
+    "自分",
+    "花",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "話",
+    "調子",
+    "起こる",
+    "足",
+    "返す",
+    "追う",
+    "通り",
+    "連れる",
+    "違う",
+    "部屋",
+    "間",
+    "随分",
+    "隠れる",
+    "集める",
+    "雨",
+    "非",
+    "面白い",
+    "頭",
+    "風",
+    "飛行",
+    "飾り",
+    "髪の毛",
+    "鼾",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch32-01",
+      "japanese": "島 に きた。",
+      "imagePrompt": "The boat reaches a small island shore. Turquoise water, white sand, rocky outcrops. Everyone peers over the side excitedly. The island appears from the morning mist. Boat arriving at a small island. Medium-wide shot, eye-level. Bright morning sea light, arrival excitement mood.",
+      "readings": [
+        {
+          "surface": "島",
+          "reading": "しま"
+        }
+      ]
+    },
+    {
+      "id": "ch32-02",
+      "japanese": "海岸 を あるいた。",
+      "imagePrompt": "The group walks along the sandy shore, footprints trailing behind them. They walked along the coast! Waves lap at their feet. Shells dot the sand. Group walking the sandy shore. Medium-wide shot, eye-level. Bright warm beach light, exploring mood.",
+      "readings": [
+        {
+          "surface": "海岸",
+          "reading": "かいがん"
+        }
+      ]
+    },
+    {
+      "id": "ch32-03",
+      "japanese": "あるく の が 楽しい ね。",
+      "imagePrompt": "Moomintroll smiles as he strolls along the beach with arms swinging. Walking is fun! The sand is soft underfoot. Sea breeze ruffles his fur. Moomintroll strolling happily. Medium shot, eye-level. Warm sunny beach light, carefree enjoyment mood.",
+      "readings": [
+        {
+          "surface": "楽しい",
+          "reading": "たのしい"
+        }
+      ]
+    },
+    {
+      "id": "ch32-04",
+      "japanese": "ゆっくり あるいて。",
+      "imagePrompt": "Mama calls to the children ahead to slow down. Walk slowly! There is so much to see. She gestures gently. The group spreads along the shore. Mama calling to slow down. Medium shot, eye-level. Warm patient light, gentle pace mood.",
+      "readings": []
+    },
+    {
+      "id": "ch32-05",
+      "japanese": "「ごらん なさい！」 と ママ が 言った。",
+      "imagePrompt": "Mama points at something beautiful on the shore — a cluster of colorful shells and sea glass. Look! Her voice is warm and excited. Everyone turns to see. Mama pointing at shells excitedly. Medium shot, eye-level. Bright sparkling beach light, delighted discovery mood.",
+      "readings": [
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch32-06",
+      "japanese": "ごらん、きれい だ。",
+      "imagePrompt": "A close view of the shells and sea glass glinting in the sunlight. Look, beautiful! Colors of blue, green, and pink shimmer on the wet sand. Beautiful shells and sea glass. Medium close-up, eye-level. Bright sparkling light, admiring beauty mood.",
+      "readings": []
+    },
+    {
+      "id": "ch32-07",
+      "japanese": "ほら、ごらん。",
+      "imagePrompt": "Snufkin points at a tide pool teeming with tiny creatures. Look, see! Small crabs and starfish move in the clear water. Everyone crowds around to peer in. Snufkin showing a tide pool. Medium close-up, eye-level. Bright clear light, showing-discovery mood.",
+      "readings": []
+    },
+    {
+      "id": "ch32-08",
+      "japanese": "上 に 上がった。",
+      "imagePrompt": "Moomintroll stands atop a rocky outcrop above the beach, arms raised in triumph. He went up! The island and sea stretch out behind him. The view is spectacular. Moomintroll on top of a rocky outcrop. Medium shot, eye-level. Bright panoramic light, triumphant climbing mood.",
+      "readings": [
+        {
+          "surface": "上",
+          "reading": "うえ"
+        },
+        {
+          "surface": "上がっ",
+          "reading": "あがっ"
+        }
+      ]
+    },
+    {
+      "id": "ch32-09",
+      "japanese": "船 から 上がる。",
+      "imagePrompt": "Papa climbs out of the beached boat onto the sand. Getting up from the boat! He stretches his legs after the long row. The boat sits on the sand. Papa climbing from the boat. Medium shot, eye-level. Warm morning light, disembarking mood.",
+      "readings": [
+        {
+          "surface": "船",
+          "reading": "ふね"
+        },
+        {
+          "surface": "上がる",
+          "reading": "あがる"
+        }
+      ]
+    },
+    {
+      "id": "ch32-10",
+      "japanese": "上がる の は 怖い。",
+      "imagePrompt": "Sniff struggles to climb the slippery rocks, his feet sliding. Going up is difficult! He reaches for a handhold. Moomintroll extends a hand from above. Sniff struggling on rocks. Medium shot, eye-level. Bright challenging light, difficult ascent mood.",
+      "readings": [
+        {
+          "surface": "上がる",
+          "reading": "あがる"
+        },
+        {
+          "surface": "怖い",
+          "reading": "こわい"
+        }
+      ]
+    },
+    {
+      "id": "ch32-11",
+      "japanese": "調子 が いい。",
+      "imagePrompt": "Papa checks the boat's hull and nods approvingly. Good condition! The boat weathered the journey well. He pats the wooden side. Papa checking the boat hull. Medium close-up, eye-level. Warm satisfied light, pleased inspection mood.",
+      "readings": [
+        {
+          "surface": "調子",
+          "reading": "ちょうし"
+        }
+      ]
+    },
+    {
+      "id": "ch32-12",
+      "japanese": "この 調子 で いく。",
+      "imagePrompt": "The group marches inland from the beach in good spirits. At this pace! Everything is going well. Smiles on all faces. Group marching inland cheerfully. Medium-wide shot, eye-level. Bright adventurous light, good momentum mood.",
+      "readings": [
+        {
+          "surface": "調子",
+          "reading": "ちょうし"
+        }
+      ]
+    },
+    {
+      "id": "ch32-13",
+      "japanese": "調子 は どう？",
+      "imagePrompt": "Mama asks Sniff how he is feeling after the long boat ride. How are you doing? She bends down with a concerned look. Sniff rubs his stomach. Mama checking on Sniff. Medium shot, eye-level. Warm caring light, checking-in mood.",
+      "readings": [
+        {
+          "surface": "調子",
+          "reading": "ちょうし"
+        }
+      ]
+    },
+    {
+      "id": "ch32-14",
+      "japanese": "スニフ を 連れて きた。",
+      "imagePrompt": "Papa holds Sniff's hand, leading him from the boat. He brought Sniff along! Sniff looks uncertain but is being guided. Papa leading Sniff from the boat. Medium shot, eye-level. Warm guiding light, bringing-along mood.",
+      "readings": [
+        {
+          "surface": "連れ",
+          "reading": "つれ"
+        }
+      ]
+    },
+    {
+      "id": "ch32-15",
+      "japanese": "みんな を 連れた。",
+      "imagePrompt": "Papa walks ahead, the entire group following behind in a line along the shore. He brought everyone! Mama, Moomintroll, Sniff, Snufkin — all here. Papa leading the whole group. Medium-wide shot, eye-level. Bright gathering light, leading-the-group mood.",
+      "readings": [
+        {
+          "surface": "連れ",
+          "reading": "つれ"
+        }
+      ]
+    },
+    {
+      "id": "ch32-16",
+      "japanese": "連れて いく の が いい。",
+      "imagePrompt": "Moomintroll walks beside Snufkin, glad his friend came along. Bringing someone is good! The companionship makes the adventure better. Two friends walking together. Medium shot, eye-level. Warm friendly light, companionship mood.",
+      "readings": [
+        {
+          "surface": "連れ",
+          "reading": "つれ"
+        }
+      ]
+    },
+    {
+      "id": "ch32-17",
+      "japanese": "船 を 結んだ。",
+      "imagePrompt": "Snufkin ties the boat's mooring rope to a large rock on the shore. He tied the boat! The knot is firm. The rope stretches taut from boat to rock. Snufkin tying the boat to a rock. Medium close-up, eye-level. Warm morning light, securing mood.",
+      "readings": [
+        {
+          "surface": "船",
+          "reading": "ふね"
+        },
+        {
+          "surface": "結ん",
+          "reading": "むすん"
+        }
+      ]
+    },
+    {
+      "id": "ch32-18",
+      "japanese": "ここ に 結ぶ。",
+      "imagePrompt": "Snufkin points at the rock where he will tie the rope. Tie it here! The rock is solid and well-anchored. The rope hangs ready. Snufkin pointing where to tie. Medium shot, eye-level. Bright practical light, pointing-out mood.",
+      "readings": [
+        {
+          "surface": "結ぶ",
+          "reading": "むすぶ"
+        }
+      ]
+    },
+    {
+      "id": "ch32-19",
+      "japanese": "結ぶ こと が できる。",
+      "imagePrompt": "Snufkin demonstrates a perfect sailor's knot. He can tie knots! His hands move deftly. The rope loops and cinches tight. Snufkin's hands tying a knot. Medium close-up, eye-level. Clear detailed light, skillful demonstration mood.",
+      "readings": [
+        {
+          "surface": "結ぶ",
+          "reading": "むすぶ"
+        }
+      ]
+    },
+    {
+      "id": "ch32-20",
+      "japanese": "髪の毛 が 風 で 変わった。",
+      "imagePrompt": "Florenne's hair blows wildly in the sea breeze, changing shape with every gust. Her hair changed in the wind! She laughs and tries to hold it down. Florenne's hair blowing in wind. Medium shot, eye-level. Bright windy beach light, windswept amusement mood.",
+      "readings": [
+        {
+          "surface": "髪の毛",
+          "reading": "かみのけ"
+        },
+        {
+          "surface": "風",
+          "reading": "かぜ"
+        },
+        {
+          "surface": "変わっ",
+          "reading": "かわっ"
+        }
+      ]
+    },
+    {
+      "id": "ch32-21",
+      "japanese": "きれい な 髪の毛 だ。",
+      "imagePrompt": "Moomintroll looks at Florenne and her windblown hair admiringly. Beautiful hair! The sea light catches it. She smiles shyly. Florenne with beautiful windblown hair. Medium close-up, eye-level. Warm admiring light, appreciating beauty mood.",
+      "readings": [
+        {
+          "surface": "髪の毛",
+          "reading": "かみのけ"
+        }
+      ]
+    },
+    {
+      "id": "ch32-22",
+      "japanese": "この 髪の毛 は いい ね。",
+      "imagePrompt": "Mama touches Florenne's hair gently, smoothing it from the wind. This hair is nice! A warm maternal moment on the beach. Mama smoothing Florenne's hair. Medium close-up, eye-level. Warm tender light, gentle compliment mood.",
+      "readings": [
+        {
+          "surface": "髪の毛",
+          "reading": "かみのけ"
+        }
+      ]
+    },
+    {
+      "id": "ch32-23",
+      "japanese": "目 が 利く。",
+      "imagePrompt": "Snufkin narrows his eyes, spotting something far away on the hillside. His eyes are sharp! He sees what others miss. A distant glint on the hill. Snufkin squinting at distance. Medium close-up, eye-level. Bright searching light, keen observation mood.",
+      "readings": [
+        {
+          "surface": "目",
+          "reading": "め"
+        },
+        {
+          "surface": "利く",
+          "reading": "きく"
+        }
+      ]
+    },
+    {
+      "id": "ch32-24",
+      "japanese": "よく 利く ね。",
+      "imagePrompt": "Moomintroll is impressed by Snufkin's sharp eyes. Works well, huh! He peers in the same direction but sees nothing yet. Trust in his friend's vision. Moomintroll impressed by Snufkin. Medium shot, eye-level. Bright impressed light, admiring skill mood.",
+      "readings": [
+        {
+          "surface": "利く",
+          "reading": "きく"
+        }
+      ]
+    },
+    {
+      "id": "ch32-25",
+      "japanese": "利かない。",
+      "imagePrompt": "Sniff rubs his eyes — he cannot see anything in the distance. It does not work! His eyes are not as sharp. He squints and gives up. Sniff rubbing eyes, unable to see. Medium shot, eye-level. Bright frustrated light, giving-up mood.",
+      "readings": [
+        {
+          "surface": "利か",
+          "reading": "きか"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 25,
+      "newLemmaUsage": {
+        "あるく": 3,
+        "上がる": 3,
+        "利く": 3,
+        "御覧": 3,
+        "結ぶ": 3,
+        "調子": 3,
+        "連れる": 3,
+        "髪の毛": 3
+      }
+    }
+  }
+}

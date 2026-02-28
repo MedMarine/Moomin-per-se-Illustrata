@@ -1,0 +1,553 @@
+{
+  "chapter": 19,
+  "title": "水 の 先",
+  "grammarStep": 13,
+  "grammarName": "Desire: たい",
+  "scene": {
+    "location": "ムーミンやしきの中（雨の日）",
+    "description": "Inside the Moomin house on a rainy afternoon. Rain streaks on round windows. Characters looking outside.",
+    "characters": [
+      "ムーミン",
+      "フローレン",
+      "スニフ"
+    ],
+    "props": [
+      "家"
+    ]
+  },
+  "newLemmas": [
+    "水",
+    "穴",
+    "自信",
+    "だす",
+    "助ける",
+    "取る",
+    "先",
+    "随分"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いや",
+    "いる",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おく",
+    "おまえ",
+    "おもう",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くる",
+    "くん",
+    "けど",
+    "けれど",
+    "ここ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さがす",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "する",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たに",
+    "たべる",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちょっと",
+    "って",
+    "つ",
+    "つくる",
+    "て",
+    "てる",
+    "で",
+    "でも",
+    "でる",
+    "と",
+    "ところ",
+    "とても",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "な",
+    "ない",
+    "なか",
+    "なに",
+    "なる",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はやい",
+    "ひと",
+    "ひとり",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もつ",
+    "もの",
+    "やっぱり",
+    "やま",
+    "やる",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "ら",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "先",
+    "助ける",
+    "動く",
+    "取る",
+    "声",
+    "変わる",
+    "奴",
+    "子",
+    "少し",
+    "度",
+    "怖い",
+    "手",
+    "日",
+    "昨日",
+    "植物",
+    "楽しい",
+    "止める",
+    "水",
+    "目",
+    "確か",
+    "穴",
+    "絶対",
+    "自信",
+    "自分",
+    "茸",
+    "落ちる",
+    "見える",
+    "話",
+    "違う",
+    "随分",
+    "隠れる",
+    "非",
+    "面白い",
+    "風",
+    "飛行",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch19-01",
+      "japanese": "水 が ある。",
+      "imagePrompt": "Rainy afternoon in Moomin Valley. Puddles of water collect on the ground around the Moomin house. Rain drips from the eaves. Moomintroll looks out. Puddles around the Moomin house. Medium-wide shot, eye-level. Grey rainy afternoon light, wet observation mood.",
+      "readings": [
+        {
+          "surface": "水",
+          "reading": "みず"
+        }
+      ]
+    },
+    {
+      "id": "ch19-02",
+      "japanese": "随分 水 が ある ね。",
+      "imagePrompt": "Moomintroll and Snufkin stand at the edge of a large flooded area. Water stretches far, covering the usual path. Much more water than expected. Large flooded area. Medium shot, eye-level. Grey overcast light reflecting on water, impressed surprise mood.",
+      "readings": [
+        {
+          "surface": "随分",
+          "reading": "ずいぶん"
+        },
+        {
+          "surface": "水",
+          "reading": "みず"
+        }
+      ]
+    },
+    {
+      "id": "ch19-03",
+      "japanese": "穴 が ある！",
+      "imagePrompt": "Moomintroll discovers a deep hole in the ground near the flooded path. Water pours into it from all sides. The hole is dark and deep. Hole in the flooded ground. Medium shot, slightly elevated. Grey rainy light, startled discovery mood.",
+      "readings": [
+        {
+          "surface": "穴",
+          "reading": "あな"
+        }
+      ]
+    },
+    {
+      "id": "ch19-04",
+      "japanese": "水 の なか に 穴 が ある。",
+      "imagePrompt": "Close view of the hole surrounded by floodwater. Water swirls around the opening, flowing down into darkness. Bubbles rise from below. Hole in the floodwater. Medium close-up, slightly elevated. Grey water-reflected light, ominous observation mood.",
+      "readings": [
+        {
+          "surface": "水",
+          "reading": "みず"
+        },
+        {
+          "surface": "穴",
+          "reading": "あな"
+        }
+      ]
+    },
+    {
+      "id": "ch19-05",
+      "japanese": "穴 の 先 に なに が ある？",
+      "imagePrompt": "Moomintroll and Snufkin peer down into the dark hole. They can't see the bottom. Moomintroll tilts his head questioningly. Characters peering into the hole. Medium shot, eye-level. Dark hole against grey sky, curious questioning mood.",
+      "readings": [
+        {
+          "surface": "穴",
+          "reading": "あな"
+        },
+        {
+          "surface": "先",
+          "reading": "さき"
+        }
+      ]
+    },
+    {
+      "id": "ch19-06",
+      "japanese": "先 が みえない。",
+      "imagePrompt": "Moomintroll and Snufkin peer over the edge of the hole, their faces lit by reflected water-light from below. The hole's dark mouth yawns between them. Moomintroll's expression is uncertain. Two characters looking down into a dark hole. Medium shot, eye-level. Reflected grey water light on faces, blind uncertainty mood.",
+      "readings": [
+        {
+          "surface": "先",
+          "reading": "さき"
+        }
+      ]
+    },
+    {
+      "id": "ch19-07",
+      "japanese": "先 に いく よ。",
+      "imagePrompt": "Moomintroll stands up with determination, pointing ahead along the flooded path. He wants to find where the water goes. Brave posture despite the rain. Moomintroll pointing ahead determinedly. Medium shot, eye-level. Grey determined rainy light, brave forward mood.",
+      "readings": [
+        {
+          "surface": "先",
+          "reading": "さき"
+        }
+      ]
+    },
+    {
+      "id": "ch19-08",
+      "japanese": "助けて！",
+      "imagePrompt": "A tiny voice calls from the hole! A small creature is trapped down there in the water. Its small hand waves above the surface. Small hand waving from the hole. Close-up, slightly elevated. Urgent grey light, desperate calling mood.",
+      "readings": [
+        {
+          "surface": "助け",
+          "reading": "たすけ"
+        }
+      ]
+    },
+    {
+      "id": "ch19-09",
+      "japanese": "だれ？助けたい！",
+      "imagePrompt": "Moomintroll spins toward the hole, eyes wide with concern. He wants to help whoever is calling. He reaches toward the hole. Moomintroll reaching toward the hole. Medium shot, eye-level. Urgent grey rainy light, desperate wanting mood.",
+      "readings": [
+        {
+          "surface": "助け",
+          "reading": "たすけ"
+        }
+      ]
+    },
+    {
+      "id": "ch19-10",
+      "japanese": "水 を 取りたい。",
+      "imagePrompt": "Moomintroll grabs a bucket and tries to scoop water out of the hole. He wants to remove the water to reach whoever is below. Moomintroll scooping water with a bucket. Medium shot, eye-level. Grey determined rainy light, urgent desire mood.",
+      "readings": [
+        {
+          "surface": "水",
+          "reading": "みず"
+        },
+        {
+          "surface": "取り",
+          "reading": "とり"
+        }
+      ]
+    },
+    {
+      "id": "ch19-11",
+      "japanese": "ここ から 出す。",
+      "imagePrompt": "Snufkin helps pull something from the hole — a rope is lowered down. They're working to get the trapped creature out. Rope being lowered into the hole. Medium shot, slightly elevated. Grey purposeful rainy light, rescue action mood.",
+      "readings": [
+        {
+          "surface": "出す",
+          "reading": "だす"
+        }
+      ]
+    },
+    {
+      "id": "ch19-12",
+      "japanese": "水 を 出したい。",
+      "imagePrompt": "Moomintroll pours bucket after bucket of water out of the hole, face strained with effort. He desperately wants to drain the water. Moomintroll emptying buckets of water. Medium shot, eye-level. Grey strenuous rainy light, desperate effort mood.",
+      "readings": [
+        {
+          "surface": "水",
+          "reading": "みず"
+        },
+        {
+          "surface": "出し",
+          "reading": "だし"
+        }
+      ]
+    },
+    {
+      "id": "ch19-13",
+      "japanese": "自信 が ない。",
+      "imagePrompt": "Moomintroll pauses, looking at the hole that's still full of water. His shoulders slump. He's not sure they can do this. Moomintroll looking discouraged. Medium shot, eye-level. Grey dim discouraged light, doubt and hesitation mood.",
+      "readings": [
+        {
+          "surface": "自信",
+          "reading": "じしん"
+        }
+      ]
+    },
+    {
+      "id": "ch19-14",
+      "japanese": "ほら、自信 を もって！",
+      "imagePrompt": "Snufkin puts a firm hand on Moomintroll's shoulder, looking him in the eye with encouragement. His expression says: you can do this. Snufkin encouraging Moomintroll. Medium close-up, eye-level. Warm grey light breaking through, encouraging confidence mood.",
+      "readings": [
+        {
+          "surface": "自信",
+          "reading": "じしん"
+        }
+      ]
+    },
+    {
+      "id": "ch19-15",
+      "japanese": "手 で 取る。",
+      "imagePrompt": "Moomintroll reaches down into the hole with both hands, scooping water directly. No more buckets — just hands working fast. Moomintroll reaching into the hole with hands. Medium shot, slightly elevated. Grey urgent light, direct action mood.",
+      "readings": [
+        {
+          "surface": "手",
+          "reading": "て"
+        },
+        {
+          "surface": "取る",
+          "reading": "とる"
+        }
+      ]
+    },
+    {
+      "id": "ch19-16",
+      "japanese": "ほら、取って！",
+      "imagePrompt": "Snufkin tosses a larger container to Moomintroll. Take this! Use it to bail more water. The container flies through the rain. Container being tossed. Medium shot, eye-level. Grey dynamic rainy light, urgent handoff mood.",
+      "readings": [
+        {
+          "surface": "取っ",
+          "reading": "とっ"
+        }
+      ]
+    },
+    {
+      "id": "ch19-17",
+      "japanese": "随分 おおきい 穴 だ。",
+      "imagePrompt": "Wider view of the hole — it's much bigger than they first thought. Water still pours in from the surrounding flood. The scale is daunting. Wide view of the large hole. Medium-wide shot, slightly elevated. Grey expansive rainy light, daunting realization mood.",
+      "readings": [
+        {
+          "surface": "随分",
+          "reading": "ずいぶん"
+        },
+        {
+          "surface": "穴",
+          "reading": "あな"
+        }
+      ]
+    },
+    {
+      "id": "ch19-18",
+      "japanese": "先 に 助けたい。",
+      "imagePrompt": "Moomintroll works faster, driven by the need to help first. His face shows pure determination. The trapped creature's voice is weaker now. Moomintroll working with determination. Medium shot, eye-level. Grey intense rainy light, urgent priority mood.",
+      "readings": [
+        {
+          "surface": "先",
+          "reading": "さき"
+        },
+        {
+          "surface": "助け",
+          "reading": "たすけ"
+        }
+      ]
+    },
+    {
+      "id": "ch19-19",
+      "japanese": "自信 が ある！",
+      "imagePrompt": "The water level in the hole is dropping! They're succeeding! Moomintroll's eyes light up with confidence. He can see the trapped creature below. Moomintroll's confident face as water drops. Medium close-up, eye-level. Brightening grey light, rising confidence mood.",
+      "readings": [
+        {
+          "surface": "自信",
+          "reading": "じしん"
+        }
+      ]
+    },
+    {
+      "id": "ch19-20",
+      "japanese": "出して、助ける！",
+      "imagePrompt": "Moomintroll reaches deep into the now-shallow hole and pulls the small creature up. Water splashes everywhere. The rescue is happening! Moomintroll pulling creature from the hole. Medium shot, eye-level. Bright breakthrough light through rain, triumphant rescue mood.",
+      "readings": [
+        {
+          "surface": "出し",
+          "reading": "だし"
+        },
+        {
+          "surface": "助ける",
+          "reading": "たすける"
+        }
+      ]
+    },
+    {
+      "id": "ch19-21",
+      "japanese": "随分 変わった ね。",
+      "imagePrompt": "The rain has stopped. The floodwater is receding. The valley looks different now — cleaner, washed. Sun peeks through the clouds. Valley after the rain. Medium-wide shot, eye-level. Soft post-rain light, reflective transformation mood.",
+      "readings": [
+        {
+          "surface": "随分",
+          "reading": "ずいぶん"
+        },
+        {
+          "surface": "変わっ",
+          "reading": "かわっ"
+        }
+      ]
+    },
+    {
+      "id": "ch19-22",
+      "japanese": "穴 は もう ない。",
+      "imagePrompt": "Where the hole was, the ground has settled and the water drained away. Just a damp patch of earth remains. The hole is gone. The filled-in ground. Medium shot, slightly elevated. Soft afternoon light, peaceful resolution mood.",
+      "readings": [
+        {
+          "surface": "穴",
+          "reading": "あな"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 22,
+      "newLemmaUsage": {
+        "だす": 3,
+        "先": 4,
+        "助ける": 4,
+        "取る": 3,
+        "水": 5,
+        "穴": 5,
+        "自信": 3,
+        "随分": 3
+      }
+    }
+  }
+}

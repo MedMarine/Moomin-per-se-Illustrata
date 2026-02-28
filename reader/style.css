@@ -1,0 +1,619 @@
+/* ============================================================
+   Moomin per se Illustrata — Reader Stylesheet
+   ============================================================ */
+
+:root {
+  /* Palette — warm, Nordic, Moomin-inspired */
+  --bg-primary:         #FAF6F0;
+  --bg-secondary:       #F0EBE3;
+  --bg-sidebar:         #E8F4F0;
+  --text-primary:       #2D2A26;
+  --text-secondary:     #6B6560;
+  --text-muted:         #9B9590;
+  --accent-blue:        #5B9BD5;
+  --accent-blue-light:  #D4E8F8;
+  --accent-warm:        #D4956A;
+  --accent-green:       #7CAE8E;
+  --border-soft:        #DDD8D0;
+  --placeholder-bg:     #E8E4DD;
+  --placeholder-border: #C8C3BB;
+
+  /* Typography */
+  --font-reading: 'Noto Serif JP', 'Hiragino Mincho ProN', 'Yu Mincho', serif;
+  --font-ui:      'Noto Sans JP', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', sans-serif;
+  --font-size-sentence: clamp(1.75rem, 4vw, 2.5rem);
+  --font-size-vocab:    1.1rem;
+  --font-size-ui:       0.95rem;
+  --line-height-sentence: 1.9;
+}
+
+/* ---- Reset ---- */
+
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-ui);
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* ---- View switching ---- */
+
+.view {
+  display: none;
+}
+
+.view.active {
+  display: block;
+}
+
+/* ============================================================
+   LANDING PAGE
+   ============================================================ */
+
+.landing-header {
+  text-align: center;
+  padding: 3.5rem 2rem 2rem;
+}
+
+.site-title {
+  font-family: var(--font-reading);
+  font-size: clamp(1.8rem, 5vw, 3rem);
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: 0.03em;
+}
+
+.site-subtitle {
+  font-family: var(--font-ui);
+  font-size: 1rem;
+  color: var(--text-secondary);
+  margin-top: 0.5rem;
+  letter-spacing: 0.05em;
+}
+
+/* Chapter grid */
+
+.chapter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Chapter cards */
+
+.chapter-card {
+  background: var(--bg-secondary);
+  border-radius: 16px;
+  padding: 1.75rem;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  border: 1px solid var(--border-soft);
+  position: relative;
+  overflow: hidden;
+}
+
+.chapter-card:hover,
+.chapter-card:focus-visible {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+  outline: none;
+}
+
+.chapter-card:focus-visible {
+  border-color: var(--accent-blue);
+}
+
+.chapter-card .chapter-num {
+  font-size: 0.8rem;
+  color: var(--accent-blue);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.chapter-card .chapter-title {
+  font-family: var(--font-reading);
+  font-size: 1.5rem;
+  margin: 0.5rem 0;
+  color: var(--text-primary);
+  line-height: 1.4;
+}
+
+.chapter-card .grammar-label {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  display: block;
+  margin-bottom: 0.75rem;
+}
+
+.chapter-card .card-meta {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.chapter-card .card-characters {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--border-soft);
+}
+
+/* ============================================================
+   READER VIEW
+   ============================================================ */
+
+/* Reader header */
+
+.reader-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: var(--bg-primary);
+  border-bottom: 1px solid var(--border-soft);
+  padding: 0.75rem 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.back-button {
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  color: var(--accent-blue);
+  background: none;
+  border: 1px solid var(--accent-blue);
+  border-radius: 12px;
+  padding: 0.4rem 1rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.15s, color 0.15s;
+}
+
+.back-button:hover {
+  background: var(--accent-blue);
+  color: white;
+}
+
+.back-arrow {
+  font-size: 1rem;
+}
+
+.chapter-meta {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  flex-wrap: wrap;
+  min-width: 0;
+}
+
+.chapter-meta .chapter-number {
+  font-size: 0.8rem;
+  color: var(--accent-blue);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  white-space: nowrap;
+}
+
+.chapter-meta .chapter-title {
+  font-family: var(--font-reading);
+  font-size: 1.3rem;
+  font-weight: 700;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.grammar-badge {
+  font-size: 0.75rem;
+  color: var(--accent-green);
+  background: rgba(124, 174, 142, 0.12);
+  padding: 0.2rem 0.65rem;
+  border-radius: 20px;
+  white-space: nowrap;
+  font-weight: 500;
+}
+
+/* Reader body: sidebar + sentences */
+
+.reader-body {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  max-width: 1100px;
+  margin: 0 auto;
+  min-height: calc(100vh - 120px);
+}
+
+/* Vocab sidebar */
+
+.vocab-panel {
+  background: var(--bg-sidebar);
+  border-right: 1px solid var(--border-soft);
+  padding: 1.5rem 1.25rem;
+  position: sticky;
+  top: 56px; /* below the header */
+  height: calc(100vh - 56px);
+  overflow-y: auto;
+}
+
+.vocab-heading {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.vocab-arrow {
+  display: none; /* only visible on mobile */
+}
+
+.vocab-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.vocab-item {
+  font-family: var(--font-reading);
+  font-size: var(--font-size-vocab);
+  background: white;
+  padding: 0.35rem 0.75rem;
+  border-radius: 10px;
+  border: 1px solid var(--border-soft);
+  color: var(--text-primary);
+}
+
+.scene-info h4 {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.5rem;
+}
+
+.scene-location {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.25rem;
+}
+
+.scene-characters {
+  font-family: var(--font-reading);
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+/* Sentence scroll area */
+
+.sentence-scroll {
+  padding: 2rem 2.5rem;
+}
+
+/* Sentence cards */
+
+.sentence-card {
+  background: var(--bg-secondary);
+  border-radius: 16px;
+  padding: 2rem 2.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  border: 1px solid var(--border-soft);
+}
+
+.sentence-japanese {
+  font-family: var(--font-reading);
+  font-size: var(--font-size-sentence);
+  line-height: var(--line-height-sentence);
+  color: var(--text-primary);
+  letter-spacing: 0.05em;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.sentence-id {
+  display: block;
+  text-align: right;
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  margin-top: 0.75rem;
+  font-family: monospace;
+}
+
+/* Image placeholders */
+
+.image-placeholder {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  max-height: 300px;
+  background: var(--placeholder-bg);
+  border: 2px dashed var(--placeholder-border);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.placeholder-icon {
+  font-size: 2.5rem;
+  margin-bottom: 0.75rem;
+  opacity: 0.4;
+}
+
+.placeholder-caption {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+  max-width: 400px;
+  font-style: italic;
+}
+
+/* Sentence images (when real illustrations exist) */
+
+.sentence-image {
+  width: 100%;
+  max-height: 400px;
+  object-fit: contain;
+  border-radius: 12px;
+  margin-bottom: 1.5rem;
+}
+
+/* Reader footer / progress */
+
+.reader-footer {
+  position: sticky;
+  bottom: 0;
+  z-index: 20;
+  background: var(--bg-primary);
+  border-top: 1px solid var(--border-soft);
+  padding: 0.5rem 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.progress-bar {
+  flex: 1;
+  height: 4px;
+  background: var(--border-soft);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  width: 0%;
+  background: var(--accent-blue);
+  border-radius: 2px;
+  transition: width 0.15s ease;
+}
+
+.progress-text {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+  min-width: 60px;
+  text-align: right;
+}
+
+/* ============================================================
+   MOBILE
+   ============================================================ */
+
+@media (max-width: 768px) {
+  /* Landing */
+  .landing-header {
+    padding: 2rem 1rem 1.5rem;
+  }
+
+  .site-title {
+    font-size: 1.6rem;
+  }
+
+  .chapter-grid {
+    grid-template-columns: 1fr;
+    padding: 1rem;
+    gap: 1rem;
+  }
+
+  .chapter-card {
+    padding: 1.25rem;
+  }
+
+  .chapter-card .chapter-title {
+    font-size: 1.3rem;
+  }
+
+  /* Reader */
+  .reader-header {
+    padding: 0.5rem 1rem;
+    gap: 0.75rem;
+  }
+
+  .chapter-meta .chapter-title {
+    font-size: 1.1rem;
+  }
+
+  .grammar-badge {
+    display: none; /* save space on mobile header */
+  }
+
+  .reader-body {
+    grid-template-columns: 1fr;
+  }
+
+  /* Collapsible vocab panel */
+  .vocab-panel {
+    position: sticky;
+    top: 48px;
+    height: auto;
+    border-right: none;
+    border-bottom: 1px solid var(--border-soft);
+    padding: 0.75rem 1rem;
+    max-height: 44px;
+    overflow: hidden;
+    transition: max-height 0.3s ease, padding 0.3s ease;
+    cursor: pointer;
+    z-index: 10;
+  }
+
+  .vocab-panel.expanded {
+    max-height: 500px;
+    padding: 1rem;
+    cursor: default;
+  }
+
+  .vocab-arrow {
+    display: inline-block;
+    font-size: 0.65rem;
+    transition: transform 0.2s ease;
+  }
+
+  .vocab-arrow::after {
+    content: "\25BC"; /* down arrow */
+  }
+
+  .vocab-panel.expanded .vocab-arrow {
+    transform: rotate(180deg);
+  }
+
+  .vocab-heading {
+    margin-bottom: 0;
+  }
+
+  .vocab-panel.expanded .vocab-heading {
+    margin-bottom: 0.75rem;
+  }
+
+  .vocab-list,
+  .scene-info {
+    /* Hidden when collapsed — revealed by max-height expansion */
+  }
+
+  /* Sentence area */
+  .sentence-scroll {
+    padding: 1.25rem 1rem;
+  }
+
+  .sentence-card {
+    padding: 1.25rem 1rem;
+    margin-bottom: 1rem;
+    border-radius: 12px;
+  }
+
+  .sentence-japanese {
+    font-size: clamp(1.4rem, 5vw, 2rem);
+  }
+
+  .image-placeholder {
+    aspect-ratio: 4 / 3;
+    max-height: 200px;
+    padding: 1rem;
+  }
+
+  .placeholder-icon {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .placeholder-caption {
+    font-size: 0.72rem;
+  }
+
+  .reader-footer {
+    padding: 0.4rem 1rem;
+  }
+}
+
+/* ============================================================
+   FURIGANA
+   ============================================================ */
+
+/* Furigana toggle button in reader header */
+.furigana-toggle {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  color: var(--accent-warm);
+  background: rgba(212, 149, 106, 0.1);
+  border: 1px solid var(--accent-warm);
+  border-radius: 12px;
+  padding: 0.3rem 0.75rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.15s, color 0.15s;
+  margin-left: auto;
+  flex-shrink: 0;
+}
+
+.furigana-toggle:hover {
+  background: var(--accent-warm);
+  color: white;
+}
+
+/* Ruby (furigana) base styles */
+ruby {
+  ruby-align: center;
+}
+
+ruby rt {
+  font-size: 0.45em;
+  color: var(--text-secondary);
+  font-family: var(--font-ui);
+  font-weight: 400;
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+/* Hidden furigana (faded off in AUTO mode after enough exposures) */
+ruby rt.furigana-hidden {
+  opacity: 0;
+}
+
+/* Hover to reveal hidden furigana */
+ruby:hover rt.furigana-hidden {
+  opacity: 0.5;
+}
+
+/* ---- Focus styles ---- */
+
+:focus-visible {
+  outline: 2px solid var(--accent-blue);
+  outline-offset: 2px;
+}
+
+/* ---- Scrollbar ---- */
+
+.vocab-panel::-webkit-scrollbar {
+  width: 4px;
+}
+
+.vocab-panel::-webkit-scrollbar-thumb {
+  background: var(--border-soft);
+  border-radius: 2px;
+}

@@ -1,0 +1,655 @@
+{
+  "chapter": 29,
+  "title": "川 の 通り",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "川のそば",
+    "description": "Riverside path in the valley. Lush green banks, flowing water, afternoon warmth.",
+    "characters": [
+      "ムーミン",
+      "スナフキン"
+    ],
+    "props": [
+      "船"
+    ]
+  },
+  "newLemmas": [
+    "伯母",
+    "拾う",
+    "起こる",
+    "天才",
+    "川",
+    "通り",
+    "明日"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いつ",
+    "いや",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たって",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "パパ",
+    "パンケーキ",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "下",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "伯母",
+    "修理",
+    "先",
+    "切手",
+    "前",
+    "助ける",
+    "動く",
+    "取る",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "天才",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "少し",
+    "嵐",
+    "川",
+    "度",
+    "必要",
+    "忘れる",
+    "怖い",
+    "悪い",
+    "戻る",
+    "手",
+    "拾う",
+    "捨てる",
+    "教える",
+    "日",
+    "明日",
+    "昨日",
+    "時間",
+    "書く",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次回",
+    "止める",
+    "気圧",
+    "水",
+    "海岸",
+    "無くなる",
+    "珍しい",
+    "目",
+    "知れる",
+    "確か",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "絶対",
+    "考える",
+    "聞こえる",
+    "自信",
+    "自分",
+    "花",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "話",
+    "起こる",
+    "足",
+    "返す",
+    "追う",
+    "通り",
+    "違う",
+    "部屋",
+    "間",
+    "随分",
+    "隠れる",
+    "集める",
+    "雨",
+    "非",
+    "面白い",
+    "頭",
+    "風",
+    "飛行",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch29-01",
+      "japanese": "川 へ いく。",
+      "imagePrompt": "Moomintroll and Snufkin walk along a lush green path toward the river. The riverside path stretches ahead through tall grass. Afternoon warmth. Walking toward the river. Medium-wide shot, eye-level. Warm afternoon riverside light, pleasant walk mood.",
+      "readings": [
+        {
+          "surface": "川",
+          "reading": "がわ"
+        }
+      ]
+    },
+    {
+      "id": "ch29-02",
+      "japanese": "伯母 が きた。",
+      "imagePrompt": "An aunt figure arrives on the riverside path, carrying a parasol. She greets the group warmly. An unexpected but welcome encounter. Aunt arriving on the riverside path. Medium shot, eye-level. Warm welcoming afternoon light, pleasant surprise mood.",
+      "readings": [
+        {
+          "surface": "伯母",
+          "reading": "おば"
+        }
+      ]
+    },
+    {
+      "id": "ch29-03",
+      "japanese": "この 川 の 通り を いく。",
+      "imagePrompt": "The group walks along the riverside road together. The path follows the river's winding course. Trees line both sides. The water flows gently beside them. Group walking along the riverside road. Medium-wide shot, eye-level. Dappled warm afternoon riverside light, companionable walking mood.",
+      "readings": [
+        {
+          "surface": "川",
+          "reading": "がわ"
+        },
+        {
+          "surface": "通り",
+          "reading": "とおり"
+        }
+      ]
+    },
+    {
+      "id": "ch29-04",
+      "japanese": "通り に もの が ある。",
+      "imagePrompt": "Objects litter the path — things washed up from the storm, or left behind by travelers. Interesting items scattered along the road. The group pauses to look. Objects scattered on the riverside path. Medium shot, slightly elevated. Warm curious afternoon light, found-objects mood.",
+      "readings": [
+        {
+          "surface": "通り",
+          "reading": "とおり"
+        }
+      ]
+    },
+    {
+      "id": "ch29-05",
+      "japanese": "拾った！",
+      "imagePrompt": "Moomintroll bends down and picks up something from the path. He holds it up triumphantly. A small treasure found! His face lights up with the find. Moomintroll holding up a found object. Medium shot, eye-level. Bright triumphant afternoon light, happy finding mood.",
+      "readings": [
+        {
+          "surface": "拾っ",
+          "reading": "ひろっ"
+        }
+      ]
+    },
+    {
+      "id": "ch29-06",
+      "japanese": "川 で 拾う の が 楽しい。",
+      "imagePrompt": "Moomintroll wades at the river edge, picking up interesting stones and objects from the shallows. Picking things up in the river is fun! Water splashes around his feet. Moomintroll collecting things from the river. Medium shot, eye-level. Bright sparkling riverside light, joyful collecting mood.",
+      "readings": [
+        {
+          "surface": "川",
+          "reading": "がわ"
+        },
+        {
+          "surface": "拾う",
+          "reading": "ひろう"
+        },
+        {
+          "surface": "楽しい",
+          "reading": "たのしい"
+        }
+      ]
+    },
+    {
+      "id": "ch29-07",
+      "japanese": "「天才 だ！」 と 言った。",
+      "imagePrompt": "Snufkin examines what Moomintroll found and declares it brilliant. Genius! The object is unusual and fascinating. He holds it up to the light. Snufkin declaring the find brilliant. Medium close-up, eye-level. Bright admiring afternoon light, genius declaration mood.",
+      "readings": [
+        {
+          "surface": "天才",
+          "reading": "てんさい"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch29-08",
+      "japanese": "なに が 起こった？",
+      "imagePrompt": "A sudden splash in the river draws everyone's attention. Something happened! They all look toward the water where ripples spread outward. Something happening. Group looking at the river splash. Medium shot, eye-level. Bright alert afternoon light, startled inquiry mood.",
+      "readings": [
+        {
+          "surface": "起こっ",
+          "reading": "おこっ"
+        }
+      ]
+    },
+    {
+      "id": "ch29-09",
+      "japanese": "「起こった こと を 教えて」 と 伯母 が 言った。",
+      "imagePrompt": "The aunt asks calmly to be told what happened. She missed the splash and wants an explanation. Her parasol tilts inquisitively. Aunt asking what happened. Medium shot, eye-level. Warm patient afternoon light, calm inquiry mood.",
+      "readings": [
+        {
+          "surface": "起こっ",
+          "reading": "おこっ"
+        },
+        {
+          "surface": "教え",
+          "reading": "おしえ"
+        },
+        {
+          "surface": "伯母",
+          "reading": "おば"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch29-10",
+      "japanese": "伯母 に 見せた。",
+      "imagePrompt": "Moomintroll shows the aunt what he found by the river. She adjusts her parasol to get a closer look, leaning in with interest. Showing the find to the aunt. Medium shot, eye-level. Warm sharing afternoon light, showing-to-elder mood.",
+      "readings": [
+        {
+          "surface": "伯母",
+          "reading": "おば"
+        },
+        {
+          "surface": "見せ",
+          "reading": "みせ"
+        }
+      ]
+    },
+    {
+      "id": "ch29-11",
+      "japanese": "この 通り だ。",
+      "imagePrompt": "Snufkin gestures at the long riverside road stretching into the distance. This is the path — it goes on and on along the river. Beautiful perspective view. The long riverside road. Medium-wide shot, eye-level. Warm expansive afternoon light, scenic road mood.",
+      "readings": [
+        {
+          "surface": "通り",
+          "reading": "とおり"
+        }
+      ]
+    },
+    {
+      "id": "ch29-12",
+      "japanese": "天才 の ひと だ ね。",
+      "imagePrompt": "The aunt compliments Moomintroll on his finding skills — what a genius person! He blushes proudly. Moomintroll being complimented. Medium shot, eye-level. Warm praising afternoon light, flattered mood.",
+      "readings": [
+        {
+          "surface": "天才",
+          "reading": "てんさい"
+        }
+      ]
+    },
+    {
+      "id": "ch29-13",
+      "japanese": "拾う の が いい。",
+      "imagePrompt": "Everyone agrees that picking things up along the river is a good activity. They enjoy beachcombing together. Nods of agreement all around. Group agreeing about the fun activity. Medium shot, eye-level. Warm agreeable afternoon light, shared appreciation mood.",
+      "readings": [
+        {
+          "surface": "拾う",
+          "reading": "ひろう"
+        }
+      ]
+    },
+    {
+      "id": "ch29-14",
+      "japanese": "明日 も いく。",
+      "imagePrompt": "Moomintroll looks ahead along the river path, planning to come back tomorrow too. The path continues invitingly around a bend. So much more to discover. Moomintroll looking along the path. Medium shot, eye-level. Warm planning afternoon light, tomorrow's promise mood.",
+      "readings": [
+        {
+          "surface": "明日",
+          "reading": "あす"
+        }
+      ]
+    },
+    {
+      "id": "ch29-15",
+      "japanese": "明日 起こる こと が 楽しみ だ。",
+      "imagePrompt": "Moomintroll smiles, thinking about what might happen tomorrow. The things that will happen are exciting! Anticipation fills his expression. Moomintroll smiling about tomorrow. Medium close-up, eye-level. Warm anticipatory afternoon light, future excitement mood.",
+      "readings": [
+        {
+          "surface": "明日",
+          "reading": "あす"
+        },
+        {
+          "surface": "起こる",
+          "reading": "おこる"
+        },
+        {
+          "surface": "楽しみ",
+          "reading": "たのしみ"
+        }
+      ]
+    },
+    {
+      "id": "ch29-16",
+      "japanese": "天才 と 言った。",
+      "imagePrompt": "Snufkin pats Moomintroll on the back, repeating that he is a genius finder. Moomintroll beams. A supportive moment between friends by the river. Snufkin patting Moomintroll's back. Medium shot, eye-level. Warm friendly afternoon light, affirming friendship mood.",
+      "readings": [
+        {
+          "surface": "天才",
+          "reading": "てんさい"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch29-17",
+      "japanese": "ここ で 起こった こと は 面白い ね。",
+      "imagePrompt": "The group sits on the riverbank, reflecting on the afternoon's events. What happened here was interesting! Feet dangle toward the water. Smiles all around. Group sitting on the riverbank reflecting. Medium shot, eye-level. Warm reflective late afternoon light, satisfied review mood.",
+      "readings": [
+        {
+          "surface": "起こっ",
+          "reading": "おこっ"
+        },
+        {
+          "surface": "面白い",
+          "reading": "おもしろい"
+        }
+      ]
+    },
+    {
+      "id": "ch29-18",
+      "japanese": "拾った もの を みせて。",
+      "imagePrompt": "All the found objects are laid out on a flat rock by the river. Each person shows what they picked up. A display of river treasures. Found objects displayed on a rock. Medium close-up, slightly elevated. Warm displaying afternoon light, show-and-tell mood.",
+      "readings": [
+        {
+          "surface": "拾っ",
+          "reading": "ひろっ"
+        }
+      ]
+    },
+    {
+      "id": "ch29-19",
+      "japanese": "明日 の 楽しみ だ。",
+      "imagePrompt": "The sun begins to set over the river. Tomorrow is something to look forward to. The group heads home along the riverside path. Golden light. Group walking home along the river at sunset. Medium-wide shot, eye-level. Golden warm sunset riverside light, anticipatory farewell mood.",
+      "readings": [
+        {
+          "surface": "明日",
+          "reading": "あす"
+        },
+        {
+          "surface": "楽しみ",
+          "reading": "たのしみ"
+        }
+      ]
+    },
+    {
+      "id": "ch29-20",
+      "japanese": "伯母 と また いく。",
+      "imagePrompt": "The aunt waves goodbye at the path fork, promising to come again. Moomintroll waves back. They will walk together again. Warm parting. Aunt waving goodbye on the path. Medium shot, eye-level. Golden warm sunset light, promising farewell mood.",
+      "readings": [
+        {
+          "surface": "伯母",
+          "reading": "おば"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 20,
+      "newLemmaUsage": {
+        "伯母": 4,
+        "天才": 3,
+        "川": 3,
+        "拾う": 4,
+        "明日": 3,
+        "起こる": 4,
+        "通り": 3
+      }
+    }
+  }
+}

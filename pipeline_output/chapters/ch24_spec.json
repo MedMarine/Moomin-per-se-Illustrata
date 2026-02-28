@@ -1,0 +1,598 @@
+{
+  "chapter": 24,
+  "title": "テント の 夜",
+  "grammarStep": 17,
+  "grammarName": "Relative clauses",
+  "scene": {
+    "location": "森のそばのキャンプ",
+    "description": "A clearing near the forest with a pitched tent. Campfire remnants. Backpacks and supplies. Moonlight through trees.",
+    "characters": [
+      "ムーミン",
+      "スナフキン",
+      "パパ"
+    ],
+    "props": [
+      "き"
+    ]
+  },
+  "newLemmas": [
+    "戻る",
+    "秘密",
+    "知れる",
+    "時間",
+    "薬",
+    "捨てる",
+    "テント",
+    "足"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いつ",
+    "いや",
+    "いる",
+    "いれる",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たって",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "でも",
+    "でる",
+    "と",
+    "とく",
+    "ところ",
+    "とても",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "テント",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "先",
+    "前",
+    "助ける",
+    "動く",
+    "取る",
+    "声",
+    "変",
+    "変わる",
+    "奴",
+    "姉",
+    "子",
+    "少し",
+    "嵐",
+    "度",
+    "必要",
+    "忘れる",
+    "怖い",
+    "戻る",
+    "手",
+    "捨てる",
+    "日",
+    "昨日",
+    "時間",
+    "書く",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "止める",
+    "気圧",
+    "水",
+    "海岸",
+    "無くなる",
+    "目",
+    "知れる",
+    "確か",
+    "秘密",
+    "穴",
+    "素晴らしい",
+    "絶対",
+    "自信",
+    "自分",
+    "茸",
+    "落ちる",
+    "薬",
+    "見える",
+    "見せる",
+    "話",
+    "足",
+    "違う",
+    "部屋",
+    "間",
+    "随分",
+    "隠れる",
+    "雨",
+    "非",
+    "面白い",
+    "風",
+    "飛行",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch24-01",
+      "japanese": "テント に いる。",
+      "imagePrompt": "A pitched tent sits in a forest clearing after the storm. Moomintroll and Snufkin sit inside the open tent flap. Camping supplies are scattered around. Moonlight filters through trees. Characters in the tent at night. Medium-wide shot, eye-level. Soft moonlit forest light, sheltered camp mood.",
+      "readings": []
+    },
+    {
+      "id": "ch24-02",
+      "japanese": "嵐 の あと の テント だ。",
+      "imagePrompt": "The tent stands among broken branches and storm debris in the clearing. It survived the storm. Puddles reflect the moonlight. The tent is slightly tilted but intact. Tent amid storm debris at night. Medium shot, eye-level. Silvery post-storm moonlight, resilient shelter mood.",
+      "readings": [
+        {
+          "surface": "嵐",
+          "reading": "あらし"
+        }
+      ]
+    },
+    {
+      "id": "ch24-03",
+      "japanese": "この 足 を みせて。",
+      "imagePrompt": "Moomintroll asks Snufkin to show his foot. Snufkin extends his leg from under a blanket. Something happened to his foot during the storm. Snufkin showing his foot. Medium close-up, eye-level. Warm lamplight inside tent, concerned inspection mood.",
+      "readings": [
+        {
+          "surface": "足",
+          "reading": "あし"
+        }
+      ]
+    },
+    {
+      "id": "ch24-04",
+      "japanese": "薬 が 必要 だ。",
+      "imagePrompt": "Moomintroll rummages through a backpack looking for medicine. The foot needs treatment. His face shows worry as he searches the supplies. Moomintroll searching for medicine in backpack. Medium shot, eye-level. Warm dim tent lamplight, urgent searching mood.",
+      "readings": [
+        {
+          "surface": "薬",
+          "reading": "くすり"
+        },
+        {
+          "surface": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "id": "ch24-05",
+      "japanese": "足 に 薬 を つけた。",
+      "imagePrompt": "Moomintroll carefully applies medicine to Snufkin's foot. Snufkin winces slightly. The treatment is gentle but necessary. A small bottle of medicine is open beside them. Applying medicine to the foot. Medium close-up, eye-level. Warm careful tent lamplight, gentle treatment mood.",
+      "readings": [
+        {
+          "surface": "足",
+          "reading": "あし"
+        },
+        {
+          "surface": "薬",
+          "reading": "くすり"
+        }
+      ]
+    },
+    {
+      "id": "ch24-06",
+      "japanese": "テント の なか に いる。",
+      "imagePrompt": "Wide view of the tent interior. Both characters sit surrounded by supplies, blankets, and a small lantern. The tent walls ripple slightly in the remaining wind. Cozy despite the post-storm chill. Interior of the tent with two characters. Medium-wide shot, eye-level. Warm lantern glow, sheltered cozy mood.",
+      "readings": []
+    },
+    {
+      "id": "ch24-07",
+      "japanese": "家 に 戻る？",
+      "imagePrompt": "Moomintroll looks out through the tent opening toward the distant valley, wondering if they should return home. The path is dark and littered with debris. Moomintroll looking out the tent opening. Medium shot, eye-level. Dark distant valley vs warm tent light, questioning mood.",
+      "readings": [
+        {
+          "surface": "家",
+          "reading": "いえ"
+        },
+        {
+          "surface": "戻る",
+          "reading": "もどる"
+        }
+      ]
+    },
+    {
+      "id": "ch24-08",
+      "japanese": "まだ 戻らない。",
+      "imagePrompt": "Snufkin shakes his head — not yet. It is too dark and the path is unsafe. He pulls his blanket closer. They will stay in the tent. Snufkin shaking his head, staying put. Medium shot, eye-level. Warm patient tent lamplight, resolute waiting mood.",
+      "readings": [
+        {
+          "surface": "戻ら",
+          "reading": "もどら"
+        }
+      ]
+    },
+    {
+      "id": "ch24-09",
+      "japanese": "嵐 が 戻る かもしれない。",
+      "imagePrompt": "Thunder rumbles in the distance. Moomintroll looks up at the tent ceiling nervously. The storm might return. Dark clouds still move overhead through the tent opening. Moomintroll looking up nervously at sounds. Medium close-up, eye-level. Flickering nervous tent light, uncertain dread mood.",
+      "readings": [
+        {
+          "surface": "嵐",
+          "reading": "あらし"
+        },
+        {
+          "surface": "戻る",
+          "reading": "もどる"
+        }
+      ]
+    },
+    {
+      "id": "ch24-10",
+      "japanese": "秘密 の もの を 見つけた。",
+      "imagePrompt": "Among the storm debris outside the tent, something unusual catches the lantern light. Moomintroll reaches out and picks up a mysterious object half-buried in leaves. Finding a secret object in debris. Medium close-up, slightly elevated. Warm discovering lantern light, secret find mood.",
+      "readings": [
+        {
+          "surface": "秘密",
+          "reading": "ひみつ"
+        },
+        {
+          "surface": "見つけ",
+          "reading": "みつけ"
+        }
+      ]
+    },
+    {
+      "id": "ch24-11",
+      "japanese": "これ は 秘密 だ。",
+      "imagePrompt": "Moomintroll holds the mysterious object close, whispering to Snufkin. This is a secret — they should not tell anyone yet. Conspiratorial expressions on both faces. Two characters whispering about the object. Medium close-up, eye-level. Warm conspiratorial tent light, secretive mood.",
+      "readings": [
+        {
+          "surface": "秘密",
+          "reading": "ひみつ"
+        }
+      ]
+    },
+    {
+      "id": "ch24-12",
+      "japanese": "この 時間 が ない！",
+      "imagePrompt": "A sudden gust shakes the tent violently. There is no time to waste — they need to secure the tent poles. Both characters scramble to hold the tent down. Characters scrambling to secure the tent. Medium shot, eye-level. Urgent flickering tent light, panicked time-pressure mood.",
+      "readings": [
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        }
+      ]
+    },
+    {
+      "id": "ch24-13",
+      "japanese": "時間 が ない かもしれない。",
+      "imagePrompt": "Moomintroll holds a tent pole and looks at the horizon where lightning flashes. There might not be enough time before the storm returns. Worry crosses his face. Moomintroll holding tent pole, looking at lightning. Medium shot, eye-level. Flash-lit worried tent light, anxious uncertainty mood.",
+      "readings": [
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        }
+      ]
+    },
+    {
+      "id": "ch24-14",
+      "japanese": "捨てた もの が ある。",
+      "imagePrompt": "Near the tent, they notice discarded objects the storm washed up — broken boards, torn cloth, twisted metal. Someone threw these away long ago. Storm-deposited debris near the tent. Medium shot, slightly elevated. Dim moonlit discovery light, observing discarded items mood.",
+      "readings": [
+        {
+          "surface": "捨て",
+          "reading": "すて"
+        }
+      ]
+    },
+    {
+      "id": "ch24-15",
+      "japanese": "これ を 捨てる。",
+      "imagePrompt": "Moomintroll picks up a broken branch blocking the tent entrance and tosses it aside. Clearing away the debris, throwing out what is useless. Moomintroll tossing debris aside. Medium shot, eye-level. Practical moonlit clearing light, decisive cleaning mood.",
+      "readings": [
+        {
+          "surface": "捨てる",
+          "reading": "すてる"
+        }
+      ]
+    },
+    {
+      "id": "ch24-16",
+      "japanese": "秘密 かもしれない。",
+      "imagePrompt": "Snufkin examines one of the storm-deposited objects more carefully. This might be something secret, something important. He turns it over in his hands with a knowing look. Snufkin examining an object thoughtfully. Medium close-up, eye-level. Warm intrigued lantern light, mysterious possibility mood.",
+      "readings": [
+        {
+          "surface": "秘密",
+          "reading": "ひみつ"
+        }
+      ]
+    },
+    {
+      "id": "ch24-17",
+      "japanese": "薬 を みつけた！",
+      "imagePrompt": "Moomintroll discovers an extra bottle of medicine in the bottom of the backpack. Relief floods his face. More medicine for Snufkin's foot! Finding medicine bottle in the backpack. Medium close-up, eye-level. Bright relieved lantern light, joyful discovery mood.",
+      "readings": [
+        {
+          "surface": "薬",
+          "reading": "くすり"
+        }
+      ]
+    },
+    {
+      "id": "ch24-18",
+      "japanese": "足 の 薬 が ある。",
+      "imagePrompt": "Two bottles of medicine now sit side by side near Snufkin. There is enough medicine for the foot. Both characters relax a little. Two medicine bottles near Snufkin. Medium close-up, eye-level. Warm reassured tent light, relieved sufficiency mood.",
+      "readings": [
+        {
+          "surface": "足",
+          "reading": "あし"
+        },
+        {
+          "surface": "薬",
+          "reading": "くすり"
+        }
+      ]
+    },
+    {
+      "id": "ch24-19",
+      "japanese": "時間 が あったら いい ね。",
+      "imagePrompt": "Moomintroll gazes out at the night sky where stars peek through thinning clouds. If only there were more time to explore the aftermath before heading home. Wistful expression. Moomintroll gazing at clearing sky. Medium shot, eye-level. Soft hopeful night sky light, wistful conditional mood.",
+      "readings": [
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        }
+      ]
+    },
+    {
+      "id": "ch24-20",
+      "japanese": "「テント に 戻る」 と 言った。",
+      "imagePrompt": "After a brief excursion outside, Moomintroll calls back to Snufkin that he is returning to the tent. He walks back through the moonlit debris field. Moomintroll walking back to the tent. Medium-wide shot, eye-level. Silvery moonlit return path light, announcing return mood.",
+      "readings": [
+        {
+          "surface": "戻る",
+          "reading": "もどる"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch24-21",
+      "japanese": "捨てた もの の なか に 秘密 が ある。",
+      "imagePrompt": "Inside the tent, both characters examine the objects they gathered from the debris. Among the discarded items, they sense something truly secret. Lantern light reveals details. Characters examining objects by lantern. Medium shot, eye-level. Warm investigating lantern light, secret-within-junk revelation mood.",
+      "readings": [
+        {
+          "surface": "捨て",
+          "reading": "すて"
+        },
+        {
+          "surface": "秘密",
+          "reading": "ひみつ"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 21,
+      "newLemmaUsage": {
+        "テント": 4,
+        "戻る": 4,
+        "捨てる": 3,
+        "時間": 3,
+        "知れる": 3,
+        "秘密": 4,
+        "薬": 4,
+        "足": 3
+      }
+    }
+  }
+}

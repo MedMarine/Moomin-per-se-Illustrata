@@ -1,0 +1,470 @@
+{
+  "chapter": 17,
+  "title": "おおきい 声、ちいさい 声",
+  "grammarStep": 11,
+  "grammarName": "て-form: sequential and requests",
+  "scene": {
+    "location": "森のそばのひろば",
+    "description": "A sunny clearing at the forest edge. Mushrooms growing near tree stumps. A small figure arriving with a bag.",
+    "characters": [
+      "ムーミン",
+      "スラン",
+      "ママ"
+    ],
+    "props": [
+      "き"
+    ]
+  },
+  "newLemmas": [
+    "よく",
+    "昨日",
+    "また",
+    "おおきい",
+    "声",
+    "少し",
+    "どうぞ",
+    "さあ",
+    "ちいさい"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いや",
+    "いる",
+    "うみ",
+    "うん",
+    "ええ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おく",
+    "おまえ",
+    "おもう",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くる",
+    "くん",
+    "けど",
+    "けれど",
+    "ここ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さがす",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しる",
+    "じゃ",
+    "すがた",
+    "する",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たち",
+    "たに",
+    "たべる",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃん",
+    "ちょっと",
+    "って",
+    "つ",
+    "つくる",
+    "て",
+    "で",
+    "でも",
+    "でる",
+    "と",
+    "ところ",
+    "とても",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "な",
+    "ない",
+    "なか",
+    "なに",
+    "なる",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はやい",
+    "ひと",
+    "ひとり",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もつ",
+    "もの",
+    "やっぱり",
+    "やま",
+    "やる",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "ら",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "スーツケース-suitcase",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "声",
+    "変わる",
+    "奴",
+    "子",
+    "少し",
+    "度",
+    "怖い",
+    "手",
+    "日",
+    "昨日",
+    "楽しい",
+    "止める",
+    "目",
+    "絶対",
+    "自分",
+    "落ちる",
+    "見える",
+    "話",
+    "違う",
+    "隠れる",
+    "非",
+    "風",
+    "飛行",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch17-01",
+      "japanese": "ほら、さあ いく よ！",
+      "imagePrompt": "Moomintroll stands at the edge of the forest clearing on a bright morning, waving everyone forward with an eager gesture. Sunlight streams through the trees. Moomintroll beckoning at the clearing edge. Medium shot, eye-level. Bright morning forest light, enthusiastic departure mood.",
+      "readings": []
+    },
+    {
+      "id": "ch17-02",
+      "japanese": "昨日 も きた ね。",
+      "imagePrompt": "Snufkin walks beside Moomintroll on the familiar forest path, recognizing the clearing from before. Old footprints visible in the soft earth. Characters on a familiar path. Medium shot, eye-level. Warm dappled forest light, nostalgic return mood.",
+      "readings": [
+        {
+          "surface": "昨日",
+          "reading": "きのう"
+        }
+      ]
+    },
+    {
+      "id": "ch17-03",
+      "japanese": "また きた よ。",
+      "imagePrompt": "The group arrives at the sunny forest clearing again. Mushrooms still grow by the tree stumps. Sniff waves happily. Group arriving at the clearing. Medium-wide shot, eye-level. Bright cheerful clearing light, happy return mood.",
+      "readings": []
+    },
+    {
+      "id": "ch17-04",
+      "japanese": "おおきい 声 で きく。",
+      "imagePrompt": "Moomintroll cups his hands around his mouth and shouts loudly across the clearing. Birds scatter from the treetops. Sound waves implied by the scattered birds. Moomintroll shouting across the clearing. Medium shot, eye-level. Bright open clearing light, loud calling mood.",
+      "readings": [
+        {
+          "surface": "声",
+          "reading": "こえ"
+        }
+      ]
+    },
+    {
+      "id": "ch17-05",
+      "japanese": "ちいさい 声 が する。",
+      "imagePrompt": "A faint tiny voice drifts from somewhere in the clearing. Snufkin tilts his head, listening. The forest is quiet around them. Faint voice in the quiet clearing. Medium shot, eye-level. Soft dappled forest light, quiet listening mood.",
+      "readings": [
+        {
+          "surface": "声",
+          "reading": "こえ"
+        }
+      ]
+    },
+    {
+      "id": "ch17-06",
+      "japanese": "おおきい 目 で みて！",
+      "imagePrompt": "Moomintroll opens his eyes very wide, staring at something in the grass. His big round eyes reflect the forest light. Moomintroll with wide open eyes looking down. Close-up, eye-level. Bright curious forest light, wide-eyed attention mood.",
+      "readings": [
+        {
+          "surface": "目",
+          "reading": "め"
+        }
+      ]
+    },
+    {
+      "id": "ch17-07",
+      "japanese": "この 声 は だれ？",
+      "imagePrompt": "Everyone stops and listens. A strange sound comes from behind the mushroom-covered tree stump. Ears perked up, everyone listening. Group listening attentively in the clearing. Medium shot, eye-level. Quiet forest light, puzzled listening mood.",
+      "readings": [
+        {
+          "surface": "声",
+          "reading": "こえ"
+        }
+      ]
+    },
+    {
+      "id": "ch17-08",
+      "japanese": "少し 待って、よく きく。",
+      "imagePrompt": "Moomintroll holds up a hand, signaling everyone to pause. He tilts his head, listening carefully to the sound. Moomintroll with raised hand listening. Medium shot, eye-level. Still forest light, patient waiting mood.",
+      "readings": [
+        {
+          "surface": "少し",
+          "reading": "すこし"
+        },
+        {
+          "surface": "待っ",
+          "reading": "まっ"
+        }
+      ]
+    },
+    {
+      "id": "ch17-09",
+      "japanese": "ちいさい もの が いる。",
+      "imagePrompt": "Behind the tree stump, a tiny creature peeks out — barely visible among the mushrooms. Just a small face with bright eyes. Tiny creature peeking from behind the stump. Medium close-up, slightly low angle. Soft forest light on tiny face, gentle discovery mood.",
+      "readings": []
+    },
+    {
+      "id": "ch17-10",
+      "japanese": "どうぞ、こちら へ きて！",
+      "imagePrompt": "Moomintroll kneels down and extends his hand gently toward the tiny creature, inviting it closer with a warm smile. Moomintroll kneeling with outstretched hand. Medium shot, eye-level. Warm inviting forest light, gentle welcome mood.",
+      "readings": []
+    },
+    {
+      "id": "ch17-11",
+      "japanese": "よく きた ね！",
+      "imagePrompt": "The tiny creature steps out from behind the stump into the clearing. Moomintroll and Snufkin smile warmly at it. Everyone welcoming the newcomer. Medium shot, eye-level. Bright warm clearing light, warm welcome mood.",
+      "readings": []
+    },
+    {
+      "id": "ch17-12",
+      "japanese": "ここ に どうぞ。",
+      "imagePrompt": "Moomintroll pats the soft grass beside him, inviting the tiny creature to sit down. A cozy spot in the warm sunshine. Moomintroll patting the grass beside him. Medium close-up, eye-level. Warm welcoming sunlight, gentle invitation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch17-13",
+      "japanese": "ほら、昨日 は いた？",
+      "imagePrompt": "Moomintroll scratches his head, looking at the tiny creature and trying to remember if it was here before. Thought bubble shows yesterday's visit. Moomintroll thinking about yesterday. Medium shot, eye-level. Thoughtful forest light, questioning recall mood.",
+      "readings": [
+        {
+          "surface": "昨日",
+          "reading": "きのう"
+        }
+      ]
+    },
+    {
+      "id": "ch17-14",
+      "japanese": "昨日 は いなかった よ。",
+      "imagePrompt": "Snufkin shakes his head, pointing to the empty spot behind the stump where nobody was yesterday. The stump stands alone in memory. Snufkin indicating absence yesterday. Medium shot, eye-level. Clear recollection light, certain negation mood.",
+      "readings": [
+        {
+          "surface": "昨日",
+          "reading": "きのう"
+        }
+      ]
+    },
+    {
+      "id": "ch17-15",
+      "japanese": "うん、さあ みんな！",
+      "imagePrompt": "Moomintroll stands up and addresses the whole group gathered in the clearing — Snufkin, Sniff, and the tiny newcomer. He claps his hands together. Moomintroll addressing the group. Medium-wide shot, eye-level. Bright energetic clearing light, rallying mood.",
+      "readings": []
+    },
+    {
+      "id": "ch17-16",
+      "japanese": "また あそぶ よ。",
+      "imagePrompt": "The group begins a game in the clearing. Moomintroll chases Sniff around the tree stumps while the tiny creature watches. Group playing in the clearing. Medium-wide shot, slightly elevated. Joyful bright clearing light, playful energy mood.",
+      "readings": []
+    },
+    {
+      "id": "ch17-17",
+      "japanese": "少し おおきい ね。",
+      "imagePrompt": "Moomintroll picks up a large mushroom from by the stump, comparing it to a smaller one nearby. The big one barely fits in his hands. Moomintroll holding a large mushroom. Medium close-up, eye-level. Warm forest light, observational comparison mood.",
+      "readings": [
+        {
+          "surface": "少し",
+          "reading": "すこし"
+        }
+      ]
+    },
+    {
+      "id": "ch17-18",
+      "japanese": "うん、どうぞ たべて。",
+      "imagePrompt": "Moominmamma arrives at the clearing with a basket of food, offering sandwiches to everyone. She holds one out with a gentle smile. Moominmamma offering food from basket. Medium shot, eye-level. Warm nurturing forest light, generous offering mood.",
+      "readings": []
+    },
+    {
+      "id": "ch17-19",
+      "japanese": "よく たべる ね。",
+      "imagePrompt": "Sniff gobbles down three sandwiches at once, cheeks bulging. Moomintroll watches with amusement. Crumbs everywhere. Sniff eating enthusiastically. Medium shot, eye-level. Bright amused clearing light, hearty eating mood.",
+      "readings": []
+    },
+    {
+      "id": "ch17-20",
+      "japanese": "ほら、ちいさい 声 が した。",
+      "imagePrompt": "Everyone pauses mid-bite. A small, faint sound comes from the edge of the clearing. The tiny creature perks up its ears. Everyone pausing to listen. Medium shot, eye-level. Quiet alert forest light, faint sound detection mood.",
+      "readings": [
+        {
+          "surface": "声",
+          "reading": "こえ"
+        }
+      ]
+    },
+    {
+      "id": "ch17-21",
+      "japanese": "うん、さあ 行って みて！",
+      "imagePrompt": "Moomintroll points toward the edge of the clearing where the sound came from, encouraging Sniff to go investigate. Moomintroll pointing toward the forest edge. Medium shot, eye-level. Adventurous forest light, encouraging investigation mood.",
+      "readings": [
+        {
+          "surface": "行っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch17-22",
+      "japanese": "また この 声 だ。",
+      "imagePrompt": "The faint sound comes again from the same direction. Snufkin nods — he heard it too. The trees sway slightly at the forest edge. Characters recognizing the repeated sound. Medium shot, eye-level. Attentive forest light, confirmed recognition mood.",
+      "readings": [
+        {
+          "surface": "声",
+          "reading": "こえ"
+        }
+      ]
+    },
+    {
+      "id": "ch17-23",
+      "japanese": "少し 怖い よ。",
+      "imagePrompt": "Sniff hides behind Moomintroll, ears flat, looking nervously toward the dark forest edge. His knees tremble slightly. Sniff hiding behind Moomintroll nervously. Medium shot, eye-level. Contrasting bright clearing and dark forest edge, nervous fear mood.",
+      "readings": [
+        {
+          "surface": "少し",
+          "reading": "すこし"
+        },
+        {
+          "surface": "怖い",
+          "reading": "こわい"
+        }
+      ]
+    },
+    {
+      "id": "ch17-24",
+      "japanese": "おおきい こと じゃない よ。",
+      "imagePrompt": "Snufkin waves his hand dismissively, relaxed as always, reassuring Sniff that it's nothing important. He leans back calmly. Snufkin dismissing the concern casually. Medium shot, eye-level. Calm reassuring forest light, casual dismissal mood.",
+      "readings": []
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 24,
+      "newLemmaUsage": {
+        "おおきい": 4,
+        "さあ": 3,
+        "ちいさい": 3,
+        "どうぞ": 3,
+        "また": 3,
+        "よく": 3,
+        "声": 5,
+        "少し": 3,
+        "昨日": 3
+      }
+    }
+  }
+}

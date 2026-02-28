@@ -1,0 +1,334 @@
+{
+  "chapter": 3,
+  "title": "ふたり",
+  "grammarStep": 2,
+  "grammarName": "Topic + Copula: は / だ",
+  "scene": {
+    "location": "ムーミン谷（散歩）",
+    "description": "A winding path through the valley on a calm day. Characters walking slowly, peering at odd things along the trail.",
+    "characters": [
+      "ムーミン",
+      "スナフキン",
+      "フローレン"
+    ],
+    "props": [
+      "き",
+      "山"
+    ]
+  },
+  "newLemmas": [
+    "だれ",
+    "どこ",
+    "その",
+    "あの",
+    "いい",
+    "やま",
+    "ふたり",
+    "フローレン"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "あの",
+    "ある",
+    "いい",
+    "いえ",
+    "いく",
+    "いる",
+    "うみ",
+    "お",
+    "か",
+    "から",
+    "が",
+    "き",
+    "くる",
+    "くん",
+    "けど",
+    "けれど",
+    "この",
+    "ご",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "じゃ",
+    "する",
+    "そう",
+    "その",
+    "た",
+    "たち",
+    "たべる",
+    "だ",
+    "だけ",
+    "だれ",
+    "ちゃん",
+    "って",
+    "つ",
+    "で",
+    "と",
+    "どこ",
+    "な",
+    "ない",
+    "なに",
+    "なる",
+    "に",
+    "ね",
+    "の",
+    "のむ",
+    "は",
+    "ひと",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ぼうし",
+    "ぼく",
+    "まで",
+    "みる",
+    "も",
+    "やま",
+    "やる",
+    "よ",
+    "よう",
+    "ら",
+    "わ",
+    "わたし",
+    "を",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ムーミン",
+    "・",
+    "不",
+    "非",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch03-01",
+      "japanese": "山 が ある。いい 山 だ。",
+      "imagePrompt": "Moomin Valley morning, Moomintroll on a winding path looking up at mountains ahead. Green rolling hills rise to rocky peaks. Mountains rising above the valley path. Wide shot, slightly low angle. Clear morning light on green hills, adventurous setting-out mood.",
+      "readings": [
+        {
+          "surface": "山",
+          "reading": "やま"
+        },
+        {
+          "surface": "山",
+          "reading": "やま"
+        }
+      ]
+    },
+    {
+      "id": "ch03-02",
+      "japanese": "あの 山！",
+      "imagePrompt": "Moomintroll points at a particular mountain in the distance, its peak catching morning sunlight. A beautiful snow-capped summit glows gold. A beautiful distant mountain peak. Medium-wide shot, eye-level. Golden morning light on the peak, admiring mood.",
+      "readings": [
+        {
+          "surface": "山",
+          "reading": "やま"
+        }
+      ]
+    },
+    {
+      "id": "ch03-03",
+      "japanese": "どこ に いる？",
+      "imagePrompt": "Moomintroll shades his eyes with one hand on the mountain path, scanning the trail ahead. The path winds through trees and boulders. Moomintroll searching the path ahead. Medium shot, eye-level. Bright midday light, searching questioning mood.",
+      "readings": []
+    },
+    {
+      "id": "ch03-04",
+      "japanese": "あの 人 は だれ？",
+      "imagePrompt": "On the mountain path, Moomintroll spots a distant figure sitting on a rock. The figure is small and far away, silhouetted against the sky. Distant figure on the mountain trail. Medium-wide shot, eye-level from the path. Hazy afternoon light, intrigued questioning mood.",
+      "readings": [
+        {
+          "surface": "人",
+          "reading": "ひと"
+        }
+      ]
+    },
+    {
+      "id": "ch03-05",
+      "japanese": "だれ が いる？",
+      "imagePrompt": "Moomintroll creeps closer along the path, peering around a large boulder at the figure ahead. Wildflowers line the trail. Moomintroll peeking from behind a boulder. Medium shot, eye-level. Warm afternoon light, cautious curiosity mood.",
+      "readings": []
+    },
+    {
+      "id": "ch03-06",
+      "japanese": "だれ？だれ だ？",
+      "imagePrompt": "Moomintroll steps closer, squinting at the figure. He calls out hesitantly. The figure turns. Moomintroll calling out on the mountain path. Medium shot, eye-level. Bright afternoon light, eager questioning mood.",
+      "readings": []
+    },
+    {
+      "id": "ch03-07",
+      "japanese": "フローレン だ！",
+      "imagePrompt": "The figure turns and it is Snorkmaiden, sitting on a rock with flowers in her hair. She smiles at Moomintroll. Moomintroll's face lights up with recognition. Snorkmaiden revealed on the mountain path. Medium two-shot, eye-level. Warm golden afternoon light, delighted recognition mood.",
+      "readings": []
+    },
+    {
+      "id": "ch03-08",
+      "japanese": "フローレン は いい 人 だ。",
+      "imagePrompt": "Snorkmaiden and Moomintroll walk together on the mountain path, she gestures gracefully at the landscape. Her friendly warm manner is evident. Snorkmaiden and Moomintroll walking together. Medium shot, eye-level. Soft afternoon light, warm appreciation mood.",
+      "readings": [
+        {
+          "surface": "人",
+          "reading": "ひと"
+        }
+      ]
+    },
+    {
+      "id": "ch03-09",
+      "japanese": "ふたり だ。",
+      "imagePrompt": "Moomintroll and Snorkmaiden walk side by side on the mountain trail, their shadows stretching behind them. Two small figures on the vast mountain path. The pair walking together on the trail. Medium-wide shot, slightly elevated. Low afternoon sun casting long shadows, companionable mood.",
+      "readings": []
+    },
+    {
+      "id": "ch03-10",
+      "japanese": "ふたり は 山 に いる。",
+      "imagePrompt": "Moomintroll and Snorkmaiden sit together on a mountain ledge, valley spread below them. Green slopes, river glinting in the distance. The pair resting on the mountainside. Wide shot, slightly elevated. Warm afternoon light over the valley, peaceful togetherness mood.",
+      "readings": [
+        {
+          "surface": "山",
+          "reading": "やま"
+        }
+      ]
+    },
+    {
+      "id": "ch03-11",
+      "japanese": "なに？その 山！",
+      "imagePrompt": "Snorkmaiden points at a different mountain across the valley, surprised by its beauty. Moomintroll follows her gaze. Snorkmaiden pointing at another mountain. Medium two-shot, eye-level. Clear afternoon light, surprised admiration mood.",
+      "readings": [
+        {
+          "surface": "山",
+          "reading": "やま"
+        }
+      ]
+    },
+    {
+      "id": "ch03-12",
+      "japanese": "あの 山 と あの 島。",
+      "imagePrompt": "Wide valley view showing the mountain near the coast, with an island visible in the sea beyond. Moomintroll gestures explaining the geography. Mountain and island in the valley panorama. Wide panoramic shot, elevated. Clear afternoon light, explanatory mood.",
+      "readings": [
+        {
+          "surface": "山",
+          "reading": "やま"
+        },
+        {
+          "surface": "島",
+          "reading": "しま"
+        }
+      ]
+    },
+    {
+      "id": "ch03-13",
+      "japanese": "あの 海 は いい ね。",
+      "imagePrompt": "From the mountain path, Moomintroll and Snorkmaiden look down at the sparkling sea in the distance. Waves catch the light. Sea viewed from the mountain path. Wide shot, slightly elevated. Brilliant blue-gold afternoon light on the sea, admiring mood.",
+      "readings": [
+        {
+          "surface": "海",
+          "reading": "うみ"
+        }
+      ]
+    },
+    {
+      "id": "ch03-14",
+      "japanese": "フローレン は どこ に いる？",
+      "imagePrompt": "Moomintroll looks around on the mountain path — Snorkmaiden has wandered off to pick flowers nearby. He searches for her. Moomintroll looking around for Snorkmaiden. Medium shot, eye-level. Warm late-afternoon light, mildly worried searching mood.",
+      "readings": []
+    },
+    {
+      "id": "ch03-15",
+      "japanese": "その 木 に いる。",
+      "imagePrompt": "Snorkmaiden is found sitting under a large tree beside the mountain trail, arranging flowers. She waves at Moomintroll. Snorkmaiden under a tree on the path. Medium shot, eye-level. Dappled light through leaves, relieved finding mood.",
+      "readings": [
+        {
+          "surface": "木",
+          "reading": "き"
+        }
+      ]
+    },
+    {
+      "id": "ch03-16",
+      "japanese": "いい ふたり だ ね。",
+      "imagePrompt": "Moomintroll and Snorkmaiden share a flower crown she made, both smiling. The mountain sunset glows behind them. The happy pair with flower crown. Medium close-up, eye-level. Warm sunset glow, affectionate happiness mood.",
+      "readings": []
+    },
+    {
+      "id": "ch03-17",
+      "japanese": "ムーミン と フローレン。",
+      "imagePrompt": "Silhouette of Moomintroll and Snorkmaiden walking hand in hand along the mountain ridge at sunset. Two small figures against a vast orange sky. Silhouetted pair on the mountain ridge. Wide shot, eye-level. Deep sunset orange and purple, romantic friendship mood.",
+      "readings": []
+    },
+    {
+      "id": "ch03-18",
+      "japanese": "どこ に いる？家 に いる。",
+      "imagePrompt": "Moomintroll and Snorkmaiden descend the mountain path toward the Moomin house, visible in the valley below with lit windows. Returning home in the evening. The pair heading home from the mountain. Medium-wide shot, slightly elevated. Dusk light with warm house glow, homecoming mood.",
+      "readings": [
+        {
+          "surface": "家",
+          "reading": "いえ"
+        }
+      ]
+    },
+    {
+      "id": "ch03-19",
+      "japanese": "その 人 は フローレン だ。",
+      "imagePrompt": "At the Moomin house door, Moominmamma looks out to see who is coming. Moomintroll introduces Snorkmaiden proudly. Introduction at the front door. Medium shot, eye-level. Warm doorway light, proud introduction mood.",
+      "readings": [
+        {
+          "surface": "人",
+          "reading": "ひと"
+        }
+      ]
+    },
+    {
+      "id": "ch03-20",
+      "japanese": "あの 山。",
+      "imagePrompt": "Night sky over the valley, the mountain visible as a dark silhouette with stars above it. Moomintroll looks out his window at it. Mountain silhouette under stars from the window. Medium shot from inside looking out. Moonlight and starlight, reflective evening mood.",
+      "readings": [
+        {
+          "surface": "山",
+          "reading": "やま"
+        }
+      ]
+    },
+    {
+      "id": "ch03-21",
+      "japanese": "フローレン も 家 に いる。",
+      "imagePrompt": "Inside the warm Moomin house, Snorkmaiden sits at the family table with everyone. She has a cup of tea. Moominmamma smiles at her. Snorkmaiden welcomed at the family table. Medium shot, eye-level. Warm interior lamplight, welcoming inclusion mood.",
+      "readings": [
+        {
+          "surface": "家",
+          "reading": "いえ"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 21,
+      "newLemmaUsage": {
+        "あの": 6,
+        "いい": 4,
+        "その": 3,
+        "だれ": 4,
+        "どこ": 3,
+        "ふたり": 3,
+        "やま": 7,
+        "フローレン": 6
+      }
+    }
+  }
+}

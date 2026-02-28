@@ -1,0 +1,597 @@
+{
+  "chapter": 27,
+  "title": "夜 の 空",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "ムーミンやしきのベランダ（夜）",
+    "description": "Night-time on the Moomin house veranda. Stars fill the dark sky above the valley.",
+    "characters": [
+      "ムーミン",
+      "スナフキン",
+      "ママ"
+    ],
+    "props": []
+  },
+  "newLemmas": [
+    "次回",
+    "ジュース",
+    "ちゃんと",
+    "教える",
+    "頭",
+    "夜",
+    "空",
+    "子供"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いつ",
+    "いや",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たって",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "パパ",
+    "ビフ",
+    "フローレン",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "下",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "先",
+    "前",
+    "助ける",
+    "動く",
+    "取る",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "少し",
+    "嵐",
+    "度",
+    "必要",
+    "忘れる",
+    "怖い",
+    "悪い",
+    "戻る",
+    "手",
+    "捨てる",
+    "教える",
+    "日",
+    "昨日",
+    "時間",
+    "書く",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次回",
+    "止める",
+    "気圧",
+    "水",
+    "海岸",
+    "無くなる",
+    "目",
+    "知れる",
+    "確か",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "絶対",
+    "考える",
+    "聞こえる",
+    "自信",
+    "自分",
+    "花",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "話",
+    "足",
+    "返す",
+    "追う",
+    "違う",
+    "部屋",
+    "間",
+    "随分",
+    "隠れる",
+    "雨",
+    "非",
+    "面白い",
+    "頭",
+    "風",
+    "飛行",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch27-01",
+      "japanese": "もう 夜 に なった。",
+      "imagePrompt": "The sun sets behind the Moomin Valley mountains. The sky transitions from orange to deep blue. Stars begin to appear. The veranda of the Moomin house glows warmly. Evening falling over the valley. Medium-wide shot, eye-level. Warm-to-cool transitional twilight light, peaceful dusk mood.",
+      "readings": [
+        {
+          "surface": "夜",
+          "reading": "よる"
+        }
+      ]
+    },
+    {
+      "id": "ch27-02",
+      "japanese": "夜 の 空 を みる。",
+      "imagePrompt": "Moomintroll and Snufkin sit on the veranda, faces tilted upward in wonder at the night sky. Stars fill the dark expanse above them. Warm veranda lamplight illuminates their upturned faces. Two characters stargazing on the veranda. Medium shot, eye-level. Warm lamplight on faces against cool starlit sky, contemplative wonder mood.",
+      "readings": [
+        {
+          "surface": "夜",
+          "reading": "よる"
+        },
+        {
+          "surface": "空",
+          "reading": "そら"
+        }
+      ]
+    },
+    {
+      "id": "ch27-03",
+      "japanese": "空 が きれい だ ね。",
+      "imagePrompt": "Moomintroll gazes upward from the veranda, the spectacular night sky reflected in his wide eyes — bright stars, the Milky Way visible. Starlight and veranda lamplight illuminate his face. Moomintroll stargazing on the veranda. Medium shot, eye-level. Warm lamplight on face with cool starlit sky above, awed beauty mood.",
+      "readings": [
+        {
+          "surface": "空",
+          "reading": "そら"
+        }
+      ]
+    },
+    {
+      "id": "ch27-04",
+      "japanese": "ちいさい 子供 が いる。",
+      "imagePrompt": "Small Moomin children have gathered on the veranda, sitting in a semicircle. They look up at the older characters expectantly, waiting to learn about the stars. Children gathered on the veranda. Medium shot, eye-level. Warm veranda lamplight mixed with cool starlight, expectant gathering mood.",
+      "readings": [
+        {
+          "surface": "子供",
+          "reading": "こども"
+        }
+      ]
+    },
+    {
+      "id": "ch27-05",
+      "japanese": "子供 に 教える。",
+      "imagePrompt": "Snufkin points up at constellations, teaching the children about the stars. He traces patterns in the sky with his finger. The children follow his pointing finger with their eyes. Snufkin teaching children about stars. Medium shot, eye-level. Cool starlit teaching light, patient instruction mood.",
+      "readings": [
+        {
+          "surface": "子供",
+          "reading": "こども"
+        },
+        {
+          "surface": "教える",
+          "reading": "おしえる"
+        }
+      ]
+    },
+    {
+      "id": "ch27-06",
+      "japanese": "空 を みる こと を 教えた。",
+      "imagePrompt": "Snufkin shows the children how to really look at the sky — where to find constellations, how to spot planets. He taught them the art of watching. Teaching how to observe the sky. Medium shot, eye-level. Cool instructional starlit light, skill-sharing mood.",
+      "readings": [
+        {
+          "surface": "空",
+          "reading": "そら"
+        },
+        {
+          "surface": "教え",
+          "reading": "おしえ"
+        }
+      ]
+    },
+    {
+      "id": "ch27-07",
+      "japanese": "「ジュース ちょうだい」 と 言った。",
+      "imagePrompt": "One of the children tugs at Moominmamma's sleeve, asking for juice. A small hand reaches up. Moominmamma smiles and reaches for a pitcher. Child asking for juice. Medium close-up, eye-level. Warm domestic veranda light, innocent request mood.",
+      "readings": [
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch27-08",
+      "japanese": "ジュース を のむ。",
+      "imagePrompt": "Everyone has a glass of juice on the veranda. They sip while looking up at the stars. Condensation drips on the glasses in the night air. Group drinking juice under the stars. Medium shot, eye-level. Warm cozy veranda light, relaxed refreshment mood.",
+      "readings": []
+    },
+    {
+      "id": "ch27-09",
+      "japanese": "この 頭 で 考える。",
+      "imagePrompt": "Moomintroll taps his head, thinking about what Snufkin taught about the stars. Using his head to think. He squints at a constellation trying to remember its name. Moomintroll thinking, tapping his head. Medium close-up, eye-level. Cool thoughtful starlit light, concentrated thinking mood.",
+      "readings": [
+        {
+          "surface": "頭",
+          "reading": "あたま"
+        },
+        {
+          "surface": "考える",
+          "reading": "かんがえる"
+        }
+      ]
+    },
+    {
+      "id": "ch27-10",
+      "japanese": "頭 が いい ね。",
+      "imagePrompt": "Snufkin praises one of the children who correctly identified a constellation. Smart! The child beams with pride. Snufkin gives a thumbs up. Child being praised for knowledge. Medium shot, eye-level. Warm praising veranda light, encouraging compliment mood.",
+      "readings": [
+        {
+          "surface": "頭",
+          "reading": "あたま"
+        }
+      ]
+    },
+    {
+      "id": "ch27-11",
+      "japanese": "ちゃんと する。",
+      "imagePrompt": "Moominmamma straightens a child's blanket and tucks them in properly on the veranda bench. Do it properly! She makes sure everyone is warm enough. Moominmamma tucking in children properly. Medium shot, eye-level. Warm caring veranda light, proper care mood.",
+      "readings": []
+    },
+    {
+      "id": "ch27-12",
+      "japanese": "ちゃんと みて。",
+      "imagePrompt": "Snufkin gently redirects a distracted child's gaze back to the sky. Look properly! The child refocuses on the stars. Patient guidance. Snufkin redirecting child's attention to the sky. Medium shot, eye-level. Cool attentive starlit light, patient guidance mood.",
+      "readings": []
+    },
+    {
+      "id": "ch27-13",
+      "japanese": "この 次回 は ちゃんと する。",
+      "imagePrompt": "Moomintroll promises to do better next time with the star names. He forgot some tonight. He holds up his hands in a promise gesture. Next time he will be prepared. Moomintroll promising to do better. Medium shot, eye-level. Warm promising veranda light, resolute self-improvement mood.",
+      "readings": [
+        {
+          "surface": "次回",
+          "reading": "じかい"
+        }
+      ]
+    },
+    {
+      "id": "ch27-14",
+      "japanese": "教える の が いい ね。",
+      "imagePrompt": "Snufkin leans back contentedly. Teaching is a good thing. He enjoys sharing knowledge. His satisfied expression shows fulfillment from the evening's teaching. Snufkin content after teaching. Medium shot, eye-level. Warm satisfied veranda light, fulfilled teaching mood.",
+      "readings": [
+        {
+          "surface": "教える",
+          "reading": "おしえる"
+        }
+      ]
+    },
+    {
+      "id": "ch27-15",
+      "japanese": "夜 は いい ね。",
+      "imagePrompt": "Moomintroll stretches on the veranda, perfectly content. Night is good. Stars above, warm company, juice in hand. A perfect evening. Moomintroll stretching contentedly. Medium shot, eye-level. Cool peaceful starlit light, contented night mood.",
+      "readings": [
+        {
+          "surface": "夜",
+          "reading": "よる"
+        }
+      ]
+    },
+    {
+      "id": "ch27-16",
+      "japanese": "子供 も ちゃんと 楽しい。",
+      "imagePrompt": "The children giggle and point at stars, clearly having a wonderful time. The joy on their faces is infectious. Even the youngest is engaged and happy. Happy children pointing at stars. Medium shot, eye-level. Warm joyful veranda light, infectious childlike joy mood.",
+      "readings": [
+        {
+          "surface": "子供",
+          "reading": "こども"
+        },
+        {
+          "surface": "楽しい",
+          "reading": "たのしい"
+        }
+      ]
+    },
+    {
+      "id": "ch27-17",
+      "japanese": "ジュース が ある。",
+      "imagePrompt": "Moominmamma brings out a fresh pitcher of juice. There is more! The children cheer. The pitcher is full and cold with condensation. Fresh pitcher of juice arriving. Medium shot, eye-level. Warm domestic veranda light, welcome replenishment mood.",
+      "readings": []
+    },
+    {
+      "id": "ch27-18",
+      "japanese": "頭 の 上 に ある。",
+      "imagePrompt": "Moomintroll points straight up from the veranda, his face lit by lamplight as he gazes at the brightest star directly overhead. Everyone tilts their heads back, eyes shining. Moomintroll pointing at the star above. Medium shot, eye-level. Warm veranda lamplight on upturned faces, directly-above wonder mood.",
+      "readings": [
+        {
+          "surface": "頭",
+          "reading": "あたま"
+        },
+        {
+          "surface": "上",
+          "reading": "うえ"
+        }
+      ]
+    },
+    {
+      "id": "ch27-19",
+      "japanese": "次回 も みる。",
+      "imagePrompt": "Snufkin nods to the group — they will watch the stars again next time too. This should become a regular event. Unanimous agreement around the veranda. Group nodding in agreement. Medium shot, eye-level. Warm agreeing veranda light, planned repetition mood.",
+      "readings": [
+        {
+          "surface": "次回",
+          "reading": "じかい"
+        }
+      ]
+    },
+    {
+      "id": "ch27-20",
+      "japanese": "次回 の 楽しみ だ。",
+      "imagePrompt": "The children are carried inside, sleepy but happy. The next time is something to look forward to. Stars still twinkle above the quiet veranda. Sleepy children being carried inside. Medium shot, eye-level. Warm closing veranda light, anticipatory ending mood.",
+      "readings": [
+        {
+          "surface": "次回",
+          "reading": "じかい"
+        },
+        {
+          "surface": "楽しみ",
+          "reading": "たのしみ"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 20,
+      "newLemmaUsage": {
+        "ちゃんと": 3,
+        "ジュース": 3,
+        "夜": 3,
+        "子供": 3,
+        "教える": 3,
+        "次回": 3,
+        "空": 3,
+        "頭": 3
+      }
+    }
+  }
+}

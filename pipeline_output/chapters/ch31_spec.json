@@ -1,0 +1,680 @@
+{
+  "chapter": 31,
+  "title": "船 を 漕ぐ",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "川の河口（朝）",
+    "description": "River mouth where it meets the sea, early morning. The old wooden boat is pulled up on the bank.",
+    "characters": [
+      "ムーミン",
+      "パパ",
+      "スニフ"
+    ],
+    "props": [
+      "船"
+    ]
+  },
+  "newLemmas": [
+    "およぐ",
+    "漕ぐ",
+    "張る",
+    "地獄",
+    "秒",
+    "手伝う",
+    "此奴",
+    "とにかく"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いつ",
+    "いや",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "およぐ",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たって",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とにかく",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なく",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "やれ",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "ハート",
+    "パパ",
+    "パンケーキ",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "下",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "伯母",
+    "修理",
+    "兄",
+    "先",
+    "切手",
+    "前",
+    "助ける",
+    "動く",
+    "化け物",
+    "取る",
+    "回",
+    "地獄",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "天才",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "少し",
+    "嵐",
+    "川",
+    "度",
+    "張る",
+    "必要",
+    "忘れる",
+    "怖い",
+    "悪い",
+    "戻る",
+    "手",
+    "手伝う",
+    "拾う",
+    "捨てる",
+    "教える",
+    "日",
+    "明日",
+    "昨日",
+    "時間",
+    "書く",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次回",
+    "止める",
+    "此奴",
+    "気圧",
+    "水",
+    "海岸",
+    "漕ぐ",
+    "無くなる",
+    "珍しい",
+    "目",
+    "知れる",
+    "確か",
+    "秒",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "絶対",
+    "考える",
+    "聞こえる",
+    "自信",
+    "自分",
+    "花",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "話",
+    "起こる",
+    "足",
+    "返す",
+    "追う",
+    "通り",
+    "違う",
+    "部屋",
+    "間",
+    "随分",
+    "隠れる",
+    "集める",
+    "雨",
+    "非",
+    "面白い",
+    "頭",
+    "風",
+    "飛行",
+    "飾り",
+    "鼾",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch31-01",
+      "japanese": "「船 で いく！」 と パパ が 言った。",
+      "imagePrompt": "Papa stands at the river mouth at dawn, pointing triumphantly at an old wooden boat pulled up on the bank. Morning sky bright behind him. Papa pointing at the boat at dawn. Medium shot, eye-level. Bright dawn light, excited announcement mood.",
+      "readings": [
+        {
+          "surface": "船",
+          "reading": "ふね"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch31-02",
+      "japanese": "船 を 漕ぐ の は すごい。",
+      "imagePrompt": "Papa grips heavy wooden oars, straining with effort. Rowing is hard work! Sweat on his brow. The river current pushes against the boat. Papa straining at the oars. Medium shot, eye-level. Warm morning light, effortful mood.",
+      "readings": [
+        {
+          "surface": "船",
+          "reading": "ふね"
+        },
+        {
+          "surface": "漕ぐ",
+          "reading": "こぐ"
+        }
+      ]
+    },
+    {
+      "id": "ch31-03",
+      "japanese": "パパ が 漕いだ。",
+      "imagePrompt": "Papa rows powerfully, pulling oars through the water. The boat moves upstream. Water splashes from the oar blades with each stroke. Papa rowing upstream. Medium-wide shot, eye-level. Bright morning river light, steady rowing mood.",
+      "readings": [
+        {
+          "surface": "漕い",
+          "reading": "こい"
+        }
+      ]
+    },
+    {
+      "id": "ch31-04",
+      "japanese": "もっと 漕ぐ。",
+      "imagePrompt": "Papa rows harder, pulling with all his strength. More rowing needed! The boat picks up speed on the river. Papa rowing harder. Medium shot, eye-level. Warm morning light, increasing effort mood.",
+      "readings": [
+        {
+          "surface": "漕ぐ",
+          "reading": "こぐ"
+        }
+      ]
+    },
+    {
+      "id": "ch31-05",
+      "japanese": "「手伝って！」 と ムーミン が 言った。",
+      "imagePrompt": "Moomintroll calls from the boat, reaching toward friends on the bank. Help me! He needs someone to push the boat. His expression is urgent. Moomintroll calling for help from the boat. Medium shot, eye-level. Bright morning light, urgent request mood.",
+      "readings": [
+        {
+          "surface": "手伝っ",
+          "reading": "てつだっ"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch31-06",
+      "japanese": "ママ が 手伝った。",
+      "imagePrompt": "Mama pushes the boat from the bank, her strong arms guiding it into the current. She helped! Her apron is tucked up as she wades into shallow water. Mama pushing the boat. Medium shot, eye-level. Warm morning light, helpful mood.",
+      "readings": [
+        {
+          "surface": "手伝っ",
+          "reading": "てつだっ"
+        }
+      ]
+    },
+    {
+      "id": "ch31-07",
+      "japanese": "手伝う の が いい ね。",
+      "imagePrompt": "Moomintroll smiles warmly at Mama from the boat. Helping is good! Everyone works together now. The scene is warm and cooperative. Moomintroll smiling at Mama gratefully. Medium close-up, eye-level. Warm morning light, grateful cooperation mood.",
+      "readings": [
+        {
+          "surface": "手伝う",
+          "reading": "てつだう"
+        }
+      ]
+    },
+    {
+      "id": "ch31-08",
+      "japanese": "およぐ の が 怖い。",
+      "imagePrompt": "Sniff stands at the river's edge, looking at dark water with wide frightened eyes. Swimming is scary! He backs away from the water's edge. Sniff afraid at the water's edge. Medium shot, eye-level. Cool morning river light, fearful mood.",
+      "readings": [
+        {
+          "surface": "怖い",
+          "reading": "こわい"
+        }
+      ]
+    },
+    {
+      "id": "ch31-09",
+      "japanese": "ムーミン は およいだ。",
+      "imagePrompt": "Moomintroll dives into the river and swims alongside the boat. He swam! Water splashes around his round white body as he paddles. Moomintroll swimming beside the boat. Medium shot, eye-level. Bright sparkling river light, confident mood.",
+      "readings": []
+    },
+    {
+      "id": "ch31-10",
+      "japanese": "およぐ こと が できる。",
+      "imagePrompt": "Moomintroll surfaces triumphantly, water streaming off him. He can swim! He raises one arm in victory while treading water. Moomintroll triumphant in the water. Medium shot, eye-level. Bright celebratory light, proud achievement mood.",
+      "readings": []
+    },
+    {
+      "id": "ch31-11",
+      "japanese": "テント を 張る。",
+      "imagePrompt": "On the riverbank, Moomintroll and Papa unroll a canvas tent. They pitch the tent for the night before departure. Tent poles go up against the morning sky. Setting up tent on the riverbank. Medium-wide shot, eye-level. Warm morning light, preparation mood.",
+      "readings": [
+        {
+          "surface": "張る",
+          "reading": "はる"
+        }
+      ]
+    },
+    {
+      "id": "ch31-12",
+      "japanese": "ここ に テント を 張った。",
+      "imagePrompt": "The tent stands on a grassy patch by the river. They pitched the tent here! A cozy camp spot with the boat moored nearby. Tent by the river with the boat. Medium-wide shot, eye-level. Warm afternoon light, accomplished setup mood.",
+      "readings": [
+        {
+          "surface": "張っ",
+          "reading": "はっ"
+        }
+      ]
+    },
+    {
+      "id": "ch31-13",
+      "japanese": "張る の は 楽しい ね。",
+      "imagePrompt": "Moomintroll steps back to admire the tent, hands on hips, beaming. Pitching is fun! The camp looks perfect. Snufkin gives an approving nod. Moomintroll admiring the tent. Medium shot, eye-level. Warm golden light, satisfied mood.",
+      "readings": [
+        {
+          "surface": "張る",
+          "reading": "はる"
+        },
+        {
+          "surface": "楽しい",
+          "reading": "たのしい"
+        }
+      ]
+    },
+    {
+      "id": "ch31-14",
+      "japanese": "「地獄 だ！」 と スニフ が 言った。",
+      "imagePrompt": "Sniff collapses dramatically on the ground, exhausted from carrying supplies. This is hell! He moans. Packs and bags surround his sprawled body. Sniff collapsed among supplies. Medium shot, slightly elevated. Warm light, comic exhaustion mood.",
+      "readings": [
+        {
+          "surface": "地獄",
+          "reading": "じごく"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch31-15",
+      "japanese": "ほんとう に 地獄 だ ね。",
+      "imagePrompt": "Moomintroll looks at all the scattered supplies and exhausted Sniff with a wry smile. Quite hellish indeed! But there is humor in the chaos. Moomintroll surveying chaos wryly. Medium shot, eye-level. Warm amused light, wry agreement mood.",
+      "readings": [
+        {
+          "surface": "地獄",
+          "reading": "じごく"
+        }
+      ]
+    },
+    {
+      "id": "ch31-16",
+      "japanese": "地獄 みたい だ。",
+      "imagePrompt": "The campsite is a mess — ropes tangled, tent pegs scattered, bags overturned. Like hell! But everyone is laughing. Messy campsite. Medium-wide shot, slightly elevated. Warm chaotic light, comic disaster mood.",
+      "readings": [
+        {
+          "surface": "地獄",
+          "reading": "じごく"
+        }
+      ]
+    },
+    {
+      "id": "ch31-17",
+      "japanese": "「こいつ が 悪い。」 と パパ が 言った。",
+      "imagePrompt": "Papa points at a stubborn heavy oar that keeps sliding from its rowlock. This thing is the problem! He frowns at the oar accusingly. Papa pointing at the oar. Medium close-up, eye-level. Warm light, accusing frustration mood.",
+      "readings": [
+        {
+          "surface": "悪い",
+          "reading": "わるい"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch31-18",
+      "japanese": "ほら、こいつ だ。",
+      "imagePrompt": "Papa holds up the oar to show everyone a crack in the wood. See, this one! The damaged oar is the culprit. Everyone gathers to look. Papa showing the cracked oar. Medium shot, eye-level. Bright light, demonstrating mood.",
+      "readings": []
+    },
+    {
+      "id": "ch31-19",
+      "japanese": "こいつ を みて。",
+      "imagePrompt": "Papa turns the oar over, pointing at the worn grip. Look at this thing! The grip is falling off. Moomintroll peers closely. Close view of the worn oar. Medium close-up, eye-level. Clear light, examining mood.",
+      "readings": []
+    },
+    {
+      "id": "ch31-20",
+      "japanese": "秒 で わかる。",
+      "imagePrompt": "Snufkin glances at the damaged oar and understands immediately. You can tell in a second! His quick assessment impresses everyone. Snufkin assessing the oar. Medium close-up, eye-level. Clear light, instant understanding mood.",
+      "readings": [
+        {
+          "surface": "秒",
+          "reading": "びょう"
+        }
+      ]
+    },
+    {
+      "id": "ch31-21",
+      "japanese": "もう 秒 が ない。",
+      "imagePrompt": "The sun is getting higher — they must depart soon! No more seconds to waste. Papa shades his eyes and looks up at the bright sky urgently. Papa looking urgently at the sky. Medium shot, eye-level. Bright urgent light, time-pressure mood.",
+      "readings": [
+        {
+          "surface": "秒",
+          "reading": "びょう"
+        }
+      ]
+    },
+    {
+      "id": "ch31-22",
+      "japanese": "あと 秒 だ。",
+      "imagePrompt": "Moomintroll holds up his hand — just seconds more! Almost ready. Final preparations being made. Everyone moves quickly. Moomintroll holding up hand urgently. Medium shot, eye-level. Bright urgent light, countdown mood.",
+      "readings": [
+        {
+          "surface": "秒",
+          "reading": "びょう"
+        }
+      ]
+    },
+    {
+      "id": "ch31-23",
+      "japanese": "とにかく いく。",
+      "imagePrompt": "Papa grabs the repaired oar and steps into the boat decisively. Anyway, let's go! No more delays. His expression is determined. Papa stepping into the boat. Medium shot, eye-level. Bright determined light, decisive mood.",
+      "readings": []
+    },
+    {
+      "id": "ch31-24",
+      "japanese": "とにかく ここ で 食べて。",
+      "imagePrompt": "Mama holds out rice balls to the group from a basket. Anyway, eat here first! You cannot go on an empty stomach. The rice balls are round and inviting. Mama offering rice balls. Medium shot, eye-level. Warm caring light, practical mood.",
+      "readings": [
+        {
+          "surface": "食べ",
+          "reading": "たべ"
+        }
+      ]
+    },
+    {
+      "id": "ch31-25",
+      "japanese": "「とにかく 手伝って！」 と パパ が 言った。",
+      "imagePrompt": "Papa calls from the boat as it starts to drift. Anyway, help! Everyone scrambles to grab ropes and push off. The expedition begins at last. Everyone scrambling to help. Medium-wide shot, eye-level. Bright excited light, chaotic departure mood.",
+      "readings": [
+        {
+          "surface": "手伝っ",
+          "reading": "てつだっ"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 25,
+      "newLemmaUsage": {
+        "およぐ": 3,
+        "とにかく": 3,
+        "地獄": 3,
+        "張る": 3,
+        "手伝う": 4,
+        "此奴": 3,
+        "漕ぐ": 3,
+        "秒": 3
+      }
+    }
+  }
+}

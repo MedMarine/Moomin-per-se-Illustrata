@@ -1,0 +1,462 @@
+{
+  "chapter": 15,
+  "title": "ひとり の 夜",
+  "grammarStep": 10,
+  "grammarName": "Negation: ない / じゃない",
+  "scene": {
+    "location": "ムーミンやしきの中（夜）",
+    "description": "Inside the Moomin house at night. Warm firelight. Characters settling down for the evening. Food on the table. Cozy, safe atmosphere.",
+    "characters": [
+      "ムーミン",
+      "ママ",
+      "スニフ",
+      "フローレン"
+    ],
+    "props": [
+      "家"
+    ]
+  },
+  "newLemmas": [
+    "いっしょ",
+    "ひとり",
+    "自分",
+    "えー",
+    "怖い",
+    "やっぱり",
+    "ほう",
+    "落ちる"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いや",
+    "いる",
+    "うみ",
+    "うん",
+    "ええ",
+    "えー",
+    "お",
+    "おい",
+    "おく",
+    "おまえ",
+    "おもう",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くる",
+    "くん",
+    "けど",
+    "けれど",
+    "ここ",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さがす",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しる",
+    "じゃ",
+    "すがた",
+    "する",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たち",
+    "たに",
+    "たべる",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だめ",
+    "だれ",
+    "ちゃん",
+    "ちょっと",
+    "って",
+    "つ",
+    "つくる",
+    "で",
+    "でも",
+    "でる",
+    "と",
+    "ところ",
+    "とても",
+    "どう",
+    "どこ",
+    "な",
+    "ない",
+    "なか",
+    "なに",
+    "なる",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はいる",
+    "はやい",
+    "ひと",
+    "ひとり",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もつ",
+    "もの",
+    "やっぱり",
+    "やま",
+    "やる",
+    "よ",
+    "よう",
+    "よし",
+    "ら",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "スーツケース-suitcase",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "変わる",
+    "奴",
+    "子",
+    "度",
+    "怖い",
+    "楽しい",
+    "止める",
+    "目",
+    "絶対",
+    "自分",
+    "落ちる",
+    "見える",
+    "話",
+    "違う",
+    "隠れる",
+    "非",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch15-01",
+      "japanese": "ひとり で いる。",
+      "imagePrompt": "Moomintroll sits alone in the dim Moomin house living room, firelight flickering on the walls. Empty chairs around him. Round windows show dark sky. Moomintroll alone by the fire. Medium shot, eye-level. Warm flickering firelight against darkness, solitary evening mood.",
+      "readings": []
+    },
+    {
+      "id": "ch15-02",
+      "japanese": "みんな は いない。",
+      "imagePrompt": "Wide view of the empty Moomin house rooms, chairs pushed back, no one around. Only Moomintroll visible in the far room. Empty house interior. Wide shot, slightly elevated. Dim warm lamplight in empty rooms, absent loneliness mood.",
+      "readings": []
+    },
+    {
+      "id": "ch15-03",
+      "japanese": "いっしょ じゃない。",
+      "imagePrompt": "Moomintroll looks at the empty chair next to him where Moominmamma usually sits. Her apron hangs on the back, unoccupied. The empty chair beside Moomintroll. Medium close-up, eye-level. Warm but dim firelight, separated sadness mood.",
+      "readings": []
+    },
+    {
+      "id": "ch15-04",
+      "japanese": "いっしょ に いない。",
+      "imagePrompt": "Moomintroll walks through the hallway holding a small candle, checking each round door. All rooms empty. Candlelight flickers on the walls. Moomintroll checking empty rooms by candlelight. Medium shot, eye-level. Warm candle glow in dim hallway, searching solitude mood.",
+      "readings": []
+    },
+    {
+      "id": "ch15-05",
+      "japanese": "えー、だれ も いない？",
+      "imagePrompt": "Moomintroll stands in the middle of the house, looking around with wide surprised eyes and open mouth. Total silence. Moomintroll surprised by emptiness. Medium shot, eye-level. Dim interior light, shocked disbelief mood.",
+      "readings": []
+    },
+    {
+      "id": "ch15-06",
+      "japanese": "怖い！",
+      "imagePrompt": "A shadow moves across the wall near Moomintroll's candle. He jumps back, clutching himself, eyes wide. The candle flame flickers, casting the moving shadow. Shadow on the wall lit by candlelight. Medium shot, eye-level. Flickering candle glow with sharp shadow, sudden fear mood.",
+      "readings": [
+        {
+          "surface": "怖い",
+          "reading": "こわい"
+        }
+      ]
+    },
+    {
+      "id": "ch15-07",
+      "japanese": "怖い もの は ない。",
+      "imagePrompt": "Moomintroll stands tall and tries to look brave, fists at his sides. The shadow was just a tree branch outside the window. Branch shadow explained. Medium shot, eye-level. Warm firelight, self-reassuring courage mood.",
+      "readings": [
+        {
+          "surface": "怖い",
+          "reading": "こわい"
+        }
+      ]
+    },
+    {
+      "id": "ch15-08",
+      "japanese": "自分 で みる。",
+      "imagePrompt": "Moomintroll picks up a candle and walks toward the dark corner of the room to investigate. Candlelight illuminates his determined face. Moomintroll with candle approaching dark corner. Medium shot, eye-level. Warm candle glow against darkness, brave self-reliance mood.",
+      "readings": [
+        {
+          "surface": "自分",
+          "reading": "じぶん"
+        }
+      ]
+    },
+    {
+      "id": "ch15-09",
+      "japanese": "自分 で さがす。",
+      "imagePrompt": "Moomintroll opens a cupboard door with his candle, peering inside. Shelves of jars and books, nothing scary. Moomintroll searching the cupboard. Medium close-up, eye-level. Warm candle glow on shelves, determined investigation mood.",
+      "readings": [
+        {
+          "surface": "自分",
+          "reading": "じぶん"
+        }
+      ]
+    },
+    {
+      "id": "ch15-10",
+      "japanese": "なに も ない。",
+      "imagePrompt": "The dark corner is just an old coat rack with Moominpappa's spare hat. Nothing frightening at all. Moomintroll sighs with relief. The harmless coat rack revealed. Medium shot, eye-level. Warm relieved candlelight, anticlimactic relief mood.",
+      "readings": []
+    },
+    {
+      "id": "ch15-11",
+      "japanese": "怖い こと は ない よ。",
+      "imagePrompt": "Moomintroll sets the candle on the table and sits back down by the fire, more relaxed now. The room feels warmer. Moomintroll relaxing by the fire. Medium shot, eye-level. Warm steady firelight, calming self-assurance mood.",
+      "readings": [
+        {
+          "surface": "怖い",
+          "reading": "こわい"
+        }
+      ]
+    },
+    {
+      "id": "ch15-12",
+      "japanese": "なに が 落ちた？",
+      "imagePrompt": "A sudden clatter from the kitchen! Something fell off a shelf. Moomintroll spins around toward the sound. Moomintroll turning toward a sound. Medium shot, eye-level. Sharp startled firelight, alarmed questioning mood.",
+      "readings": [
+        {
+          "surface": "落ち",
+          "reading": "おち"
+        }
+      ]
+    },
+    {
+      "id": "ch15-13",
+      "japanese": "えー、落ちた！",
+      "imagePrompt": "In the kitchen, a jar has rolled off the shelf onto the floor. Not broken, just fallen. Moomintroll peers in. The fallen jar on the kitchen floor. Medium shot, slightly elevated. Warm kitchen lamplight, surprised discovery mood.",
+      "readings": [
+        {
+          "surface": "落ち",
+          "reading": "おち"
+        }
+      ]
+    },
+    {
+      "id": "ch15-14",
+      "japanese": "だいじょうぶ。落ちた だけ だ。",
+      "imagePrompt": "Moomintroll picks up the fallen jar and places it back on the shelf. His hands steady, no longer scared. Moomintroll returning the jar to the shelf. Medium close-up, eye-level. Warm kitchen light, calm reassurance mood.",
+      "readings": [
+        {
+          "surface": "落ち",
+          "reading": "おち"
+        }
+      ]
+    },
+    {
+      "id": "ch15-15",
+      "japanese": "ひとり は 怖い？",
+      "imagePrompt": "Moomintroll sits at the kitchen table, chin in hand, thinking. The candle flame reflects in the round window. Moomintroll thinking at the table. Medium shot, eye-level. Warm intimate candlelight, reflective questioning mood.",
+      "readings": [
+        {
+          "surface": "怖い",
+          "reading": "こわい"
+        }
+      ]
+    },
+    {
+      "id": "ch15-16",
+      "japanese": "ひとり じゃない。",
+      "imagePrompt": "Moomintroll hears footsteps outside! The front door opens and Moominmamma's voice calls out. Light spills in from outside. Door opening with light. Medium shot, eye-level. Warm incoming light from the door, relieved realization mood.",
+      "readings": []
+    },
+    {
+      "id": "ch15-17",
+      "japanese": "えー ほんとう？ママ！",
+      "imagePrompt": "Moomintroll rushes to the door and sees Moominmamma standing there with a lantern. His jaw drops with delighted disbelief. Moomintroll at the door seeing Mama. Medium shot, eye-level. Warm lantern light, overjoyed disbelief mood.",
+      "readings": []
+    },
+    {
+      "id": "ch15-18",
+      "japanese": "山 の ほう から きた。",
+      "imagePrompt": "Moominpappa gestures behind him toward the mountain path, explaining where they came from. The dark mountain silhouette looms beyond. Moominpappa pointing toward the mountain. Medium shot, eye-level. Warm doorway light against dark mountain, arrival explanation mood.",
+      "readings": [
+        {
+          "surface": "山",
+          "reading": "やま"
+        }
+      ]
+    },
+    {
+      "id": "ch15-19",
+      "japanese": "でも、やっぱり いっしょ が いい。",
+      "imagePrompt": "Moomintroll runs to the door where Moominmamma and Moominpappa enter, arms wide. Family reunion at the entrance. Moomintroll embracing his parents at the door. Medium shot, eye-level. Warm bright entrance light, joyful reunion mood.",
+      "readings": []
+    },
+    {
+      "id": "ch15-20",
+      "japanese": "やっぱり ひとり は だめ だ。",
+      "imagePrompt": "Moomintroll holds Moominmamma's hand as they walk back to the living room together. He shakes his head about being alone. Family walking back inside together. Medium shot, eye-level. Warm restored lamplight, heartfelt admission mood.",
+      "readings": []
+    },
+    {
+      "id": "ch15-21",
+      "japanese": "自分 の こと は 自分 で する。",
+      "imagePrompt": "Moomintroll proudly tells his parents about investigating the sounds alone. He stands tall recounting his bravery. Moomintroll recounting his adventure. Medium shot, eye-level. Warm bright family lamplight, proud independence mood.",
+      "readings": [
+        {
+          "surface": "自分",
+          "reading": "じぶん"
+        },
+        {
+          "surface": "自分",
+          "reading": "じぶん"
+        }
+      ]
+    },
+    {
+      "id": "ch15-22",
+      "japanese": "この ほう が いい。",
+      "imagePrompt": "The whole family sits together by the fire, Moomintroll between his parents. The room glows warm. This is better. Family together by the fire. Medium shot, eye-level. Rich warm firelight, choosing togetherness mood.",
+      "readings": []
+    },
+    {
+      "id": "ch15-23",
+      "japanese": "家 の ほう へ 帰る。",
+      "imagePrompt": "View from outside the Moomin house, all windows now lit up warm. The family is home together. Stars above. The warmly lit Moomin house at night. Wide shot, slightly elevated. Warm window glow against night sky, homecoming contentment mood.",
+      "readings": [
+        {
+          "surface": "家",
+          "reading": "いえ"
+        },
+        {
+          "surface": "帰る",
+          "reading": "かえる"
+        }
+      ]
+    },
+    {
+      "id": "ch15-24",
+      "japanese": "やっぱり 家 が いい ね。",
+      "imagePrompt": "Final view of the Moomin house interior, everyone settled comfortably. Fire crackling, tea on the table, family together. The cozy family scene. Medium-wide shot, eye-level. Rich warm golden firelight, ultimate contentment mood.",
+      "readings": [
+        {
+          "surface": "家",
+          "reading": "いえ"
+        }
+      ]
+    },
+    {
+      "id": "ch15-25",
+      "japanese": "落ちた もの は おく。",
+      "imagePrompt": "Moominmamma notices the jar that fell earlier and neatly places it back on the kitchen shelf with a smile. Everything in order. Moominmamma tidying the jar. Medium close-up, eye-level. Warm kitchen lamplight, gentle resolution mood.",
+      "readings": [
+        {
+          "surface": "落ち",
+          "reading": "おち"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 25,
+      "newLemmaUsage": {
+        "いっしょ": 3,
+        "えー": 3,
+        "ひとり": 4,
+        "ほう": 3,
+        "やっぱり": 3,
+        "怖い": 4,
+        "自分": 4,
+        "落ちる": 4
+      }
+    }
+  }
+}

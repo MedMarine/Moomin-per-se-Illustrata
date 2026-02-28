@@ -1,0 +1,724 @@
+{
+  "chapter": 33,
+  "title": "場所 を 見つけた",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "山腹の洞穴",
+    "description": "Dark cave entrance in a grassy hillside. Inside: damp walls with black tar streaks. Light filters in from the entrance.",
+    "characters": [
+      "ムーミン",
+      "フローレン",
+      "ニンニ"
+    ],
+    "props": []
+  },
+  "newLemmas": [
+    "場所",
+    "上る",
+    "王",
+    "客",
+    "別",
+    "辺",
+    "すむ",
+    "実"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あるく",
+    "あれ",
+    "い",
+    "いい",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いつ",
+    "いや",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "およぐ",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "すむ",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たって",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とにかく",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なく",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "やれ",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "ハート",
+    "パパ",
+    "パンケーキ",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "上がる",
+    "上る",
+    "下",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "伯母",
+    "修理",
+    "兄",
+    "先",
+    "切手",
+    "別",
+    "利く",
+    "前",
+    "助ける",
+    "動く",
+    "化け物",
+    "取る",
+    "回",
+    "地獄",
+    "場所",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "天才",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "実",
+    "客",
+    "少し",
+    "嵐",
+    "川",
+    "度",
+    "張る",
+    "御覧",
+    "必要",
+    "忘れる",
+    "怖い",
+    "悪い",
+    "戻る",
+    "手",
+    "手伝う",
+    "拾う",
+    "捨てる",
+    "教える",
+    "日",
+    "明日",
+    "昨日",
+    "時間",
+    "書く",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次回",
+    "止める",
+    "此奴",
+    "気圧",
+    "水",
+    "海岸",
+    "漕ぐ",
+    "無くなる",
+    "王",
+    "珍しい",
+    "目",
+    "知れる",
+    "確か",
+    "秒",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "結ぶ",
+    "絶対",
+    "考える",
+    "聞こえる",
+    "自信",
+    "自分",
+    "花",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "話",
+    "調子",
+    "起こる",
+    "足",
+    "辺",
+    "返す",
+    "追う",
+    "通り",
+    "連れる",
+    "違う",
+    "部屋",
+    "間",
+    "随分",
+    "隠れる",
+    "集める",
+    "雨",
+    "非",
+    "面白い",
+    "頭",
+    "風",
+    "飛行",
+    "飾り",
+    "髪の毛",
+    "鼾",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch33-01",
+      "japanese": "場所 を さがす。",
+      "imagePrompt": "The group climbs a grassy hillside, looking for something interesting. Searching for a place! Moomintroll leads the way, scanning the terrain. Group climbing a grassy hillside. Medium-wide shot, eye-level. Bright afternoon light, searching-exploring mood.",
+      "readings": [
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        }
+      ]
+    },
+    {
+      "id": "ch33-02",
+      "japanese": "いい 場所 だ。",
+      "imagePrompt": "They find a flat area near a dark cave entrance in the hillside. A good place! The cave mouth is shadowy and mysterious. Grass grows around it. Cave entrance in the hillside. Medium shot, eye-level. Warm golden light, satisfied discovery mood.",
+      "readings": [
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        }
+      ]
+    },
+    {
+      "id": "ch33-03",
+      "japanese": "この 場所 に なに が ある？",
+      "imagePrompt": "Moomintroll peers into the dark cave entrance. What is at this place? His curiosity draws him forward. The darkness inside is complete. Moomintroll peering into the cave. Medium shot, eye-level. Dramatic light contrast, curious questioning mood.",
+      "readings": [
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        }
+      ]
+    },
+    {
+      "id": "ch33-04",
+      "japanese": "山 を 上った。",
+      "imagePrompt": "The group climbs higher on the hillside above the cave entrance. They climbed the hill! The view expands below — the island shore visible in the distance. Group climbing the hillside. Medium-wide shot, eye-level. Bright climbing light, ascending effort mood.",
+      "readings": [
+        {
+          "surface": "山",
+          "reading": "やま"
+        },
+        {
+          "surface": "上っ",
+          "reading": "のぼっ"
+        }
+      ]
+    },
+    {
+      "id": "ch33-05",
+      "japanese": "上る の は 怖い。",
+      "imagePrompt": "Sniff clings to a rock, afraid to climb higher. Climbing is scary! The slope gets steeper. Moomintroll looks back encouragingly. Sniff clinging to a rock on the slope. Medium shot, eye-level. Bright vertigo light, fear of heights mood.",
+      "readings": [
+        {
+          "surface": "上る",
+          "reading": "のぼる"
+        },
+        {
+          "surface": "怖い",
+          "reading": "こわい"
+        }
+      ]
+    },
+    {
+      "id": "ch33-06",
+      "japanese": "ゆっくり 上る。",
+      "imagePrompt": "Papa climbs slowly and carefully, testing each foothold. Climb slowly! The hillside is loose gravel. He steadies himself with each step. Papa climbing carefully. Medium shot, eye-level. Warm careful light, steady cautious mood.",
+      "readings": [
+        {
+          "surface": "上る",
+          "reading": "のぼる"
+        }
+      ]
+    },
+    {
+      "id": "ch33-07",
+      "japanese": "ここ に 王 が いた かもしれない。",
+      "imagePrompt": "Inside the cave entrance, daylight spills in to reveal Moomintroll gazing at a large flat rock that resembles a throne. A king might have lived here! The cave is grand enough for royalty. Moomintroll looking at a throne-like rock near the cave entrance. Medium shot, eye-level. Warm daylight spilling into the cave mouth, imaginative speculation mood.",
+      "readings": [
+        {
+          "surface": "王",
+          "reading": "おう"
+        }
+      ]
+    },
+    {
+      "id": "ch33-08",
+      "japanese": "「王 の 場所 だ。」 と ムーミン が 言った。",
+      "imagePrompt": "Moomintroll gestures grandly at the cave entrance. A king's place! His voice echoes inside. The cave seems even more magnificent with his declaration. Moomintroll gesturing at the cave. Medium shot, eye-level. Dramatic cave-entrance light, grand declaration mood.",
+      "readings": [
+        {
+          "surface": "王",
+          "reading": "おう"
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch33-09",
+      "japanese": "王 みたい だ ね。",
+      "imagePrompt": "Papa stands in the cave mouth with arms crossed, striking a regal pose. Like a king! Everyone laughs. The silhouette is indeed kingly. Papa posing regally in the cave mouth. Medium shot, eye-level. Dramatic backlit light, humorous regal mood.",
+      "readings": [
+        {
+          "surface": "王",
+          "reading": "おう"
+        }
+      ]
+    },
+    {
+      "id": "ch33-10",
+      "japanese": "客 が きた かもしれない。",
+      "imagePrompt": "Snufkin notices old marks on the cave walls — someone was here before. Visitors may have come! Faint scratches and charcoal marks on the stone. Old marks on cave walls. Medium close-up, eye-level. Dim cave light, discovering evidence mood.",
+      "readings": [
+        {
+          "surface": "客",
+          "reading": "きゃく"
+        }
+      ]
+    },
+    {
+      "id": "ch33-11",
+      "japanese": "珍しい 客 だ。",
+      "imagePrompt": "The wall marks look strange — not human writing but odd symbols. A rare visitor! What kind of creature made these marks? Everyone stares at the symbols. Strange symbols on the cave wall. Medium close-up, eye-level. Dim mysterious light, puzzling discovery mood.",
+      "readings": [
+        {
+          "surface": "珍しい",
+          "reading": "めずらしい"
+        },
+        {
+          "surface": "客",
+          "reading": "きゃく"
+        }
+      ]
+    },
+    {
+      "id": "ch33-12",
+      "japanese": "客 を 連れて きた。",
+      "imagePrompt": "Papa realizes that whoever lived here brought visitors. They brought guests! The cave has multiple chambers, as if for hosting. Multiple cave chambers visible. Medium shot, eye-level. Dim spacious cave light, realizing hospitality mood.",
+      "readings": [
+        {
+          "surface": "客",
+          "reading": "きゃく"
+        },
+        {
+          "surface": "連れ",
+          "reading": "つれ"
+        }
+      ]
+    },
+    {
+      "id": "ch33-13",
+      "japanese": "別 の もの だ。",
+      "imagePrompt": "Snufkin picks up something from the cave floor — it is different from the shells outside. A separate thing! A strange dark stone, smooth and warm to touch. Snufkin holding a strange stone. Medium close-up, eye-level. Dim intriguing cave light, examining difference mood.",
+      "readings": [
+        {
+          "surface": "別",
+          "reading": "べつ"
+        }
+      ]
+    },
+    {
+      "id": "ch33-14",
+      "japanese": "別 の 場所 に いく。",
+      "imagePrompt": "A side tunnel branches off from the main cave. Go to a different place! Moomintroll points at the tunnel. It leads deeper into the hillside. Side tunnel branching off. Medium shot, eye-level. Dim beckoning cave light, choosing a path mood.",
+      "readings": [
+        {
+          "surface": "別",
+          "reading": "べつ"
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        }
+      ]
+    },
+    {
+      "id": "ch33-15",
+      "japanese": "これ は 別 だ。",
+      "imagePrompt": "Papa compares the cave to others he has seen — this one is special. This is different! The walls shimmer slightly. Something unusual about this place. Papa comparing the cave. Medium shot, eye-level. Dim special cave light, recognizing uniqueness mood.",
+      "readings": [
+        {
+          "surface": "別",
+          "reading": "べつ"
+        }
+      ]
+    },
+    {
+      "id": "ch33-16",
+      "japanese": "この 辺 に ある。",
+      "imagePrompt": "Snufkin searches the area around the cave entrance for more clues. It is around here! He moves rocks and peers under ledges. The hillside hides secrets. Snufkin searching near the cave. Medium shot, eye-level. Bright outdoor light, systematic searching mood.",
+      "readings": [
+        {
+          "surface": "辺",
+          "reading": "へん"
+        }
+      ]
+    },
+    {
+      "id": "ch33-17",
+      "japanese": "この 辺 は 変 だ。",
+      "imagePrompt": "The area near the cave feels strange — the grass grows differently, the air is warmer. This area is weird! Something is not normal here. Strange grass near the cave. Medium shot, eye-level. Warm eerie light, sensing strangeness mood.",
+      "readings": [
+        {
+          "surface": "辺",
+          "reading": "へん"
+        },
+        {
+          "surface": "変",
+          "reading": "へん"
+        }
+      ]
+    },
+    {
+      "id": "ch33-18",
+      "japanese": "辺 を みた。",
+      "imagePrompt": "Moomintroll scans the surrounding area from the hillside. He surveyed the vicinity! The landscape stretches out — forest, shore, and the boat far below. Moomintroll surveying the landscape. Medium-wide shot, eye-level. Bright panoramic light, surveying mood.",
+      "readings": [
+        {
+          "surface": "辺",
+          "reading": "へん"
+        }
+      ]
+    },
+    {
+      "id": "ch33-19",
+      "japanese": "だれ が ここ に 住む？",
+      "imagePrompt": "Moomintroll wonders aloud who lives in this cave. Who lives here? The question echoes off the walls. No answer comes from the darkness. Moomintroll wondering in the cave. Medium shot, eye-level. Dim wondering cave light, unanswered question mood.",
+      "readings": [
+        {
+          "surface": "住む",
+          "reading": "すむ"
+        }
+      ]
+    },
+    {
+      "id": "ch33-20",
+      "japanese": "ここ に 住んでいる。",
+      "imagePrompt": "Evidence of habitation — a flat stone used as a table, dried leaves arranged as bedding. Someone lives here! The cave is a home. Evidence of someone living in the cave. Medium close-up, eye-level. Dim lived-in cave light, domestic discovery mood.",
+      "readings": [
+        {
+          "surface": "住ん",
+          "reading": "すん"
+        }
+      ]
+    },
+    {
+      "id": "ch33-21",
+      "japanese": "住む の が いい ね。",
+      "imagePrompt": "Moomintroll looks around the cozy cave and nods. Living here would be nice! The cave is warm and sheltered. A good home. Moomintroll nodding approvingly in the cave. Medium shot, eye-level. Warm approving cave light, imagining home mood.",
+      "readings": [
+        {
+          "surface": "住む",
+          "reading": "すむ"
+        }
+      ]
+    },
+    {
+      "id": "ch33-22",
+      "japanese": "実 は ちがう。",
+      "imagePrompt": "Snufkin shakes his head — the truth is different from what they imagined. Actually, it is not what it seems! His expression is knowing. The mystery deepens. Snufkin shaking his head knowingly. Medium close-up, eye-level. Dim revealing light, truth-telling mood.",
+      "readings": [
+        {
+          "surface": "実",
+          "reading": "じつ"
+        }
+      ]
+    },
+    {
+      "id": "ch33-23",
+      "japanese": "実 は 秘密 だ。",
+      "imagePrompt": "Snufkin whispers to Moomintroll near the cave entrance where daylight still reaches their faces. The truth is a secret! His finger touches his lips. The cave holds more than they realize. Snufkin whispering a secret, lit by cave-entrance light. Medium close-up, eye-level. Warm daylight on faces against dark cave behind, secret-sharing mood.",
+      "readings": [
+        {
+          "surface": "実",
+          "reading": "じつ"
+        },
+        {
+          "surface": "秘密",
+          "reading": "ひみつ"
+        }
+      ]
+    },
+    {
+      "id": "ch33-24",
+      "japanese": "「実 を 言う と…」 と スナフキン が 言った。",
+      "imagePrompt": "Snufkin begins to explain what he knows about this cave. To tell the truth... His voice is low and mysterious. Everyone leans in to listen. Everyone leaning in to listen to Snufkin. Medium shot, eye-level. Dim suspenseful cave light, revelation-building mood.",
+      "readings": [
+        {
+          "surface": "実",
+          "reading": "じつ"
+        },
+        {
+          "surface": "言う",
+          "reading": "ゆう"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 24,
+      "newLemmaUsage": {
+        "すむ": 3,
+        "上る": 3,
+        "別": 3,
+        "場所": 5,
+        "実": 3,
+        "客": 3,
+        "王": 3,
+        "辺": 3
+      }
+    }
+  }
+}

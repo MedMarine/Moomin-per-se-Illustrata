@@ -1,0 +1,547 @@
+{
+  "chapter": 21,
+  "title": "海岸 に あった もの",
+  "grammarStep": 15,
+  "grammarName": "Quotation: という / とおもう",
+  "scene": {
+    "location": "海のそば",
+    "description": "Sandy shore near the sea. Shells scattered on the beach. Waves. Mountains visible in the background. A dark silhouette (the Groke) far away.",
+    "characters": [
+      "ムーミン",
+      "スニフ",
+      "フローレン"
+    ],
+    "props": [
+      "貝殻",
+      "海"
+    ]
+  },
+  "newLemmas": [
+    "いう",
+    "いれる",
+    "部屋",
+    "見せる",
+    "よぶ",
+    "いつ",
+    "海岸",
+    "変"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いつ",
+    "いや",
+    "いる",
+    "いれる",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "する",
+    "ず",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちょっと",
+    "って",
+    "つ",
+    "つくる",
+    "て",
+    "てる",
+    "で",
+    "でも",
+    "でる",
+    "と",
+    "ところ",
+    "とても",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "な",
+    "ない",
+    "なか",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はやい",
+    "ば",
+    "ひと",
+    "ひとり",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "先",
+    "助ける",
+    "動く",
+    "取る",
+    "声",
+    "変",
+    "変わる",
+    "奴",
+    "姉",
+    "子",
+    "少し",
+    "度",
+    "怖い",
+    "手",
+    "日",
+    "昨日",
+    "書く",
+    "植物",
+    "楽しい",
+    "止める",
+    "気圧",
+    "水",
+    "海岸",
+    "目",
+    "確か",
+    "穴",
+    "絶対",
+    "自信",
+    "自分",
+    "茸",
+    "落ちる",
+    "見える",
+    "見せる",
+    "話",
+    "違う",
+    "部屋",
+    "随分",
+    "隠れる",
+    "雨",
+    "非",
+    "面白い",
+    "風",
+    "飛行",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch21-01",
+      "japanese": "海岸 へ いく。",
+      "imagePrompt": "Moomintroll walks along a path heading toward the seashore. The ocean stretches out ahead with gentle waves. Morning sunlight reflects off the water. Moomintroll walking toward the coast. Medium-wide shot, eye-level. Bright morning coastal light, adventurous departure mood.",
+      "readings": [
+        {
+          "surface": "海岸",
+          "reading": "かいがん"
+        }
+      ]
+    },
+    {
+      "id": "ch21-02",
+      "japanese": "ムーミン は 海岸 に きた。",
+      "imagePrompt": "Moomintroll arrives at the sandy beach, standing and looking around. Shells are scattered on the sand and mountains are visible in the background. Moomintroll standing on the beach surveying. Medium shot, eye-level. Warm morning beach light, curious arrival mood.",
+      "readings": [
+        {
+          "surface": "海岸",
+          "reading": "かいがん"
+        }
+      ]
+    },
+    {
+      "id": "ch21-03",
+      "japanese": "変 な もの が ある！",
+      "imagePrompt": "Something large and unusual lies half-buried in the sand at the waterline. Moomintroll points at it with wide eyes. The mysterious object is partially covered in seaweed. Moomintroll discovering a strange object. Medium shot, eye-level. Bright startled coastal light, shocked discovery mood.",
+      "readings": [
+        {
+          "surface": "変",
+          "reading": "へん"
+        }
+      ]
+    },
+    {
+      "id": "ch21-04",
+      "japanese": "いつ ここ に きた？",
+      "imagePrompt": "Moomintroll crouches near the mysterious object, examining it with a puzzled expression. Waves wash around the object gently. He tilts his head. Moomintroll examining the object closely. Medium close-up, eye-level. Soft curious coastal light, questioning mood.",
+      "readings": []
+    },
+    {
+      "id": "ch21-05",
+      "japanese": "「変 だ！」 と ムーミン が 言った。",
+      "imagePrompt": "Moomintroll stands up and speaks aloud, mouth open in exclamation. His hand gestures toward the strange object on the sand. Speaking with emphasis. Moomintroll exclaiming. Medium shot, eye-level. Bright excited coastal light, verbal declaration mood.",
+      "readings": [
+        {
+          "surface": "変",
+          "reading": "へん"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch21-06",
+      "japanese": "みんな を 呼ぶ！",
+      "imagePrompt": "Moomintroll cups his hands around his mouth, about to shout toward the valley. The Moomin house is visible in the far distance beyond the dunes. Moomintroll preparing to call out. Medium shot, eye-level. Bright determined coastal light, urgent calling mood.",
+      "readings": [
+        {
+          "surface": "呼ぶ",
+          "reading": "よぶ"
+        }
+      ]
+    },
+    {
+      "id": "ch21-07",
+      "japanese": "「ここ に きて！」 と 呼んだ。",
+      "imagePrompt": "Moomintroll shouts toward the valley with cupped hands, voice carrying across the beach. Wind ruffles his fur. He calls urgently for everyone. Moomintroll shouting toward the valley. Medium-wide shot, eye-level. Bright calling coastal light, summoning mood.",
+      "readings": [
+        {
+          "surface": "呼ん",
+          "reading": "よん"
+        }
+      ]
+    },
+    {
+      "id": "ch21-08",
+      "japanese": "パパ も 呼んだ。",
+      "imagePrompt": "Moominpappa walks down the path toward the beach, responding to the call. Moomintroll waves him over eagerly. Sniff and others follow behind on the path. Moominpappa approaching the beach. Medium shot, eye-level. Warm approaching coastal light, gathering mood.",
+      "readings": [
+        {
+          "surface": "呼ん",
+          "reading": "よん"
+        }
+      ]
+    },
+    {
+      "id": "ch21-09",
+      "japanese": "みんな が きた。",
+      "imagePrompt": "The group has gathered on the beach — Moomintroll, Moominpappa, Moominmamma, Sniff. They stand in a semicircle looking at something on the sand. Group gathered on the beach. Medium-wide shot, eye-level. Bright assembled coastal light, collective curiosity mood.",
+      "readings": []
+    },
+    {
+      "id": "ch21-10",
+      "japanese": "「見せて！」 と 言った。",
+      "imagePrompt": "Sniff leans forward eagerly, hands reaching out toward Moomintroll. He demands to see what was found. The others crowd in behind him. Sniff demanding to see. Medium shot, eye-level. Bright eager coastal light, impatient curiosity mood.",
+      "readings": [
+        {
+          "surface": "見せ",
+          "reading": "みせ"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch21-11",
+      "japanese": "海岸 の もの を みんな に 見せた。",
+      "imagePrompt": "Moomintroll proudly pulls back the seaweed to reveal the strange object to everyone. The group leans in with wide eyes. The mysterious object is now fully visible on the sand. Moomintroll revealing the object to the group. Medium shot, slightly elevated. Bright revealing coastal light, dramatic presentation mood.",
+      "readings": [
+        {
+          "surface": "海岸",
+          "reading": "かいがん"
+        },
+        {
+          "surface": "見せ",
+          "reading": "みせ"
+        }
+      ]
+    },
+    {
+      "id": "ch21-12",
+      "japanese": "「いつ の もの？」 と スニフ が 言った。",
+      "imagePrompt": "Sniff scratches his head, looking at the object from different angles. He wonders how old it is or when it arrived. Puzzled expression. Sniff examining the object puzzled. Medium close-up, eye-level. Soft questioning coastal light, analytical wondering mood.",
+      "readings": [
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch21-13",
+      "japanese": "「変 だ ね」 と ママ が 言う。",
+      "imagePrompt": "Moominmamma touches her chin thoughtfully, commenting on the strangeness. She examines the object with a gentle curious expression. Moominmamma examining the object. Medium shot, eye-level. Warm thoughtful coastal light, gentle agreement mood.",
+      "readings": [
+        {
+          "surface": "変",
+          "reading": "へん"
+        },
+        {
+          "surface": "言う",
+          "reading": "いう"
+        }
+      ]
+    },
+    {
+      "id": "ch21-14",
+      "japanese": "これ を 部屋 に 入れる。",
+      "imagePrompt": "Moomintroll and Moominpappa carefully lift the mysterious object between them. They plan to carry it back to the house. Determined expressions. Two characters lifting the object. Medium shot, eye-level. Bright purposeful coastal light, determined carrying mood.",
+      "readings": [
+        {
+          "surface": "部屋",
+          "reading": "へや"
+        },
+        {
+          "surface": "入れる",
+          "reading": "いれる"
+        }
+      ]
+    },
+    {
+      "id": "ch21-15",
+      "japanese": "もの を 部屋 の なか に 入れた。",
+      "imagePrompt": "Inside the Moomin house. The object has been placed in the middle of a cozy room. Everyone peers at it from around the room. Safely indoors now. Object placed in a room in the Moomin house. Medium-wide shot, eye-level. Warm interior light, settled examination mood.",
+      "readings": [
+        {
+          "surface": "部屋",
+          "reading": "へや"
+        },
+        {
+          "surface": "入れ",
+          "reading": "いれ"
+        }
+      ]
+    },
+    {
+      "id": "ch21-16",
+      "japanese": "部屋 で みんな に 見せた。",
+      "imagePrompt": "Moomintroll stands beside the object like a presenter, showing it off to the gathered family. Everyone looks at it intently in the warm room. Moomintroll presenting object indoors. Medium shot, eye-level. Warm interior showcase light, proud presentation mood.",
+      "readings": [
+        {
+          "surface": "部屋",
+          "reading": "へや"
+        },
+        {
+          "surface": "見せ",
+          "reading": "みせ"
+        }
+      ]
+    },
+    {
+      "id": "ch21-17",
+      "japanese": "なか に 入れて みた。",
+      "imagePrompt": "Moomintroll reaches into a compartment on the mysterious object, trying to see what is inside. His face shows wonder at what he finds. Moomintroll examining inside the object. Medium close-up, eye-level. Warm curious interior light, experimental exploration mood.",
+      "readings": [
+        {
+          "surface": "入れ",
+          "reading": "いれ"
+        }
+      ]
+    },
+    {
+      "id": "ch21-18",
+      "japanese": "いつ きた？ わからない。",
+      "imagePrompt": "The family sits around the object, shaking their heads. Nobody knows when it washed ashore or where it came from. A collective shrug. Family puzzled around the object. Medium-wide shot, eye-level. Soft uncertain interior light, collective puzzlement mood.",
+      "readings": []
+    },
+    {
+      "id": "ch21-19",
+      "japanese": "「また 海岸 に いく」 と ムーミン が 言った。",
+      "imagePrompt": "Moomintroll stands by the window, looking toward the coast. He announces his plan to return and search for more clues. Determined posture. Moomintroll by the window, looking out. Medium shot, eye-level. Warm determined interior light, resolute planning mood.",
+      "readings": [
+        {
+          "surface": "海岸",
+          "reading": "かいがん"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch21-20",
+      "japanese": "「みんな に 見せたい」 と 言った。",
+      "imagePrompt": "Moomintroll spreads his arms wide, expressing his desire to show the discovery to everyone in the valley. Eyes shining with excitement and pride. Moomintroll expressing desire to share. Medium shot, eye-level. Bright enthusiastic interior light, sharing excitement mood.",
+      "readings": [
+        {
+          "surface": "見せ",
+          "reading": "みせ"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 20,
+      "newLemmaUsage": {
+        "いう": 6,
+        "いつ": 3,
+        "いれる": 3,
+        "よぶ": 3,
+        "変": 3,
+        "海岸": 4,
+        "見せる": 4,
+        "部屋": 3
+      }
+    }
+  }
+}

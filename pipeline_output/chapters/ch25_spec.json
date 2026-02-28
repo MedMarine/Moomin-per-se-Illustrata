@@ -1,0 +1,617 @@
+{
+  "chapter": 25,
+  "title": "お客さま が きた",
+  "grammarStep": 18,
+  "grammarName": "Polite forms: ます / です",
+  "scene": {
+    "location": "ムーミンやしきの玄関",
+    "description": "Entrance of the Moomin house. Mama in her apron welcomes the Groke — a large, dark, cold figure — with gracious hospitality.",
+    "characters": [
+      "ムーミン",
+      "ママ",
+      "モラン"
+    ],
+    "props": [
+      "家"
+    ]
+  },
+  "newLemmas": [
+    "悪い",
+    "聞こえる",
+    "下",
+    "つもり",
+    "考える",
+    "うち",
+    "とき",
+    "落とす"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いつ",
+    "いや",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たって",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "テント",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "下",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "先",
+    "前",
+    "助ける",
+    "動く",
+    "取る",
+    "声",
+    "変",
+    "変わる",
+    "奴",
+    "姉",
+    "子",
+    "少し",
+    "嵐",
+    "度",
+    "必要",
+    "忘れる",
+    "怖い",
+    "悪い",
+    "戻る",
+    "手",
+    "捨てる",
+    "日",
+    "昨日",
+    "時間",
+    "書く",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "止める",
+    "気圧",
+    "水",
+    "海岸",
+    "無くなる",
+    "目",
+    "知れる",
+    "確か",
+    "秘密",
+    "穴",
+    "素晴らしい",
+    "絶対",
+    "考える",
+    "聞こえる",
+    "自信",
+    "自分",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "話",
+    "足",
+    "違う",
+    "部屋",
+    "間",
+    "随分",
+    "隠れる",
+    "雨",
+    "非",
+    "面白い",
+    "風",
+    "飛行",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch25-01",
+      "japanese": "だれ か きた。",
+      "imagePrompt": "A knock at the Moomin house front door. Moomintroll looks up from the living room. A silhouette is visible through the frosted glass. Someone has arrived. Moomintroll looking toward the front door. Medium shot, eye-level. Warm interior light with silhouette at door, anticipatory arrival mood.",
+      "readings": []
+    },
+    {
+      "id": "ch25-02",
+      "japanese": "ヘムレン が きた。",
+      "imagePrompt": "Hemulen stands at the open doorway, a tall and proper figure with a neat appearance. Moominmamma greets him warmly. He carries a small case and bows politely. Hemulen at the Moomin house entrance. Medium shot, eye-level. Warm welcoming doorway light, formal arrival mood.",
+      "readings": []
+    },
+    {
+      "id": "ch25-03",
+      "japanese": "「悪い です ね」 と ヘムレン が 言った。",
+      "imagePrompt": "Hemulen gestures at the storm damage visible outside, speaking politely. The weather was bad, he notes formally. He stands straight with proper posture. Hemulen speaking politely about the weather. Medium shot, eye-level. Warm polite interior light, formal commentary mood.",
+      "readings": [
+        {
+          "surface": "悪い",
+          "reading": "わるい"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch25-04",
+      "japanese": "悪い ね。",
+      "imagePrompt": "Moomintroll nods casually in agreement, looking out the window at the debris. Yeah, it was bad. His posture is relaxed compared to the visitor. Moomintroll agreeing casually. Medium shot, eye-level. Warm casual interior light, informal agreement mood.",
+      "readings": [
+        {
+          "surface": "悪い",
+          "reading": "わるい"
+        }
+      ]
+    },
+    {
+      "id": "ch25-05",
+      "japanese": "「なに か 聞こえます か」 と ヘムレン が 言った。",
+      "imagePrompt": "Hemulen tilts his head, asking politely if anyone can hear something. He cups a hand to his ear. There is a faint sound from somewhere outside. Hemulen listening and asking politely. Medium shot, eye-level. Warm attentive interior light, polite inquiry mood.",
+      "readings": [
+        {
+          "surface": "聞こえ",
+          "reading": "きこえ"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch25-06",
+      "japanese": "聞こえる よ。",
+      "imagePrompt": "Moomintroll nods and points toward the garden. Yes, he can hear it too! A casual response. He walks toward the window to investigate. Moomintroll pointing toward the sound casually. Medium shot, eye-level. Warm informal interior light, casual confirmation mood.",
+      "readings": [
+        {
+          "surface": "聞こえる",
+          "reading": "きこえる"
+        }
+      ]
+    },
+    {
+      "id": "ch25-07",
+      "japanese": "下 に なに か 落とした。",
+      "imagePrompt": "Hemulen looks down — he dropped something from his case on the floor below. A small object has bounced and rolled under a chair. He bends to look. Hemulen looking at something dropped on the floor. Medium shot, slightly elevated. Warm concerned interior light, dropped item mood.",
+      "readings": [
+        {
+          "surface": "下",
+          "reading": "した"
+        },
+        {
+          "surface": "落とし",
+          "reading": "おとし"
+        }
+      ]
+    },
+    {
+      "id": "ch25-08",
+      "japanese": "「下 に 落としました」 と ヘムレン が 言った。",
+      "imagePrompt": "Hemulen apologizes politely, explaining he dropped something below. He bows slightly as he explains. His formal speech contrasts with the cozy room. Hemulen apologizing politely about the dropped item. Medium shot, eye-level. Warm polite interior light, formal apology mood.",
+      "readings": [
+        {
+          "surface": "下",
+          "reading": "した"
+        },
+        {
+          "surface": "落とし",
+          "reading": "おとし"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch25-09",
+      "japanese": "「考えます」 と ヘムレン が 言った。",
+      "imagePrompt": "Hemulen touches his chin, speaking formally. He will think about it. His expression is thoughtful and proper. The polite form is natural for him. Hemulen thinking formally. Medium close-up, eye-level. Warm formal interior light, polite deliberation mood.",
+      "readings": [
+        {
+          "surface": "考え",
+          "reading": "かんがえ"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch25-10",
+      "japanese": "ムーミン も 考える。",
+      "imagePrompt": "Moomintroll also tilts his head, thinking. Same action but casual register. He scratches behind his ear as he ponders. Informal body language. Moomintroll thinking casually. Medium shot, eye-level. Warm informal interior light, casual pondering mood.",
+      "readings": [
+        {
+          "surface": "考える",
+          "reading": "かんがえる"
+        }
+      ]
+    },
+    {
+      "id": "ch25-11",
+      "japanese": "うち に きて。",
+      "imagePrompt": "Moominmamma gestures for Hemulen to come further inside the house. Come in, make yourself at home. The living room is warm and welcoming. Moominmamma welcoming Hemulen inside. Medium shot, eye-level. Warm welcoming interior light, hospitable invitation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch25-12",
+      "japanese": "「うち は ここ です」 と ヘムレン が 言った。",
+      "imagePrompt": "Hemulen politely explains where his own home is, pointing in a direction outside the window. My house is over there. He speaks formally even while relaxing. Hemulen pointing and explaining politely. Medium shot, eye-level. Warm conversational interior light, polite explanation mood.",
+      "readings": [
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch25-13",
+      "japanese": "嵐 の とき は すごかった。",
+      "imagePrompt": "Everyone sits around the table sharing storm stories. The time of the storm was incredible. Moominpappa gestures dramatically recounting events. Group sharing stories at the table. Medium-wide shot, eye-level. Warm storytelling interior light, recounting dramatic past mood.",
+      "readings": [
+        {
+          "surface": "嵐",
+          "reading": "あらし"
+        }
+      ]
+    },
+    {
+      "id": "ch25-14",
+      "japanese": "「あの とき 聞こえました」 と ヘムレン が 言った。",
+      "imagePrompt": "Hemulen nods formally, confirming he heard the storm from his house too. At that time, he heard it clearly. His polite speech continues naturally. Hemulen confirming politely. Medium shot, eye-level. Warm polite interior light, formal confirmation mood.",
+      "readings": [
+        {
+          "surface": "聞こえ",
+          "reading": "きこえ"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch25-15",
+      "japanese": "いい とき に きた ね。",
+      "imagePrompt": "Moominmamma serves tea and cookies, smiling at Hemulen. He came at a good time — the storm is over and there are fresh treats. Good timing! Moominmamma serving tea, smiling. Medium shot, eye-level. Warm hospitable interior light, timely welcome mood.",
+      "readings": []
+    },
+    {
+      "id": "ch25-16",
+      "japanese": "いく つもり だ。",
+      "imagePrompt": "Moomintroll announces casually that he intends to go explore the storm damage later. He speaks to his friends in plain form. Casual announcement. Moomintroll announcing plans casually. Medium shot, eye-level. Warm casual interior light, informal intention mood.",
+      "readings": []
+    },
+    {
+      "id": "ch25-17",
+      "japanese": "「戻る つもり です」 と ヘムレン が 言った。",
+      "imagePrompt": "Hemulen announces politely that he intends to return home later. The polite form contrasts with Moomintroll's casual statement. Proper posture as he speaks. Hemulen stating his polite intention. Medium shot, eye-level. Warm formal interior light, polite intention mood.",
+      "readings": [
+        {
+          "surface": "戻る",
+          "reading": "もどる"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch25-18",
+      "japanese": "下 から きた もの だ。",
+      "imagePrompt": "Moomintroll picks up the item Hemulen dropped earlier and examines it. This thing came from below — it fell under the chair. He holds it up. Moomintroll holding up the found item. Medium close-up, eye-level. Warm discovering interior light, recovered item mood.",
+      "readings": [
+        {
+          "surface": "下",
+          "reading": "した"
+        }
+      ]
+    },
+    {
+      "id": "ch25-19",
+      "japanese": "考えて みる。",
+      "imagePrompt": "Moomintroll looks at the recovered item thoughtfully. He will think about what it is and try to figure it out. Casual pondering. Moomintroll examining the item thoughtfully. Medium close-up, eye-level. Warm thoughtful interior light, casual deliberation mood.",
+      "readings": [
+        {
+          "surface": "考え",
+          "reading": "かんがえ"
+        }
+      ]
+    },
+    {
+      "id": "ch25-20",
+      "japanese": "うち の なか に 入れた。",
+      "imagePrompt": "Moominmamma takes the item and puts it safely inside a drawer in the house. Stored safely at home. She closes the drawer with a satisfied nod. Moominmamma storing item in drawer. Medium shot, eye-level. Warm domestic interior light, organized storage mood.",
+      "readings": [
+        {
+          "surface": "入れ",
+          "reading": "いれ"
+        }
+      ]
+    },
+    {
+      "id": "ch25-21",
+      "japanese": "「悪い です」 と また ヘムレン が 言った。",
+      "imagePrompt": "Hemulen looks out the window at new rain starting and comments politely again. Bad weather continues. His polite register is consistent throughout. Hemulen commenting on weather again politely. Medium shot, eye-level. Warm polite interior light, repeated formal observation mood.",
+      "readings": [
+        {
+          "surface": "悪い",
+          "reading": "わるい"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch25-22",
+      "japanese": "また 落とした！",
+      "imagePrompt": "Hemulen accidentally drops something again from his case. It clatters to the floor. Everyone looks. He is embarrassed. Moomintroll grins. Item dropping to the floor again. Medium shot, eye-level. Warm amused interior light, clumsy repetition mood.",
+      "readings": [
+        {
+          "surface": "落とし",
+          "reading": "おとし"
+        }
+      ]
+    },
+    {
+      "id": "ch25-23",
+      "japanese": "つもり が ある。",
+      "imagePrompt": "Moomintroll sits by the window with a determined look. He has an intention, a plan for tomorrow. The storm damage awaits exploration. Evening light fades. Moomintroll with determined evening expression. Medium shot, eye-level. Warm evening interior light, quiet resolve mood.",
+      "readings": []
+    }
+  ],
+  "leakLemmas": [
+    "ヘムレン"
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 23,
+      "newLemmaUsage": {
+        "うち": 3,
+        "つもり": 3,
+        "とき": 3,
+        "下": 3,
+        "悪い": 3,
+        "考える": 3,
+        "聞こえる": 3,
+        "落とす": 3
+      }
+    }
+  }
+}

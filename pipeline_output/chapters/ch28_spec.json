@@ -1,0 +1,560 @@
+{
+  "chapter": 28,
+  "title": "珍しい 切手",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "ムーミンやしきのだいどころ",
+    "description": "Moominmamma's kitchen, morning. A tall stack of pancakes on the table.",
+    "characters": [
+      "ムーミン",
+      "ママ"
+    ],
+    "props": []
+  },
+  "newLemmas": [
+    "修理",
+    "パンケーキ",
+    "集める",
+    "切手",
+    "はしる",
+    "アリ",
+    "ホラ",
+    "珍しい"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いつ",
+    "いや",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たって",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "パパ",
+    "パンケーキ",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "下",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "修理",
+    "先",
+    "切手",
+    "前",
+    "助ける",
+    "動く",
+    "取る",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "少し",
+    "嵐",
+    "度",
+    "必要",
+    "忘れる",
+    "怖い",
+    "悪い",
+    "戻る",
+    "手",
+    "捨てる",
+    "教える",
+    "日",
+    "昨日",
+    "時間",
+    "書く",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次回",
+    "止める",
+    "気圧",
+    "水",
+    "海岸",
+    "無くなる",
+    "珍しい",
+    "目",
+    "知れる",
+    "確か",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "絶対",
+    "考える",
+    "聞こえる",
+    "自信",
+    "自分",
+    "花",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "話",
+    "足",
+    "返す",
+    "追う",
+    "違う",
+    "部屋",
+    "間",
+    "随分",
+    "隠れる",
+    "集める",
+    "雨",
+    "非",
+    "面白い",
+    "頭",
+    "風",
+    "飛行",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch28-01",
+      "japanese": "あの ホラ が きた！",
+      "imagePrompt": "The Hobgoblin arrives at the Moomin house door in the morning. A tall mysterious figure with a top hat. Moominmamma opens the door warmly. Morning sunlight streams in behind the visitor. Hobgoblin arriving at the door. Medium shot, eye-level. Bright morning doorway light, exciting visitor arrival mood.",
+      "readings": []
+    },
+    {
+      "id": "ch28-02",
+      "japanese": "アリ も きた。",
+      "imagePrompt": "Alicia follows the Hobgoblin inside, a small energetic figure. She waves cheerfully at Moomintroll. Two visitors for breakfast! The house is lively. Alicia entering after the Hobgoblin. Medium shot, eye-level. Bright cheerful morning light, doubled excitement mood.",
+      "readings": []
+    },
+    {
+      "id": "ch28-03",
+      "japanese": "パンケーキ を 食べる。",
+      "imagePrompt": "A tall stack of pancakes sits on the kitchen table. Everyone gathers around for breakfast. Maple syrup and butter are ready. Steam rises from the warm stack. Pancake stack on the breakfast table. Medium shot, eye-level. Warm appetizing morning kitchen light, breakfast mood.",
+      "readings": [
+        {
+          "surface": "食べる",
+          "reading": "たべる"
+        }
+      ]
+    },
+    {
+      "id": "ch28-04",
+      "japanese": "珍しい パンケーキ だ。",
+      "imagePrompt": "Moominmamma has made special pancakes in unusual shapes — stars, flowers, and moons. They are rare and special. Everyone admires the creative shapes. Unusual shaped pancakes on plates. Medium close-up, eye-level. Warm delighted morning kitchen light, creative breakfast mood.",
+      "readings": [
+        {
+          "surface": "珍しい",
+          "reading": "めずらしい"
+        }
+      ]
+    },
+    {
+      "id": "ch28-05",
+      "japanese": "切手 を みせた。",
+      "imagePrompt": "The Hobgoblin opens a leather album and shows a page of colorful stamps. He is proud of his collection. The stamps are beautifully arranged. Hobgoblin showing stamp album. Medium close-up, eye-level. Warm interested morning light, collector's pride mood.",
+      "readings": [
+        {
+          "surface": "切手",
+          "reading": "きって"
+        }
+      ]
+    },
+    {
+      "id": "ch28-06",
+      "japanese": "珍しい 切手 だ ね。",
+      "imagePrompt": "Moomintroll leans in to examine the stamps closely. They are rare and beautiful. Tiny detailed artworks on each stamp. Colors and patterns from distant places. Moomintroll examining rare stamps. Medium close-up, eye-level. Warm fascinated morning light, appreciating rarity mood.",
+      "readings": [
+        {
+          "surface": "珍しい",
+          "reading": "めずらしい"
+        },
+        {
+          "surface": "切手",
+          "reading": "きって"
+        }
+      ]
+    },
+    {
+      "id": "ch28-07",
+      "japanese": "切手 を 集めている。",
+      "imagePrompt": "The Hobgoblin explains his hobby with animated gestures. He has been collecting stamps for years. Pages and pages of stamps in the album. He turns them proudly. Hobgoblin showing stamp collection with gestures. Medium shot, eye-level. Warm enthusiastic morning light, passionate hobby mood.",
+      "readings": [
+        {
+          "surface": "切手",
+          "reading": "きって"
+        },
+        {
+          "surface": "集め",
+          "reading": "あつめ"
+        }
+      ]
+    },
+    {
+      "id": "ch28-08",
+      "japanese": "集める の が 楽しい ね。",
+      "imagePrompt": "The Hobgoblin smiles broadly, expressing the joy of collecting. It is fun to gather stamps! His eyes sparkle with the pleasure of his hobby. Hobgoblin expressing joy of collecting. Medium close-up, eye-level. Warm joyful morning light, hobby happiness mood.",
+      "readings": [
+        {
+          "surface": "集める",
+          "reading": "あつめる"
+        },
+        {
+          "surface": "楽しい",
+          "reading": "たのしい"
+        }
+      ]
+    },
+    {
+      "id": "ch28-09",
+      "japanese": "修理 が 必要 だ。",
+      "imagePrompt": "Moominpappa notices that a chair in the kitchen is broken — one leg is loose. It needs repair. He examines it with concern. Moominpappa examining broken chair. Medium shot, eye-level. Warm practical morning light, repair assessment mood.",
+      "readings": [
+        {
+          "surface": "修理",
+          "reading": "しゅうり"
+        },
+        {
+          "surface": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "id": "ch28-10",
+      "japanese": "修理 する。",
+      "imagePrompt": "Moominpappa gets tools and begins to fix the chair. Hammer and nails on the kitchen floor. He works methodically on the repair. Moominpappa repairing the chair. Medium shot, eye-level. Warm industrious morning light, active repair mood.",
+      "readings": [
+        {
+          "surface": "修理",
+          "reading": "しゅうり"
+        }
+      ]
+    },
+    {
+      "id": "ch28-11",
+      "japanese": "ホラ が 修理 した。",
+      "imagePrompt": "The Hobgoblin steps in and uses a touch of magic to perfectly fix the chair instantly. His hands glow briefly. The chair is as good as new. Moominpappa looks impressed. Hobgoblin magically fixing the chair. Medium shot, eye-level. Warm magical morning light, impressed repair mood.",
+      "readings": [
+        {
+          "surface": "修理",
+          "reading": "しゅうり"
+        }
+      ]
+    },
+    {
+      "id": "ch28-12",
+      "japanese": "子供 が はしった。",
+      "imagePrompt": "Alicia and some Moomin children run through the kitchen, chasing each other around the table. Their feet patter on the floor. Pancake crumbs fly. Children running through the kitchen. Medium shot, eye-level. Bright energetic morning light, playful running mood.",
+      "readings": [
+        {
+          "surface": "子供",
+          "reading": "こども"
+        }
+      ]
+    },
+    {
+      "id": "ch28-13",
+      "japanese": "はしる の が はやい。",
+      "imagePrompt": "Alicia is incredibly fast — she zooms past everyone in a blur. Running is fast for her! The other children cannot keep up. She laughs. Alicia running fast past others. Medium shot, eye-level. Bright dynamic morning light, impressive speed mood.",
+      "readings": []
+    },
+    {
+      "id": "ch28-14",
+      "japanese": "アリ も はしった。",
+      "imagePrompt": "Alicia leads the running group, weaving between chair legs and around the table. She ran too, joining the fun. Everyone is in motion. Alicia leading the running children. Medium-wide shot, eye-level. Bright active morning kitchen light, joyful running mood.",
+      "readings": []
+    },
+    {
+      "id": "ch28-15",
+      "japanese": "とても 珍しい！",
+      "imagePrompt": "On the shelf, Moomintroll spots something unusual that the Hobgoblin brought — a glowing crystal or rare artifact. There are rare things here today. Unusual glowing object on a shelf. Medium close-up, eye-level. Warm curious morning light, rare discovery mood.",
+      "readings": [
+        {
+          "surface": "珍しい",
+          "reading": "めずらしい"
+        }
+      ]
+    },
+    {
+      "id": "ch28-16",
+      "japanese": "集めた もの を みせて。",
+      "imagePrompt": "Moomintroll asks the Hobgoblin to show everything he has collected. Show the collected things! The Hobgoblin opens a larger case with various treasures. Hobgoblin opening a treasure case. Medium shot, eye-level. Warm eager morning light, treasure reveal mood.",
+      "readings": [
+        {
+          "surface": "集め",
+          "reading": "あつめ"
+        }
+      ]
+    },
+    {
+      "id": "ch28-17",
+      "japanese": "パンケーキ が もう ない。",
+      "imagePrompt": "The breakfast table is empty — every last pancake has been eaten. Crumbs and empty syrup bottles remain. Sniff looks at the empty plate mournfully. Empty pancake plate and crumbs. Medium close-up, eye-level. Warm wistful morning light, all-gone disappointment mood.",
+      "readings": []
+    },
+    {
+      "id": "ch28-18",
+      "japanese": "ホラ と アリ が いった。",
+      "imagePrompt": "The Hobgoblin and Alicia stand on the path facing the Moomin house door, waving farewell. A wonderful morning visit is over. Moominmamma waves from the doorway. Visitors waving goodbye, facing the house. Medium-wide shot, eye-level. Warm farewell morning light, parting mood.",
+      "readings": []
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 18,
+      "newLemmaUsage": {
+        "はしる": 3,
+        "アリ": 3,
+        "パンケーキ": 3,
+        "ホラ": 3,
+        "修理": 3,
+        "切手": 3,
+        "珍しい": 3,
+        "集める": 3
+      }
+    }
+  }
+}

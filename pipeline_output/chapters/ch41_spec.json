@@ -1,0 +1,745 @@
+{
+  "chapter": 41,
+  "title": "色 の 嘘",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "ムーミンやしきの中（夜）",
+    "description": "Inside the Moomin house at night. Extra blankets and pillows arranged on the floor. Candles lit.",
+    "characters": [
+      "ムーミン",
+      "ママ",
+      "スナフキン",
+      "スニフ"
+    ],
+    "props": [
+      "家"
+    ]
+  },
+  "newLemmas": [
+    "色",
+    "大変",
+    "こわす",
+    "隠す",
+    "頂く",
+    "信じる",
+    "出掛ける",
+    "嘘"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "あら",
+    "ありがとう",
+    "ある",
+    "あるく",
+    "あれ",
+    "い",
+    "いい",
+    "いいえ",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いっぱい",
+    "いつ",
+    "いや",
+    "いらっしゃる",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "えーと",
+    "お",
+    "おい",
+    "おお",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "およぐ",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こわす",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "すむ",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そう-伝聞",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たくさん",
+    "たち",
+    "たって",
+    "たつ",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちいさな",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とにかく",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なく",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はなす",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "やれ",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "タール",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "ハート",
+    "パパ",
+    "パンケーキ",
+    "パーティー",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "上がる",
+    "上る",
+    "上陸",
+    "下",
+    "下さる",
+    "不",
+    "中身",
+    "事件",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "会う",
+    "伯母",
+    "信じる",
+    "修理",
+    "俺",
+    "優しい",
+    "兄",
+    "先",
+    "出でる",
+    "出掛ける",
+    "出発",
+    "切手",
+    "別",
+    "利く",
+    "前",
+    "力",
+    "助ける",
+    "動く",
+    "勝手",
+    "化け物",
+    "危ない",
+    "友達",
+    "取る",
+    "嘘",
+    "回",
+    "図",
+    "地獄",
+    "場所",
+    "壊れる",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "大事",
+    "大変",
+    "天才",
+    "夫婦",
+    "奥",
+    "女王",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "実",
+    "客",
+    "少し",
+    "嵐",
+    "川",
+    "帆",
+    "度",
+    "張る",
+    "御覧",
+    "必要",
+    "忘れる",
+    "怒る",
+    "怖い",
+    "急ぐ",
+    "悪い",
+    "感じる",
+    "戻る",
+    "手",
+    "手伝う",
+    "拾う",
+    "捨てる",
+    "教える",
+    "日",
+    "明日",
+    "昨日",
+    "時間",
+    "書く",
+    "木苺",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次回",
+    "止める",
+    "此奴",
+    "毒",
+    "気圧",
+    "気持ち",
+    "水",
+    "波",
+    "洞穴",
+    "海岸",
+    "消える",
+    "済む",
+    "漕ぐ",
+    "潜る",
+    "濡れる",
+    "無くなる",
+    "王",
+    "珍しい",
+    "痛い",
+    "目",
+    "眠る",
+    "知れる",
+    "砂",
+    "確か",
+    "秒",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "結ぶ",
+    "絶対",
+    "考える",
+    "聞き出す",
+    "聞こえる",
+    "自信",
+    "自分",
+    "色",
+    "花",
+    "苛める",
+    "茶",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "設計",
+    "話",
+    "調子",
+    "起こる",
+    "足",
+    "辺",
+    "返す",
+    "追う",
+    "通り",
+    "連れる",
+    "違う",
+    "邪魔",
+    "部屋",
+    "鋸",
+    "間",
+    "降る",
+    "随分",
+    "隠す",
+    "隠れる",
+    "集める",
+    "雨",
+    "静か",
+    "非",
+    "面白い",
+    "頂く",
+    "頭",
+    "風",
+    "飛行",
+    "飾り",
+    "髪の毛",
+    "鬼",
+    "鼾",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch41-01",
+      "japanese": "きれい な 色 だ。",
+      "imagePrompt": "Inside the Moomin house at night, extra blankets arranged on the floor. A colorful painting leans against the wall, its vivid colors catching the candlelight. Beautiful color! Warm cozy atmosphere. Colorful painting in candlelight. Medium shot, eye-level. Warm candle glow, admiring mood.",
+      "readings": [
+        {
+          "surface": "色",
+          "reading": "いろ"
+        }
+      ]
+    },
+    {
+      "id": "ch41-02",
+      "japanese": "この 色 が いい。",
+      "imagePrompt": "Moomintroll reaches toward the painting, drawn to a particular shade of blue. I like this color! His eyes reflect the painting's hues. Close-up of Moomintroll and the painting. Medium close-up, eye-level. Warm intimate candlelight, appreciative mood.",
+      "readings": [
+        {
+          "surface": "色",
+          "reading": "いろ"
+        }
+      ]
+    },
+    {
+      "id": "ch41-03",
+      "japanese": "ママ は あの 色 が いい と 言った。",
+      "imagePrompt": "Moominmamma points at a soft pink section of the painting with a fond smile. Mama likes that color! She nods approvingly. The pink glows warmly. Mama pointing at the painting. Medium shot, eye-level. Warm soft candlelight, gentle preference mood.",
+      "readings": [
+        {
+          "surface": "色",
+          "reading": "いろ"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch41-04",
+      "japanese": "大変 だ！",
+      "imagePrompt": "Sniff stumbles and bumps into the painting! It teeters dangerously. This is terrible! Everyone gasps. The candles flicker wildly. Sniff stumbling into the painting. Medium shot, eye-level. Flickering alarmed candlelight, sudden crisis mood.",
+      "readings": [
+        {
+          "surface": "大変",
+          "reading": "たいへん"
+        }
+      ]
+    },
+    {
+      "id": "ch41-05",
+      "japanese": "大変 な こと に なった。",
+      "imagePrompt": "The painting has fallen and paint has smeared on the blankets below. A terrible thing has happened! A streak of blue paint spreads across white fabric. Everyone stares. Smeared painting on blankets. Medium shot, eye-level. Dim shocked candlelight, aftermath mood.",
+      "readings": [
+        {
+          "surface": "大変",
+          "reading": "たいへん"
+        }
+      ]
+    },
+    {
+      "id": "ch41-06",
+      "japanese": "これ は 大変 だ ね。",
+      "imagePrompt": "Snufkin surveys the damage calmly while others panic. This is serious indeed! The paint stain spreads wider than expected. Blankets are ruined. Snufkin surveying the mess. Medium shot, eye-level. Steady dim candlelight, assessing damage mood.",
+      "readings": [
+        {
+          "surface": "大変",
+          "reading": "たいへん"
+        }
+      ]
+    },
+    {
+      "id": "ch41-07",
+      "japanese": "だれ が こわした？",
+      "imagePrompt": "Papa stands with hands on hips, looking at the cracked painting frame. Who broke it? His gaze sweeps the room. Everyone avoids eye contact. Papa demanding answers. Medium shot, eye-level. Stern candlelight, interrogation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch41-08",
+      "japanese": "こわした の は スニフ だ。",
+      "imagePrompt": "All eyes turn to Sniff who stands frozen. The one who broke it is Sniff! His tail droops with guilt. Paint is on his hands. Everyone looking at Sniff. Medium shot, eye-level. Accusatory candlelight, caught mood.",
+      "readings": []
+    },
+    {
+      "id": "ch41-09",
+      "japanese": "こわす の は だめ だ。",
+      "imagePrompt": "Mama wags her finger gently. Breaking things is no good! Her tone is firm but kind. Sniff hangs his head. The broken frame lies on the floor. Mama scolding gently. Medium shot, eye-level. Warm firm candlelight, gentle discipline mood.",
+      "readings": []
+    },
+    {
+      "id": "ch41-10",
+      "japanese": "スニフ が 隠した。",
+      "imagePrompt": "Sniff quickly pushes the broken frame under a pile of blankets. Sniff hid it! He kicks a pillow over the paint stain too. His movements are frantic. Sniff hiding evidence under blankets. Medium shot, eye-level. Dim sneaky candlelight, concealment mood.",
+      "readings": [
+        {
+          "surface": "隠し",
+          "reading": "かくし"
+        }
+      ]
+    },
+    {
+      "id": "ch41-11",
+      "japanese": "隠す の は よくない。",
+      "imagePrompt": "Snufkin shakes his head at Sniff. Hiding it is not good! His expression is serious. Sniff pauses mid-concealment, looking guilty. Snufkin admonishing Sniff. Medium shot, eye-level. Serious dim candlelight, moral judgment mood.",
+      "readings": [
+        {
+          "surface": "隠す",
+          "reading": "かくす"
+        }
+      ]
+    },
+    {
+      "id": "ch41-12",
+      "japanese": "なに を 隠している？",
+      "imagePrompt": "Mama bends down and peels back the blankets. What are you hiding? The broken frame is revealed beneath. Sniff backs away nervously. Mama uncovering the hidden frame. Medium shot, eye-level. Revealing candlelight, uncovering mood.",
+      "readings": [
+        {
+          "surface": "隠し",
+          "reading": "かくし"
+        }
+      ]
+    },
+    {
+      "id": "ch41-13",
+      "japanese": "嘘 を ついた。",
+      "imagePrompt": "Sniff claims he did not do it — but the paint on his hands says otherwise. He told a lie! His face reddens. Everyone sees the evidence. Sniff lying with paint-stained hands. Medium close-up, eye-level. Dim incredulous candlelight, caught lying mood.",
+      "readings": [
+        {
+          "surface": "嘘",
+          "reading": "うそ"
+        }
+      ]
+    },
+    {
+      "id": "ch41-14",
+      "japanese": "嘘 は だめ だ。",
+      "imagePrompt": "Papa speaks firmly to Sniff. Lies are no good! His voice is deep and serious. The room goes quiet. Sniff looks at the floor. Papa lecturing about honesty. Medium shot, eye-level. Firm warm candlelight, important lesson mood.",
+      "readings": [
+        {
+          "surface": "嘘",
+          "reading": "うそ"
+        }
+      ]
+    },
+    {
+      "id": "ch41-15",
+      "japanese": "あの 嘘 を 信じた の？",
+      "imagePrompt": "Little My laughs at everyone. You believed that lie? She points at Sniff's obvious paint-stained hands. How could anyone fall for it? My mocking. Medium shot, eye-level. Sharp amused candlelight, teasing disbelief mood.",
+      "readings": [
+        {
+          "surface": "嘘",
+          "reading": "うそ"
+        },
+        {
+          "surface": "信じ",
+          "reading": "しんじ"
+        }
+      ]
+    },
+    {
+      "id": "ch41-16",
+      "japanese": "信じる こと が できない。",
+      "imagePrompt": "Moomintroll frowns with disappointment. I cannot believe it! He looks between Sniff and the broken painting. Trust has been shaken. Moomintroll looking disappointed. Medium close-up, eye-level. Sad dim candlelight, broken trust mood.",
+      "readings": [
+        {
+          "surface": "信じる",
+          "reading": "しんじる"
+        }
+      ]
+    },
+    {
+      "id": "ch41-17",
+      "japanese": "ぼく を 信じて！",
+      "imagePrompt": "Sniff pleads with everyone, hands clasped. Believe me! He swears he did not mean to. Tears form in his small eyes. Sniff pleading. Medium close-up, eye-level. Soft desperate candlelight, pleading mood.",
+      "readings": [
+        {
+          "surface": "信じ",
+          "reading": "しんじ"
+        }
+      ]
+    },
+    {
+      "id": "ch41-18",
+      "japanese": "お 茶 を 頂いた。",
+      "imagePrompt": "Mama brings calming tea for everyone. They received tea! The warm cups help ease the tension. Steam curls upward in the candlelight. Group drinking tea together. Medium shot, eye-level. Warm soothing candlelight, reconciliation mood.",
+      "readings": [
+        {
+          "surface": "茶",
+          "reading": "ちゃ"
+        },
+        {
+          "surface": "頂い",
+          "reading": "いただい"
+        }
+      ]
+    },
+    {
+      "id": "ch41-19",
+      "japanese": "頂く の は いい。",
+      "imagePrompt": "Sniff holds his teacup gratefully, the tension finally easing. Receiving things is nice! He sips slowly. The warmth spreads through him. Color returns to his face. Sniff with grateful teacup. Medium close-up, eye-level. Warm grateful candlelight, comfort mood.",
+      "readings": [
+        {
+          "surface": "頂く",
+          "reading": "いただく"
+        }
+      ]
+    },
+    {
+      "id": "ch41-20",
+      "japanese": "「頂きます。」 と みんな が 言った。",
+      "imagePrompt": "Everyone says the polite phrase before sipping. Thank you for the tea! A chorus of voices in the warm room. The crisis is forgotten. Group saying thanks together. Medium shot, eye-level. Warm harmonious candlelight, group gratitude mood.",
+      "readings": [
+        {
+          "surface": "頂き",
+          "reading": "いただき"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch41-21",
+      "japanese": "明日 出掛ける。",
+      "imagePrompt": "Papa announces the plan for tomorrow. Going out tomorrow! He spreads a small map on the floor. Adventure awaits despite tonight's mishap. Papa with a map. Medium shot, eye-level. Warm planning candlelight, tomorrow's adventure mood.",
+      "readings": [
+        {
+          "surface": "明日",
+          "reading": "あす"
+        },
+        {
+          "surface": "出掛ける",
+          "reading": "でかける"
+        }
+      ]
+    },
+    {
+      "id": "ch41-22",
+      "japanese": "出掛ける の が 楽しみ だ ね。",
+      "imagePrompt": "Moomintroll's eyes light up. Going out is something to look forward to! The broken painting is forgotten. Tomorrow will be better. Moomintroll excited. Medium close-up, eye-level. Bright eager candlelight, anticipation mood.",
+      "readings": [
+        {
+          "surface": "出掛ける",
+          "reading": "でかける"
+        },
+        {
+          "surface": "楽しみ",
+          "reading": "たのしみ"
+        }
+      ]
+    },
+    {
+      "id": "ch41-23",
+      "japanese": "みんな で 出掛けた。",
+      "imagePrompt": "Morning comes and the group heads out the door together. Everyone went out! Sunshine streams in. The lodge room behind them is tidy again. Blankets folded neatly. Group leaving the lodge. Medium-wide shot, eye-level. Bright morning light through the door, departure mood.",
+      "readings": [
+        {
+          "surface": "出掛け",
+          "reading": "でかけ"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 23,
+      "newLemmaUsage": {
+        "こわす": 3,
+        "信じる": 3,
+        "出掛ける": 3,
+        "嘘": 3,
+        "大変": 3,
+        "色": 3,
+        "隠す": 3,
+        "頂く": 3
+      }
+    }
+  }
+}

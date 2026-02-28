@@ -1,0 +1,362 @@
+{
+  "chapter": 8,
+  "title": "海 へ いく",
+  "grammarStep": 5,
+  "grammarName": "Motion: いく / くる",
+  "scene": {
+    "location": "はしとかわ",
+    "description": "The bridge over the river near Moomin house. Path leading from the distance. Snufkin approaching.",
+    "characters": [
+      "ムーミン",
+      "スナフキン",
+      "スニフ"
+    ],
+    "props": [
+      "船"
+    ]
+  },
+  "newLemmas": [
+    "かえる",
+    "うん",
+    "ええ",
+    "しる",
+    "きく",
+    "おい",
+    "みつかる",
+    "よし"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あそこ",
+    "あなた",
+    "あの",
+    "ある",
+    "あれ",
+    "いい",
+    "いえ",
+    "いく",
+    "いる",
+    "うみ",
+    "うん",
+    "ええ",
+    "お",
+    "おい",
+    "おく",
+    "おもう",
+    "か",
+    "かいがら",
+    "かえる",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きみ",
+    "くる",
+    "くん",
+    "けど",
+    "けれど",
+    "ここ",
+    "この",
+    "これ",
+    "ご",
+    "さがす",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しる",
+    "じゃ",
+    "する",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "た",
+    "たち",
+    "たべる",
+    "だ",
+    "だけ",
+    "だれ",
+    "ちゃん",
+    "って",
+    "つ",
+    "で",
+    "でる",
+    "と",
+    "ところ",
+    "どう",
+    "どこ",
+    "な",
+    "ない",
+    "なに",
+    "なる",
+    "に",
+    "ね",
+    "の",
+    "のむ",
+    "は",
+    "はいる",
+    "ひと",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まで",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もつ",
+    "もの",
+    "やま",
+    "やる",
+    "よ",
+    "よう",
+    "よし",
+    "ら",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ムーミン",
+    "モラン",
+    "・",
+    "一",
+    "不",
+    "二",
+    "今",
+    "見える",
+    "非",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch08-01",
+      "japanese": "海 へ いく！",
+      "imagePrompt": "Morning at the river bridge. Moomintroll stands on the bridge pointing toward the sea visible in the distance. Backpack on, ready for adventure. Moomintroll on the bridge pointing seaward. Medium shot, eye-level. Bright eager morning light, adventure announcement mood.",
+      "readings": [
+        {
+          "surface": "海",
+          "reading": "うみ"
+        }
+      ]
+    },
+    {
+      "id": "ch08-02",
+      "japanese": "ママ に きく。いい？",
+      "imagePrompt": "Moomintroll runs back to the house porch where Moominmamma stands. He looks up at her asking permission. Moominmamma listens with her gentle expression. Moomintroll asking Moominmamma for permission. Medium two-shot, slightly low angle. Warm morning porch light, hopeful asking mood.",
+      "readings": []
+    },
+    {
+      "id": "ch08-03",
+      "japanese": "うん、いい。いく。",
+      "imagePrompt": "Moominmamma nods with a warm smile, giving her approval. She adjusts Moomintroll's scarf and pats his head. Moominmamma approving the trip. Medium close-up, eye-level. Warm soft morning light, maternal approval mood.",
+      "readings": []
+    },
+    {
+      "id": "ch08-04",
+      "japanese": "おい、スニフ！いく？",
+      "imagePrompt": "Moomintroll calls out to Sniff who is napping under a garden tree. Sniff's ear perks up at the call. Moomintroll calling out to sleepy Sniff. Medium shot, eye-level. Bright morning light, calling out mood.",
+      "readings": []
+    },
+    {
+      "id": "ch08-05",
+      "japanese": "ええ、いく！",
+      "imagePrompt": "Sniff jumps up from his nap spot, eyes wide with excitement. He scrambles to gather his bag and catches up to Moomintroll. Sniff jumping up eagerly. Medium shot, eye-level. Bright lively morning light, eager joining mood.",
+      "readings": []
+    },
+    {
+      "id": "ch08-06",
+      "japanese": "よし！みんな で いく。",
+      "imagePrompt": "Moomintroll, Sniff, and Snorkmaiden stand together on the bridge, all facing the direction of the sea. Ready to set out. The group ready on the bridge. Medium-wide shot, eye-level. Bright clear morning light, group determination mood.",
+      "readings": []
+    },
+    {
+      "id": "ch08-07",
+      "japanese": "この 島 を 知った？",
+      "imagePrompt": "Walking along the river path toward the coast, Moomintroll points at a small island visible in the river. He asks if anyone has heard of it. Moomintroll pointing at a river island. Medium shot, eye-level. Warm walking-path light, curious asking mood.",
+      "readings": [
+        {
+          "surface": "島",
+          "reading": "しま"
+        },
+        {
+          "surface": "知っ",
+          "reading": "しっ"
+        }
+      ]
+    },
+    {
+      "id": "ch08-08",
+      "japanese": "知らない。きく？",
+      "imagePrompt": "Sniff shakes his head, looking at the island with interest but no recognition. Moomintroll suggests they ask someone. Sniff shaking head at the unknown island. Medium shot, eye-level. Clear path light, deciding to ask mood.",
+      "readings": [
+        {
+          "surface": "知ら",
+          "reading": "しら"
+        }
+      ]
+    },
+    {
+      "id": "ch08-09",
+      "japanese": "ええ、きく。",
+      "imagePrompt": "Sniff nods — yes, they should ask. Moomintroll looks down the path for Snufkin. Sniff agreeing to ask. Medium shot, eye-level. Clear path light, agreement mood.",
+      "readings": []
+    },
+    {
+      "id": "ch08-10",
+      "japanese": "スナフキン が くる！",
+      "imagePrompt": "Along the path ahead, Snufkin appears walking toward them from the opposite direction, harmonica in hand. He waves casually. Snufkin approaching on the path. Medium-wide shot, eye-level. Warm midday light, happy surprise mood.",
+      "readings": []
+    },
+    {
+      "id": "ch08-11",
+      "japanese": "スナフキン は 海 を 知った。",
+      "imagePrompt": "Snufkin joins the group and nods — he discovered this coastline on past travels. He gestures knowledgeably toward the sea. Snufkin gesturing toward the sea. Medium shot, eye-level. Clear midday light, knowledgeable confidence mood.",
+      "readings": [
+        {
+          "surface": "海",
+          "reading": "うみ"
+        },
+        {
+          "surface": "知っ",
+          "reading": "しっ"
+        }
+      ]
+    },
+    {
+      "id": "ch08-12",
+      "japanese": "わかる？うん。",
+      "imagePrompt": "Snufkin asks if Moomintroll understands the direction. Moomintroll nods firmly. The coastal path becomes clearer ahead. Moomintroll nodding in understanding. Medium close-up, eye-level. Bright midday light, comprehending agreement mood.",
+      "readings": []
+    },
+    {
+      "id": "ch08-13",
+      "japanese": "いい ところ が みつかった！",
+      "imagePrompt": "The group crests a hill and discovers a beautiful sandy cove below. Clear water, smooth rocks, sheltered by cliffs. A hidden cove revealed below the hill. Wide shot, slightly elevated. Brilliant midday coastal light, wonderful discovery mood.",
+      "readings": []
+    },
+    {
+      "id": "ch08-14",
+      "japanese": "ほんとう に いい よ。よし！",
+      "imagePrompt": "Everyone looks down at the cove with delight. Moomintroll pumps his fist. Sniff is already starting down the path toward the water. The group admiring the cove. Medium-wide shot, eye-level. Bright excited coastal light, enthusiastic approval mood.",
+      "readings": []
+    },
+    {
+      "id": "ch08-15",
+      "japanese": "おい、ぼく も いく！",
+      "imagePrompt": "Sniff rushes down the hillside path toward the cove, calling back to the others to follow. Sand and pebbles scatter under his feet. Sniff rushing toward the cove. Medium shot, slightly elevated. Bright dynamic coastal light, impatient excitement mood.",
+      "readings": []
+    },
+    {
+      "id": "ch08-16",
+      "japanese": "みつかった。ええ！",
+      "imagePrompt": "Snorkmaiden nods approvingly at the cove, pleased with the discovery. She picks up a pretty stone from the path. Snorkmaiden approving the find. Medium shot, eye-level. Warm afternoon coastal light, satisfied confirmation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch08-17",
+      "japanese": "きく。帰る？",
+      "imagePrompt": "Late afternoon, the group rests on the cove beach. Moomintroll looks at the lowering sun and wonders about heading home. Group resting at the cove in late afternoon. Medium-wide shot, eye-level. Low golden afternoon light, considering departure mood.",
+      "readings": [
+        {
+          "surface": "帰る",
+          "reading": "かえる"
+        }
+      ]
+    },
+    {
+      "id": "ch08-18",
+      "japanese": "うん、帰る。家 へ 帰る。",
+      "imagePrompt": "The group begins walking back along the coastal path toward home. Sun setting behind the mountains. The journey home begins. Group walking homeward along the coast. Medium-wide shot, eye-level. Warm sunset walking light, satisfied return mood.",
+      "readings": [
+        {
+          "surface": "帰る",
+          "reading": "かえる"
+        },
+        {
+          "surface": "家",
+          "reading": "いえ"
+        },
+        {
+          "surface": "帰る",
+          "reading": "かえる"
+        }
+      ]
+    },
+    {
+      "id": "ch08-19",
+      "japanese": "スナフキン は 帰らない。",
+      "imagePrompt": "At a fork in the path, Snufkin faces the group and waves farewell with a warm smile. His pack is on his back, ready for the road. The fork stretches in two directions behind him. Snufkin waving goodbye at the fork, facing the viewer. Medium shot, eye-level. Warm sunset light, bittersweet farewell mood.",
+      "readings": [
+        {
+          "surface": "帰ら",
+          "reading": "かえら"
+        }
+      ]
+    },
+    {
+      "id": "ch08-20",
+      "japanese": "もう くる？おい！",
+      "imagePrompt": "Moomintroll calls after Snufkin, asking if he will come again. Snufkin turns and shrugs with a smile — who knows? Moomintroll calling after departing Snufkin. Medium-wide shot, eye-level. Deep sunset orange light, hopeful parting mood.",
+      "readings": []
+    },
+    {
+      "id": "ch08-21",
+      "japanese": "よし、帰る。",
+      "imagePrompt": "Moomintroll turns resolutely back toward home. The Moomin house is visible in the valley below, windows glowing warmly. Moomintroll heading home at dusk. Medium shot, eye-level. Warm dusk light with house glow, resolute homecoming mood.",
+      "readings": [
+        {
+          "surface": "帰る",
+          "reading": "かえる"
+        }
+      ]
+    },
+    {
+      "id": "ch08-22",
+      "japanese": "みつかった。いい ところ が みつかった。",
+      "imagePrompt": "Moomintroll walks home in the twilight, smiling to himself about the day's discovery. Stars beginning to appear. Moomintroll walking home at twilight, smiling. Medium shot, eye-level. Deep twilight with first stars, contented reflection mood.",
+      "readings": []
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 22,
+      "newLemmaUsage": {
+        "うん": 3,
+        "ええ": 3,
+        "おい": 3,
+        "かえる": 5,
+        "きく": 4,
+        "しる": 3,
+        "みつかる": 4,
+        "よし": 3
+      }
+    }
+  }
+}

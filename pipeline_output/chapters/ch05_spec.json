@@ -1,0 +1,293 @@
+{
+  "chapter": 5,
+  "title": "スニフ が いた！",
+  "grammarStep": 3,
+  "grammarName": "Past: た / だった",
+  "scene": {
+    "location": "ムーミンやしきとにわ",
+    "description": "Moomin house and garden on a warm afternoon. Characters playing hide-and-seek. Trees, bushes, and the house provide hiding spots. Mimura is visiting.",
+    "characters": [
+      "ムーミン",
+      "ミムラ",
+      "スニフ",
+      "ニンニ"
+    ],
+    "props": [
+      "家",
+      "き"
+    ]
+  },
+  "newLemmas": [
+    "それ",
+    "あれ",
+    "そこ",
+    "あそこ",
+    "でる",
+    "スニフ",
+    "ほんとう",
+    "二"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "あそこ",
+    "あなた",
+    "あの",
+    "ある",
+    "あれ",
+    "いい",
+    "いえ",
+    "いく",
+    "いる",
+    "うみ",
+    "お",
+    "か",
+    "から",
+    "が",
+    "き",
+    "くる",
+    "くん",
+    "けど",
+    "けれど",
+    "ここ",
+    "この",
+    "これ",
+    "ご",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "じゃ",
+    "する",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "た",
+    "たち",
+    "たべる",
+    "だ",
+    "だけ",
+    "だれ",
+    "ちゃん",
+    "って",
+    "つ",
+    "で",
+    "でる",
+    "と",
+    "どう",
+    "どこ",
+    "な",
+    "ない",
+    "なに",
+    "なる",
+    "に",
+    "ね",
+    "の",
+    "のむ",
+    "は",
+    "はいる",
+    "ひと",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まで",
+    "みる",
+    "みんな",
+    "も",
+    "もの",
+    "やま",
+    "やる",
+    "よ",
+    "よう",
+    "ら",
+    "わ",
+    "わたし",
+    "を",
+    "スニフ",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ムーミン",
+    "・",
+    "不",
+    "二",
+    "非",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch05-01",
+      "japanese": "だれ が いた？",
+      "imagePrompt": "Sunny afternoon in the Moomin house garden. Moomintroll opens his eyes after counting, hands dropping from his face. Bushes and trees around. Moomintroll uncovering eyes in the garden. Medium shot, eye-level. Bright warm afternoon sunlight, excited game-start mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-02",
+      "japanese": "そこ に いた！",
+      "imagePrompt": "Moomintroll points at a nearby bush in the garden. A tail pokes out from behind the leaves. Caught! A tail visible behind a garden bush. Medium shot, eye-level. Dappled afternoon light, triumphant spotting mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-03",
+      "japanese": "スニフ が いた！",
+      "imagePrompt": "Sniff emerges sheepishly from behind the bush, his long nose drooping in defeat. Moomintroll jumps with excitement. Sniff discovered behind the bush. Medium two-shot, eye-level. Bright garden afternoon light, gleeful discovery mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-04",
+      "japanese": "ほんとう だ ね！スニフ！",
+      "imagePrompt": "Moomintroll grabs Sniff's hand and pulls him out from behind the bush completely. Sniff looks embarrassed but amused. Moomintroll pulling Sniff out of hiding. Medium shot, eye-level. Warm playful afternoon light, confirmed catch mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-05",
+      "japanese": "あそこ に だれ が いる？",
+      "imagePrompt": "Moomintroll peers across the garden toward the far side near the river. A shadow moves behind a distant tree. Something moving far across the garden. Medium-wide shot, eye-level. Afternoon light with distant shadows, scanning the distance mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-06",
+      "japanese": "あれ は なに だった？",
+      "imagePrompt": "Moomintroll squints at the distant shape that was there a moment ago but has now vanished. Just a tree stands there now. A puzzling empty spot in the far garden. Medium shot, eye-level. Bright but puzzling afternoon light, questioning the past mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-07",
+      "japanese": "あそこ！あった！",
+      "imagePrompt": "Moomintroll runs across the garden and finds a dropped flower crown near the distant tree — proof someone was hiding there. A flower crown on the ground by a tree. Close-up, slightly elevated. Warm afternoon light on wildflowers, evidence-found mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-08",
+      "japanese": "それ は フローレン だ！ここ に いた！",
+      "imagePrompt": "Moomintroll holds up a flower crown near a bush, grinning — he's found proof Snorkmaiden hid here. Footprints and crushed grass by the bush. Medium close-up, eye-level. Bright afternoon light, clever deduction mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-09",
+      "japanese": "フローレン が でた！",
+      "imagePrompt": "Snorkmaiden emerges laughing from behind a large garden boulder, caught by the flower evidence. She waves her hands in surrender. Snorkmaiden coming out from behind a boulder. Medium shot, eye-level. Warm playful afternoon light, laughing surrender mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-10",
+      "japanese": "二 が でた。",
+      "imagePrompt": "Moomintroll stands between Sniff and Snorkmaiden in the garden, holding up two fingers proudly. Both caught players stand on either side. Moomintroll with two found players. Medium shot, eye-level. Bright afternoon sun, proud counting mood.",
+      "readings": [
+        {
+          "surface": "二",
+          "reading": "に"
+        }
+      ]
+    },
+    {
+      "id": "ch05-11",
+      "japanese": "ほんとう に ここ に いた？",
+      "imagePrompt": "Moomintroll points at a tiny gap between the garden fence posts, amazed that someone hid there. Sniff gestures that yes, he squeezed in. Moomintroll amazed at the hiding spot. Medium shot, eye-level. Warm afternoon light, incredulous amusement mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-12",
+      "japanese": "それ！そこ に あった。",
+      "imagePrompt": "Moomintroll finds a clue in the garden — a dropped ribbon near a bush. He picks it up triumphantly. Clue found in the garden. Medium shot, slightly elevated. Warm afternoon treasure-hunt light, following-the-trail mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-13",
+      "japanese": "あれ は スニフ だった！",
+      "imagePrompt": "Moomintroll recalls the shadow he saw earlier and points at Sniff, realizing it was him running between hiding spots. Sniff grins guiltily. Moomintroll accusing Sniff of switching spots. Medium two-shot, eye-level. Late afternoon light, amused accusation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-14",
+      "japanese": "あれ！ほんとう に？",
+      "imagePrompt": "Snorkmaiden looks skeptical, arms crossed, questioning whether Sniff really did hide there. Sniff nods vigorously. Snorkmaiden questioning Sniff's claim. Medium shot, eye-level. Warm late afternoon light, playful skepticism mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-15",
+      "japanese": "ふたり が いた。二 だ。",
+      "imagePrompt": "Moomintroll counts on his fingers — two players found. He nods: that's two. Moomintroll counting found players in the garden. Medium shot, eye-level. Golden late afternoon light, satisfied tallying mood.",
+      "readings": [
+        {
+          "surface": "二",
+          "reading": "に"
+        }
+      ]
+    },
+    {
+      "id": "ch05-16",
+      "japanese": "スニフ は そこ に いた。",
+      "imagePrompt": "Sniff demonstrates his hiding spot behind the bush again, crouching down to show how he fit. Leaves rustle around him. Sniff showing his hiding technique. Medium shot, slightly elevated. Late afternoon dappled light, demonstrating mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-17",
+      "japanese": "スニフ が でた。フローレン も でた。",
+      "imagePrompt": "Both Sniff and Snorkmaiden stand together in the open garden, the game over. They all catch their breath and smile. Both found players in the open garden. Medium-wide shot, eye-level. Golden late afternoon light, happy game-over mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-18",
+      "japanese": "二！ふたり だ！",
+      "imagePrompt": "Moomintroll holds up two fingers triumphantly, counting the two found players. Sniff and Snorkmaiden wave behind him. Moomintroll counting two found players. Medium shot, eye-level. Golden late afternoon light, proud counting mood.",
+      "readings": [
+        {
+          "surface": "二",
+          "reading": "に"
+        }
+      ]
+    },
+    {
+      "id": "ch05-19",
+      "japanese": "あそこ は いい ね。あれ も いい。",
+      "imagePrompt": "Snorkmaiden points back at her boulder hiding spot, then at another spot, praising them. The boulder sits in a pretty corner of the garden with flowers around it. Snorkmaiden's excellent hiding spots. Medium-wide shot, eye-level. Golden sunset garden light, appreciating the game mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-20",
+      "japanese": "それ は ほんとう だ。",
+      "imagePrompt": "Moomintroll nods in agreement, gesturing at the garden. All three sit on the grass together, tired but happy from playing. Friends resting together in the garden. Medium shot, eye-level. Warm golden sunset light, contented agreement mood.",
+      "readings": []
+    },
+    {
+      "id": "ch05-21",
+      "japanese": "みんな、でる！",
+      "imagePrompt": "Moominmamma stands on the house porch, waving and calling for dinner. Moomintroll, Sniff, and Snorkmaiden face the porch from the garden, eager and ready to dash. Moomintroll's arms pump with excitement. Friends eager to head to the house for dinner. Medium-wide shot, eye-level. Warm sunset light on excited faces, eager dinner-time mood.",
+      "readings": []
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 21,
+      "newLemmaUsage": {
+        "あそこ": 3,
+        "あれ": 4,
+        "そこ": 3,
+        "それ": 3,
+        "でる": 5,
+        "ほんとう": 4,
+        "スニフ": 5,
+        "二": 3
+      }
+    }
+  }
+}

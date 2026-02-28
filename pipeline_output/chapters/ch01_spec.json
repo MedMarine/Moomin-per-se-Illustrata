@@ -1,0 +1,238 @@
+{
+  "chapter": 1,
+  "title": "船",
+  "grammarStep": 0,
+  "grammarName": "Foundation: names and pointing",
+  "scene": {
+    "location": "川の河口（朝）",
+    "description": "River mouth where it meets the sea, early morning. The old wooden boat is pulled up on the bank.",
+    "characters": [
+      "ムーミン",
+      "パパ",
+      "スニフ"
+    ],
+    "props": [
+      "船"
+    ]
+  },
+  "newLemmas": [
+    "ムーミン",
+    "ふね",
+    "わたし",
+    "ママ",
+    "なに",
+    "パパ",
+    "き",
+    "ぼうし"
+  ],
+  "whitelist": [
+    "…",
+    "、",
+    "。",
+    "き",
+    "なに",
+    "ふね",
+    "ぼうし",
+    "わたし",
+    "パパ",
+    "ママ",
+    "ムーミン",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch01-01",
+      "japanese": "船。",
+      "imagePrompt": "River mouth at dawn, thick morning fog. A wooden boat hull emerges from grey mist, barely visible. The boat's bow cutting through still water. Wide shot, eye-level from the shore. Pale gold fog light, mysterious anticipation mood.",
+      "readings": [
+        {
+          "surface": "船",
+          "reading": "ふね"
+        }
+      ]
+    },
+    {
+      "id": "ch01-02",
+      "japanese": "なに？",
+      "imagePrompt": "Foggy riverbank, a small white figure peers through the mist trying to see. Moomintroll squints into the fog from the shore, body leaning forward. Misty silhouettes ahead. Medium shot, eye-level. Diffuse grey morning light, curious questioning mood.",
+      "readings": []
+    },
+    {
+      "id": "ch01-03",
+      "japanese": "木！",
+      "imagePrompt": "Shore emerging from fog, tall birch trees becoming visible through thinning mist. Tree trunks appear as dark vertical lines in the grey. Trees along the misty riverbank. Wide shot, slightly low angle. Cool morning light filtering through fog, gradual revelation mood.",
+      "readings": [
+        {
+          "surface": "木",
+          "reading": "き"
+        }
+      ]
+    },
+    {
+      "id": "ch01-04",
+      "japanese": "木、木。",
+      "imagePrompt": "More of the shoreline visible now, a row of trees stretching along the bank. Moomintroll points at each tree in turn as fog lifts. Multiple trees revealed along the shore. Medium-wide shot, eye-level. Brightening morning light, counting and discovering mood.",
+      "readings": [
+        {
+          "surface": "木",
+          "reading": "き"
+        },
+        {
+          "surface": "木",
+          "reading": "き"
+        }
+      ]
+    },
+    {
+      "id": "ch01-05",
+      "japanese": "ムーミン！",
+      "imagePrompt": "Fog clearing over the dock, Moomintroll stands on the wooden planks waving. His white round body is bright against the grey background. Moomintroll waving on the dock. Medium shot, eye-level. Warm morning light breaking through fog, joyful recognition mood.",
+      "readings": []
+    },
+    {
+      "id": "ch01-06",
+      "japanese": "ママ！",
+      "imagePrompt": "Dock scene, Moominmamma appears from behind the boat wearing her red-striped apron. She waves with one hand, handbag in the other. Moominmamma arriving at the dock. Medium shot, eye-level. Soft golden morning light, warm maternal greeting mood.",
+      "readings": []
+    },
+    {
+      "id": "ch01-07",
+      "japanese": "パパ！",
+      "imagePrompt": "Moominpappa strides along the dock toward the boat, top hat firmly on his head. He carries himself with dignified posture. Moominpappa walking purposefully on the dock. Medium shot, eye-level. Clear morning light, dignified arrival mood.",
+      "readings": []
+    },
+    {
+      "id": "ch01-08",
+      "japanese": "帽子！",
+      "imagePrompt": "Close view of Moominpappa's tall black top hat catching a gust of wind on the dock. The hat lifts slightly, about to blow away. The top hat in the wind on the dock. Close-up, slightly low angle. Bright windy morning light, playful suspense mood.",
+      "readings": [
+        {
+          "surface": "帽子",
+          "reading": "ぼうし"
+        }
+      ]
+    },
+    {
+      "id": "ch01-09",
+      "japanese": "パパ、帽子！",
+      "imagePrompt": "Dock scene, Moominpappa reaches up as his top hat flies off his head in the wind. Moomintroll points and calls out. The hat airborne above Moominpappa. Medium shot, eye-level. Bright breezy morning light, urgent comedic moment.",
+      "readings": [
+        {
+          "surface": "帽子",
+          "reading": "ぼうし"
+        }
+      ]
+    },
+    {
+      "id": "ch01-10",
+      "japanese": "帽子？なに？",
+      "imagePrompt": "Moomintroll stands on the dock, head tilted back, watching the top hat tumble through the air above him. The hat spins against the bright sky. Moomintroll looking up at the flying hat on the dock. Medium shot, eye-level. Bright sky above, bewildered searching mood.",
+      "readings": [
+        {
+          "surface": "帽子",
+          "reading": "ぼうし"
+        }
+      ]
+    },
+    {
+      "id": "ch01-11",
+      "japanese": "わたし、ムーミン。",
+      "imagePrompt": "Moomintroll faces the viewer directly on the dock, one hand on his chest introducing himself. Boat and river behind him. Moomintroll's self-introduction pose on the dock. Medium close-up, eye-level. Warm clear morning light, friendly direct-address mood.",
+      "readings": []
+    },
+    {
+      "id": "ch01-12",
+      "japanese": "わたし、ママ。",
+      "imagePrompt": "Moominmamma faces the viewer on the dock, gesturing to herself with a warm smile. Red-striped apron visible, handbag at her side. Moominmamma's self-introduction on the dock. Medium close-up, eye-level. Soft warm morning light, gentle welcoming mood.",
+      "readings": []
+    },
+    {
+      "id": "ch01-13",
+      "japanese": "わたし、パパ。",
+      "imagePrompt": "Moominpappa faces the viewer, hat recovered and back on his head. He tips the brim with one hand gallantly. Moominpappa's self-introduction on the dock. Medium close-up, eye-level. Bright confident morning light, proud dignified mood.",
+      "readings": []
+    },
+    {
+      "id": "ch01-14",
+      "japanese": "ムーミン、船！",
+      "imagePrompt": "Moomintroll runs excitedly toward the wooden boat moored at the dock, arms reaching out. The boat is fully visible now, fog cleared. Moomintroll rushing to the boat. Medium-wide shot, eye-level. Bright morning sunlight on water, eager excitement mood.",
+      "readings": [
+        {
+          "surface": "船",
+          "reading": "ふね"
+        }
+      ]
+    },
+    {
+      "id": "ch01-15",
+      "japanese": "ママ、なに？",
+      "imagePrompt": "Moomintroll turns to Moominmamma on the dock, tilting his head questioningly. She holds something behind her back. Moomintroll asking Moominmamma on the dock. Medium two-shot, eye-level. Clear morning light, curious questioning mood.",
+      "readings": []
+    },
+    {
+      "id": "ch01-16",
+      "japanese": "船！船！",
+      "imagePrompt": "Wide view of the dock with the beautiful wooden boat in full morning sunlight, fog completely gone. Moomintroll bounces excitedly beside it. The revealed boat gleaming in sunlight. Wide shot, slightly elevated. Bright warm morning light, triumphant revelation mood.",
+      "readings": [
+        {
+          "surface": "船",
+          "reading": "ふね"
+        },
+        {
+          "surface": "船",
+          "reading": "ふね"
+        }
+      ]
+    },
+    {
+      "id": "ch01-17",
+      "japanese": "パパ、木！",
+      "imagePrompt": "On the dock, Moomintroll points toward the tall trees on the shore, showing Moominpappa. The trees frame the riverbank beautifully. Moomintroll pointing at shore trees. Medium-wide shot, eye-level. Golden morning light through branches, sharing discovery mood.",
+      "readings": [
+        {
+          "surface": "木",
+          "reading": "き"
+        }
+      ]
+    },
+    {
+      "id": "ch01-18",
+      "japanese": "帽子、帽子！",
+      "imagePrompt": "Moominpappa's top hat caught on a tree branch overhanging the dock. Moomintroll points up at it laughing. The family stands together looking upward, the tree branch visible above them. Hat stuck in tree branch with the family below. Medium shot, eye-level. Dappled morning light, comedic relief mood.",
+      "readings": [
+        {
+          "surface": "帽子",
+          "reading": "ぼうし"
+        },
+        {
+          "surface": "帽子",
+          "reading": "ぼうし"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 18,
+      "newLemmaUsage": {
+        "き": 4,
+        "なに": 3,
+        "ふね": 4,
+        "ぼうし": 5,
+        "わたし": 3,
+        "パパ": 4,
+        "ママ": 3,
+        "ムーミン": 3
+      }
+    }
+  }
+}

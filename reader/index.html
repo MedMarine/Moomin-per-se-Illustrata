@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Moomin per se Illustrata</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ===== LANDING VIEW ===== -->
+  <div id="landing" class="view active">
+    <header class="landing-header">
+      <h1 class="site-title">ムーミン per se Illustrata</h1>
+      <p class="site-subtitle">Japanese Graded Reader</p>
+    </header>
+    <main class="chapter-grid" id="chapter-grid">
+    </main>
+  </div>
+
+  <!-- ===== READER VIEW ===== -->
+  <div id="reader" class="view">
+    <header class="reader-header">
+      <button id="back-btn" class="back-button" aria-label="Back to chapters">
+        <span class="back-arrow">&larr;</span> もどる
+      </button>
+      <div class="chapter-meta">
+        <span class="chapter-number" id="reader-chapter-num"></span>
+        <h2 class="chapter-title" id="reader-chapter-title"></h2>
+        <span class="grammar-badge" id="reader-grammar-badge"></span>
+      </div>
+      <button id="furigana-toggle" class="furigana-toggle" aria-label="Toggle furigana">
+        ふりがな: <span id="furigana-mode-label">AUTO</span>
+      </button>
+    </header>
+
+    <div class="reader-body">
+      <aside class="vocab-panel" id="vocab-panel">
+        <h3 class="vocab-heading" id="vocab-toggle">
+          この章のことば
+          <span class="vocab-arrow"></span>
+        </h3>
+        <ul class="vocab-list" id="vocab-list"></ul>
+        <div class="scene-info">
+          <h4>場面</h4>
+          <p class="scene-location" id="scene-location"></p>
+          <p class="scene-characters" id="scene-characters"></p>
+        </div>
+      </aside>
+
+      <main class="sentence-scroll" id="sentence-scroll"></main>
+    </div>
+
+    <footer class="reader-footer">
+      <div class="progress-bar">
+        <div class="progress-fill" id="progress-fill"></div>
+      </div>
+      <span class="progress-text" id="progress-text"></span>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

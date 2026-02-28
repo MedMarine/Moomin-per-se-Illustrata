@@ -1,0 +1,756 @@
+{
+  "chapter": 40,
+  "title": "力 が ある",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers: の / こと",
+  "scene": {
+    "location": "ムーミンやしきの外（夜）",
+    "description": "Outside the Moomin house at night. Moonlight on the garden. Strange colored shadows from inside.",
+    "characters": [
+      "ムーミン",
+      "スニフ",
+      "ミムラ"
+    ],
+    "props": []
+  },
+  "newLemmas": [
+    "苛める",
+    "消える",
+    "静か",
+    "出でる",
+    "会う",
+    "奥",
+    "おお",
+    "力"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あと",
+    "あなた",
+    "あの",
+    "あら",
+    "ありがとう",
+    "ある",
+    "あるく",
+    "あれ",
+    "い",
+    "いい",
+    "いいえ",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いっぱい",
+    "いつ",
+    "いや",
+    "いらっしゃる",
+    "いる",
+    "いれる",
+    "うち",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "えーと",
+    "お",
+    "おい",
+    "おお",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "およぐ",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "させる",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "すごい",
+    "すむ",
+    "する",
+    "ず",
+    "せる",
+    "ぜ",
+    "そう",
+    "そう-伝聞",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たくさん",
+    "たち",
+    "たって",
+    "たつ",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちいさな",
+    "ちゃう",
+    "ちゃん",
+    "ちゃんと",
+    "ちょうだい",
+    "ちょっと",
+    "っけ",
+    "って",
+    "つ",
+    "つく",
+    "つくる",
+    "つける",
+    "つもり",
+    "て",
+    "てる",
+    "で",
+    "できる",
+    "です",
+    "でも",
+    "でる",
+    "と",
+    "とき",
+    "とく",
+    "ところ",
+    "とても",
+    "とにかく",
+    "とぶ",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "どんな",
+    "な",
+    "ない",
+    "なか",
+    "なく",
+    "なさる",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんぞ",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はしる",
+    "はなす",
+    "はやい",
+    "ば",
+    "ばかし",
+    "ばかり",
+    "ひと",
+    "ひとり",
+    "ひどい",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "ます",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "やれ",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "らしい",
+    "られる",
+    "れる",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "アリ",
+    "コレクション",
+    "ジュース",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "タール",
+    "テント",
+    "ニンニ",
+    "ハンドバッグ",
+    "ハート",
+    "パパ",
+    "パンケーキ",
+    "パーティー",
+    "ビフ",
+    "フローレン",
+    "ホラ",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "上",
+    "上がる",
+    "上る",
+    "上陸",
+    "下",
+    "下さる",
+    "不",
+    "中身",
+    "事件",
+    "二",
+    "今",
+    "今日",
+    "他",
+    "会う",
+    "伯母",
+    "修理",
+    "俺",
+    "優しい",
+    "兄",
+    "先",
+    "出でる",
+    "出発",
+    "切手",
+    "別",
+    "利く",
+    "前",
+    "力",
+    "助ける",
+    "動く",
+    "勝手",
+    "化け物",
+    "危ない",
+    "友達",
+    "取る",
+    "回",
+    "図",
+    "地獄",
+    "場所",
+    "壊れる",
+    "声",
+    "変",
+    "変わる",
+    "夜",
+    "大事",
+    "天才",
+    "夫婦",
+    "奥",
+    "女王",
+    "奴",
+    "姉",
+    "子",
+    "子供",
+    "実",
+    "客",
+    "少し",
+    "嵐",
+    "川",
+    "帆",
+    "度",
+    "張る",
+    "御覧",
+    "必要",
+    "忘れる",
+    "怒る",
+    "怖い",
+    "急ぐ",
+    "悪い",
+    "感じる",
+    "戻る",
+    "手",
+    "手伝う",
+    "拾う",
+    "捨てる",
+    "教える",
+    "日",
+    "明日",
+    "昨日",
+    "時間",
+    "書く",
+    "木苺",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "次回",
+    "止める",
+    "此奴",
+    "毒",
+    "気圧",
+    "気持ち",
+    "水",
+    "波",
+    "洞穴",
+    "海岸",
+    "消える",
+    "済む",
+    "漕ぐ",
+    "潜る",
+    "濡れる",
+    "無くなる",
+    "王",
+    "珍しい",
+    "痛い",
+    "目",
+    "眠る",
+    "知れる",
+    "砂",
+    "確か",
+    "秒",
+    "秘密",
+    "穴",
+    "空",
+    "素晴らしい",
+    "結ぶ",
+    "絶対",
+    "考える",
+    "聞き出す",
+    "聞こえる",
+    "自信",
+    "自分",
+    "花",
+    "苛める",
+    "茶",
+    "茸",
+    "落ちる",
+    "落とす",
+    "薬",
+    "見える",
+    "見せる",
+    "設計",
+    "話",
+    "調子",
+    "起こる",
+    "足",
+    "辺",
+    "返す",
+    "追う",
+    "通り",
+    "連れる",
+    "違う",
+    "邪魔",
+    "部屋",
+    "鋸",
+    "間",
+    "降る",
+    "随分",
+    "隠れる",
+    "集める",
+    "雨",
+    "静か",
+    "非",
+    "面白い",
+    "頭",
+    "風",
+    "飛行",
+    "飾り",
+    "髪の毛",
+    "鬼",
+    "鼾",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch40-01",
+      "japanese": "夜 に なった。",
+      "imagePrompt": "Night falls over the Moomin house. It became night! The garden sinks into darkness. Strange colored light seeps from the house windows. Moomin house at night with colored light. Medium-wide shot, eye-level. Dark spooky night light, night falling mood.",
+      "readings": [
+        {
+          "surface": "夜",
+          "reading": "よる"
+        }
+      ]
+    },
+    {
+      "id": "ch40-02",
+      "japanese": "ここ は 静か だ。",
+      "imagePrompt": "The garden is silent under the moonlight. It is quiet! Not a sound. Even the wind has stopped. The stillness is eerie. Silent moonlit garden. Medium-wide shot, eye-level. Dark silent moonlight, eerie quiet mood.",
+      "readings": [
+        {
+          "surface": "静か",
+          "reading": "しずか"
+        }
+      ]
+    },
+    {
+      "id": "ch40-03",
+      "japanese": "静か に して。",
+      "imagePrompt": "Moomintroll whispers to the group, pressing a finger to his lips. Be quiet! Something is moving outside. Everyone holds their breath. Moomintroll pressing finger to lips. Medium close-up, eye-level. Dark whispering moonlight, hushing mood.",
+      "readings": [
+        {
+          "surface": "静か",
+          "reading": "しずか"
+        }
+      ]
+    },
+    {
+      "id": "ch40-04",
+      "japanese": "静か な 夜 だ。",
+      "imagePrompt": "The Moomin Valley lies under a canopy of stars. A quiet night! The beauty of the silence is almost magical. Moonlight bathes everything in silver. Starry sky over the valley. Medium-wide shot, eye-level. Dark beautiful moonlight, peaceful night mood.",
+      "readings": [
+        {
+          "surface": "静か",
+          "reading": "しずか"
+        },
+        {
+          "surface": "夜",
+          "reading": "よる"
+        }
+      ]
+    },
+    {
+      "id": "ch40-05",
+      "japanese": "なに か が いじめている。",
+      "imagePrompt": "Something outside is chasing smaller garden creatures — a shadow moves between the bushes, scattering mice and bugs. Something is bullying! Small creatures flee in all directions. Shadow chasing small creatures. Medium shot, eye-level. Dark menacing moonlight, bullying presence mood.",
+      "readings": []
+    },
+    {
+      "id": "ch40-06",
+      "japanese": "いじめる の は だめ だ。",
+      "imagePrompt": "Moomintroll peers through the window, concerned for the small creatures. Bullying is wrong! His fists clench. He wants to help but the shadow is large. Moomintroll at the window with clenched fists. Medium close-up, eye-level. Dark concerned moonlight, righteous anger mood.",
+      "readings": []
+    },
+    {
+      "id": "ch40-07",
+      "japanese": "いじめない で！",
+      "imagePrompt": "Moomintroll opens the door and shouts into the darkness. Stop bullying! His voice rings across the garden. The shadow pauses. Small creatures freeze. Moomintroll shouting into the dark garden. Medium shot, eye-level. Dark brave moonlight, standing up mood.",
+      "readings": []
+    },
+    {
+      "id": "ch40-08",
+      "japanese": "消えた！",
+      "imagePrompt": "The shadow vanishes instantly into the darkness. It disappeared! One moment it was there, the next — nothing. Only moonlight remains. The spot where the shadow was is empty. Empty moonlit garden where the shadow was. Medium shot, eye-level. Dark shocked moonlight, vanishing mood.",
+      "readings": [
+        {
+          "surface": "消え",
+          "reading": "きえ"
+        }
+      ]
+    },
+    {
+      "id": "ch40-09",
+      "japanese": "すがた が 消えた。",
+      "imagePrompt": "The figure's form dissolved into the night air. Its shape disappeared! Like smoke blown by a wind that was not there. Only the garden creatures remain. Fading shadow in the moonlight. Medium shot, eye-level. Dark dissolving moonlight, evaporating presence mood.",
+      "readings": [
+        {
+          "surface": "消え",
+          "reading": "きえ"
+        }
+      ]
+    },
+    {
+      "id": "ch40-10",
+      "japanese": "消える の を みた。",
+      "imagePrompt": "Everyone at the window witnessed the disappearance. They saw it vanish! Wide eyes reflect the moonlight. No one can explain what they saw. Group at the window with wide eyes. Medium shot, eye-level. Dark stunned moonlight, witnessing the impossible mood.",
+      "readings": [
+        {
+          "surface": "消える",
+          "reading": "きえる"
+        }
+      ]
+    },
+    {
+      "id": "ch40-11",
+      "japanese": "奥 に ある。",
+      "imagePrompt": "Deep inside the house, a strange glow comes from the far room. Something is in the back! The colored light seeps under the door. It pulses gently. Colored light under a door. Medium shot, eye-level. Dark mysterious colored light, something inside mood.",
+      "readings": [
+        {
+          "surface": "奥",
+          "reading": "おく"
+        }
+      ]
+    },
+    {
+      "id": "ch40-12",
+      "japanese": "奥 から きた。",
+      "imagePrompt": "A sound comes from deep inside the house — footsteps. It came from the back! Heavy, slow footsteps approaching. The floor creaks. The group freezes in the hallway, colored light from the deep room seeping along the walls. Group frozen in the hallway. Medium shot, eye-level. Faint colored light from the far room illuminating fearful faces, something coming mood.",
+      "readings": [
+        {
+          "surface": "奥",
+          "reading": "おく"
+        }
+      ]
+    },
+    {
+      "id": "ch40-13",
+      "japanese": "この 奥 は 変 だ。",
+      "imagePrompt": "The far room of the house is lit with colors that should not exist there. This deep part is strange! Purple and green light moves on its own. The air feels different. Strange colored light in the room. Medium shot, eye-level. Dark strange colored light, uncanny space mood.",
+      "readings": [
+        {
+          "surface": "奥",
+          "reading": "おく"
+        },
+        {
+          "surface": "変",
+          "reading": "へん"
+        }
+      ]
+    },
+    {
+      "id": "ch40-14",
+      "japanese": "「いでよ！」 と パパ が 言った。",
+      "imagePrompt": "Papa stands in the hallway and calls toward the deep room with a commanding voice. Come forth! He spreads his arms wide. The colored light swirls in response. Papa commanding the presence. Medium shot, eye-level. Dark dramatic colored light, first summoning mood.",
+      "readings": [
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch40-15",
+      "japanese": "いでよ！",
+      "imagePrompt": "Papa stands tall and commands the hidden presence to show itself. Come forth! His voice is deep and commanding. The colored light intensifies. The room brightens. Papa commanding with raised hand. Medium shot, eye-level. Dark commanding light, summoning mood.",
+      "readings": []
+    },
+    {
+      "id": "ch40-16",
+      "japanese": "「いでよ！」 と みんな が 言った。",
+      "imagePrompt": "The whole group joins in, calling together toward the deep room. Come forth! Their combined voices echo through the house. The colored light flares brighter in answer. Group calling out together. Medium shot, eye-level. Bright dramatic colored light, collective summoning mood.",
+      "readings": [
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch40-17",
+      "japanese": "奥 から 出た！",
+      "imagePrompt": "Something steps out from the deepest room — a figure emerges through the colored light into the hallway. It came out! The silhouette becomes clearer. Recognition begins to dawn on the group's faces. Figure emerging from the room. Medium shot, eye-level. Warm revealing colored light, emergence mood.",
+      "readings": [
+        {
+          "surface": "奥",
+          "reading": "おく"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        }
+      ]
+    },
+    {
+      "id": "ch40-18",
+      "japanese": "友達 に 会った。",
+      "imagePrompt": "Moomintroll rushes forward — it is an old friend! He met a friend! Tears of joy in his eyes. The old friend smiles. The reunion is emotional. Moomintroll reuniting with a friend. Medium shot, eye-level. Warm joyful colored light, emotional reunion mood.",
+      "readings": [
+        {
+          "surface": "友達",
+          "reading": "ともだち"
+        },
+        {
+          "surface": "会っ",
+          "reading": "あっ"
+        }
+      ]
+    },
+    {
+      "id": "ch40-19",
+      "japanese": "会う の が 楽しみ だ ね。",
+      "imagePrompt": "Moomintroll and the old friend embrace. Meeting is something to look forward to! The joy of reunion fills the room. Everyone gathers around. Emotional reunion embrace. Medium shot, eye-level. Warm tender colored light, reunion joy mood.",
+      "readings": [
+        {
+          "surface": "会う",
+          "reading": "あう"
+        },
+        {
+          "surface": "楽しみ",
+          "reading": "たのしみ"
+        }
+      ]
+    },
+    {
+      "id": "ch40-20",
+      "japanese": "「会った！」 と ムーミン が 言った。",
+      "imagePrompt": "Moomintroll turns to the others with shining eyes. We met! His voice breaks with happiness. The old friend stands behind him, smiling. Moomintroll announcing the reunion. Medium close-up, eye-level. Warm happy colored light, announcing joy mood.",
+      "readings": [
+        {
+          "surface": "会っ",
+          "reading": "あっ"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch40-21",
+      "japanese": "おお、すごい。",
+      "imagePrompt": "Papa exclaims in wonder at the reunion and the mysterious colored light. Oh, amazing! His eyes are wide. The night has turned from scary to wonderful. Papa exclaiming in wonder. Medium close-up, eye-level. Warm amazed colored light, wonder exclamation mood.",
+      "readings": []
+    },
+    {
+      "id": "ch40-22",
+      "japanese": "おお！",
+      "imagePrompt": "Papa sees something else in the colored room — a treasure? A message? Something extraordinary. Oh! Pure surprise and awe. His jaw drops. Papa with jaw dropped. Medium close-up, eye-level. Bright amazed colored light, pure amazement mood.",
+      "readings": []
+    },
+    {
+      "id": "ch40-23",
+      "japanese": "「おお、きた。」 と パパ が 言った。",
+      "imagePrompt": "Papa sees more friends arriving through the colored doorway. Oh, they came! One by one, figures step through the light. A gathering of old friends. Friends arriving through colored light. Medium shot, eye-level. Warm gathering colored light, welcoming arrivals mood.",
+      "readings": [
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch40-24",
+      "japanese": "力 が ある。",
+      "imagePrompt": "Moomintroll feels a surge of strength — the power of friendship and reunion. There is power! His chest swells. The colored light seems to respond to his emotion. Moomintroll feeling empowered. Medium close-up, eye-level. Warm powerful colored light, feeling strength mood.",
+      "readings": [
+        {
+          "surface": "力",
+          "reading": "ちから"
+        }
+      ]
+    },
+    {
+      "id": "ch40-25",
+      "japanese": "力 が 必要 だ。",
+      "imagePrompt": "The old friend explains that strength is needed for what lies ahead. Power is necessary! A quest, a challenge, something that requires all of them together. Friend explaining the need for strength. Medium shot, eye-level. Warm serious colored light, understanding the mission mood.",
+      "readings": [
+        {
+          "surface": "力",
+          "reading": "ちから"
+        },
+        {
+          "surface": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "id": "ch40-26",
+      "japanese": "この 力 は すごい。",
+      "imagePrompt": "The colored light intensifies as everyone stands together. This power is amazing! Together, the group radiates strength. The room blazes with warm light. The adventure continues. Group standing together in blazing light. Medium-wide shot, eye-level. Brilliant warm colored light, collective strength mood.",
+      "readings": [
+        {
+          "surface": "力",
+          "reading": "ちから"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 26,
+      "newLemmaUsage": {
+        "おお": 3,
+        "会う": 3,
+        "出でる": 3,
+        "力": 3,
+        "奥": 4,
+        "消える": 3,
+        "苛める": 3,
+        "静か": 3
+      }
+    }
+  }
+}

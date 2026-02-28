@@ -1,0 +1,584 @@
+{
+  "chapter": 22,
+  "title": "海岸 に いったら",
+  "grammarStep": 16,
+  "grammarName": "Conditional: たら",
+  "scene": {
+    "location": "ムーミンやしきの台所",
+    "description": "The warm kitchen inside the Moomin house. Mama at the table with tea. Chairs around a big table. Steam from teacups. Morning light through round windows.",
+    "characters": [
+      "ムーミン",
+      "ママ",
+      "パパ"
+    ],
+    "props": [
+      "家"
+    ]
+  },
+  "newLemmas": [
+    "素晴らしい",
+    "ゆっくり",
+    "もっと",
+    "無くなる",
+    "ちょうだい",
+    "楽しみ",
+    "間",
+    "必要"
+  ],
+  "whitelist": [
+    "―",
+    "…",
+    "─",
+    "、",
+    "。",
+    "ああ",
+    "あいつ",
+    "あげる",
+    "あそこ",
+    "あそぶ",
+    "あっ",
+    "あなた",
+    "あの",
+    "ありがとう",
+    "ある",
+    "あれ",
+    "い",
+    "いい",
+    "いう",
+    "いえ",
+    "いく",
+    "いっか",
+    "いっしょ",
+    "いつ",
+    "いや",
+    "いる",
+    "いれる",
+    "うみ",
+    "うん",
+    "ええ",
+    "えっ",
+    "えー",
+    "お",
+    "おい",
+    "おおきい",
+    "おきる",
+    "おく",
+    "おまえ",
+    "おもう",
+    "おりる",
+    "おんな",
+    "か",
+    "かいがら",
+    "かえる",
+    "かお",
+    "かくれんぼ",
+    "かしら",
+    "から",
+    "が",
+    "き",
+    "きく",
+    "きっと",
+    "きみ",
+    "きれい",
+    "くらい",
+    "くる",
+    "くれる",
+    "くん",
+    "ぐらい",
+    "けど",
+    "けれど",
+    "ここ",
+    "こそ",
+    "こちら",
+    "こと",
+    "この",
+    "これ",
+    "こんな",
+    "ご",
+    "さ",
+    "さあ",
+    "さえ",
+    "さがす",
+    "さっき",
+    "さま",
+    "さん",
+    "し",
+    "しか",
+    "しま",
+    "しまう",
+    "しる",
+    "じゃ",
+    "すがた",
+    "すぐ",
+    "する",
+    "ず",
+    "そう",
+    "そこ",
+    "その",
+    "それ",
+    "そんな",
+    "ぞ",
+    "た",
+    "たい",
+    "たち",
+    "たに",
+    "たべる",
+    "たり",
+    "だ",
+    "だいじょうぶ",
+    "だから",
+    "だけ",
+    "だす",
+    "だめ",
+    "だれ",
+    "ちいさい",
+    "ちゃう",
+    "ちゃん",
+    "ちょうだい",
+    "ちょっと",
+    "って",
+    "つ",
+    "つくる",
+    "て",
+    "てる",
+    "で",
+    "でも",
+    "でる",
+    "と",
+    "ところ",
+    "とても",
+    "どう",
+    "どうぞ",
+    "どこ",
+    "な",
+    "ない",
+    "なか",
+    "など",
+    "なに",
+    "なる",
+    "なんか",
+    "なんて",
+    "に",
+    "にょろにょろ",
+    "ね",
+    "ねる",
+    "の",
+    "のむ",
+    "のる",
+    "は",
+    "はい",
+    "はいる",
+    "はやい",
+    "ば",
+    "ひと",
+    "ひとり",
+    "ふたり",
+    "ふね",
+    "へ",
+    "ほう",
+    "ほど",
+    "ほら",
+    "ほんとう",
+    "ぼうし",
+    "ぼく",
+    "まあ",
+    "また",
+    "まだ",
+    "まつ",
+    "まで",
+    "みたい",
+    "みつかる",
+    "みつける",
+    "みる",
+    "みんな",
+    "も",
+    "もう",
+    "もちろん",
+    "もっと",
+    "もつ",
+    "もの",
+    "もらう",
+    "もん",
+    "や",
+    "やっぱり",
+    "やま",
+    "やる",
+    "ゆっくり",
+    "よ",
+    "よう",
+    "よく",
+    "よし",
+    "よぶ",
+    "より",
+    "ら",
+    "わ",
+    "わかる",
+    "わたし",
+    "を",
+    "スナフキン",
+    "スニフ",
+    "スラン",
+    "スーツケース-suitcase",
+    "ニンニ",
+    "パパ",
+    "フローレン",
+    "ママ",
+    "ミムラ",
+    "ムーミン",
+    "モラン",
+    "ルビー-ruby",
+    "・",
+    "一",
+    "下さる",
+    "不",
+    "二",
+    "今",
+    "今日",
+    "先",
+    "助ける",
+    "動く",
+    "取る",
+    "声",
+    "変",
+    "変わる",
+    "奴",
+    "姉",
+    "子",
+    "少し",
+    "度",
+    "必要",
+    "怖い",
+    "手",
+    "日",
+    "昨日",
+    "書く",
+    "植物",
+    "楽しい",
+    "楽しみ",
+    "止める",
+    "気圧",
+    "水",
+    "海岸",
+    "無くなる",
+    "目",
+    "確か",
+    "穴",
+    "素晴らしい",
+    "絶対",
+    "自信",
+    "自分",
+    "茸",
+    "落ちる",
+    "見える",
+    "見せる",
+    "話",
+    "違う",
+    "部屋",
+    "間",
+    "随分",
+    "隠れる",
+    "雨",
+    "非",
+    "面白い",
+    "風",
+    "飛行",
+    "！",
+    "？"
+  ],
+  "sentences": [
+    {
+      "id": "ch22-01",
+      "japanese": "海岸 に いったら いい ね。",
+      "imagePrompt": "Moominmamma's warm kitchen. Everyone sits around the big table discussing plans. Morning light through round windows. Tea steams on the table. Mama listens as Moomintroll proposes going to the coast. Family planning at the kitchen table. Medium-wide shot, eye-level. Warm morning kitchen light, planning mood.",
+      "readings": [
+        {
+          "surface": "海岸",
+          "reading": "かいがん"
+        }
+      ]
+    },
+    {
+      "id": "ch22-02",
+      "japanese": "「素晴らしい！」 と 言った。",
+      "imagePrompt": "Moomintroll jumps up from his chair with excitement, hands raised high. A wonderful idea! His enthusiasm fills the kitchen. Everyone watches him. Moomintroll jumping up excitedly. Medium shot, eye-level. Bright excited kitchen light, enthusiastic approval mood.",
+      "readings": [
+        {
+          "surface": "素晴らしい",
+          "reading": "すばらしい"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch22-03",
+      "japanese": "ゆっくり いく。",
+      "imagePrompt": "Moominmamma gestures calmly with both hands, suggesting they take their time. No rush. She pours tea steadily with the other hand. Peaceful atmosphere. Moominmamma gesturing calmly. Medium shot, eye-level. Warm calm kitchen light, unhurried mood.",
+      "readings": []
+    },
+    {
+      "id": "ch22-04",
+      "japanese": "「必要 な もの は？」 と 言った。",
+      "imagePrompt": "Moominpappa holds a pencil and paper, making a list of supplies. What things do they need for the trip? He looks at each person around the table. Moominpappa making a list. Medium close-up, eye-level. Warm practical kitchen light, organized planning mood.",
+      "readings": [
+        {
+          "surface": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch22-05",
+      "japanese": "水 が 必要 だ。",
+      "imagePrompt": "Moominmamma places water bottles on the table firmly. Water is essential for the trip. The bottles line up neatly. Clear practical gesture. Water bottles placed on the table. Medium close-up, eye-level. Warm practical kitchen light, essential supply mood.",
+      "readings": [
+        {
+          "surface": "水",
+          "reading": "みず"
+        },
+        {
+          "surface": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "id": "ch22-06",
+      "japanese": "水 が 無くなったら だめ だ。",
+      "imagePrompt": "Moominpappa holds up an empty bottle to illustrate his point — if the water runs out, they are in trouble. His expression is serious and cautionary. Moominpappa with empty bottle. Medium shot, eye-level. Warm cautionary kitchen light, warning mood.",
+      "readings": [
+        {
+          "surface": "水",
+          "reading": "みず"
+        },
+        {
+          "surface": "無くなっ",
+          "reading": "なくなっ"
+        }
+      ]
+    },
+    {
+      "id": "ch22-07",
+      "japanese": "もっと 水 が 必要 だ。",
+      "imagePrompt": "Sniff adds more water containers to the growing pile of supplies on the table. More water is needed for safety. The stack of supplies grows higher. Sniff adding water containers to pile. Medium shot, eye-level. Warm busy kitchen light, adding supplies mood.",
+      "readings": [
+        {
+          "surface": "水",
+          "reading": "みず"
+        },
+        {
+          "surface": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "id": "ch22-08",
+      "japanese": "「ちょうだい」 と ムーミン が 言った。",
+      "imagePrompt": "Moomintroll reaches toward a plate of fresh cookies Moominmamma has set out. Give me some! His eyes are fixed on the snacks. Moomintroll reaching for cookies. Medium close-up, eye-level. Warm cozy kitchen light, requesting mood.",
+      "readings": [
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch22-09",
+      "japanese": "もっと ちょうだい。",
+      "imagePrompt": "Moomintroll holds his plate out for more cookies, cheeks already stuffed. Mama smiles at his appetite. More please! Moomintroll asking for more cookies. Medium shot, eye-level. Warm indulgent kitchen light, greedy snacking mood.",
+      "readings": []
+    },
+    {
+      "id": "ch22-10",
+      "japanese": "ゆっくり 食べて。",
+      "imagePrompt": "Moominmamma gently scolds Moomintroll, wagging her finger. Eat slowly! Moomintroll chews with stuffed cheeks, looking sheepish. Moominmamma scolding gently. Medium shot, eye-level. Warm maternal kitchen light, gentle admonishment mood.",
+      "readings": [
+        {
+          "surface": "食べ",
+          "reading": "たべ"
+        }
+      ]
+    },
+    {
+      "id": "ch22-11",
+      "japanese": "海岸 に いったら 素晴らしい。",
+      "imagePrompt": "Moomintroll gazes out the kitchen window toward the distant sea, daydreaming. If they go to the coast it will be wonderful. His imagination fills with sparkling beaches. Moomintroll daydreaming by the window. Medium shot, eye-level. Warm dreamy kitchen light, anticipatory wonder mood.",
+      "readings": [
+        {
+          "surface": "海岸",
+          "reading": "かいがん"
+        },
+        {
+          "surface": "素晴らしい",
+          "reading": "すばらしい"
+        }
+      ]
+    },
+    {
+      "id": "ch22-12",
+      "japanese": "楽しみ だ！",
+      "imagePrompt": "Moomintroll pumps his fist with excitement at the table. He is looking forward to it! Pure anticipation radiates from his face. Moomintroll excited fist pump. Medium close-up, eye-level. Bright eager kitchen light, pure anticipation mood.",
+      "readings": [
+        {
+          "surface": "楽しみ",
+          "reading": "たのしみ"
+        }
+      ]
+    },
+    {
+      "id": "ch22-13",
+      "japanese": "この 間 に 水 を もっと 入れた。",
+      "imagePrompt": "In the meantime, Moominmamma efficiently fills more bottles at the kitchen tap. Water streams into the bottles. She works calmly while others eat. Moominmamma filling water bottles at the tap. Medium shot, eye-level. Warm efficient kitchen light, practical preparation mood.",
+      "readings": [
+        {
+          "surface": "間",
+          "reading": "あいだ"
+        },
+        {
+          "surface": "水",
+          "reading": "みず"
+        },
+        {
+          "surface": "入れ",
+          "reading": "いれ"
+        }
+      ]
+    },
+    {
+      "id": "ch22-14",
+      "japanese": "「無くなったら どう する？」 と 言った。",
+      "imagePrompt": "Sniff looks worried, holding a nearly empty food container. What do they do if supplies run out on the trip? His whiskers droop with anxiety. Sniff worried about supplies. Medium shot, eye-level. Warm anxious kitchen light, worried questioning mood.",
+      "readings": [
+        {
+          "surface": "無くなっ",
+          "reading": "なくなっ"
+        },
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch22-15",
+      "japanese": "「ゆっくり でも いい」 と ママ が 言った。",
+      "imagePrompt": "Moominmamma smiles reassuringly, hands resting on the table. Even if they go slowly, that is fine. Her calm presence steadies everyone. Moominmamma reassuring the family. Medium shot, eye-level. Warm reassuring kitchen light, calming acceptance mood.",
+      "readings": [
+        {
+          "surface": "言っ",
+          "reading": "いっ"
+        }
+      ]
+    },
+    {
+      "id": "ch22-16",
+      "japanese": "楽しみ に する！",
+      "imagePrompt": "Snork Maiden clasps her hands together with sparkling eyes. She will look forward to the trip! Bright expression of anticipation on her face. Snork Maiden excited. Medium shot, eye-level. Bright eager kitchen light, hopeful anticipation mood.",
+      "readings": [
+        {
+          "surface": "楽しみ",
+          "reading": "たのしみ"
+        }
+      ]
+    },
+    {
+      "id": "ch22-17",
+      "japanese": "間 に 楽しい こと が ある。",
+      "imagePrompt": "The family enjoys cookies and tea together between preparations. In the meantime there is joy right here. Warm kitchen togetherness around the table. Family enjoying snacks between preparations. Medium-wide shot, eye-level. Warm togetherness kitchen light, simple enjoyment mood.",
+      "readings": [
+        {
+          "surface": "間",
+          "reading": "ま"
+        },
+        {
+          "surface": "楽しい",
+          "reading": "たのしい"
+        }
+      ]
+    },
+    {
+      "id": "ch22-18",
+      "japanese": "素晴らしい もの が ある。",
+      "imagePrompt": "Moominpappa pulls out a wonderful old map from a drawer, showing the full coastline. Everyone gathers around to see the detailed drawings. Moominpappa showing a map to the group. Medium shot, eye-level. Warm discovering kitchen light, exciting find mood.",
+      "readings": [
+        {
+          "surface": "素晴らしい",
+          "reading": "すばらしい"
+        }
+      ]
+    },
+    {
+      "id": "ch22-19",
+      "japanese": "もの が 無くなった！",
+      "imagePrompt": "Sniff panics — all the cookies are gone from the plate! He holds up the empty plate with dismay. Not a crumb remains. Sniff holding empty plate in dismay. Medium close-up, eye-level. Bright comic kitchen light, dismayed mood.",
+      "readings": [
+        {
+          "surface": "無くなっ",
+          "reading": "なくなっ"
+        }
+      ]
+    },
+    {
+      "id": "ch22-20",
+      "japanese": "間 に 食べた もの だ。",
+      "imagePrompt": "Moominmamma points at crumbs on Moomintroll's face — he ate them all in the meantime! Moomintroll looks guilty with crumb evidence. Caught! Moominmamma pointing at Moomintroll's guilty face. Medium close-up, eye-level. Warm amused kitchen light, caught mood.",
+      "readings": [
+        {
+          "surface": "間",
+          "reading": "ま"
+        },
+        {
+          "surface": "食べ",
+          "reading": "たべ"
+        }
+      ]
+    },
+    {
+      "id": "ch22-21",
+      "japanese": "もっと ちょうだい！",
+      "imagePrompt": "Moomintroll and Sniff both reach toward Mama with outstretched hands, pleading for more snacks. Mama laughs at their appetite. Both reaching for more. Medium shot, eye-level. Warm indulgent kitchen light, pleading mood.",
+      "readings": []
+    },
+    {
+      "id": "ch22-22",
+      "japanese": "とても 楽しみ だ ね。",
+      "imagePrompt": "Evening. The family sits around the fully packed supplies on the kitchen table, all smiling. Tomorrow the expedition begins. Everyone shares the anticipation. Family around packed supplies, smiling. Medium-wide shot, eye-level. Warm evening kitchen light, shared anticipation mood.",
+      "readings": [
+        {
+          "surface": "楽しみ",
+          "reading": "たのしみ"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 22,
+      "newLemmaUsage": {
+        "ちょうだい": 3,
+        "もっと": 4,
+        "ゆっくり": 3,
+        "必要": 3,
+        "楽しみ": 3,
+        "無くなる": 3,
+        "素晴らしい": 3,
+        "間": 3
+      }
+    }
+  }
+}
