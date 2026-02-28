@@ -5,8 +5,7 @@ __pycache__/
 # Reference images (large, not for public repo)
 reference_images/
 
-# Generated images (not yet generated / large binaries)
-pipeline_output/images_gemini/
+# Batch job files (API internals)
 pipeline_output/batch/
 
 # Pipeline intermediate outputs (keep only chapters/)
