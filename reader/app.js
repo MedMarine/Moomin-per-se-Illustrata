@@ -7,6 +7,7 @@
 // ============================================================
 
 const JSON_BASE = '../pipeline_output/chapters';
+const IMAGE_BASE = '../pipeline_output/images_gemini';
 const MANIFEST_URL = `${JSON_BASE}/manifest.json`;
 const MAX_CHAPTER_PROBE = 99; // fallback if no manifest
 
@@ -301,26 +302,44 @@ function renderReader(chapter) {
     // Render Japanese with furigana
     const japaneseHtml = renderJapaneseWithFurigana(s);
 
-    // Check if a real image exists
-    if (s.image) {
-      card.innerHTML = `
-        <img class="sentence-image"
-             src="${escapeHtml(s.image)}"
-             alt="${escapeHtml(s.imagePrompt)}"
-             loading="lazy">
-        <p class="sentence-japanese">${japaneseHtml}</p>
-        <span class="sentence-id">${escapeHtml(s.id)}</span>
-      `;
-    } else {
-      card.innerHTML = `
-        <div class="image-placeholder">
-          <div class="placeholder-icon">\uD83D\uDDBC\uFE0F</div>
-          <p class="placeholder-caption">${escapeHtml(s.imagePrompt)}</p>
-        </div>
-        <p class="sentence-japanese">${japaneseHtml}</p>
-        <span class="sentence-id">${escapeHtml(s.id)}</span>
-      `;
-    }
+    // Image: use explicit s.image if set, otherwise auto-detect from
+    // IMAGE_BASE/{id}.png. On load failure, swap to the placeholder.
+    // Images appear instantly when generated — just refresh the page.
+    const imgSrc = s.image || `${IMAGE_BASE}/${s.id}.png`;
+    const promptText = s.imagePrompt || '';
+
+    const wrapper = document.createElement('div');
+    wrapper.className = 'image-wrapper';
+
+    const img = document.createElement('img');
+    img.className = 'sentence-image';
+    img.alt = promptText;
+    img.loading = 'lazy';
+    img.addEventListener('error', () => {
+      wrapper.innerHTML = '';
+      const ph = document.createElement('div');
+      ph.className = 'image-placeholder';
+      ph.innerHTML = `<div class="placeholder-icon">\uD83D\uDDBC\uFE0F</div>`;
+      const cap = document.createElement('p');
+      cap.className = 'placeholder-caption';
+      cap.textContent = promptText;
+      ph.appendChild(cap);
+      wrapper.appendChild(ph);
+    }, { once: true });
+    img.src = imgSrc;
+    wrapper.appendChild(img);
+
+    card.appendChild(wrapper);
+
+    const jp = document.createElement('p');
+    jp.className = 'sentence-japanese';
+    jp.innerHTML = japaneseHtml;
+    card.appendChild(jp);
+
+    const idSpan = document.createElement('span');
+    idSpan.className = 'sentence-id';
+    idSpan.textContent = s.id;
+    card.appendChild(idSpan);
 
     container.appendChild(card);
   });

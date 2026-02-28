@@ -341,6 +341,12 @@ body {
   font-family: monospace;
 }
 
+/* Image wrapper (structural container for error-swap fallback) */
+
+.image-wrapper {
+  width: 100%;
+}
+
 /* Image placeholders */
 
 .image-placeholder {
