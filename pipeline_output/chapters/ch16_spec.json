@@ -224,7 +224,8 @@
           "surface": "風",
           "reading": "かぜ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch16-02",
@@ -235,7 +236,8 @@
           "surface": "風",
           "reading": "ふう"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch16-03",
@@ -246,7 +248,8 @@
           "surface": "日",
           "reading": "ひ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch16-04",
@@ -261,37 +264,43 @@
           "surface": "風",
           "reading": "かぜ"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch16-05",
       "japanese": "あいつ は だれ？",
       "imagePrompt": "Moomintroll squints into the wind at a figure approaching from the valley path below. Wind-blown silhouette climbing the hill. Distant figure in the wind. Medium shot, eye-level. Bright hazy windy light, squinting curiosity mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch16-06",
       "japanese": "あいつ が きた！",
       "imagePrompt": "Sniff emerges from behind the hilltop rocks, wind-blown and out of breath. His big ears flap in the gusts. Sniff arriving windblown on the hilltop. Medium shot, eye-level. Bright gusty light, breathless arrival mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch16-07",
       "japanese": "ほら、あいつ は スニフ だ。",
       "imagePrompt": "Sniff stands on the hilltop waving, his long ears streaming in the wind like flags. Moomintroll recognizes him. Sniff identified on the hilltop. Medium shot, eye-level. Bright clear windy light, recognition mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch16-08",
       "japanese": "こちら に きて！",
       "imagePrompt": "Moomintroll waves Sniff over, gesturing toward a sheltered spot behind a large rock on the hilltop. Wind whips around the rock. Moomintroll beckoning toward shelter. Medium shot, eye-level. Bright windy light with sheltered shadow, urgent invitation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch16-09",
       "japanese": "はい！",
       "imagePrompt": "Sniff nods eagerly and scrambles toward the sheltered spot behind the rock. His body leans against the wind. Sniff heading for shelter. Medium shot, eye-level. Bright gusty hilltop light, eager compliance mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch16-10",
@@ -302,7 +311,8 @@
           "surface": "手",
           "reading": "て"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch16-11",
@@ -313,7 +323,8 @@
           "surface": "手",
           "reading": "て"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch16-12",
@@ -328,7 +339,8 @@
           "surface": "見え",
           "reading": "みえ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch16-13",
@@ -339,7 +351,8 @@
           "surface": "飛行",
           "reading": "ひこう"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch16-14",
@@ -354,25 +367,29 @@
           "surface": "飛行",
           "reading": "ひこう"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch16-15",
       "japanese": "おりる！",
       "imagePrompt": "The flying object suddenly drops from the sky toward the group. Everyone ducks. It crashes into the grass nearby. Object dropping suddenly. Medium shot, eye-level. Bright flash of movement, urgent warning mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch16-16",
       "japanese": "おりて きて！",
       "imagePrompt": "Moomintroll waves urgently at Sniff who clings to a tall rock above him. Wind threatens to blow Sniff off. Moomintroll gestures downward with concern. Moomintroll calling Sniff down from the rock. Medium shot, eye-level. Bright dangerous windy light, urgent command mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch16-17",
       "japanese": "はい、おりる よ。",
       "imagePrompt": "Sniff carefully climbs down the rock, gripping with both hands. Wind tugs at his ears. The valley stretches far below. Sniff climbing down carefully. Medium shot, slightly low angle. Bright windy light, careful obedient mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch16-18",
@@ -383,19 +400,22 @@
           "surface": "手",
           "reading": "て"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch16-19",
       "japanese": "こちら の ほう が いい。",
       "imagePrompt": "Snufkin points to the sheltered side of the hill where the wind is calmer. Trees stand still on that side. Calm contrasts with windy. Snufkin pointing to the calm side. Medium shot, eye-level. Bright calm light versus windy side, wise direction mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch16-20",
       "japanese": "ほら、こちら へ いく。",
       "imagePrompt": "The group walks toward the sheltered side of the hilltop, wind dying down with each step. Relief visible on their faces. Group moving to shelter. Medium-wide shot, eye-level. Transitioning from windy to calm light, relieved retreat mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch16-21",
@@ -406,7 +426,8 @@
           "surface": "日",
           "reading": "ひ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch16-22",
@@ -417,7 +438,8 @@
           "surface": "飛行",
           "reading": "ひこう"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

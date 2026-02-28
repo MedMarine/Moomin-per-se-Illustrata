@@ -477,7 +477,8 @@
           "surface": "風",
           "reading": "かぜ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-02",
@@ -488,7 +489,8 @@
           "surface": "入り口",
           "reading": "いりぐち"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-03",
@@ -499,7 +501,8 @@
           "surface": "入り口",
           "reading": "いりぐち"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-04",
@@ -510,7 +513,8 @@
           "surface": "驚い",
           "reading": "おどろい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-05",
@@ -521,7 +525,8 @@
           "surface": "驚い",
           "reading": "おどろい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-06",
@@ -532,7 +537,8 @@
           "surface": "驚く",
           "reading": "おどろく"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch42-07",
@@ -543,7 +549,8 @@
           "surface": "全く",
           "reading": "まったく"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-08",
@@ -554,7 +561,8 @@
           "surface": "全く",
           "reading": "まったく"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-09",
@@ -569,13 +577,15 @@
           "surface": "全く",
           "reading": "まったく"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-10",
       "japanese": "よいしょ！",
       "imagePrompt": "Papa heaves a heavy chest against the leaking door. Heave-ho! His muscles strain. The chest scrapes across the floor with a grinding sound. Papa pushing heavy chest. Medium shot, eye-level. Dim exertion firelight, physical effort mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-11",
@@ -586,13 +596,15 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch42-12",
       "japanese": "よいしょ、よいしょ！",
       "imagePrompt": "Everyone joins in pushing furniture against the walls to block leaks. Heave-ho, heave-ho! Multiple voices chanting together. Chairs and tables slide across the floor. Group moving furniture. Medium shot, eye-level. Active warm firelight, collective labor mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-13",
@@ -603,7 +615,8 @@
           "surface": "持ち主",
           "reading": "もちぬし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-14",
@@ -614,7 +627,8 @@
           "surface": "持ち主",
           "reading": "もちぬし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-15",
@@ -625,7 +639,8 @@
           "surface": "持ち主",
           "reading": "もちぬし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-16",
@@ -636,7 +651,8 @@
           "surface": "為",
           "reading": "ため"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-17",
@@ -651,7 +667,8 @@
           "surface": "為",
           "reading": "ため"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch42-18",
@@ -662,7 +679,8 @@
           "surface": "為",
           "reading": "ため"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-19",
@@ -677,7 +695,8 @@
           "surface": "帽子",
           "reading": "ぼうし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-20",
@@ -688,7 +707,8 @@
           "surface": "取り戻す",
           "reading": "とりもどす"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-21",
@@ -703,7 +723,8 @@
           "surface": "取り戻し",
           "reading": "とりもどし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-22",
@@ -718,7 +739,8 @@
           "surface": "大変",
           "reading": "たいへん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-23",
@@ -733,7 +755,8 @@
           "surface": "所為",
           "reading": "せい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch42-24",
@@ -748,7 +771,8 @@
           "surface": "所為",
           "reading": "せい"
         }
-      ]
+      ],
+      "speaker": "ミー"
     },
     {
       "id": "ch42-25",
@@ -759,7 +783,8 @@
           "surface": "所為",
           "reading": "せい"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     }
   ],
   "validation": {

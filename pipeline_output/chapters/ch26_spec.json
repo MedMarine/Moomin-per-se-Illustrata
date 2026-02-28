@@ -343,19 +343,22 @@
           "surface": "花",
           "reading": "はな"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch26-02",
       "japanese": "あの ビフ が きた！",
       "imagePrompt": "Suddenly Biff appears at the edge of the meadow, running toward the group. A large angry figure charging through the flowers. The peaceful scene is shattered. Biff running into the meadow. Medium shot, eye-level. Harsh urgent spring light, alarming arrival mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch26-03",
       "japanese": "ハンドバッグ が ない！",
       "imagePrompt": "Moominmamma clutches at empty air where her handbag was. It is gone! A sudden gust scattered everything. She looks around frantically. Moominmamma missing her handbag. Medium shot, eye-level. Bright frantic spring light, panicked loss mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch26-04",
@@ -370,7 +373,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch26-05",
@@ -381,7 +385,8 @@
           "surface": "追っ",
           "reading": "おっ"
         }
-      ]
+      ],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch26-06",
@@ -392,13 +397,15 @@
           "surface": "追う",
           "reading": "おう"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch26-07",
       "japanese": "ひどい こと だ。",
       "imagePrompt": "Sniff shakes his head in dismay. This is a terrible thing happening in their peaceful meadow. The chase continues in the background. Sniff shaking his head. Medium shot, eye-level. Troubled spring light, dismayed commentary mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch26-08",
@@ -409,7 +416,8 @@
           "surface": "他",
           "reading": "ほか"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch26-09",
@@ -420,19 +428,22 @@
           "surface": "花",
           "reading": "はな"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch26-10",
       "japanese": "コレクション が ある。",
       "imagePrompt": "Inside the open handbag on the ground, a collection of precious items is visible — shells, pressed flowers, small mementos. A lifetime of collected treasures. Collection visible inside the handbag. Medium close-up, eye-level. Warm revealing spring light, treasure reveal mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch26-11",
       "japanese": "ハンドバッグ の なか に コレクション が ある。",
       "imagePrompt": "Close view of the handbag's contents — Moominmamma's personal collection of precious keepsakes arranged inside. She points at them, explaining their importance. Moominmamma showing her collection. Medium close-up, eye-level. Warm precious spring light, sentimental value mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch26-12",
@@ -451,7 +462,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch26-13",
@@ -462,7 +474,8 @@
           "surface": "他",
           "reading": "た"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch26-14",
@@ -473,13 +486,15 @@
           "surface": "追う",
           "reading": "おう"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch26-15",
       "japanese": "ビフ は ひどい。",
       "imagePrompt": "Biff stands sheepishly as the group glares at him. He is terrible for what he did. His shoulders droop under their collective disapproval. Biff standing sheepishly. Medium shot, eye-level. Harsh judging spring light, shamed mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch26-16",
@@ -494,13 +509,15 @@
           "surface": "返す",
           "reading": "かえす"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch26-17",
       "japanese": "コレクション を みせて。",
       "imagePrompt": "Moominmamma opens the handbag and shows her collection to everyone now that it is recovered. She beams with relief. The precious items sparkle in the spring light. Moominmamma showing her collection happily. Medium shot, eye-level. Warm proud spring light, recovered treasure display mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch26-18",
@@ -515,7 +532,8 @@
           "surface": "楽しい",
           "reading": "たのしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch26-19",
@@ -526,7 +544,8 @@
           "surface": "返し",
           "reading": "かえし"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch26-20",
@@ -537,7 +556,8 @@
           "surface": "追っ",
           "reading": "おっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

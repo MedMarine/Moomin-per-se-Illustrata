@@ -454,7 +454,8 @@
           "surface": "夜",
           "reading": "よる"
         }
-      ]
+      ],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch40-02",
@@ -465,7 +466,8 @@
           "surface": "静か",
           "reading": "しずか"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-03",
@@ -476,7 +478,8 @@
           "surface": "静か",
           "reading": "しずか"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-04",
@@ -491,25 +494,29 @@
           "surface": "夜",
           "reading": "よる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-05",
       "japanese": "なに か が いじめている。",
       "imagePrompt": "Something outside is chasing smaller garden creatures — a shadow moves between the bushes, scattering mice and bugs. Something is bullying! Small creatures flee in all directions. Shadow chasing small creatures. Medium shot, eye-level. Dark menacing moonlight, bullying presence mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-06",
       "japanese": "いじめる の は だめ だ。",
       "imagePrompt": "Moomintroll peers through the window, concerned for the small creatures. Bullying is wrong! His fists clench. He wants to help but the shadow is large. Moomintroll at the window with clenched fists. Medium close-up, eye-level. Dark concerned moonlight, righteous anger mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-07",
       "japanese": "いじめない で！",
       "imagePrompt": "Moomintroll opens the door and shouts into the darkness. Stop bullying! His voice rings across the garden. The shadow pauses. Small creatures freeze. Moomintroll shouting into the dark garden. Medium shot, eye-level. Dark brave moonlight, standing up mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-08",
@@ -520,7 +527,8 @@
           "surface": "消え",
           "reading": "きえ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-09",
@@ -531,7 +539,8 @@
           "surface": "消え",
           "reading": "きえ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-10",
@@ -542,7 +551,8 @@
           "surface": "消える",
           "reading": "きえる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-11",
@@ -553,7 +563,8 @@
           "surface": "奥",
           "reading": "おく"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-12",
@@ -564,7 +575,8 @@
           "surface": "奥",
           "reading": "おく"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-13",
@@ -579,7 +591,8 @@
           "surface": "変",
           "reading": "へん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-14",
@@ -590,13 +603,15 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch40-15",
       "japanese": "いでよ！",
       "imagePrompt": "Papa stands tall and commands the hidden presence to show itself. Come forth! His voice is deep and commanding. The colored light intensifies. The room brightens. Papa commanding with raised hand. Medium shot, eye-level. Dark commanding light, summoning mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-16",
@@ -607,7 +622,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-17",
@@ -622,7 +638,8 @@
           "surface": "出",
           "reading": "で"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-18",
@@ -637,7 +654,8 @@
           "surface": "会っ",
           "reading": "あっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-19",
@@ -652,7 +670,8 @@
           "surface": "楽しみ",
           "reading": "たのしみ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-20",
@@ -667,19 +686,22 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-21",
       "japanese": "おお、すごい。",
       "imagePrompt": "Papa exclaims in wonder at the reunion and the mysterious colored light. Oh, amazing! His eyes are wide. The night has turned from scary to wonderful. Papa exclaiming in wonder. Medium close-up, eye-level. Warm amazed colored light, wonder exclamation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-22",
       "japanese": "おお！",
       "imagePrompt": "Papa sees something else in the colored room — a treasure? A message? Something extraordinary. Oh! Pure surprise and awe. His jaw drops. Papa with jaw dropped. Medium close-up, eye-level. Bright amazed colored light, pure amazement mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "パパ"
     },
     {
       "id": "ch40-23",
@@ -690,7 +712,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch40-24",
@@ -701,7 +724,8 @@
           "surface": "力",
           "reading": "ちから"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-25",
@@ -716,7 +740,8 @@
           "surface": "必要",
           "reading": "ひつよう"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch40-26",
@@ -727,7 +752,8 @@
           "surface": "力",
           "reading": "ちから"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

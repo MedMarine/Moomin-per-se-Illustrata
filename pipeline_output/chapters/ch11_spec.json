@@ -183,43 +183,50 @@
           "surface": "今日",
           "reading": "きょう"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-02",
       "japanese": "あそぶ よ！",
       "imagePrompt": "Moomintroll jumps excitedly in the garden, one arm raised announcing the game. Bushes and the Moomin house behind him. Medium close-up, eye-level. Bright cheerful sunlight, eager announcement mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-03",
       "japanese": "スニフ さん！",
       "imagePrompt": "Moomintroll calls toward Sniff who peeks from behind a garden bush. Sniff's ears visible above the green leaves. Medium shot, eye-level. Dappled afternoon light through leaves, friendly calling mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-04",
       "japanese": "ニンニ さん も あそぶ ね。",
       "imagePrompt": "Ninny's faint outline stands near Moomintroll in the garden, nodding shyly. Moomintroll gestures welcomingly. Faint shimmer where Ninny stands. Medium two-shot, eye-level. Soft warm afternoon light, gentle inclusion mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-05",
       "japanese": "スナフキン さん は どう？",
       "imagePrompt": "Moomintroll looks toward Snufkin who sits under a tree with his fishing hat, considering whether to join. Guitar beside him on the grass. Medium shot, eye-level. Dappled shade under tree, relaxed questioning mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-06",
       "japanese": "うん、いい よ。",
       "imagePrompt": "Snufkin nods with a gentle smile under the tree, setting his guitar aside. He stands up to join the game. Close-up of Snufkin nodding. Medium close-up, eye-level. Warm shade light, easy-going agreement mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch11-07",
       "japanese": "よし、さがす！",
       "imagePrompt": "Moomintroll covers his eyes with both hands, counting against a large tree trunk. Other characters scatter into the garden behind him. Moomintroll counting at the tree. Medium shot, eye-level. Bright afternoon light, game-starting excitement mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-08",
@@ -230,19 +237,22 @@
           "surface": "木",
           "reading": "き"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-09",
       "japanese": "ほら、なか を みる！",
       "imagePrompt": "Moomintroll pulls back a bush to reveal the dark interior, leaning in to look. Leaves part to show shadows inside. Moomintroll parting bushes to look inside. Medium close-up, eye-level. Bright outside contrasting dark inside, discovery mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-10",
       "japanese": "この なか に いる？",
       "imagePrompt": "Moomintroll crouches beside a garden shed, peering through a crack in the wooden door. Afternoon light falls on the shed wall. Moomintroll at the shed door. Medium shot, eye-level. Warm wood tones with shadow, investigative mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-11",
@@ -253,7 +263,8 @@
           "surface": "目",
           "reading": "め"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-12",
@@ -268,25 +279,29 @@
           "surface": "見え",
           "reading": "みえ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-13",
       "japanese": "はやい！",
       "imagePrompt": "Sniff bursts from the bush and sprints across the garden, a blur of movement. Leaves scatter behind him. Sniff running fast through the garden. Medium-wide shot, eye-level. Bright action-filled afternoon light, sudden speed mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch11-14",
       "japanese": "はやい よ！",
       "imagePrompt": "Moomintroll chases after Sniff but falls behind, arms pumping. Sniff is already far ahead near the house. The chase across the garden. Medium-wide shot, eye-level. Bright dynamic afternoon light, breathless pursuit mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-15",
       "japanese": "スニフ は はやい ね。",
       "imagePrompt": "Moomintroll stands catching his breath, hands on knees, looking at Sniff who reached the safe tree first. Sniff grins triumphantly. Moomintroll out of breath, Sniff at the tree. Medium two-shot, eye-level. Warm afternoon light, admiring concession mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-16",
@@ -297,7 +312,8 @@
           "surface": "待つ",
           "reading": "まつ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-17",
@@ -308,7 +324,8 @@
           "surface": "目",
           "reading": "め"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-18",
@@ -319,7 +336,8 @@
           "surface": "変わっ",
           "reading": "かわっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-19",
@@ -330,7 +348,8 @@
           "surface": "変わる",
           "reading": "かわる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-20",
@@ -341,37 +360,43 @@
           "surface": "変わっ",
           "reading": "かわっ"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch11-21",
       "japanese": "いい こと だ。",
       "imagePrompt": "Everyone gathers on the garden lawn, sitting in a circle, satisfied after the game. Warm smiles all around. Characters resting in a circle on the grass. Medium-wide shot, slightly elevated. Warm late-afternoon light, contented reflection mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-22",
       "japanese": "そんな こと は ない よ。",
       "imagePrompt": "Sniff shakes his head denying something, waving one hand dismissively while the others laugh. Playful disagreement in the group. Medium group shot, eye-level. Warm late-afternoon light, lighthearted denial mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch11-23",
       "japanese": "いい こと が あった ね。",
       "imagePrompt": "Moomintroll and Snufkin sit side by side on the grass, looking out at the garden as the sun lowers. Peaceful end to the game. Two friends resting in the garden. Medium shot, eye-level. Golden late-afternoon light, shared warm memory mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-24",
       "japanese": "この よう に あそぶ ね。",
       "imagePrompt": "All the characters walk back toward the Moomin house together, chatting happily. The garden stretches behind them with trampled grass from the game. Group walking home from the garden. Medium-wide shot, eye-level. Warm golden hour light, satisfied togetherness mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch11-25",
       "japanese": "あの よう だ ね。",
       "imagePrompt": "Final view of the garden at golden hour, the tree where they counted still visible, bushes where they hid, the shed door open. An empty peaceful garden after play. The garden at rest. Wide shot, slightly elevated. Deep golden sunset light, nostalgic gentle mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

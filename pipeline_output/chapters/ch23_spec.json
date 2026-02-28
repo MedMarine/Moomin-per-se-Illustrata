@@ -318,7 +318,8 @@
           "surface": "嵐",
           "reading": "あらし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch23-02",
@@ -329,7 +330,8 @@
           "surface": "嵐",
           "reading": "あらし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch23-03",
@@ -340,7 +342,8 @@
           "surface": "嵐",
           "reading": "あらし"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch23-04",
@@ -351,7 +354,8 @@
           "surface": "風",
           "reading": "かぜ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch23-05",
@@ -366,7 +370,8 @@
           "surface": "飛ん",
           "reading": "とん"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch23-06",
@@ -381,7 +386,8 @@
           "surface": "飛ん",
           "reading": "とん"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch23-07",
@@ -392,7 +398,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch23-08",
@@ -403,7 +410,8 @@
           "surface": "前",
           "reading": "まえ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch23-09",
@@ -422,7 +430,8 @@
           "surface": "日",
           "reading": "ひ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch23-10",
@@ -433,7 +442,8 @@
           "surface": "忘れ",
           "reading": "わすれ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch23-11",
@@ -448,7 +458,8 @@
           "surface": "落ち",
           "reading": "おち"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch23-12",
@@ -459,7 +470,8 @@
           "surface": "飛ん",
           "reading": "とん"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch23-13",
@@ -478,13 +490,15 @@
           "surface": "違う",
           "reading": "ちがう"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch23-14",
       "japanese": "あと で みる。",
       "imagePrompt": "Moominmamma pulls everyone inside and closes the door firmly. They will look at the damage later. Safety first. The door closes against the storm. Door closing against the storm. Medium shot, eye-level. Warm interior vs dark exterior, decisive shelter mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch23-15",
@@ -495,7 +509,8 @@
           "surface": "嵐",
           "reading": "あらし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch23-16",
@@ -506,7 +521,8 @@
           "surface": "飛ぶ",
           "reading": "とぶ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch23-17",
@@ -517,7 +533,8 @@
           "surface": "忘れ",
           "reading": "わすれ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch23-18",
@@ -532,7 +549,8 @@
           "surface": "飛ん",
           "reading": "とん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch23-19",
@@ -543,7 +561,8 @@
           "surface": "忘れ",
           "reading": "わすれ"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch23-20",
@@ -554,13 +573,15 @@
           "surface": "楽しみ",
           "reading": "たのしみ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch23-21",
       "japanese": "どんな あと に なる？",
       "imagePrompt": "Moomintroll and Sniff press their faces against the window, imagining what the valley will look like after the storm passes. What kind of aftermath awaits? Two faces at the window wondering. Medium close-up, eye-level. Soft clearing light, wondering anticipation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

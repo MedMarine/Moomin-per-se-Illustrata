@@ -392,7 +392,8 @@
           "surface": "島",
           "reading": "しま"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch32-02",
@@ -403,7 +404,8 @@
           "surface": "海岸",
           "reading": "かいがん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch32-03",
@@ -414,13 +416,15 @@
           "surface": "楽しい",
           "reading": "たのしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch32-04",
       "japanese": "ゆっくり あるいて。",
       "imagePrompt": "Mama calls to the children ahead to slow down. Walk slowly! There is so much to see. She gestures gently. The group spreads along the shore. Mama calling to slow down. Medium shot, eye-level. Warm patient light, gentle pace mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch32-05",
@@ -431,19 +435,22 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch32-06",
       "japanese": "ごらん、きれい だ。",
       "imagePrompt": "A close view of the shells and sea glass glinting in the sunlight. Look, beautiful! Colors of blue, green, and pink shimmer on the wet sand. Beautiful shells and sea glass. Medium close-up, eye-level. Bright sparkling light, admiring beauty mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch32-07",
       "japanese": "ほら、ごらん。",
       "imagePrompt": "Snufkin points at a tide pool teeming with tiny creatures. Look, see! Small crabs and starfish move in the clear water. Everyone crowds around to peer in. Snufkin showing a tide pool. Medium close-up, eye-level. Bright clear light, showing-discovery mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch32-08",
@@ -458,7 +465,8 @@
           "surface": "上がっ",
           "reading": "あがっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch32-09",
@@ -473,7 +481,8 @@
           "surface": "上がる",
           "reading": "あがる"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch32-10",
@@ -488,7 +497,8 @@
           "surface": "怖い",
           "reading": "こわい"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch32-11",
@@ -499,7 +509,8 @@
           "surface": "調子",
           "reading": "ちょうし"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch32-12",
@@ -510,7 +521,8 @@
           "surface": "調子",
           "reading": "ちょうし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch32-13",
@@ -521,7 +533,8 @@
           "surface": "調子",
           "reading": "ちょうし"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch32-14",
@@ -532,7 +545,8 @@
           "surface": "連れ",
           "reading": "つれ"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch32-15",
@@ -543,7 +557,8 @@
           "surface": "連れ",
           "reading": "つれ"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch32-16",
@@ -554,7 +569,8 @@
           "surface": "連れ",
           "reading": "つれ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch32-17",
@@ -569,7 +585,8 @@
           "surface": "結ん",
           "reading": "むすん"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch32-18",
@@ -580,7 +597,8 @@
           "surface": "結ぶ",
           "reading": "むすぶ"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch32-19",
@@ -591,7 +609,8 @@
           "surface": "結ぶ",
           "reading": "むすぶ"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch32-20",
@@ -610,7 +629,8 @@
           "surface": "変わっ",
           "reading": "かわっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch32-21",
@@ -621,7 +641,8 @@
           "surface": "髪の毛",
           "reading": "かみのけ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch32-22",
@@ -632,7 +653,8 @@
           "surface": "髪の毛",
           "reading": "かみのけ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch32-23",
@@ -647,7 +669,8 @@
           "surface": "利く",
           "reading": "きく"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch32-24",
@@ -658,7 +681,8 @@
           "surface": "利く",
           "reading": "きく"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch32-25",
@@ -669,7 +693,8 @@
           "surface": "利か",
           "reading": "きか"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     }
   ],
   "validation": {

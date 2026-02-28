@@ -426,13 +426,15 @@
       "id": "ch37-01",
       "japanese": "あら、みんな が きた。",
       "imagePrompt": "Mama enters the quiet tea room and sees a tea set already prepared. Oh, there is tea! Steam rises from the pot. The afternoon is warm and peaceful. Mama finding tea already prepared. Medium shot, eye-level. Warm quiet afternoon light, pleasant surprise mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch37-02",
       "japanese": "あら！",
       "imagePrompt": "Mama gasps at something she sees through the window — a beautiful butterfly has landed on the sill. Oh! A moment of pure surprise and delight. Mama gasping at a butterfly. Medium close-up, eye-level. Bright surprised afternoon light, delighted exclamation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch37-03",
@@ -443,7 +445,8 @@
           "surface": "大事",
           "reading": "だいじ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch37-04",
@@ -454,7 +457,8 @@
           "surface": "波",
           "reading": "なみ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch37-05",
@@ -465,7 +469,8 @@
           "surface": "波",
           "reading": "なみ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch37-06",
@@ -476,7 +481,8 @@
           "surface": "波",
           "reading": "なみ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch37-07",
@@ -487,7 +493,8 @@
           "surface": "済ん",
           "reading": "すん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch37-08",
@@ -498,7 +505,8 @@
           "surface": "済ん",
           "reading": "すん"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch37-09",
@@ -509,7 +517,8 @@
           "surface": "済む",
           "reading": "すむ"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch37-10",
@@ -524,7 +533,8 @@
           "surface": "危ない",
           "reading": "あぶない"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch37-11",
@@ -535,7 +545,8 @@
           "surface": "洞穴",
           "reading": "ほらあな"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch37-12",
@@ -546,7 +557,8 @@
           "surface": "洞穴",
           "reading": "ほらあな"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch37-13",
@@ -557,7 +569,8 @@
           "surface": "女王",
           "reading": "じょおう"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch37-14",
@@ -572,7 +585,8 @@
           "surface": "場所",
           "reading": "ばしょ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch37-15",
@@ -583,7 +597,8 @@
           "surface": "女王",
           "reading": "じょおう"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch37-16",
@@ -594,7 +609,8 @@
           "surface": "大事",
           "reading": "だいじ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch37-17",
@@ -605,7 +621,8 @@
           "surface": "大事",
           "reading": "だいじ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch37-18",
@@ -616,13 +633,15 @@
           "surface": "大事",
           "reading": "だいじ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch37-19",
       "japanese": "あの ちいさな もの を みつけた。",
       "imagePrompt": "Moomintroll shows Mama the small treasures found on the island — tiny shells, a smooth pebble, the cave stone. He found small things! Precious small objects on the table. Small treasures on the tea table. Medium close-up, eye-level. Warm admiring light, showing treasures mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch37-20",
@@ -633,7 +652,8 @@
           "surface": "子",
           "reading": "こ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch37-21",
@@ -648,7 +668,8 @@
           "surface": "痛い",
           "reading": "いたい"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch37-22",
@@ -659,7 +680,8 @@
           "surface": "痛い",
           "reading": "いたい"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch37-23",
@@ -670,7 +692,8 @@
           "surface": "痛い",
           "reading": "いたい"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     }
   ],
   "validation": {

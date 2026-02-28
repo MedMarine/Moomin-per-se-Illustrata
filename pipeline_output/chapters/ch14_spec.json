@@ -209,7 +209,8 @@
           "surface": "谷",
           "reading": "たに"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch14-02",
@@ -220,7 +221,8 @@
           "surface": "楽しい",
           "reading": "たのしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch14-03",
@@ -235,19 +237,22 @@
           "surface": "楽しい",
           "reading": "たのしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch14-04",
       "japanese": "にょろにょろ が いる！",
       "imagePrompt": "Tall pale Hattifatteners emerge from behind rocks along the valley path, their tube-like bodies swaying. Moomintroll stops in surprise. Hattifatteners appearing on the path. Medium-wide shot, eye-level. Bright eerie valley light, startled encounter mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch14-05",
       "japanese": "あれ は にょろにょろ みたい だ。",
       "imagePrompt": "Moomintroll peers at the strange swaying shapes from a distance, squinting. The Hattifatteners' pale forms blend with the valley mist. Distant pale shapes in the valley. Medium shot, eye-level. Misty valley light, uncertain comparison mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch14-06",
@@ -258,7 +263,8 @@
           "surface": "止める",
           "reading": "とめる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch14-07",
@@ -269,7 +275,8 @@
           "surface": "止める",
           "reading": "とめる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch14-08",
@@ -280,7 +287,8 @@
           "surface": "止める",
           "reading": "とめる"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch14-09",
@@ -291,7 +299,8 @@
           "surface": "山",
           "reading": "やま"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch14-10",
@@ -302,7 +311,8 @@
           "surface": "違う",
           "reading": "ちがう"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch14-11",
@@ -313,7 +323,8 @@
           "surface": "違う",
           "reading": "ちがう"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch14-12",
@@ -324,13 +335,15 @@
           "surface": "違う",
           "reading": "ちがう"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch14-13",
       "japanese": "モラン みたい！",
       "imagePrompt": "A shadow falls across the valley path as a large dark shape appears at the ridge. For a moment it looks like the Groke. Everyone freezes. Dark shape on the ridge. Medium-wide shot, eye-level. Sudden shadow in bright valley, alarmed comparison mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch14-14",
@@ -341,7 +354,8 @@
           "surface": "下さっ",
           "reading": "くださっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch14-15",
@@ -352,7 +366,8 @@
           "surface": "下さっ",
           "reading": "くださっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch14-16",
@@ -363,7 +378,8 @@
           "surface": "下さる",
           "reading": "くださる"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch14-17",
@@ -378,7 +394,8 @@
           "surface": "度",
           "reading": "ど"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch14-18",
@@ -393,7 +410,8 @@
           "surface": "度",
           "reading": "ど"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch14-19",
@@ -408,7 +426,8 @@
           "surface": "度",
           "reading": "ど"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch14-20",
@@ -419,7 +438,8 @@
           "surface": "楽しい",
           "reading": "たのしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch14-21",
@@ -430,7 +450,8 @@
           "surface": "谷",
           "reading": "たに"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch14-22",
@@ -441,7 +462,8 @@
           "surface": "谷",
           "reading": "たに"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

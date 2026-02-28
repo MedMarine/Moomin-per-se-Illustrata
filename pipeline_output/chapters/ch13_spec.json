@@ -199,19 +199,22 @@
           "surface": "山",
           "reading": "やま"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch13-02",
       "japanese": "ルビー を さがす！",
       "imagePrompt": "Moomintroll crouches near rocks, scanning the ground intently for gems. Sparkles hint at minerals in the stone. Rocky mountain terrain around. Moomintroll searching rocks for rubies. Medium shot, slightly elevated. Bright sunlight glinting off stone, determined treasure-hunt mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch13-03",
       "japanese": "あっ、あそこ！",
       "imagePrompt": "Moomintroll points excitedly at a crack in a large boulder where something glints red. His eyes wide with surprise. Rocky mountain setting. Moomintroll pointing at the boulder crack. Medium shot, eye-level. Bright sun with red glint from stone, startled discovery mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch13-04",
@@ -222,7 +225,8 @@
           "surface": "子",
           "reading": "こ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch13-05",
@@ -233,25 +237,29 @@
           "surface": "子",
           "reading": "こ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch13-06",
       "japanese": "おまえ も さがす？",
       "imagePrompt": "Moomintroll approaches the girl, tilting his head questioningly. She looks up from examining a rock. Mountain terrain around them. Moomintroll speaking to the girl. Medium two-shot, eye-level. Warm mountain light, friendly questioning mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch13-07",
       "japanese": "もちろん！",
       "imagePrompt": "The girl nods enthusiastically, holding up her collection bag. Bright determination in her expression. Mountain backdrop behind her. The girl responding eagerly. Medium close-up, eye-level. Bright sunlit mountain air, confident affirmation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ミムラ"
     },
     {
       "id": "ch13-08",
       "japanese": "もちろん さがす よ。",
       "imagePrompt": "The girl turns back to the rocks and starts searching energetically, hands moving through loose stones. Dust rises. She resumes searching. Medium shot, eye-level. Warm dusty mountain light, determined action mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ミムラ"
     },
     {
       "id": "ch13-09",
@@ -262,7 +270,8 @@
           "surface": "絶対",
           "reading": "ぜったい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch13-10",
@@ -273,25 +282,29 @@
           "surface": "絶対",
           "reading": "ぜったい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch13-11",
       "japanese": "あっ、ルビー！",
       "imagePrompt": "A brilliant red ruby sits nestled in grey rock, catching the sunlight. The girl's hand reaches toward it. Mountain stone texture surrounds the gem. Ruby gleaming in the rock. Close-up, slightly elevated. Bright red gem catching sunlight, thrilling discovery mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ミムラ"
     },
     {
       "id": "ch13-12",
       "japanese": "ルビー が あった！",
       "imagePrompt": "The girl holds up a small red ruby, light passing through it. Moomintroll and Snufkin lean in to see. Mountain landscape behind. The girl showing the found ruby. Medium group shot, eye-level. Ruby-tinted sunlight, joyful triumph mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ミムラ"
     },
     {
       "id": "ch13-13",
       "japanese": "ほんとう に おまえ が みつけた！",
       "imagePrompt": "Moomintroll congratulates the girl, gesturing at the ruby in her hand with amazement. She beams with pride. Mountain rocks around. Moomintroll congratulating the finder. Medium two-shot, eye-level. Warm sunlit mountain air, impressed praise mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch13-14",
@@ -302,7 +315,8 @@
           "surface": "子",
           "reading": "こ"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch13-15",
@@ -313,7 +327,8 @@
           "surface": "子",
           "reading": "こ"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch13-16",
@@ -324,13 +339,15 @@
           "surface": "子",
           "reading": "こ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch13-17",
       "japanese": "おまえ は はやい ね。",
       "imagePrompt": "Moomintroll looks at the girl with admiration as she deftly chips another stone. Her hands are quick and skilled. The girl working skillfully at rocks. Medium close-up, eye-level. Warm afternoon mountain light, appreciative compliment mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch13-18",
@@ -341,7 +358,8 @@
           "surface": "一家",
           "reading": "いっか"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch13-19",
@@ -352,13 +370,15 @@
           "surface": "一家",
           "reading": "いっか"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch13-20",
       "japanese": "ほら、あっ！",
       "imagePrompt": "Moomintroll spots another glint in a rock and jumps back startled. A flash of color from deep in a crack. Moomintroll startled by a glint. Medium shot, eye-level. Sharp glint of light from rock, sudden renewed excitement mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch13-21",
@@ -373,13 +393,15 @@
           "surface": "一",
           "reading": "ひと"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch13-22",
       "japanese": "もちろん ある よ。",
       "imagePrompt": "The girl kneels beside Moomintroll, also looking into the crack, nodding in agreement. Mountain wind ruffles their hair. Two treasure hunters at the rock. Medium shot, eye-level. Warm afternoon mountain light, confident shared belief mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ミムラ"
     },
     {
       "id": "ch13-23",
@@ -394,13 +416,15 @@
           "surface": "一家",
           "reading": "いっか"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch13-24",
       "japanese": "いい こと だ ね。",
       "imagePrompt": "The whole group sits on a flat rock overlooking the valley below, tired but happy. The ruby glints in the girl's hand. Group resting on the mountain overlook. Wide shot, slightly elevated. Golden sunset mountain light, contented reflection mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

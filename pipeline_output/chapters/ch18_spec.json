@@ -237,13 +237,15 @@
       "id": "ch18-01",
       "japanese": "ここ に きた。",
       "imagePrompt": "Moomintroll and Snufkin arrive at the lush riverbank. Green plants line the water's edge, shallow pools glisten. They look around with interest. Characters arriving at the riverbank. Medium-wide shot, eye-level. Bright morning riverside light, fresh arrival mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-02",
       "japanese": "スラン が いる！",
       "imagePrompt": "Thingumy stands by the river holding a small bag, waving at the arrivals. Reeds sway behind him. He looks excited. Thingumy waving by the river. Medium shot, eye-level. Bright riverbank light, happy recognition mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-03",
@@ -254,7 +256,8 @@
           "surface": "確か",
           "reading": "たしか"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-04",
@@ -265,7 +268,8 @@
           "surface": "茸",
           "reading": "きのこ"
         }
-      ]
+      ],
+      "speaker": "スラン"
     },
     {
       "id": "ch18-05",
@@ -276,7 +280,8 @@
           "surface": "植物",
           "reading": "しょくぶつ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-06",
@@ -291,7 +296,8 @@
           "surface": "植物",
           "reading": "しょくぶつ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-07",
@@ -302,7 +308,8 @@
           "surface": "動い",
           "reading": "うごい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-08",
@@ -317,19 +324,22 @@
           "surface": "動い",
           "reading": "うごい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-09",
       "japanese": "スラン は みている。",
       "imagePrompt": "Thingumy sits on a rock by the river, chin in hands, intently WATCHING the moving plants right now. His eyes track the slow movement. He is in the middle of observing. Thingumy actively watching the plants. Medium shot, eye-level. Warm attentive riverside light, focused ongoing watching mood. PROGRESSIVE: watching in progress.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-10",
       "japanese": "すぐ みて！",
       "imagePrompt": "Moomintroll urgently pulls Snufkin's arm, pointing at the moving plants. He wants Snufkin to look right away, not wait. Moomintroll urgently pulling Snufkin's arm. Medium shot, eye-level. Bright urgent riverside light, immediate urgency mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-11",
@@ -340,13 +350,15 @@
           "surface": "面白い",
           "reading": "おもしろい"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch18-12",
       "japanese": "うん、えっ あれ も？",
       "imagePrompt": "Sniff nods along then suddenly does a double-take, pointing at another plant that also seems to be moving. His eyes go wide with disbelief. Sniff doing a double-take at another plant. Medium shot, eye-level. Bright surprised riverside light, incredulous secondary discovery mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch18-13",
@@ -361,7 +373,8 @@
           "surface": "落ち",
           "reading": "おち"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-14",
@@ -372,7 +385,8 @@
           "surface": "変わっ",
           "reading": "かわっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-15",
@@ -391,7 +405,8 @@
           "surface": "違っ",
           "reading": "ちがっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-16",
@@ -406,7 +421,8 @@
           "surface": "動い",
           "reading": "うごい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-17",
@@ -417,7 +433,8 @@
           "surface": "動く",
           "reading": "うごく"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch18-18",
@@ -428,7 +445,8 @@
           "surface": "面白い",
           "reading": "おもしろい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-19",
@@ -439,7 +457,8 @@
           "surface": "茸",
           "reading": "きのこ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-20",
@@ -454,13 +473,15 @@
           "surface": "動く",
           "reading": "うごく"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-21",
       "japanese": "また きて、みて！",
       "imagePrompt": "Moomintroll turns toward the valley, calling out to invisible friends to come see the magical riverbank. His voice carries across the water. Moomintroll calling out toward the valley. Medium shot, eye-level. Bright enthusiastic riverside light, eager invitation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-22",
@@ -471,7 +492,8 @@
           "surface": "帰る",
           "reading": "かえる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch18-23",
@@ -482,7 +504,8 @@
           "surface": "帰る",
           "reading": "かえる"
         }
-      ]
+      ],
+      "speaker": "スラン"
     }
   ],
   "validation": {

@@ -322,7 +322,8 @@
       "id": "ch24-01",
       "japanese": "テント に いる。",
       "imagePrompt": "A pitched tent sits in a forest clearing after the storm. Moomintroll and Snufkin sit inside the open tent flap. Camping supplies are scattered around. Moonlight filters through trees. Characters in the tent at night. Medium-wide shot, eye-level. Soft moonlit forest light, sheltered camp mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-02",
@@ -333,7 +334,8 @@
           "surface": "嵐",
           "reading": "あらし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-03",
@@ -344,7 +346,8 @@
           "surface": "足",
           "reading": "あし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-04",
@@ -359,7 +362,8 @@
           "surface": "必要",
           "reading": "ひつよう"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-05",
@@ -374,13 +378,15 @@
           "surface": "薬",
           "reading": "くすり"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-06",
       "japanese": "テント の なか に いる。",
       "imagePrompt": "Wide view of the tent interior. Both characters sit surrounded by supplies, blankets, and a small lantern. The tent walls ripple slightly in the remaining wind. Cozy despite the post-storm chill. Interior of the tent with two characters. Medium-wide shot, eye-level. Warm lantern glow, sheltered cozy mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-07",
@@ -395,7 +401,8 @@
           "surface": "戻る",
           "reading": "もどる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-08",
@@ -406,7 +413,8 @@
           "surface": "戻ら",
           "reading": "もどら"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch24-09",
@@ -421,7 +429,8 @@
           "surface": "戻る",
           "reading": "もどる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-10",
@@ -436,7 +445,8 @@
           "surface": "見つけ",
           "reading": "みつけ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-11",
@@ -447,7 +457,8 @@
           "surface": "秘密",
           "reading": "ひみつ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-12",
@@ -458,7 +469,8 @@
           "surface": "時間",
           "reading": "じかん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-13",
@@ -469,7 +481,8 @@
           "surface": "時間",
           "reading": "じかん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-14",
@@ -480,7 +493,8 @@
           "surface": "捨て",
           "reading": "すて"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-15",
@@ -491,7 +505,8 @@
           "surface": "捨てる",
           "reading": "すてる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-16",
@@ -502,7 +517,8 @@
           "surface": "秘密",
           "reading": "ひみつ"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch24-17",
@@ -513,7 +529,8 @@
           "surface": "薬",
           "reading": "くすり"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-18",
@@ -528,7 +545,8 @@
           "surface": "薬",
           "reading": "くすり"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch24-19",
@@ -539,7 +557,8 @@
           "surface": "時間",
           "reading": "じかん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-20",
@@ -554,7 +573,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch24-21",
@@ -569,7 +589,8 @@
           "surface": "秘密",
           "reading": "ひみつ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

@@ -390,6 +390,46 @@ body {
   margin-bottom: 1.5rem;
 }
 
+/* Audio play button */
+
+.audio-row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.play-btn {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid var(--accent-blue);
+  background: transparent;
+  color: var(--accent-blue);
+  font-size: 1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s, color 0.15s, transform 0.1s;
+  padding: 0;
+  line-height: 1;
+}
+
+.play-btn:hover {
+  background: var(--accent-blue-light);
+  transform: scale(1.05);
+}
+
+.play-btn.playing {
+  background: var(--accent-blue);
+  color: white;
+}
+
+.play-btn.playing:hover {
+  background: var(--accent-blue);
+  opacity: 0.9;
+}
+
 /* Reader footer / progress */
 
 .reader-footer {
@@ -535,6 +575,16 @@ body {
 
   .sentence-japanese {
     font-size: clamp(1.4rem, 5vw, 2rem);
+  }
+
+  .play-btn {
+    width: 36px;
+    height: 36px;
+    font-size: 0.9rem;
+  }
+
+  .audio-row {
+    margin-bottom: 0.75rem;
   }
 
   .image-placeholder {

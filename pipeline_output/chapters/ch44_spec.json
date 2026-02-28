@@ -488,7 +488,8 @@
           "surface": "三",
           "reading": "みっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch44-02",
@@ -499,7 +500,8 @@
           "surface": "三",
           "reading": "みっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch44-03",
@@ -510,7 +512,8 @@
           "surface": "三",
           "reading": "さん"
         }
-      ]
+      ],
+      "speaker": "ミー"
     },
     {
       "id": "ch44-04",
@@ -521,7 +524,8 @@
           "surface": "沖",
           "reading": "おき"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch44-05",
@@ -532,7 +536,8 @@
           "surface": "沖",
           "reading": "おき"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch44-06",
@@ -547,7 +552,8 @@
           "surface": "危ない",
           "reading": "あぶない"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch44-07",
@@ -562,7 +568,8 @@
           "surface": "分",
           "reading": "ぶん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch44-08",
@@ -573,7 +580,8 @@
           "surface": "分",
           "reading": "ぶん"
         }
-      ]
+      ],
+      "speaker": "ミー"
     },
     {
       "id": "ch44-09",
@@ -584,19 +592,22 @@
           "surface": "分",
           "reading": "ぶん"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch44-10",
       "japanese": "ううん、ちがう。",
       "imagePrompt": "Moomintroll shakes his head at something Sniff said. No, that is wrong! He gently corrects the misunderstanding. The lazy afternoon continues. Moomintroll shaking his head. Medium close-up, eye-level. Warm gentle afternoon light, gentle correction mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch44-11",
       "japanese": "ううん。",
       "imagePrompt": "Snufkin gives a simple no to the question of going inside. No! He is perfectly content on the veranda. The breeze is too nice. Snufkin shaking his head contentedly. Medium close-up, eye-level. Warm content afternoon light, refusal mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch44-12",
@@ -607,7 +618,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch44-13",
@@ -622,7 +634,8 @@
           "surface": "沈ん",
           "reading": "しずん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch44-14",
@@ -633,7 +646,8 @@
           "surface": "沈む",
           "reading": "しずむ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch44-15",
@@ -644,7 +658,8 @@
           "surface": "沈ん",
           "reading": "しずん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch44-16",
@@ -655,7 +670,8 @@
           "surface": "化け",
           "reading": "ばけ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch44-17",
@@ -670,7 +686,8 @@
           "surface": "出",
           "reading": "で"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch44-18",
@@ -681,7 +698,8 @@
           "surface": "化け",
           "reading": "ばけ"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch44-19",
@@ -696,7 +714,8 @@
           "surface": "計",
           "reading": "けい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch44-20",
@@ -711,7 +730,8 @@
           "surface": "計",
           "reading": "けい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch44-21",
@@ -726,7 +746,8 @@
           "surface": "計",
           "reading": "けい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch44-22",
@@ -737,7 +758,8 @@
           "surface": "次",
           "reading": "つぎ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch44-23",
@@ -748,7 +770,8 @@
           "surface": "次",
           "reading": "つぎ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch44-24",
@@ -763,7 +786,8 @@
           "surface": "会おう",
           "reading": "あおう"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     }
   ],
   "validation": {

@@ -50,13 +50,15 @@
           "surface": "船",
           "reading": "ふね"
         }
-      ]
+      ],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch01-02",
       "japanese": "なに？",
       "imagePrompt": "Foggy riverbank, a small white figure peers through the mist trying to see. Moomintroll squints into the fog from the shore, body leaning forward. Misty silhouettes ahead. Medium shot, eye-level. Diffuse grey morning light, curious questioning mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch01-03",
@@ -67,7 +69,8 @@
           "surface": "木",
           "reading": "き"
         }
-      ]
+      ],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch01-04",
@@ -82,25 +85,29 @@
           "surface": "木",
           "reading": "き"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch01-05",
       "japanese": "ムーミン！",
       "imagePrompt": "Fog clearing over the dock, Moomintroll stands on the wooden planks waving. His white round body is bright against the grey background. Moomintroll waving on the dock. Medium shot, eye-level. Warm morning light breaking through fog, joyful recognition mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch01-06",
       "japanese": "ママ！",
       "imagePrompt": "Dock scene, Moominmamma appears from behind the boat wearing her red-striped apron. She waves with one hand, handbag in the other. Moominmamma arriving at the dock. Medium shot, eye-level. Soft golden morning light, warm maternal greeting mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch01-07",
       "japanese": "パパ！",
       "imagePrompt": "Moominpappa strides along the dock toward the boat, top hat firmly on his head. He carries himself with dignified posture. Moominpappa walking purposefully on the dock. Medium shot, eye-level. Clear morning light, dignified arrival mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch01-08",
@@ -111,7 +118,8 @@
           "surface": "帽子",
           "reading": "ぼうし"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch01-09",
@@ -122,7 +130,8 @@
           "surface": "帽子",
           "reading": "ぼうし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch01-10",
@@ -133,25 +142,29 @@
           "surface": "帽子",
           "reading": "ぼうし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch01-11",
       "japanese": "わたし、ムーミン。",
       "imagePrompt": "Moomintroll faces the viewer directly on the dock, one hand on his chest introducing himself. Boat and river behind him. Moomintroll's self-introduction pose on the dock. Medium close-up, eye-level. Warm clear morning light, friendly direct-address mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch01-12",
       "japanese": "わたし、ママ。",
       "imagePrompt": "Moominmamma faces the viewer on the dock, gesturing to herself with a warm smile. Red-striped apron visible, handbag at her side. Moominmamma's self-introduction on the dock. Medium close-up, eye-level. Soft warm morning light, gentle welcoming mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch01-13",
       "japanese": "わたし、パパ。",
       "imagePrompt": "Moominpappa faces the viewer, hat recovered and back on his head. He tips the brim with one hand gallantly. Moominpappa's self-introduction on the dock. Medium close-up, eye-level. Bright confident morning light, proud dignified mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "パパ"
     },
     {
       "id": "ch01-14",
@@ -162,13 +175,15 @@
           "surface": "船",
           "reading": "ふね"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch01-15",
       "japanese": "ママ、なに？",
       "imagePrompt": "Moomintroll turns to Moominmamma on the dock, tilting his head questioningly. She holds something behind her back. Moomintroll asking Moominmamma on the dock. Medium two-shot, eye-level. Clear morning light, curious questioning mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch01-16",
@@ -183,7 +198,8 @@
           "surface": "船",
           "reading": "ふね"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch01-17",
@@ -194,7 +210,8 @@
           "surface": "木",
           "reading": "き"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch01-18",
@@ -209,7 +226,8 @@
           "surface": "帽子",
           "reading": "ぼうし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

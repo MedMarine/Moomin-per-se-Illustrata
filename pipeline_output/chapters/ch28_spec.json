@@ -353,13 +353,15 @@
       "id": "ch28-01",
       "japanese": "あの ホラ が きた！",
       "imagePrompt": "The Hobgoblin arrives at the Moomin house door in the morning. A tall mysterious figure with a top hat. Moominmamma opens the door warmly. Morning sunlight streams in behind the visitor. Hobgoblin arriving at the door. Medium shot, eye-level. Bright morning doorway light, exciting visitor arrival mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch28-02",
       "japanese": "アリ も きた。",
       "imagePrompt": "Alicia follows the Hobgoblin inside, a small energetic figure. She waves cheerfully at Moomintroll. Two visitors for breakfast! The house is lively. Alicia entering after the Hobgoblin. Medium shot, eye-level. Bright cheerful morning light, doubled excitement mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch28-03",
@@ -370,7 +372,8 @@
           "surface": "食べる",
           "reading": "たべる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch28-04",
@@ -381,7 +384,8 @@
           "surface": "珍しい",
           "reading": "めずらしい"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch28-05",
@@ -392,7 +396,8 @@
           "surface": "切手",
           "reading": "きって"
         }
-      ]
+      ],
+      "speaker": "飛行鬼"
     },
     {
       "id": "ch28-06",
@@ -407,7 +412,8 @@
           "surface": "切手",
           "reading": "きって"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch28-07",
@@ -422,7 +428,8 @@
           "surface": "集め",
           "reading": "あつめ"
         }
-      ]
+      ],
+      "speaker": "飛行鬼"
     },
     {
       "id": "ch28-08",
@@ -437,7 +444,8 @@
           "surface": "楽しい",
           "reading": "たのしい"
         }
-      ]
+      ],
+      "speaker": "飛行鬼"
     },
     {
       "id": "ch28-09",
@@ -452,7 +460,8 @@
           "surface": "必要",
           "reading": "ひつよう"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch28-10",
@@ -463,7 +472,8 @@
           "surface": "修理",
           "reading": "しゅうり"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch28-11",
@@ -474,7 +484,8 @@
           "surface": "修理",
           "reading": "しゅうり"
         }
-      ]
+      ],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch28-12",
@@ -485,19 +496,22 @@
           "surface": "子供",
           "reading": "こども"
         }
-      ]
+      ],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch28-13",
       "japanese": "はしる の が はやい。",
       "imagePrompt": "Alicia is incredibly fast — she zooms past everyone in a blur. Running is fast for her! The other children cannot keep up. She laughs. Alicia running fast past others. Medium shot, eye-level. Bright dynamic morning light, impressive speed mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "アリシア"
     },
     {
       "id": "ch28-14",
       "japanese": "アリ も はしった。",
       "imagePrompt": "Alicia leads the running group, weaving between chair legs and around the table. She ran too, joining the fun. Everyone is in motion. Alicia leading the running children. Medium-wide shot, eye-level. Bright active morning kitchen light, joyful running mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch28-15",
@@ -508,7 +522,8 @@
           "surface": "珍しい",
           "reading": "めずらしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch28-16",
@@ -519,19 +534,22 @@
           "surface": "集め",
           "reading": "あつめ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch28-17",
       "japanese": "パンケーキ が もう ない。",
       "imagePrompt": "The breakfast table is empty — every last pancake has been eaten. Crumbs and empty syrup bottles remain. Sniff looks at the empty plate mournfully. Empty pancake plate and crumbs. Medium close-up, eye-level. Warm wistful morning light, all-gone disappointment mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch28-18",
       "japanese": "ホラ と アリ が いった。",
       "imagePrompt": "The Hobgoblin and Alicia stand on the path facing the Moomin house door, waving farewell. A wonderful morning visit is over. Moominmamma waves from the doorway. Visitors waving goodbye, facing the house. Medium-wide shot, eye-level. Warm farewell morning light, parting mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ナレーター"
     }
   ],
   "validation": {

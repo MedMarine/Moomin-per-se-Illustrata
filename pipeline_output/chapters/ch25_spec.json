@@ -332,13 +332,15 @@
       "id": "ch25-01",
       "japanese": "だれ か きた。",
       "imagePrompt": "A knock at the Moomin house front door. Moomintroll looks up from the living room. A silhouette is visible through the frosted glass. Someone has arrived. Moomintroll looking toward the front door. Medium shot, eye-level. Warm interior light with silhouette at door, anticipatory arrival mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch25-02",
       "japanese": "ヘムレン が きた。",
       "imagePrompt": "Hemulen stands at the open doorway, a tall and proper figure with a neat appearance. Moominmamma greets him warmly. He carries a small case and bows politely. Hemulen at the Moomin house entrance. Medium shot, eye-level. Warm welcoming doorway light, formal arrival mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch25-03",
@@ -353,7 +355,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ヘムレン"
     },
     {
       "id": "ch25-04",
@@ -364,7 +367,8 @@
           "surface": "悪い",
           "reading": "わるい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch25-05",
@@ -379,7 +383,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ヘムレン"
     },
     {
       "id": "ch25-06",
@@ -390,7 +395,8 @@
           "surface": "聞こえる",
           "reading": "きこえる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch25-07",
@@ -405,7 +411,8 @@
           "surface": "落とし",
           "reading": "おとし"
         }
-      ]
+      ],
+      "speaker": "ヘムレン"
     },
     {
       "id": "ch25-08",
@@ -424,7 +431,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ヘムレン"
     },
     {
       "id": "ch25-09",
@@ -439,7 +447,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ヘムレン"
     },
     {
       "id": "ch25-10",
@@ -450,13 +459,15 @@
           "surface": "考える",
           "reading": "かんがえる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch25-11",
       "japanese": "うち に きて。",
       "imagePrompt": "Moominmamma gestures for Hemulen to come further inside the house. Come in, make yourself at home. The living room is warm and welcoming. Moominmamma welcoming Hemulen inside. Medium shot, eye-level. Warm welcoming interior light, hospitable invitation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch25-12",
@@ -467,7 +478,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ヘムレン"
     },
     {
       "id": "ch25-13",
@@ -478,7 +490,8 @@
           "surface": "嵐",
           "reading": "あらし"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch25-14",
@@ -493,19 +506,22 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ヘムレン"
     },
     {
       "id": "ch25-15",
       "japanese": "いい とき に きた ね。",
       "imagePrompt": "Moominmamma serves tea and cookies, smiling at Hemulen. He came at a good time — the storm is over and there are fresh treats. Good timing! Moominmamma serving tea, smiling. Medium shot, eye-level. Warm hospitable interior light, timely welcome mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch25-16",
       "japanese": "いく つもり だ。",
       "imagePrompt": "Moomintroll announces casually that he intends to go explore the storm damage later. He speaks to his friends in plain form. Casual announcement. Moomintroll announcing plans casually. Medium shot, eye-level. Warm casual interior light, informal intention mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch25-17",
@@ -520,7 +536,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ヘムレン"
     },
     {
       "id": "ch25-18",
@@ -531,7 +548,8 @@
           "surface": "下",
           "reading": "した"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch25-19",
@@ -542,7 +560,8 @@
           "surface": "考え",
           "reading": "かんがえ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch25-20",
@@ -553,7 +572,8 @@
           "surface": "入れ",
           "reading": "いれ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch25-21",
@@ -568,7 +588,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ヘムレン"
     },
     {
       "id": "ch25-22",
@@ -579,13 +600,15 @@
           "surface": "落とし",
           "reading": "おとし"
         }
-      ]
+      ],
+      "speaker": "ヘムレン"
     },
     {
       "id": "ch25-23",
       "japanese": "つもり が ある。",
       "imagePrompt": "Moomintroll sits by the window with a determined look. He has an intention, a plan for tomorrow. The storm damage awaits exploration. Evening light fades. Moomintroll with determined evening expression. Medium shot, eye-level. Warm evening interior light, quiet resolve mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     }
   ],
   "leakLemmas": [

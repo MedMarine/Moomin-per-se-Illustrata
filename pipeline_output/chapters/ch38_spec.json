@@ -434,13 +434,15 @@
       "id": "ch38-01",
       "japanese": "パーティー が ある。",
       "imagePrompt": "The Moomin house kitchen is decorated for a party! Colorful streamers hang from the ceiling. Mama sets the table. Excitement fills the air. Decorated kitchen for a party. Medium-wide shot, eye-level. Bright festive light, party preparation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch38-02",
       "japanese": "パーティー を する。",
       "imagePrompt": "Mama claps her hands — let's have a party! Everyone cheers. Plates and cups are set out. The kitchen bustles with activity. Mama announcing the party. Medium shot, eye-level. Bright cheerful light, party initiation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch38-03",
@@ -451,7 +453,8 @@
           "surface": "楽しい",
           "reading": "たのしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch38-04",
@@ -462,7 +465,8 @@
           "surface": "茶",
           "reading": "ちゃ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch38-05",
@@ -477,7 +481,8 @@
           "surface": "茶",
           "reading": "ちゃ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch38-06",
@@ -488,7 +493,8 @@
           "surface": "茶",
           "reading": "ちゃ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch38-07",
@@ -499,7 +505,8 @@
           "surface": "友達",
           "reading": "ともだち"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch38-08",
@@ -510,7 +517,8 @@
           "surface": "友達",
           "reading": "ともだち"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch38-09",
@@ -521,7 +529,8 @@
           "surface": "友達",
           "reading": "ともだち"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch38-10",
@@ -532,7 +541,8 @@
           "surface": "木苺",
           "reading": "きいちご"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch38-11",
@@ -547,7 +557,8 @@
           "surface": "食べ",
           "reading": "たべ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch38-12",
@@ -558,7 +569,8 @@
           "surface": "木苺",
           "reading": "きいちご"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch38-13",
@@ -569,7 +581,8 @@
           "surface": "友達",
           "reading": "ともだち"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch38-14",
@@ -580,13 +593,15 @@
           "surface": "降る",
           "reading": "ふる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch38-15",
       "japanese": "きた そう だ。",
       "imagePrompt": "Word spreads that Snufkin has arrived. They say he came! The news passes from person to person. Excitement ripples through the party. People whispering the news. Medium shot, eye-level. Warm whispering light, news spreading mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch38-16",
@@ -597,7 +612,8 @@
           "surface": "眠っ",
           "reading": "ねむっ"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch38-17",
@@ -608,7 +624,8 @@
           "surface": "眠る",
           "reading": "ねむる"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch38-18",
@@ -619,25 +636,29 @@
           "surface": "眠っ",
           "reading": "ねむっ"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch38-19",
       "japanese": "いいえ、ちがう。",
       "imagePrompt": "Mama shakes her head firmly at a suggestion. No, that is wrong! Her response is clear. She has a different idea for the party. Mama shaking her head firmly. Medium close-up, eye-level. Warm firm light, polite disagreement mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch38-20",
       "japanese": "いいえ！",
       "imagePrompt": "Mama says no to Sniff taking more strawberries before dinner. No! Her voice is firm but kind. Sniff's reaching hand pauses. Mama stopping Sniff from taking berries. Medium shot, eye-level. Warm firm light, clear refusal mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch38-21",
       "japanese": "いいえ、だめ だ。",
       "imagePrompt": "Papa tries to eat the decorative cake early. No, that is not allowed! Mama guards the cake. It is for later. Papa looks disappointed. Mama guarding the cake. Medium shot, eye-level. Warm amused-firm light, protecting the cake mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch38-22",
@@ -648,7 +669,8 @@
           "surface": "勝手",
           "reading": "かって"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch38-23",
@@ -659,7 +681,8 @@
           "surface": "勝手",
           "reading": "かって"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch38-24",
@@ -670,7 +693,8 @@
           "surface": "勝手",
           "reading": "かって"
         }
-      ]
+      ],
+      "speaker": "パパ"
     }
   ],
   "validation": {

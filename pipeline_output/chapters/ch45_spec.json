@@ -498,7 +498,8 @@
           "surface": "雲",
           "reading": "くも"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-02",
@@ -509,7 +510,8 @@
           "surface": "雲",
           "reading": "くも"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-03",
@@ -520,7 +522,8 @@
           "surface": "雲",
           "reading": "くも"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-04",
@@ -531,7 +534,8 @@
           "surface": "夢",
           "reading": "ゆめ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-05",
@@ -542,7 +546,8 @@
           "surface": "夢",
           "reading": "ゆめ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-06",
@@ -557,7 +562,8 @@
           "surface": "場所",
           "reading": "ばしょ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-07",
@@ -568,7 +574,8 @@
           "surface": "春",
           "reading": "はる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-08",
@@ -583,7 +590,8 @@
           "surface": "春",
           "reading": "はる"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch45-09",
@@ -602,7 +610,8 @@
           "surface": "感じ",
           "reading": "かんじ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-10",
@@ -613,7 +622,8 @@
           "surface": "思い出し",
           "reading": "おもいだし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-11",
@@ -628,7 +638,8 @@
           "surface": "楽しい",
           "reading": "たのしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-12",
@@ -639,7 +650,8 @@
           "surface": "思い出し",
           "reading": "おもいだし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-13",
@@ -650,7 +662,8 @@
           "surface": "一番",
           "reading": "いちばん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-14",
@@ -661,7 +674,8 @@
           "surface": "一番",
           "reading": "いちばん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-15",
@@ -680,7 +694,8 @@
           "surface": "旅",
           "reading": "たび"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-16",
@@ -691,7 +706,8 @@
           "surface": "浮い",
           "reading": "うい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-17",
@@ -706,7 +722,8 @@
           "surface": "浮い",
           "reading": "うい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-18",
@@ -721,7 +738,8 @@
           "surface": "浮い",
           "reading": "うい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-19",
@@ -732,7 +750,8 @@
           "surface": "物語",
           "reading": "ものがたり"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-20",
@@ -743,7 +762,8 @@
           "surface": "物語",
           "reading": "ものがたり"
         }
-      ]
+      ],
+      "speaker": "ミー"
     },
     {
       "id": "ch45-21",
@@ -754,25 +774,29 @@
           "surface": "物語",
           "reading": "ものがたり"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-22",
       "japanese": "ふざけた！",
       "imagePrompt": "Little My pushes Sniff's hat over his eyes for a joke. She joked around! Sniff stumbles blindly while everyone laughs. The golden light catches their laughter. My pranking Sniff. Medium shot, eye-level. Bright playful golden light, comic relief mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ミー"
     },
     {
       "id": "ch45-23",
       "japanese": "ふざける の は やめて。",
       "imagePrompt": "Sniff pouts and tells My to stop. Stop joking around! But he is trying not to laugh too. The mood is too good to stay angry. Sniff trying not to laugh. Medium close-up, eye-level. Warm amused golden light, playful protest mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch45-24",
       "japanese": "ふざけない で。",
       "imagePrompt": "Mama gently tells My to be kind, though she is smiling too. Do not joke around! But the warmth in her voice shows she does not really mind. The golden hour continues. Mama smiling while scolding. Medium shot, eye-level. Warm indulgent golden light, gentle scolding mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch45-25",
@@ -787,7 +811,8 @@
           "surface": "物語",
           "reading": "ものがたり"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

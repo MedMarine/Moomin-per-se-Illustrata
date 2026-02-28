@@ -414,7 +414,8 @@
           "surface": "場所",
           "reading": "ばしょ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch35-02",
@@ -425,7 +426,8 @@
           "surface": "砂",
           "reading": "すな"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch35-03",
@@ -436,7 +438,8 @@
           "surface": "砂",
           "reading": "すな"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch35-04",
@@ -451,7 +454,8 @@
           "surface": "上",
           "reading": "うえ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch35-05",
@@ -466,7 +470,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch35-06",
@@ -477,7 +482,8 @@
           "surface": "俺",
           "reading": "おれ"
         }
-      ]
+      ],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch35-07",
@@ -496,7 +502,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch35-08",
@@ -511,7 +518,8 @@
           "surface": "潜っ",
           "reading": "もぐっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch35-09",
@@ -526,7 +534,8 @@
           "surface": "危ない",
           "reading": "あぶない"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch35-10",
@@ -541,7 +550,8 @@
           "surface": "潜っ",
           "reading": "もぐっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch35-11",
@@ -552,7 +562,8 @@
           "surface": "鋸",
           "reading": "のこぎり"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch35-12",
@@ -563,7 +574,8 @@
           "surface": "鋸",
           "reading": "のこぎり"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch35-13",
@@ -574,25 +586,29 @@
           "surface": "鋸",
           "reading": "のこぎり"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch35-14",
       "japanese": "タール が ある。",
       "imagePrompt": "Black streaks of tar cover the cave walls. There is tar! Thick, dark, and sticky-looking. It has been here for ages. The walls shine darkly. Tar streaks on cave walls. Medium close-up, eye-level. Dim dark-gleaming light, tar discovery mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch35-15",
       "japanese": "タール みたい だ。",
       "imagePrompt": "Snufkin touches the dark substance on the wall and rubs his fingers together. Seems like tar! His fingertips are stained black. The substance is indeed thick and oily. Snufkin testing the dark substance. Medium close-up, eye-level. Dim analytical light, identification mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch35-16",
       "japanese": "タール の なか に はいった。",
       "imagePrompt": "The passage narrows and the walls are coated with tar. They entered the tar section! Everyone squeezes through carefully, trying not to touch the walls. Group squeezing through tar-coated passage. Medium shot, eye-level. Dim sticky-dark light, navigating carefully mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch35-17",
@@ -611,7 +627,8 @@
           "surface": "場所",
           "reading": "ばしょ"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch35-18",
@@ -626,7 +643,8 @@
           "surface": "鬼",
           "reading": "き"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch35-19",
@@ -641,7 +659,8 @@
           "surface": "鬼",
           "reading": "き"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch35-20",
@@ -652,7 +671,8 @@
           "surface": "危ない",
           "reading": "あぶない"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch35-21",
@@ -667,7 +687,8 @@
           "surface": "場所",
           "reading": "ばしょ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch35-22",
@@ -678,7 +699,8 @@
           "surface": "危ない",
           "reading": "あぶない"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch35-23",
@@ -689,7 +711,8 @@
           "surface": "事件",
           "reading": "じけん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch35-24",
@@ -704,7 +727,8 @@
           "surface": "起こっ",
           "reading": "おこっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch35-25",
@@ -719,7 +743,8 @@
           "surface": "帰る",
           "reading": "かえる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

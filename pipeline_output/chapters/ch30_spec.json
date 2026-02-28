@@ -373,7 +373,8 @@
           "surface": "飾り",
           "reading": "かざり"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch30-02",
@@ -384,7 +385,8 @@
           "surface": "飾り",
           "reading": "かざり"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch30-03",
@@ -395,7 +397,8 @@
           "surface": "化け物",
           "reading": "ばけもの"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch30-04",
@@ -410,19 +413,22 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch30-05",
       "japanese": "この ハート が はやい。",
       "imagePrompt": "Moomintroll puts his hand on his chest — his heart is beating fast! The excitement and fear make his pulse race. He can feel it pounding. Moomintroll holding his chest. Medium close-up, eye-level. Dark nervous twilight light, racing heartbeat mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch30-06",
       "japanese": "やれ やれ。",
       "imagePrompt": "Snufkin sighs and shakes his head. Good grief. He is the calm one while others panic around him. His expression is world-weary but amused. Snufkin sighing calmly. Medium shot, eye-level. Dim calm twilight light, exasperated patience mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch30-07",
@@ -433,7 +439,8 @@
           "surface": "兄",
           "reading": "あに"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch30-08",
@@ -444,7 +451,8 @@
           "surface": "兄",
           "reading": "あに"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch30-09",
@@ -455,7 +463,8 @@
           "surface": "泣く",
           "reading": "なく"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch30-10",
@@ -466,7 +475,8 @@
           "surface": "泣か",
           "reading": "なか"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch30-11",
@@ -481,7 +491,8 @@
           "surface": "聞こえる",
           "reading": "きこえる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch30-12",
@@ -492,7 +503,8 @@
           "surface": "鼾",
           "reading": "いびき"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch30-13",
@@ -507,7 +519,8 @@
           "surface": "回",
           "reading": "かい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch30-14",
@@ -526,7 +539,8 @@
           "surface": "化け物",
           "reading": "ばけもの"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch30-15",
@@ -537,7 +551,8 @@
           "surface": "飾り",
           "reading": "かざり"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch30-16",
@@ -548,13 +563,15 @@
           "surface": "飾り",
           "reading": "かざり"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch30-17",
       "japanese": "やれ、また か。",
       "imagePrompt": "Snufkin sighs again as another snore erupts. Good grief, again? His resigned expression is comic. He puts his hands in his pockets and waits. Snufkin sighing resignedly. Medium shot, eye-level. Dim resigned twilight light, comic exasperation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch30-18",
@@ -569,7 +586,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch30-19",
@@ -580,13 +598,15 @@
           "surface": "鼾",
           "reading": "いびき"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch30-20",
       "japanese": "ハート が ある。",
       "imagePrompt": "Moomintroll picks up the heart decoration and holds it against his chest. There is a heart here — both the decoration and his own brave heart. A touching moment. Moomintroll holding heart decoration to his chest. Medium close-up, eye-level. Warm touching twilight light, brave-heart mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch30-21",
@@ -597,13 +617,15 @@
           "surface": "泣く",
           "reading": "なく"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch30-22",
       "japanese": "やれ、すごい ね。",
       "imagePrompt": "Snufkin gives a half-smile, looking at the sleeping figure in the bush. Good grief, quite something. The adventure turned out to be funny rather than scary. Snufkin half-smiling at the sleeper. Medium shot, eye-level. Warm amused twilight light, wry conclusion mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch30-23",
@@ -618,7 +640,8 @@
           "surface": "楽しかっ",
           "reading": "たのしかっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

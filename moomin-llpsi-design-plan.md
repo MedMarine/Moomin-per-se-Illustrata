@@ -534,15 +534,26 @@ All 45 chapters written and validated. Key artifacts:
 
 #### Phase 3 polish passes (pre-rendering quality gates):
 
-1. **Naturalness audit** — Added ね particles to ~200 sentences across all 45 chapters to reduce robotic tone. Targeted recycled/known material only; sentences introducing new grammar left explicit.
+Two systematic audits were performed on all 45 chapters / ~1,019 sentences before any image or audio generation. These passes are essential for any LLPSI-style project — generated text that satisfies constraint validation can still sound robotic or produce unrenderable image prompts.
 
-2. **Image prompt renderability audit** — Systematic review of all ~1,019 prompts against six anti-pattern criteria tuned for Gemini Pro's known failure modes:
-   - R1 (characters facing away): ~10 rewrites. Departing characters now face the viewer.
-   - R3 (extreme darkness): ~12 rewrites. All dark scenes now have explicit light sources (lanterns, moonlight, firelight, colored light).
-   - R4 (dynamic mid-action): ~3 rewrites. Diving/running → moment before/after action.
-   - R5 (non-standard camera angles): ~25 rewrites. All "low angle" / "top-down" / "upward angle" → eye-level.
-   - R1+R3 combos: ~2 rewrites. Back-facing in darkness → facing viewer with light source.
-   - Total: ~52 prompts rewritten. Zero "low angle", "walks away", "silhouette moves", or "retreating" patterns remain.
+**Audit 1: Pedagogy vs. Naturalness** — The constraint solver produces grammatically valid sentences that hit recycling minimums, but the resulting text often sounds mechanical — every subject stated, every particle present, no conversational warmth. This audit reviewed all ~1,019 sentences and made targeted naturalness improvements:
+
+- Added ね particles to ~200 sentences across all 45 chapters. ね signals shared understanding and transforms flat declaratives ("いい船だ") into natural conversation ("いい船だね"). Only recycled/known material was touched — sentences introducing new grammar were left explicit to avoid masking the teaching point.
+- Applied light pro-drop where context made subjects recoverable, especially in later chapters where this pattern is natural in the target anime.
+- Adjusted interjection placement and sentence-final particle combinations to better match character voice profiles.
+
+**Key insight**: Naturalness passes should happen *after* validation passes, not during initial writing. Attempting to write natural text while satisfying all constraints simultaneously leads to constraint violations that require full rewrites. Write correct text first, then humanize.
+
+**Audit 2: Image Prompt Renderability** — AI image generators (Gemini Pro) have systematic failure modes that text-only review misses. This audit systematically reviewed all ~1,019 prompts against six anti-pattern criteria derived from early test generations:
+
+- R1 (characters facing away): ~10 rewrites. Prompts describing departing characters ("walks away", "retreating figure") consistently produce backs-of-heads with no recognizable features. Fix: departing characters now face the viewer or look over their shoulder.
+- R3 (extreme darkness): ~12 rewrites. Night/cave/storm scenes with no specified light source produce near-black images. Fix: all dark scenes now have explicit light sources (lanterns, moonlight, firelight, colored light).
+- R4 (dynamic mid-action): ~3 rewrites. Action-peak moments ("diving into water", "running at full speed") produce motion blur or anatomically impossible poses. Fix: describe the moment just before or just after the peak action.
+- R5 (non-standard camera angles): ~25 rewrites. "Low angle", "top-down", "upward angle" prompts produce disorienting compositions or break character recognition. Fix: all changed to eye-level.
+- R1+R3 combos: ~2 rewrites. Back-facing characters in darkness are doubly unrecognizable.
+- Total: ~52 prompts rewritten. Zero "low angle", "walks away", "silhouette moves", or "retreating" patterns remain in the final corpus.
+
+**Key insight**: These anti-patterns are model-specific but the audit methodology generalizes. Before committing to a 1,000+ image generation run, generate a test batch of 20–30 images spanning different scene types, catalog the failure modes, then audit all prompts against those patterns. The cost of 52 prompt rewrites is negligible compared to regenerating hundreds of bad images.
 
 3. **Prompt length audit** — All 1,019 prompts verified within tolerance. Min 26 words, max 60 words, median 38 words. 80% fall within the 35–55 word design target. Only 8 prompts (0.8%) exceed 55 words, all by ≤5 words.
 
@@ -556,15 +567,20 @@ All 45 chapters written and validated. Key artifacts:
 ### Phase 4: Rendering and Web Reader — IN PROGRESS
 
 #### Complete:
-- **Web reader** — `reader/index.html` + `app.js` + `style.css`. Sentence-by-sentence display with paired illustrations, furigana toggle, chapter navigation.
-- **Image generation pipeline** — `generate_gemini.py` (interactive, per-chapter) and `batch_gemini.py` (batch API, all chapters). Both support reference images, resume mode, and configurable aspect ratio (3:2).
-- **Review app** — `review_app.py` for keep/regenerate tagging of generated images.
+- **Web reader** — `reader/index.html` + `app.js` + `style.css`. Sentence-by-sentence display with paired illustrations, furigana toggle (AUTO/ON/OFF), chapter navigation, audio play buttons.
+- **Furigana system** — Three-mode toggle with deterministic exposure tracking. AUTO mode computes prior exposures from all earlier chapters (not browsing order). Okurigana splitting ensures furigana sits above kanji stems only, not trailing kana.
+- **Image generation pipeline** — `generate_gemini.py` (interactive, per-chapter) and `batch_gemini.py` (batch API, all chapters). Both support reference images, resume mode, configurable aspect ratio (3:2), and regeneration from review manifests.
+- **Review app** — `review_app.py` for keep/regenerate tagging of generated images, with notes and custom pinned reference images.
 - **Reference images** — 25 curated folders covering all named characters + environments + props.
 - **Scene schemas** — 30 scene definitions in `SCENES` dict providing location, character, and prop context per chapter.
+- **Speaker assignment** — `generate_speakers.py` assigns a character speaker to each of 1,019 sentences via layered heuristics (explicit quotation, imagePrompt extraction, pronoun signals, protagonist fallback). All assignments manually reviewed and 128 corrections applied. Speaker field patched into all 45 chapter spec JSONs.
+- **Audio generation pipeline** — `generate_audio.py` calls local Voicevox TTS engine with character-appropriate voices. Two-step API (audio_query → synthesis), WAV→OGG conversion via FFmpeg. Strips pedagogical spaces and extracts quoted dialogue for natural TTS input.
+
+#### In progress:
+- **Image generation** — Chapters 1–3 generated (58 images), reviewed via review_app, 8 flagged for regeneration. Remaining chapters 4–45 pending.
+- **Audio generation** — Pipeline complete and tested. Chapters 1–2 generated (26 .ogg files). Remaining chapters pending (requires Voicevox running locally).
 
 #### Not yet started:
-- **Image generation** — `pipeline_output/images_gemini/` is empty. Ready to run.
-- **Audio generation** — character-consistent voices, per-sentence. Pipeline not yet built.
 - **Exercises** — picture-sentence matching, cloze, morpheme reorder (§3.7). Not yet implemented.
 - **Marginalia** — margin glosses for morphological/semantic relationships (§3.6). Not yet implemented.
 - **Tap-to-highlight** — interactive word-to-illustration referent mapping (§3.6). Not yet implemented.
@@ -576,4 +592,4 @@ All 45 chapters written and validated. Key artifacts:
 
 ### Recommended next step
 
-Run a test batch (1–2 chapters) through `generate_gemini.py` to validate image quality and reference image effectiveness before committing to the full ~1,019-image generation run.
+Complete image generation for remaining chapters (4–45) via batch_gemini.py, review each batch via review_app.py, regenerate flagged images, then run full audio generation.

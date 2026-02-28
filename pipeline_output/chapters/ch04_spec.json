@@ -118,31 +118,36 @@
       "id": "ch04-01",
       "japanese": "みんな は ここ に いる。",
       "imagePrompt": "Rainy evening inside the Moomin house, the whole family gathered in the warm living room. Rain streaks on round windows. Rain outside, cozy family inside. Medium-wide interior shot, eye-level. Warm lamplight against grey rain, cozy gathering mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch04-02",
       "japanese": "だれ が はいる？",
       "imagePrompt": "A knock sounds at the Moomin house door. Everyone turns to look. Rain pours outside. The front door with everyone looking toward it. Medium shot, eye-level from inside. Warm interior light, startled curiosity mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch04-03",
       "japanese": "ニンニ が はいる。",
       "imagePrompt": "The door opens and a faint shimmer enters — Ninny is nearly invisible, only a thin outline visible in the doorway. Rain drips in. A barely-visible figure in the doorway. Medium shot, eye-level at the door. Rain-lit doorway against warm interior, mysterious entrance mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ニンニ"
     },
     {
       "id": "ch04-04",
       "japanese": "ニンニ は だれ？",
       "imagePrompt": "Inside the Moomin house, everyone stares at the spot where Ninny stands. Only her feet are slightly visible. Moomintroll tilts his head. Everyone staring at the invisible guest. Medium-wide shot, eye-level. Warm lamplight, puzzled questioning mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch04-05",
       "japanese": "あなた は どう？",
       "imagePrompt": "Moominmamma kneels down to Ninny's approximate eye level, speaking gently to the air where Ninny stands. Her hands are extended warmly. Moominmamma speaking to invisible Ninny. Medium shot, slightly low angle. Soft warm lamplight, gentle concerned mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch04-06",
@@ -153,85 +158,99 @@
           "surface": "家",
           "reading": "いえ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch04-07",
       "japanese": "そう、あなた の もの だ。",
       "imagePrompt": "Moominmamma nods and hands a blanket toward where Ninny stands. That's right — it's yours. The blanket floats as invisible hands take it. Blanket offered to the invisible guest. Medium shot, eye-level. Warm lamplight, generous affirming mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch04-08",
       "japanese": "ニンニ、ここ に いる。",
       "imagePrompt": "The family sits in a circle in the living room with an empty spot for Ninny. Moomintroll pats the seat beside him invitingly. Family circle with a spot for Ninny. Medium-wide shot, slightly elevated. Warm firelight, inclusive welcoming mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch04-09",
       "japanese": "ニンニ も はいる。",
       "imagePrompt": "A cup of tea lifts from the table by itself — Ninny has joined the circle. The family smiles at the floating cup. A floating teacup in the family circle. Medium shot, eye-level. Warm cozy lamplight, magical acceptance mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch04-10",
       "japanese": "これ！なに？",
       "imagePrompt": "Ninny's faint outline reaches toward a round object on the shelf. Moomintroll watches the object wobble as invisible hands touch it. Invisible hands touching a shelf object. Medium close-up, eye-level. Warm interior light, curious exploration mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ニンニ"
     },
     {
       "id": "ch04-11",
       "japanese": "これ は いい もの だ。",
       "imagePrompt": "Moomintroll picks up the round object — a seashell — and holds it out toward Ninny. It shimmers in the lamplight. Moomintroll offering the seashell to Ninny. Medium close-up, eye-level. Warm golden lamplight on the shell, sharing kindness mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch04-12",
       "japanese": "あなた の もの だ。",
       "imagePrompt": "The seashell floats from Moomintroll's hand into the air where Ninny holds it. A faint smile outline appears on Ninny's invisible face. Seashell floating to invisible Ninny. Close-up, eye-level. Warm soft lamplight, touching generosity mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch04-13",
       "japanese": "ここ は いい ね。",
       "imagePrompt": "Wide view of the cozy Moomin house interior at night. Rain still patters outside but inside is warm and bright. Everyone settled comfortably. The cozy Moomin house interior at night. Medium-wide shot, eye-level. Warm firelight and lamplight, contented safety mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch04-14",
       "japanese": "どう？いい？",
       "imagePrompt": "Moomintroll looks toward where Ninny sits, head tilted questioningly. A blanket bunches slightly as Ninny shifts beneath it. Moomintroll checking on Ninny. Medium shot, eye-level. Soft warm lamplight, caring inquiry mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch04-15",
       "japanese": "いい。みんな の もの だ。",
       "imagePrompt": "The family shares food around the big table — plates passing through the air as Ninny helps serve. A warm shared meal. Family meal with invisible helper. Medium-wide shot, slightly elevated. Rich warm dinner-table light, communal sharing mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ニンニ"
     },
     {
       "id": "ch04-16",
       "japanese": "ニンニ は ここ に いる。",
       "imagePrompt": "Late evening, the family prepares for sleep. A pillow has a slight dent where Ninny's head rests. Everyone settling in. Ninny's pillow dent near the family. Medium shot, eye-level. Dim warm firelight, peaceful settling mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch04-17",
       "japanese": "ムーミン も はいる。",
       "imagePrompt": "Moomintroll climbs under his blanket near Ninny's spot, yawning. The rain has softened to a gentle patter. Everyone finding sleep. Moomintroll getting under his blanket. Medium shot, eye-level. Very dim warm light, sleepy companionship mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch04-18",
       "japanese": "みんな が はいった。",
       "imagePrompt": "The Moomin house viewed from outside in the rain. All windows are dark except one dim glow. Everyone is inside and asleep. Dark rainy house with one faint window glow. Wide shot from outside, eye-level. Rainy blue darkness with warm window glow, peaceful conclusion mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch04-19",
       "japanese": "みんな は どう？いい。",
       "imagePrompt": "Morning light through rain-washed windows. The family stretches and yawns. Where Ninny sits, the blanket has a clearer human shape than before. Morning in the Moomin house after the rain. Medium-wide interior shot, eye-level. Fresh morning light through clean windows, new-day optimism mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ニンニ"
     }
   ],
   "validation": {

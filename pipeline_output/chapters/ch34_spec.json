@@ -410,7 +410,8 @@
           "surface": "場所",
           "reading": "ばしょ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch34-02",
@@ -425,7 +426,8 @@
           "surface": "降っ",
           "reading": "ふっ"
         }
-      ]
+      ],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch34-03",
@@ -436,7 +438,8 @@
           "surface": "降っ",
           "reading": "ふっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch34-04",
@@ -447,7 +450,8 @@
           "surface": "水",
           "reading": "みず"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch34-05",
@@ -458,7 +462,8 @@
           "surface": "降る",
           "reading": "ふる"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch34-06",
@@ -469,7 +474,8 @@
           "surface": "怒っ",
           "reading": "おこっ"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch34-07",
@@ -480,7 +486,8 @@
           "surface": "怒っ",
           "reading": "おこっ"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch34-08",
@@ -491,7 +498,8 @@
           "surface": "怒る",
           "reading": "おこる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch34-09",
@@ -506,7 +514,8 @@
           "surface": "水",
           "reading": "みず"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch34-10",
@@ -517,7 +526,8 @@
           "surface": "毒",
           "reading": "どく"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch34-11",
@@ -528,7 +538,8 @@
           "surface": "毒",
           "reading": "どく"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch34-12",
@@ -539,7 +550,8 @@
           "surface": "毒",
           "reading": "どく"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch34-13",
@@ -550,13 +562,15 @@
           "surface": "時間",
           "reading": "じかん"
         }
-      ]
+      ],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch34-14",
       "japanese": "そこ に たっている。",
       "imagePrompt": "A lightning flash illuminates a mysterious figure standing motionless among the trees in the rain. Standing there! A shape that was not there before. Everyone stares. Mysterious figure revealed by lightning among trees. Medium shot, eye-level. Lightning-flash light against rainy grey, startling presence mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch34-15",
@@ -567,7 +581,8 @@
           "surface": "立っ",
           "reading": "たっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch34-16",
@@ -578,7 +593,8 @@
           "surface": "動く",
           "reading": "うごく"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch34-17",
@@ -589,19 +605,22 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch34-18",
       "japanese": "いらっしゃいます か。",
       "imagePrompt": "Mama asks politely if the figure is there. Are you there? Her polite tone cuts through the rain. The figure turns slightly toward her voice. Mama asking politely in the rain. Medium shot, eye-level. Soft polite light, gentle inquiry mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch34-19",
       "japanese": "ここ に いらっしゃる。",
       "imagePrompt": "The figure is indeed there — a forest creature, old and covered in moss. It is here! Mama nods calmly. The creature blinks slowly. Mossy forest creature revealed. Medium shot, eye-level. Dim revealing light, calm recognition mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch34-20",
@@ -612,7 +631,8 @@
           "surface": "壊れ",
           "reading": "こわれ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch34-21",
@@ -627,7 +647,8 @@
           "surface": "壊れ",
           "reading": "こわれ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch34-22",
@@ -638,7 +659,8 @@
           "surface": "壊れ",
           "reading": "こわれ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch34-23",
@@ -649,7 +671,8 @@
           "surface": "出発",
           "reading": "しゅっぱつ"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch34-24",
@@ -660,7 +683,8 @@
           "surface": "出発",
           "reading": "しゅっぱつ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch34-25",
@@ -675,7 +699,8 @@
           "surface": "前",
           "reading": "まえ"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     }
   ],
   "validation": {

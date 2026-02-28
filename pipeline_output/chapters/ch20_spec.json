@@ -264,7 +264,8 @@
           "surface": "起き",
           "reading": "おき"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch20-02",
@@ -275,7 +276,8 @@
           "surface": "雨",
           "reading": "あめ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch20-03",
@@ -286,7 +288,8 @@
           "surface": "雨",
           "reading": "あめ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch20-04",
@@ -301,13 +304,15 @@
           "surface": "変わっ",
           "reading": "かわっ"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch20-05",
       "japanese": "まあ いい。",
       "imagePrompt": "Moomintroll shrugs cheerfully, accepting that it rained. He's not bothered. A carefree expression on his face as he looks out the window. Moomintroll shrugging by the window. Medium shot, eye-level. Soft morning light, easygoing acceptance mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch20-06",
@@ -318,13 +323,15 @@
           "surface": "姉",
           "reading": "あね"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch20-07",
       "japanese": "かくれんぼ を する。",
       "imagePrompt": "Mymble's daughter announces the plan with both hands raised. Hide-and-seek! Everyone gathers in the living room to hear the rules. Group in the living room. Medium-wide shot, eye-level. Warm interior morning light, game planning mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ミムラ"
     },
     {
       "id": "ch20-08",
@@ -335,13 +342,15 @@
           "surface": "姉",
           "reading": "あね"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch20-09",
       "japanese": "さっき ここ に いた。",
       "imagePrompt": "Moomintroll points at a wet spot behind a bush where someone was hiding moments ago. Footprints in the damp earth. Only footprints remain. Pointing at footprints behind bush. Medium close-up, slightly elevated. Dappled morning light, detective observation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch20-10",
@@ -352,7 +361,8 @@
           "surface": "書く",
           "reading": "かく"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch20-11",
@@ -363,7 +373,8 @@
           "surface": "書く",
           "reading": "かく"
         }
-      ]
+      ],
+      "speaker": "ミムラ"
     },
     {
       "id": "ch20-12",
@@ -378,7 +389,8 @@
           "surface": "書い",
           "reading": "かい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch20-13",
@@ -393,13 +405,15 @@
           "surface": "書い",
           "reading": "かい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch20-14",
       "japanese": "もらった！",
       "imagePrompt": "Moomintroll holds up the paper clue happily, reading it with wide eyes. He received the gift of a clue! His face lights up. Moomintroll holding paper happily. Medium close-up, eye-level. Bright joyful morning light, happy receiving mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch20-15",
@@ -410,13 +424,15 @@
           "surface": "姉",
           "reading": "あね"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch20-16",
       "japanese": "うん、まあ だいじょうぶ。",
       "imagePrompt": "Sniff looks confused by the clue but Moomintroll reassures him with a casual wave. It'll be fine, they can figure it out. Moomintroll reassuring Sniff. Medium shot, eye-level. Calm reassuring morning light, easygoing acceptance mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch20-17",
@@ -427,7 +443,8 @@
           "surface": "起き",
           "reading": "おき"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch20-18",
@@ -438,7 +455,8 @@
           "surface": "起き",
           "reading": "おき"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch20-19",
@@ -453,7 +471,8 @@
           "surface": "変わっ",
           "reading": "かわっ"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch20-20",
@@ -464,7 +483,8 @@
           "surface": "雨",
           "reading": "あめ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch20-21",
@@ -475,7 +495,8 @@
           "surface": "書い",
           "reading": "かい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch20-22",
@@ -486,7 +507,8 @@
           "surface": "書く",
           "reading": "かく"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch20-23",
@@ -501,7 +523,8 @@
           "surface": "違う",
           "reading": "ちがう"
         }
-      ]
+      ],
+      "speaker": "パパ"
     }
   ],
   "validation": {

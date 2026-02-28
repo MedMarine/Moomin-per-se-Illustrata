@@ -185,49 +185,57 @@
       "id": "ch12-01",
       "japanese": "ミムラ が きた。",
       "imagePrompt": "Moomin house interior, warm lamplight. Mymble stands in the doorway with a large old suitcase, smiling. The family looks up from the table. Mymble arriving at the door. Medium shot, eye-level. Warm amber lamplight, welcoming surprise mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch12-02",
       "japanese": "ミムラ さん！",
       "imagePrompt": "Moomintroll rushes toward Mymble at the door, arms open in greeting. Mymble waves with her free hand, suitcase in the other. Moomintroll greeting Mymble. Medium shot, eye-level. Warm golden interior light, joyful reunion mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch12-03",
       "japanese": "この スーツケース は なに？",
       "imagePrompt": "Close view of the old leather suitcase on the floor, clasps gleaming in the lamplight. Moomintroll crouches beside it, tilting his head. The mysterious suitcase on the floor. Close-up, slightly elevated. Warm focused lamplight, curious wonder mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch12-04",
       "japanese": "スーツケース の なか に なに が ある？",
       "imagePrompt": "All the characters crowd around the suitcase, bending down to look. Mymble stands behind it with a knowing smile. Characters gathered around the suitcase. Medium shot, slightly elevated. Warm lamplight casting long shadows, eager anticipation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch12-05",
       "japanese": "だめ！",
       "imagePrompt": "Mymble puts both hands on the suitcase lid firmly, shaking her head with a playful stern expression. Others lean back surprised. Mymble guarding the suitcase. Medium close-up, eye-level. Warm lamplight, firm but playful refusal mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ミムラ"
     },
     {
       "id": "ch12-06",
       "japanese": "まだ だめ だ。",
       "imagePrompt": "Mymble holds up one finger indicating 'not yet', still smiling. The suitcase sits between her and the curious family. Mymble gesturing 'not yet'. Medium shot, eye-level. Warm evening lamplight, teasing patience mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ミムラ"
     },
     {
       "id": "ch12-07",
       "japanese": "でも、みる？",
       "imagePrompt": "Sniff peers around Mymble's arm trying to peek at the suitcase, one eye squinting hopefully. Moomintroll looks on eagerly behind him. Sniff trying to peek. Medium close-up, eye-level. Warm lamplight, hopeful pleading mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch12-08",
       "japanese": "だめ だ よ。",
       "imagePrompt": "Mymble shakes her head again, this time with a firmer smile, gently pushing Sniff back from the suitcase. The lid remains firmly closed. Mymble pushing Sniff away gently. Medium shot, eye-level. Warm lamplight, gentle but firm mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ミムラ"
     },
     {
       "id": "ch12-09",
@@ -238,7 +246,8 @@
           "surface": "隠れ",
           "reading": "かくれ"
         }
-      ]
+      ],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch12-10",
@@ -249,7 +258,8 @@
           "surface": "隠れる",
           "reading": "かくれる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch12-11",
@@ -264,91 +274,106 @@
           "surface": "隠れ",
           "reading": "かくれ"
         }
-      ]
+      ],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch12-12",
       "japanese": "スーツケース は ここ に ある！",
       "imagePrompt": "Sniff points excitedly at the unguarded suitcase still sitting on the floor. The clasps glint invitingly in the lamplight. Sniff pointing at the suitcase. Medium shot, eye-level. Warm focused lamplight on the suitcase, opportunistic excitement mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch12-13",
       "japanese": "なか を みる！",
       "imagePrompt": "Moomintroll carefully lifts one clasp of the suitcase, the lid beginning to open. A faint glow emerges from inside. Moomintroll opening the suitcase. Close-up, slightly elevated. Warm glow from inside the suitcase, breathless anticipation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch12-14",
       "japanese": "とても きれい だ ね。",
       "imagePrompt": "The suitcase is open revealing beautiful shells, crystals, and pressed flowers inside. Warm light illuminates the treasures. Moomintroll and Sniff gaze in awe. Beautiful treasures in the suitcase. Close-up, slightly elevated. Warm glowing light from the contents, awestruck beauty mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch12-15",
       "japanese": "きれい！",
       "imagePrompt": "Close view of a single large crystal from the suitcase, refracting lamplight into rainbow patterns on the wall. Sniff holds it up to the light. Crystal refracting rainbow light. Close-up, eye-level. Prismatic rainbow lamplight, pure wonder mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch12-16",
       "japanese": "ほんとう に きれい だ。",
       "imagePrompt": "Moominmamma holds a pressed flower from the suitcase, examining its delicate petals. Colors still vivid despite being dried. Moominmamma with the pressed flower. Close-up, eye-level. Soft warm lamplight on the flower, gentle appreciation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch12-17",
       "japanese": "とても いい もの だ。",
       "imagePrompt": "Moominpappa inspects a small carved wooden box from the suitcase, turning it in his hands appreciatively. Fine craftsmanship visible. Moominpappa examining the wooden box. Medium close-up, eye-level. Warm amber lamplight, admiring quality mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "パパ"
     },
     {
       "id": "ch12-18",
       "japanese": "スーツケース は とても いい ね。",
       "imagePrompt": "Wide view of the open suitcase with all its treasures visible, the whole family gathered around it. Warm light fills the scene. Everyone admiring the suitcase contents. Medium-wide shot, slightly elevated. Rich warm lamplight, collective appreciation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch12-19",
       "japanese": "でも、まだ ミムラ の もの だ。",
       "imagePrompt": "Moominmamma gently puts the pressed flower back into the suitcase, reminding everyone with a kind look. Others nod reluctantly. Moominmamma returning items to the suitcase. Medium shot, eye-level. Warm lamplight, responsible gentle reminder mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch12-20",
       "japanese": "だから、ここ に おく。",
       "imagePrompt": "Moomintroll carefully closes the suitcase clasps and places it by the wall near the door. He pats it gently. Moomintroll placing the suitcase by the wall. Medium shot, eye-level. Warm evening lamplight, respectful careful mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch12-21",
       "japanese": "ミムラ さん、ここ に おく よ。",
       "imagePrompt": "Mymble returns to the room as Moomintroll places the suitcase neatly by the wall. He points to it. Mymble nods approvingly. Moomintroll showing Mymble the suitcase spot. Medium shot, eye-level. Warm lamplight, honest reporting mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch12-22",
       "japanese": "まだ ここ に いる よ。",
       "imagePrompt": "Mymble sits down at the table with the family, everyone settling in for the evening. The suitcase rests safely by the wall. Mymble joining the family at the table. Medium-wide shot, eye-level. Warm cozy lamplight, comfortable staying mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ミムラ"
     },
     {
       "id": "ch12-23",
       "japanese": "もう ねる？",
       "imagePrompt": "Moominmamma yawns gently behind her hand, looking at the clock on the wall. The room has grown darker, candles burning low. Moominmamma yawning at the table. Medium shot, eye-level. Dim flickering candlelight, sleepy evening mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch12-24",
       "japanese": "ねる よ。",
       "imagePrompt": "Moomintroll stretches and yawns, standing up from the table. Others are already heading toward the hallway. Moomintroll stretching and yawning. Medium shot, eye-level. Very dim warm candlelight, drowsy acceptance mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch12-25",
       "japanese": "みんな、ねる ね。",
       "imagePrompt": "Final view of the Moomin house interior at night, all lights dimming. The suitcase sits quietly by the wall, the family asleep upstairs. Night falls in the quiet house. Wide shot, slightly elevated. Faint moonlight through round windows, peaceful sleeping mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

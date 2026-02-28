@@ -288,7 +288,8 @@
           "surface": "海岸",
           "reading": "かいがん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch21-02",
@@ -299,7 +300,8 @@
           "surface": "海岸",
           "reading": "かいがん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch21-03",
@@ -310,13 +312,15 @@
           "surface": "変",
           "reading": "へん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch21-04",
       "japanese": "いつ ここ に きた？",
       "imagePrompt": "Moomintroll crouches near the mysterious object, examining it with a puzzled expression. Waves wash around the object gently. He tilts his head. Moomintroll examining the object closely. Medium close-up, eye-level. Soft curious coastal light, questioning mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch21-05",
@@ -331,7 +335,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch21-06",
@@ -342,7 +347,8 @@
           "surface": "呼ぶ",
           "reading": "よぶ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch21-07",
@@ -353,7 +359,8 @@
           "surface": "呼ん",
           "reading": "よん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch21-08",
@@ -364,13 +371,15 @@
           "surface": "呼ん",
           "reading": "よん"
         }
-      ]
+      ],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch21-09",
       "japanese": "みんな が きた。",
       "imagePrompt": "The group has gathered on the beach — Moomintroll, Moominpappa, Moominmamma, Sniff. They stand in a semicircle looking at something on the sand. Group gathered on the beach. Medium-wide shot, eye-level. Bright assembled coastal light, collective curiosity mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch21-10",
@@ -385,7 +394,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch21-11",
@@ -400,7 +410,8 @@
           "surface": "見せ",
           "reading": "みせ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch21-12",
@@ -411,7 +422,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch21-13",
@@ -426,7 +438,8 @@
           "surface": "言う",
           "reading": "いう"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch21-14",
@@ -441,7 +454,8 @@
           "surface": "入れる",
           "reading": "いれる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch21-15",
@@ -456,7 +470,8 @@
           "surface": "入れ",
           "reading": "いれ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch21-16",
@@ -471,7 +486,8 @@
           "surface": "見せ",
           "reading": "みせ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch21-17",
@@ -482,13 +498,15 @@
           "surface": "入れ",
           "reading": "いれ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch21-18",
       "japanese": "いつ きた？ わからない。",
       "imagePrompt": "The family sits around the object, shaking their heads. Nobody knows when it washed ashore or where it came from. A collective shrug. Family puzzled around the object. Medium-wide shot, eye-level. Soft uncertain interior light, collective puzzlement mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch21-19",
@@ -503,7 +521,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch21-20",
@@ -518,7 +537,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

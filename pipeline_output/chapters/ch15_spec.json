@@ -211,31 +211,36 @@
       "id": "ch15-01",
       "japanese": "ひとり で いる。",
       "imagePrompt": "Moomintroll sits alone in the dim Moomin house living room, firelight flickering on the walls. Empty chairs around him. Round windows show dark sky. Moomintroll alone by the fire. Medium shot, eye-level. Warm flickering firelight against darkness, solitary evening mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-02",
       "japanese": "みんな は いない。",
       "imagePrompt": "Wide view of the empty Moomin house rooms, chairs pushed back, no one around. Only Moomintroll visible in the far room. Empty house interior. Wide shot, slightly elevated. Dim warm lamplight in empty rooms, absent loneliness mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-03",
       "japanese": "いっしょ じゃない。",
       "imagePrompt": "Moomintroll looks at the empty chair next to him where Moominmamma usually sits. Her apron hangs on the back, unoccupied. The empty chair beside Moomintroll. Medium close-up, eye-level. Warm but dim firelight, separated sadness mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-04",
       "japanese": "いっしょ に いない。",
       "imagePrompt": "Moomintroll walks through the hallway holding a small candle, checking each round door. All rooms empty. Candlelight flickers on the walls. Moomintroll checking empty rooms by candlelight. Medium shot, eye-level. Warm candle glow in dim hallway, searching solitude mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-05",
       "japanese": "えー、だれ も いない？",
       "imagePrompt": "Moomintroll stands in the middle of the house, looking around with wide surprised eyes and open mouth. Total silence. Moomintroll surprised by emptiness. Medium shot, eye-level. Dim interior light, shocked disbelief mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-06",
@@ -246,7 +251,8 @@
           "surface": "怖い",
           "reading": "こわい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-07",
@@ -257,7 +263,8 @@
           "surface": "怖い",
           "reading": "こわい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-08",
@@ -268,7 +275,8 @@
           "surface": "自分",
           "reading": "じぶん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-09",
@@ -279,13 +287,15 @@
           "surface": "自分",
           "reading": "じぶん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-10",
       "japanese": "なに も ない。",
       "imagePrompt": "The dark corner is just an old coat rack with Moominpappa's spare hat. Nothing frightening at all. Moomintroll sighs with relief. The harmless coat rack revealed. Medium shot, eye-level. Warm relieved candlelight, anticlimactic relief mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-11",
@@ -296,7 +306,8 @@
           "surface": "怖い",
           "reading": "こわい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-12",
@@ -307,7 +318,8 @@
           "surface": "落ち",
           "reading": "おち"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-13",
@@ -318,7 +330,8 @@
           "surface": "落ち",
           "reading": "おち"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-14",
@@ -329,7 +342,8 @@
           "surface": "落ち",
           "reading": "おち"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-15",
@@ -340,19 +354,22 @@
           "surface": "怖い",
           "reading": "こわい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-16",
       "japanese": "ひとり じゃない。",
       "imagePrompt": "Moomintroll hears footsteps outside! The front door opens and Moominmamma's voice calls out. Light spills in from outside. Door opening with light. Medium shot, eye-level. Warm incoming light from the door, relieved realization mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-17",
       "japanese": "えー ほんとう？ママ！",
       "imagePrompt": "Moomintroll rushes to the door and sees Moominmamma standing there with a lantern. His jaw drops with delighted disbelief. Moomintroll at the door seeing Mama. Medium shot, eye-level. Warm lantern light, overjoyed disbelief mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-18",
@@ -363,19 +380,22 @@
           "surface": "山",
           "reading": "やま"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch15-19",
       "japanese": "でも、やっぱり いっしょ が いい。",
       "imagePrompt": "Moomintroll runs to the door where Moominmamma and Moominpappa enter, arms wide. Family reunion at the entrance. Moomintroll embracing his parents at the door. Medium shot, eye-level. Warm bright entrance light, joyful reunion mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-20",
       "japanese": "やっぱり ひとり は だめ だ。",
       "imagePrompt": "Moomintroll holds Moominmamma's hand as they walk back to the living room together. He shakes his head about being alone. Family walking back inside together. Medium shot, eye-level. Warm restored lamplight, heartfelt admission mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-21",
@@ -390,13 +410,15 @@
           "surface": "自分",
           "reading": "じぶん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-22",
       "japanese": "この ほう が いい。",
       "imagePrompt": "The whole family sits together by the fire, Moomintroll between his parents. The room glows warm. This is better. Family together by the fire. Medium shot, eye-level. Rich warm firelight, choosing togetherness mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-23",
@@ -411,7 +433,8 @@
           "surface": "帰る",
           "reading": "かえる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-24",
@@ -422,7 +445,8 @@
           "surface": "家",
           "reading": "いえ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch15-25",
@@ -433,7 +457,8 @@
           "surface": "落ち",
           "reading": "おち"
         }
-      ]
+      ],
+      "speaker": "ママ"
     }
   ],
   "validation": {

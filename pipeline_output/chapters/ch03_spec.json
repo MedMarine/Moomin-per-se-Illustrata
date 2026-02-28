@@ -121,7 +121,8 @@
           "surface": "山",
           "reading": "やま"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-02",
@@ -132,13 +133,15 @@
           "surface": "山",
           "reading": "やま"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-03",
       "japanese": "どこ に いる？",
       "imagePrompt": "Moomintroll shades his eyes with one hand on the mountain path, scanning the trail ahead. The path winds through trees and boulders. Moomintroll searching the path ahead. Medium shot, eye-level. Bright midday light, searching questioning mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-04",
@@ -149,25 +152,29 @@
           "surface": "人",
           "reading": "ひと"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-05",
       "japanese": "だれ が いる？",
       "imagePrompt": "Moomintroll creeps closer along the path, peering around a large boulder at the figure ahead. Wildflowers line the trail. Moomintroll peeking from behind a boulder. Medium shot, eye-level. Warm afternoon light, cautious curiosity mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-06",
       "japanese": "だれ？だれ だ？",
       "imagePrompt": "Moomintroll steps closer, squinting at the figure. He calls out hesitantly. The figure turns. Moomintroll calling out on the mountain path. Medium shot, eye-level. Bright afternoon light, eager questioning mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-07",
       "japanese": "フローレン だ！",
       "imagePrompt": "The figure turns and it is Snorkmaiden, sitting on a rock with flowers in her hair. She smiles at Moomintroll. Moomintroll's face lights up with recognition. Snorkmaiden revealed on the mountain path. Medium two-shot, eye-level. Warm golden afternoon light, delighted recognition mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-08",
@@ -178,13 +185,15 @@
           "surface": "人",
           "reading": "ひと"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-09",
       "japanese": "ふたり だ。",
       "imagePrompt": "Moomintroll and Snorkmaiden walk side by side on the mountain trail, their shadows stretching behind them. Two small figures on the vast mountain path. The pair walking together on the trail. Medium-wide shot, slightly elevated. Low afternoon sun casting long shadows, companionable mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-10",
@@ -195,7 +204,8 @@
           "surface": "山",
           "reading": "やま"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-11",
@@ -206,7 +216,8 @@
           "surface": "山",
           "reading": "やま"
         }
-      ]
+      ],
+      "speaker": "フローレン"
     },
     {
       "id": "ch03-12",
@@ -221,7 +232,8 @@
           "surface": "島",
           "reading": "しま"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-13",
@@ -232,13 +244,15 @@
           "surface": "海",
           "reading": "うみ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-14",
       "japanese": "フローレン は どこ に いる？",
       "imagePrompt": "Moomintroll looks around on the mountain path — Snorkmaiden has wandered off to pick flowers nearby. He searches for her. Moomintroll looking around for Snorkmaiden. Medium shot, eye-level. Warm late-afternoon light, mildly worried searching mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-15",
@@ -249,19 +263,22 @@
           "surface": "木",
           "reading": "き"
         }
-      ]
+      ],
+      "speaker": "フローレン"
     },
     {
       "id": "ch03-16",
       "japanese": "いい ふたり だ ね。",
       "imagePrompt": "Moomintroll and Snorkmaiden share a flower crown she made, both smiling. The mountain sunset glows behind them. The happy pair with flower crown. Medium close-up, eye-level. Warm sunset glow, affectionate happiness mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-17",
       "japanese": "ムーミン と フローレン。",
       "imagePrompt": "Silhouette of Moomintroll and Snorkmaiden walking hand in hand along the mountain ridge at sunset. Two small figures against a vast orange sky. Silhouetted pair on the mountain ridge. Wide shot, eye-level. Deep sunset orange and purple, romantic friendship mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-18",
@@ -272,7 +289,8 @@
           "surface": "家",
           "reading": "いえ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-19",
@@ -283,7 +301,8 @@
           "surface": "人",
           "reading": "ひと"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-20",
@@ -294,7 +313,8 @@
           "surface": "山",
           "reading": "やま"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch03-21",
@@ -305,7 +325,8 @@
           "surface": "家",
           "reading": "いえ"
         }
-      ]
+      ],
+      "speaker": "ナレーター"
     }
   ],
   "validation": {

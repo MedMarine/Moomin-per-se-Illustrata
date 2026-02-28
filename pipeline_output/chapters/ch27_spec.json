@@ -351,7 +351,8 @@
           "surface": "夜",
           "reading": "よる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch27-02",
@@ -366,7 +367,8 @@
           "surface": "空",
           "reading": "そら"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch27-03",
@@ -377,7 +379,8 @@
           "surface": "空",
           "reading": "そら"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch27-04",
@@ -388,7 +391,8 @@
           "surface": "子供",
           "reading": "こども"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch27-05",
@@ -403,7 +407,8 @@
           "surface": "教える",
           "reading": "おしえる"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch27-06",
@@ -418,7 +423,8 @@
           "surface": "教え",
           "reading": "おしえ"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch27-07",
@@ -429,13 +435,15 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch27-08",
       "japanese": "ジュース を のむ。",
       "imagePrompt": "Everyone has a glass of juice on the veranda. They sip while looking up at the stars. Condensation drips on the glasses in the night air. Group drinking juice under the stars. Medium shot, eye-level. Warm cozy veranda light, relaxed refreshment mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch27-09",
@@ -450,7 +458,8 @@
           "surface": "考える",
           "reading": "かんがえる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch27-10",
@@ -461,19 +470,22 @@
           "surface": "頭",
           "reading": "あたま"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch27-11",
       "japanese": "ちゃんと する。",
       "imagePrompt": "Moominmamma straightens a child's blanket and tucks them in properly on the veranda bench. Do it properly! She makes sure everyone is warm enough. Moominmamma tucking in children properly. Medium shot, eye-level. Warm caring veranda light, proper care mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch27-12",
       "japanese": "ちゃんと みて。",
       "imagePrompt": "Snufkin gently redirects a distracted child's gaze back to the sky. Look properly! The child refocuses on the stars. Patient guidance. Snufkin redirecting child's attention to the sky. Medium shot, eye-level. Cool attentive starlit light, patient guidance mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch27-13",
@@ -484,7 +496,8 @@
           "surface": "次回",
           "reading": "じかい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch27-14",
@@ -495,7 +508,8 @@
           "surface": "教える",
           "reading": "おしえる"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch27-15",
@@ -506,7 +520,8 @@
           "surface": "夜",
           "reading": "よる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch27-16",
@@ -521,13 +536,15 @@
           "surface": "楽しい",
           "reading": "たのしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch27-17",
       "japanese": "ジュース が ある。",
       "imagePrompt": "Moominmamma brings out a fresh pitcher of juice. There is more! The children cheer. The pitcher is full and cold with condensation. Fresh pitcher of juice arriving. Medium shot, eye-level. Warm domestic veranda light, welcome replenishment mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch27-18",
@@ -542,7 +559,8 @@
           "surface": "上",
           "reading": "うえ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch27-19",
@@ -553,7 +571,8 @@
           "surface": "次回",
           "reading": "じかい"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch27-20",
@@ -568,7 +587,8 @@
           "surface": "楽しみ",
           "reading": "たのしみ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

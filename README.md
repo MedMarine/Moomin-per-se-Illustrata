@@ -14,42 +14,35 @@ Modeled on [Lingua Latina per se Illustrata](https://en.wikipedia.org/wiki/Lingu
 ## Current status
 
 - **Staircase**: Complete (45 chapters, 366 lemmas, 20 grammar steps, ~90% avg coverage).
-- **Chapters 1–20**: Generated and validated. Covers grammar steps 0–14 (labeling through giving/receiving). Includes は vs が progression, い-adjective introduction, て-form, ている, たい, and あげる/もらう/くれる.
-- **Chapters 21–45**: Staircase complete, chapter specs not yet generated.
-- **Reader**: Functional at `reader/index.html`. Chapters load dynamically from manifest, with togglable furigana (ON / AUTO / OFF).
-- **Images**: Generated via Gemini Pro API with reference images for character consistency. Fixed resolution per batch for layout uniformity. Review and targeted regeneration of problematic images.
-- **Audio**: Not yet generated.
+- **Chapters 1–45**: All 45 chapters generated and validated (~1,019 sentences). Covers grammar steps 0–19 (labeling through nominalizers). Two pre-rendering audits performed: naturalness (added ね particles to ~200 sentences) and image prompt renderability (~52 prompts rewritten for Gemini Pro compatibility).
+- **Reader**: Functional at `reader/index.html`. Sentence-by-sentence display with paired illustrations, furigana toggle (AUTO/ON/OFF with deterministic exposure tracking), and per-sentence audio play buttons.
+- **Images**: Chapters 1–3 generated via Gemini Batch API (58 images), reviewed, 8 flagged for regeneration. Remaining chapters 4–45 in progress.
+- **Audio**: Voicevox TTS pipeline complete. Speaker assigned to all 1,019 sentences (manually reviewed, 128 corrections applied). 15 character voices mapped. Chapters 1–2 generated (26 .ogg files).
 
 ## Repository structure
 
 ```
 ├── moomin-llpsi-design-plan.md    # Design methodology (reusable template)
-├── build_staircase.py             # Staircase constraint solver
-├── generate_chapter_specs.py      # Chapter spec generator (sentences, scenes)
-├── validate_chapter.py            # MeCab-based constraint validator
-├── tokenize_corpus.py             # Corpus tokenization pipeline
-├── enhance_prompts.py             # Character trigger word injection for prompts
-├── generate_gemini.py             # Gemini Pro API image generation (primary)
-├── batch_gemini.py                # Gemini Batch API submission/download
-├── generate_chapter_images.py     # Legacy local image generation (unused)
-├── review_app.py                  # Local HTTP image review tool
-├── extract_prop_refs.py           # CLIP prop/setting reference finder
-├── ep01/ … ep10/                  # Episode data (lines, meta, vocab)
+├── voicevox_speakers.json         # Character → Voicevox voice ID mapping
+├── image_review.json              # Image review state (keep/regenerate tags)
+├── regeneration_manifest.json     # Exported redo list for batch_gemini.py
 ├── pipeline_output/
 │   ├── staircase.json             # 45-chapter vocabulary/grammar plan
-│   ├── lemma_registry.json        # 1,529 lemmas with frequency/speaker data
-│   ├── learner_lemma_map.json     # UniDic → learner form mappings
-│   └── chapters/
-│       ├── manifest.json          # Available chapter listing
-│       ├── ch01_spec.json         # Chapter specs (20 complete)
-│       └── …
+│   ├── speaker_map.json           # 1,019 sentence → speaker assignments
+│   ├── chapters/
+│   │   ├── manifest.json          # Available chapter listing
+│   │   └── ch01_spec.json … ch45  # Chapter specs (all 45 complete)
+│   ├── images_gemini/             # Generated illustrations (ch01–03 so far)
+│   └── audio/                     # Generated TTS audio (.ogg per sentence)
 ├── reader/
 │   ├── index.html                 # Web reader
-│   ├── app.js                     # Chapter loader, furigana, navigation
+│   ├── app.js                     # Chapter loader, furigana, audio, navigation
 │   └── style.css                  # Reader styles
-├── training_images/               # Curated character reference images
-└── reference_images/              # Prop/setting reference images for generation
+├── reference_images/              # Curated reference images for generation
+└── review_refs/                   # Custom pinned refs from image review
 ```
+
+Python pipeline scripts (gitignored): `build_staircase.py`, `generate_chapter_specs.py`, `validate_chapter.py`, `tokenize_corpus.py`, `generate_gemini.py`, `batch_gemini.py`, `generate_speakers.py`, `generate_audio.py`, `review_app.py`.
 
 ## Toolchain
 
@@ -57,23 +50,32 @@ Modeled on [Lingua Latina per se Illustrata](https://en.wikipedia.org/wiki/Lingu
 - [fugashi](https://github.com/polm/fugashi) + UniDic (full, frozen 2026-02-22) for tokenization
 - [Stanza](https://stanfordnlp.github.io/stanza/) for dependency parsing
 - MeCab for tokenization and validation
+- [Voicevox](https://voicevox.hiroshiba.jp/) for TTS audio generation (local engine on port 50021)
+- FFmpeg for audio format conversion (WAV → OGG)
+- Google Gemini Pro API for image generation
 
 ```bash
-# Generate staircase
-PYTHONIOENCODING=utf-8 python build_staircase.py
-
-# Generate chapter specs (writes JSON + manifest)
-PYTHONIOENCODING=utf-8 python generate_chapter_specs.py
-
-# Validate a single chapter
-PYTHONIOENCODING=utf-8 python validate_chapter.py pipeline_output/chapters/ch01_spec.json
-
-# Validate staircase constraints (clusters, grammar monotonicity)
-PYTHONIOENCODING=utf-8 python validate_chapter.py --staircase pipeline_output/staircase.json
-
 # Serve reader locally
 python -m http.server 8000
 # Open http://localhost:8000/reader/
+
+# Generate images (batch API — cheaper, faster)
+python batch_gemini.py submit --chapters 4 5 6 7 8
+python batch_gemini.py status
+python batch_gemini.py download
+
+# Regenerate flagged images
+python batch_gemini.py submit --regenerate regeneration_manifest.json
+python batch_gemini.py download
+
+# Review images
+python review_app.py
+
+# Generate audio (requires Voicevox running)
+python generate_audio.py --chapters 1        # test single chapter
+python generate_audio.py                     # all chapters
+python generate_audio.py --resume            # skip existing files
+python generate_audio.py --dry-run           # preview without generating
 ```
 
 ## Grammar sequence

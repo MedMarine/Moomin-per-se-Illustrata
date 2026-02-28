@@ -150,7 +150,8 @@
           "surface": "帽子",
           "reading": "ぼうし"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch07-02",
@@ -161,19 +162,22 @@
           "surface": "今",
           "reading": "いま"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch07-03",
       "japanese": "きみ は どこ に おいた？",
       "imagePrompt": "Moominmamma asks Moominpappa calmly where he last put the hat. She stands with arms crossed, patient. Moominmamma questioning Moominpappa. Medium two-shot, eye-level. Clear morning light, patient questioning mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch07-04",
       "japanese": "ぼく は あの ところ に おいた。",
       "imagePrompt": "Moominpappa points toward the porch, trying to remember. His face scrunches with the effort of recalling. Moominpappa pointing toward the porch. Medium shot, eye-level. Morning light, concentrated remembering mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "パパ"
     },
     {
       "id": "ch07-05",
@@ -184,55 +188,64 @@
           "surface": "今",
           "reading": "いま"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch07-06",
       "japanese": "だれ が さがす？",
       "imagePrompt": "The family gathers in the garden, ready to search. Moomintroll, Sniff, and Snorkmaiden look at each other. Who will search where? Family gathered to search the garden. Medium-wide shot, eye-level. Bright morning garden light, organizing the search mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch07-07",
       "japanese": "ぼく が さがす！",
       "imagePrompt": "Moomintroll raises his hand eagerly and runs toward the garden trees. His determination is visible in his stride. Moomintroll volunteering to search. Medium shot, eye-level. Bright morning light, eager volunteering mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch07-08",
       "japanese": "きみ も さがす？",
       "imagePrompt": "Moomintroll turns to Sniff and asks if he will help too. Sniff hesitates, then nods slowly. Moomintroll asking Sniff to help search. Medium two-shot, eye-level. Morning garden light, recruiting mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch07-09",
       "japanese": "そう、ぼく は おもう。ここ だ。",
       "imagePrompt": "Moomintroll crouches near the garden shed, studying the ground for clues. He thinks he has found a spot where the hat might be. Moomintroll investigating near the garden shed. Medium shot, slightly elevated. Morning light on dewy grass, detective thinking mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch07-10",
       "japanese": "いい ところ を さがす。",
       "imagePrompt": "Snorkmaiden searches through the flower beds methodically, parting stems and checking under leaves. Careful and thorough. Snorkmaiden searching flower beds. Medium shot, eye-level. Bright morning garden light, careful methodical mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "フローレン"
     },
     {
       "id": "ch07-11",
       "japanese": "みつけた！",
       "imagePrompt": "Sniff shouts from behind the garden fence — he holds up the top hat triumphantly above his head, grinning. Sniff holding up the found hat. Medium shot, eye-level. Bright morning sun on Sniff, triumphant discovery mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch07-12",
       "japanese": "スニフ が みつけた！",
       "imagePrompt": "Everyone runs toward Sniff. He waves the hat proudly. Moominpappa's face lights up with joy at seeing his hat. Everyone running toward Sniff with the hat. Medium-wide shot, eye-level. Bright joyful morning light, excited rush mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch07-13",
       "japanese": "スニフ は いい ね。ほんとう に いい。",
       "imagePrompt": "Moominpappa claps Sniff on the back in gratitude. Sniff beams with pride, standing taller than usual. Moominpappa thanking Sniff. Medium two-shot, eye-level. Warm morning light, proud grateful mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "パパ"
     },
     {
       "id": "ch07-14",
@@ -247,7 +260,8 @@
           "surface": "帽子",
           "reading": "ぼうし"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch07-15",
@@ -266,31 +280,36 @@
           "surface": "帽子",
           "reading": "ぼうし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch07-16",
       "japanese": "きみ は どう おもう？",
       "imagePrompt": "Moomintroll sits on the garden bench with Snorkmaiden afterward, chatting about the morning's adventure. He asks her opinion. Moomintroll and Snorkmaiden chatting on a bench. Medium two-shot, eye-level. Warm mid-morning light, relaxed conversation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch07-17",
       "japanese": "ぼく は そう おもう。",
       "imagePrompt": "Moomintroll nods thoughtfully, chin in hand, sitting on the garden bench. A contemplative expression. The garden is peaceful around him. Moomintroll thinking on the garden bench. Medium shot, eye-level. Warm dappled mid-morning light, reflective agreement mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch07-18",
       "japanese": "この ところ に おく。",
       "imagePrompt": "Moominpappa hangs the hat carefully on a new hook by the front door — a secure spot where it won't blow away. He pats it firmly. Moominpappa securing the hat on a hook. Medium close-up, eye-level. Warm morning light, careful securing mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "パパ"
     },
     {
       "id": "ch07-19",
       "japanese": "おく！ここ に おく。",
       "imagePrompt": "Moominpappa places the hat firmly on the hook, announcing he's putting it right here. He pats it for good measure. Moominpappa securing the hat. Medium shot, eye-level. Beautiful warm mid-morning light, determined securing mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "パパ"
     },
     {
       "id": "ch07-20",
@@ -301,13 +320,15 @@
           "surface": "今",
           "reading": "いま"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch07-21",
       "japanese": "ぼく が おもう。きみ は？",
       "imagePrompt": "Moomintroll and Sniff walk back toward the house, still discussing where the hat could have ended up. Moomintroll gestures as he talks. Friends walking and talking toward the house. Medium shot, eye-level. Warm late-morning light, easy conversational mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

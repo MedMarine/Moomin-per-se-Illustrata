@@ -62,7 +62,8 @@
           "surface": "海",
           "reading": "うみ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-02",
@@ -73,7 +74,8 @@
           "surface": "島",
           "reading": "しま"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-03",
@@ -84,7 +86,8 @@
           "surface": "島",
           "reading": "しま"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-04",
@@ -95,7 +98,8 @@
           "surface": "家",
           "reading": "いえ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-05",
@@ -106,7 +110,8 @@
           "surface": "家",
           "reading": "いえ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-06",
@@ -117,19 +122,22 @@
           "surface": "人",
           "reading": "ひと"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-07",
       "japanese": "ぼく が いる。",
       "imagePrompt": "Moomintroll looks at his own reflection in the cottage window, realizing the person was himself. He touches the glass tentatively. Moomintroll seeing his reflection in glass. Close-up, eye-level. Soft reflected light, amused self-recognition mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-08",
       "japanese": "ぼく、ムーミン。",
       "imagePrompt": "Moomintroll taps his chest on the island shore, introducing himself to the empty beach. Waves lap at the sand behind him. Moomintroll's self-introduction on the beach. Medium shot, eye-level. Clear bright island morning light, cheerful solitary mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-09",
@@ -144,7 +152,8 @@
           "surface": "島",
           "reading": "しま"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-10",
@@ -155,13 +164,15 @@
           "surface": "帽子",
           "reading": "ぼうし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-11",
       "japanese": "ない？そう、ない！",
       "imagePrompt": "Moomintroll running along the island beach looking left and right desperately. He confirms to himself it's really gone. Moomintroll searching the beach frantically. Medium-wide tracking shot, eye-level. Bright hot sun, desperate anxiety mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-12",
@@ -172,7 +183,8 @@
           "surface": "木",
           "reading": "き"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-13",
@@ -183,7 +195,8 @@
           "surface": "木",
           "reading": "き"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-14",
@@ -194,7 +207,8 @@
           "surface": "人",
           "reading": "ひと"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-15",
@@ -209,7 +223,8 @@
           "surface": "島",
           "reading": "しま"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-16",
@@ -224,13 +239,15 @@
           "surface": "海",
           "reading": "うみ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-17",
       "japanese": "ママ が いる。パパ が いる。",
       "imagePrompt": "A boat approaches the island shore carrying Moominmamma and Moominpappa. They wave from the deck. Moomintroll runs toward the water. Family arriving by boat at the island. Medium-wide shot, eye-level from shore. Late afternoon golden light, joyful reunion mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-18",
@@ -245,13 +262,15 @@
           "surface": "人",
           "reading": "ひと"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch02-19",
       "japanese": "そう！ぼく、ムーミン！",
       "imagePrompt": "Moomintroll stands proudly atop the island's highest rock at sunset, arms spread wide. The sea and sky stretch behind him in warm orange light. Moomintroll on the island summit at sunset. Medium-wide shot, eye-level. Warm dramatic sunset light, triumphant claiming mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

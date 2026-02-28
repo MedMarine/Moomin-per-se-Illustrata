@@ -8,6 +8,7 @@
 
 const JSON_BASE = '../pipeline_output/chapters';
 const IMAGE_BASE = '../pipeline_output/images_gemini';
+const AUDIO_BASE = '../pipeline_output/audio';
 const MANIFEST_URL = `${JSON_BASE}/manifest.json`;
 const MAX_CHAPTER_PROBE = 99; // fallback if no manifest
 
@@ -25,6 +26,8 @@ const state = {
   currentView: 'landing',
   furiganaMode: 'AUTO',  // 'AUTO' | 'ON' | 'OFF'
   kanjiExposures: {},    // { "見える": 3, "今日": 5 } tracks how many times user has seen each kanji word
+  currentAudio: null,    // currently playing Audio element
+  currentPlayBtn: null,  // currently active play button element
 };
 
 // ----- Persistence -----
@@ -239,6 +242,66 @@ function renderJapaneseWithFurigana(sentence) {
   return result;
 }
 
+// ----- Audio Playback -----
+
+/**
+ * Toggle play/pause for a sentence audio clip.
+ * Only one clip plays at a time — starting a new one stops the previous.
+ * If the audio file doesn't exist, the error handler hides the button.
+ */
+function toggleAudio(btn, audioSrc) {
+  // If clicking the currently playing button → pause
+  if (state.currentAudio && state.currentPlayBtn === btn) {
+    if (state.currentAudio.paused) {
+      state.currentAudio.play();
+      btn.classList.add('playing');
+      btn.innerHTML = '&#9646;&#9646;'; // ⏸
+    } else {
+      state.currentAudio.pause();
+      btn.classList.remove('playing');
+      btn.innerHTML = '&#9654;'; // ▶
+    }
+    return;
+  }
+
+  // Stop any currently playing audio
+  if (state.currentAudio) {
+    state.currentAudio.pause();
+    state.currentAudio.currentTime = 0;
+    if (state.currentPlayBtn) {
+      state.currentPlayBtn.classList.remove('playing');
+      state.currentPlayBtn.innerHTML = '&#9654;';
+    }
+  }
+
+  // Create new audio
+  const audio = new Audio(audioSrc);
+  state.currentAudio = audio;
+  state.currentPlayBtn = btn;
+
+  audio.addEventListener('ended', () => {
+    btn.classList.remove('playing');
+    btn.innerHTML = '&#9654;';
+    state.currentAudio = null;
+    state.currentPlayBtn = null;
+  });
+
+  audio.addEventListener('error', () => {
+    // Audio file doesn't exist — hide the button
+    btn.style.display = 'none';
+    state.currentAudio = null;
+    state.currentPlayBtn = null;
+  }, { once: true });
+
+  audio.play().then(() => {
+    btn.classList.add('playing');
+    btn.innerHTML = '&#9646;&#9646;';
+  }).catch(() => {
+    // Autoplay blocked or file missing
+    btn.style.display = 'none';
+  });
+}
+
 // ----- Navigation -----
 
 function showView(name) {
@@ -265,6 +328,12 @@ function openChapter(num) {
 }
 
 function goBack() {
+  // Stop any playing audio
+  if (state.currentAudio) {
+    state.currentAudio.pause();
+    state.currentAudio = null;
+    state.currentPlayBtn = null;
+  }
   state.currentChapter = null;
   showView('landing');
   history.pushState(null, '', window.location.pathname);
@@ -396,6 +465,18 @@ function renderReader(chapter) {
     wrapper.appendChild(img);
 
     card.appendChild(wrapper);
+
+    // Audio play button — auto-hides if .ogg file doesn't exist
+    const audioSrc = `${AUDIO_BASE}/${s.id}.ogg`;
+    const audioRow = document.createElement('div');
+    audioRow.className = 'audio-row';
+    const playBtn = document.createElement('button');
+    playBtn.className = 'play-btn';
+    playBtn.innerHTML = '&#9654;'; // ▶
+    playBtn.title = 'Play audio';
+    playBtn.addEventListener('click', () => toggleAudio(playBtn, audioSrc));
+    audioRow.appendChild(playBtn);
+    card.appendChild(audioRow);
 
     const jp = document.createElement('p');
     jp.className = 'sentence-japanese';

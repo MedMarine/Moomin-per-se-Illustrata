@@ -295,7 +295,8 @@
           "surface": "海岸",
           "reading": "かいがん"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch22-02",
@@ -310,13 +311,15 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch22-03",
       "japanese": "ゆっくり いく。",
       "imagePrompt": "Moominmamma gestures calmly with both hands, suggesting they take their time. No rush. She pours tea steadily with the other hand. Peaceful atmosphere. Moominmamma gesturing calmly. Medium shot, eye-level. Warm calm kitchen light, unhurried mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch22-04",
@@ -331,7 +334,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch22-05",
@@ -346,7 +350,8 @@
           "surface": "必要",
           "reading": "ひつよう"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch22-06",
@@ -361,7 +366,8 @@
           "surface": "無くなっ",
           "reading": "なくなっ"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch22-07",
@@ -376,7 +382,8 @@
           "surface": "必要",
           "reading": "ひつよう"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch22-08",
@@ -387,13 +394,15 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch22-09",
       "japanese": "もっと ちょうだい。",
       "imagePrompt": "Moomintroll holds his plate out for more cookies, cheeks already stuffed. Mama smiles at his appetite. More please! Moomintroll asking for more cookies. Medium shot, eye-level. Warm indulgent kitchen light, greedy snacking mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch22-10",
@@ -404,7 +413,8 @@
           "surface": "食べ",
           "reading": "たべ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch22-11",
@@ -419,7 +429,8 @@
           "surface": "素晴らしい",
           "reading": "すばらしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch22-12",
@@ -430,7 +441,8 @@
           "surface": "楽しみ",
           "reading": "たのしみ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch22-13",
@@ -449,7 +461,8 @@
           "surface": "入れ",
           "reading": "いれ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch22-14",
@@ -464,7 +477,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch22-15",
@@ -475,7 +489,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch22-16",
@@ -486,7 +501,8 @@
           "surface": "楽しみ",
           "reading": "たのしみ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch22-17",
@@ -501,7 +517,8 @@
           "surface": "楽しい",
           "reading": "たのしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch22-18",
@@ -512,7 +529,8 @@
           "surface": "素晴らしい",
           "reading": "すばらしい"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch22-19",
@@ -523,7 +541,8 @@
           "surface": "無くなっ",
           "reading": "なくなっ"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch22-20",
@@ -538,13 +557,15 @@
           "surface": "食べ",
           "reading": "たべ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch22-21",
       "japanese": "もっと ちょうだい！",
       "imagePrompt": "Moomintroll and Sniff both reach toward Mama with outstretched hands, pleading for more snacks. Mama laughs at their appetite. Both reaching for more. Medium shot, eye-level. Warm indulgent kitchen light, pleading mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch22-22",
@@ -555,7 +576,8 @@
           "surface": "楽しみ",
           "reading": "たのしみ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

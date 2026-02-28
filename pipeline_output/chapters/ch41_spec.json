@@ -465,7 +465,8 @@
           "surface": "色",
           "reading": "いろ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch41-02",
@@ -476,7 +477,8 @@
           "surface": "色",
           "reading": "いろ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch41-03",
@@ -491,7 +493,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch41-04",
@@ -502,7 +505,8 @@
           "surface": "大変",
           "reading": "たいへん"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch41-05",
@@ -513,7 +517,8 @@
           "surface": "大変",
           "reading": "たいへん"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch41-06",
@@ -524,25 +529,29 @@
           "surface": "大変",
           "reading": "たいへん"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch41-07",
       "japanese": "だれ が こわした？",
       "imagePrompt": "Papa stands with hands on hips, looking at the cracked painting frame. Who broke it? His gaze sweeps the room. Everyone avoids eye contact. Papa demanding answers. Medium shot, eye-level. Stern candlelight, interrogation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch41-08",
       "japanese": "こわした の は スニフ だ。",
       "imagePrompt": "All eyes turn to Sniff who stands frozen. The one who broke it is Sniff! His tail droops with guilt. Paint is on his hands. Everyone looking at Sniff. Medium shot, eye-level. Accusatory candlelight, caught mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch41-09",
       "japanese": "こわす の は だめ だ。",
       "imagePrompt": "Mama wags her finger gently. Breaking things is no good! Her tone is firm but kind. Sniff hangs his head. The broken frame lies on the floor. Mama scolding gently. Medium shot, eye-level. Warm firm candlelight, gentle discipline mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ママ"
     },
     {
       "id": "ch41-10",
@@ -553,7 +562,8 @@
           "surface": "隠し",
           "reading": "かくし"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch41-11",
@@ -564,7 +574,8 @@
           "surface": "隠す",
           "reading": "かくす"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch41-12",
@@ -575,7 +586,8 @@
           "surface": "隠し",
           "reading": "かくし"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch41-13",
@@ -586,7 +598,8 @@
           "surface": "嘘",
           "reading": "うそ"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch41-14",
@@ -597,7 +610,8 @@
           "surface": "嘘",
           "reading": "うそ"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch41-15",
@@ -612,7 +626,8 @@
           "surface": "信じ",
           "reading": "しんじ"
         }
-      ]
+      ],
+      "speaker": "ミー"
     },
     {
       "id": "ch41-16",
@@ -623,7 +638,8 @@
           "surface": "信じる",
           "reading": "しんじる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch41-17",
@@ -634,7 +650,8 @@
           "surface": "信じ",
           "reading": "しんじ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch41-18",
@@ -649,7 +666,8 @@
           "surface": "頂い",
           "reading": "いただい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch41-19",
@@ -660,7 +678,8 @@
           "surface": "頂く",
           "reading": "いただく"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch41-20",
@@ -675,7 +694,8 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch41-21",
@@ -690,7 +710,8 @@
           "surface": "出掛ける",
           "reading": "でかける"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch41-22",
@@ -705,7 +726,8 @@
           "surface": "楽しみ",
           "reading": "たのしみ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch41-23",
@@ -716,7 +738,8 @@
           "surface": "出掛け",
           "reading": "でかけ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

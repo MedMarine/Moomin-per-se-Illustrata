@@ -175,7 +175,8 @@
           "surface": "船",
           "reading": "ふね"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch10-02",
@@ -186,7 +187,8 @@
           "surface": "船",
           "reading": "ふね"
         }
-      ]
+      ],
+      "speaker": "ナレーター"
     },
     {
       "id": "ch10-03",
@@ -197,13 +199,15 @@
           "surface": "船",
           "reading": "ふね"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch10-04",
       "japanese": "ぼく も つくる！",
       "imagePrompt": "Moomintroll grabs a small hammer and starts helping with the boat construction, enthusiastically but clumsily. Moominpappa guides his hand. Moomintroll helping build the boat. Medium shot, eye-level. Bright morning work light, eager helping mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch10-05",
@@ -214,7 +218,8 @@
           "surface": "待つ",
           "reading": "まつ"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch10-06",
@@ -225,13 +230,15 @@
           "surface": "待つ",
           "reading": "まつ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch10-07",
       "japanese": "いや、もう いい。",
       "imagePrompt": "Sniff stands up impatiently, gesturing that it must be done by now. He can't wait any longer. Moominpappa shakes his head. Sniff's impatience by the boat. Medium shot, eye-level. Bright afternoon light, impatient protest mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch10-08",
@@ -242,7 +249,8 @@
           "surface": "今日",
           "reading": "きょう"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch10-09",
@@ -253,13 +261,15 @@
           "surface": "船",
           "reading": "ふね"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch10-10",
       "japanese": "みんな、のる！",
       "imagePrompt": "The whole family piles into the boat — Moominpappa at the stern, Moominmamma in the middle, Moomintroll and Sniff at the bow. Full boat launch. Everyone boarding the new boat. Medium-wide shot, from the riverbank. Bright joyful afternoon light, communal excitement mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "パパ"
     },
     {
       "id": "ch10-11",
@@ -270,7 +280,8 @@
           "surface": "顔",
           "reading": "かお"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch10-12",
@@ -281,7 +292,8 @@
           "surface": "顔",
           "reading": "かお"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch10-13",
@@ -292,7 +304,8 @@
           "surface": "船",
           "reading": "ふね"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch10-14",
@@ -303,31 +316,36 @@
           "surface": "船",
           "reading": "ふね"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch10-15",
       "japanese": "こんな いい もの は ない。",
       "imagePrompt": "Moomintroll runs his hand along the boat's smooth wooden rail, marveling at the craftsmanship. The wood is warm from the sun. Moomintroll touching the boat rail. Close-up, eye-level. Warm sunlit wood, deep appreciation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch10-16",
       "japanese": "パパ、ありがとう！",
       "imagePrompt": "Moomintroll turns to Moominpappa and thanks him with a big hug on the boat. Moominpappa looks touched, hat slightly askew from the hug. Moomintroll hugging Moominpappa on the boat. Medium shot, eye-level. Warm golden afternoon light, heartfelt gratitude mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch10-17",
       "japanese": "ありがとう、ママ。",
       "imagePrompt": "Moomintroll also thanks Moominmamma, who packed food and drinks for the maiden voyage. She smiles and pats his head. Moomintroll thanking Moominmamma on the boat. Medium shot, eye-level. Warm soft afternoon light, gentle gratitude mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch10-18",
       "japanese": "いや、ぼく が つくる！",
       "imagePrompt": "Moomintroll declares he will build the next boat himself. He picks up a piece of driftwood from the river and holds it like a plank. Moomintroll with driftwood declaring future plans. Medium shot, eye-level. Bright ambitious afternoon light, determined declaration mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch10-19",
@@ -338,7 +356,8 @@
           "surface": "顔",
           "reading": "かお"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch10-20",
@@ -349,7 +368,8 @@
           "surface": "今日",
           "reading": "きょう"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch10-21",
@@ -368,7 +388,8 @@
           "surface": "船",
           "reading": "ふね"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch10-22",
@@ -379,7 +400,8 @@
           "surface": "顔",
           "reading": "かお"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch10-23",
@@ -390,7 +412,8 @@
           "surface": "待つ",
           "reading": "まつ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

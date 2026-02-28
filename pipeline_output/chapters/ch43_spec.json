@@ -478,7 +478,8 @@
           "surface": "心配",
           "reading": "しんぱい"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch43-02",
@@ -489,7 +490,8 @@
           "surface": "心配",
           "reading": "しんぱい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch43-03",
@@ -500,7 +502,8 @@
           "surface": "心配",
           "reading": "しんぱい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch43-04",
@@ -515,7 +518,8 @@
           "surface": "出る",
           "reading": "でる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch43-05",
@@ -526,7 +530,8 @@
           "surface": "旅",
           "reading": "たび"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch43-06",
@@ -541,25 +546,29 @@
           "surface": "楽しい",
           "reading": "たのしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch43-07",
       "japanese": "ここ で とまる。",
       "imagePrompt": "The group reaches a beautiful clearing by the river. We stop here! The spot is perfect — flat ground, shade from trees, water nearby. Group at a clearing. Medium shot, eye-level. Dappled spring sunlight, rest stop mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch43-08",
       "japanese": "とまった！",
       "imagePrompt": "Everyone drops their packs gratefully. Stopped! Sniff immediately lies down on the soft grass. Birds sing in the blooming trees above. Group resting in the clearing. Medium shot, eye-level. Peaceful spring light, grateful rest mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch43-09",
       "japanese": "とまる の が いい。",
       "imagePrompt": "Moomintroll stretches out on the grass, looking up at the spring sky with a contented smile. Stopping is good! White clouds drift overhead. The journey can wait a little. Moomintroll relaxing on grass. Medium shot, eye-level. Bright blue spring sky, relaxation mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch43-10",
@@ -570,7 +579,8 @@
           "surface": "許し",
           "reading": "ゆるし"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch43-11",
@@ -581,7 +591,8 @@
           "surface": "許す",
           "reading": "ゆるす"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch43-12",
@@ -592,7 +603,8 @@
           "surface": "許し",
           "reading": "ゆるし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch43-13",
@@ -603,7 +615,8 @@
           "surface": "逃げ",
           "reading": "にげ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch43-14",
@@ -614,7 +627,8 @@
           "surface": "逃げる",
           "reading": "にげる"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch43-15",
@@ -625,7 +639,8 @@
           "surface": "逃げ",
           "reading": "にげ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch43-16",
@@ -636,7 +651,8 @@
           "surface": "退屈",
           "reading": "たいくつ"
         }
-      ]
+      ],
+      "speaker": "ミー"
     },
     {
       "id": "ch43-17",
@@ -651,7 +667,8 @@
           "surface": "時間",
           "reading": "じかん"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch43-18",
@@ -662,43 +679,50 @@
           "surface": "退屈",
           "reading": "たいくつ"
         }
-      ]
+      ],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch43-19",
       "japanese": "これ を つかう。",
       "imagePrompt": "Moomintroll picks up a long stick. I will use this! He begins drawing a map in the soft dirt. A plan for the afternoon takes shape. Moomintroll with a stick. Medium close-up, eye-level. Warm creative spring light, resourceful mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch43-20",
       "japanese": "つかった こと が ある。",
       "imagePrompt": "Papa examines the stick Moomintroll found. I have used one before! He remembers a similar adventure from his youth. Nostalgia crosses his face. Papa examining the stick. Medium close-up, eye-level. Warm nostalgic spring light, memory mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch43-21",
       "japanese": "みんな で つかう。",
       "imagePrompt": "The group uses the stick as a fishing pole by the river. Everyone uses it! They take turns. Laughter fills the clearing as each tries their luck. Group fishing with a stick. Medium shot, eye-level. Bright playful spring light, shared activity mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch43-22",
       "japanese": "そうそう、あの こと だ。",
       "imagePrompt": "Snufkin suddenly remembers something. Yes yes, that thing! He snaps his fingers. He had meant to tell everyone about a discovery downstream. Snufkin remembering. Medium close-up, eye-level. Bright spark spring light, sudden recall mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スナフキン"
     },
     {
       "id": "ch43-23",
       "japanese": "そうそう！",
       "imagePrompt": "Little My agrees excitedly. Yes yes! She had seen it too — something interesting further along the river. Both point downstream. My agreeing excitedly. Medium shot, eye-level. Bright excited spring light, shared discovery mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ミー"
     },
     {
       "id": "ch43-24",
       "japanese": "そうそう、それ が いい。",
       "imagePrompt": "Papa nods in agreement about the new plan. Yes yes, that is good! The group decides to explore downstream. Adventure calls once more. Papa agreeing about the plan. Medium shot, eye-level. Warm approving spring light, group consensus mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {

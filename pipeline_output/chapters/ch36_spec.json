@@ -424,7 +424,8 @@
           "surface": "客",
           "reading": "きゃく"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch36-02",
@@ -435,7 +436,8 @@
           "surface": "夫婦",
           "reading": "ふうふ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch36-03",
@@ -450,7 +452,8 @@
           "surface": "優しい",
           "reading": "やさしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch36-04",
@@ -465,7 +468,8 @@
           "surface": "話",
           "reading": "はなし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch36-05",
@@ -476,7 +480,8 @@
           "surface": "優しい",
           "reading": "やさしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch36-06",
@@ -487,7 +492,8 @@
           "surface": "優しい",
           "reading": "やさしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch36-07",
@@ -502,7 +508,8 @@
           "surface": "聞き出す",
           "reading": "ききだす"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch36-08",
@@ -513,7 +520,8 @@
           "surface": "聞き出し",
           "reading": "ききだし"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch36-09",
@@ -528,7 +536,8 @@
           "surface": "悪い",
           "reading": "わるい"
         }
-      ]
+      ],
+      "speaker": "ママ"
     },
     {
       "id": "ch36-10",
@@ -539,7 +548,8 @@
           "surface": "中身",
           "reading": "なかみ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch36-11",
@@ -550,7 +560,8 @@
           "surface": "中身",
           "reading": "なかみ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch36-12",
@@ -565,7 +576,8 @@
           "surface": "秘密",
           "reading": "ひみつ"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch36-13",
@@ -576,7 +588,8 @@
           "surface": "邪魔",
           "reading": "じゃま"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch36-14",
@@ -587,7 +600,8 @@
           "surface": "邪魔",
           "reading": "じゃま"
         }
-      ]
+      ],
+      "speaker": "パパ"
     },
     {
       "id": "ch36-15",
@@ -598,7 +612,8 @@
           "surface": "邪魔",
           "reading": "じゃま"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch36-16",
@@ -609,7 +624,8 @@
           "surface": "気持ち",
           "reading": "きもち"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch36-17",
@@ -624,7 +640,8 @@
           "surface": "楽しい",
           "reading": "たのしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch36-18",
@@ -635,19 +652,22 @@
           "surface": "気持ち",
           "reading": "きもち"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch36-19",
       "japanese": "えーと、なに だった？",
       "imagePrompt": "Sniff tries to remember something and hesitates. Umm, what was it? He scratches his head. The word is on the tip of his tongue. Sniff scratching his head. Medium close-up, eye-level. Warm hesitant light, trying-to-remember mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch36-20",
       "japanese": "えーと… あれ だ。",
       "imagePrompt": "Sniff snaps his fingers — he remembered! Umm... that is it! His face lights up with the recollection. Sniff snapping his fingers. Medium close-up, eye-level. Warm eureka light, sudden recall mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "スニフ"
     },
     {
       "id": "ch36-21",
@@ -658,13 +678,15 @@
           "surface": "言っ",
           "reading": "いっ"
         }
-      ]
+      ],
+      "speaker": "スニフ"
     },
     {
       "id": "ch36-22",
       "japanese": "みんな に はなした。",
       "imagePrompt": "The couple stands and addresses everyone in the room. They told everyone! An important announcement. All faces turn toward them. Couple addressing the room. Medium shot, eye-level. Warm announcement light, sharing-with-all mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch36-23",
@@ -675,13 +697,15 @@
           "surface": "楽しい",
           "reading": "たのしい"
         }
-      ]
+      ],
+      "speaker": "ムーミン"
     },
     {
       "id": "ch36-24",
       "japanese": "はなして！",
       "imagePrompt": "Moomintroll eagerly asks the couple to tell more stories. Talk! Tell us more! His eyes are wide with anticipation. He leans forward eagerly. Moomintroll eagerly requesting more stories. Medium close-up, eye-level. Warm eager light, wanting-more mood.",
-      "readings": []
+      "readings": [],
+      "speaker": "ムーミン"
     }
   ],
   "validation": {
