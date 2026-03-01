@@ -1,0 +1,78 @@
+{
+  "chapter": 28,
+  "grammarNote": {
+    "title": "Nominalizers: の and こと",
+    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
+    "examples": [
+      {
+        "japanese": "珍しい パンケーキ だ。",
+        "gloss": "rare pancake [COP]",
+        "english": "It's an unusual pancake."
+      },
+      {
+        "japanese": "切手 を みせた。",
+        "gloss": "stamp [OBJ] showed",
+        "english": "[He] showed a stamp."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "修理",
+      "kanji": "修理",
+      "reading": "しゅうり",
+      "meaning": "repair, fixing",
+      "example": "修理 が 必要 だ。"
+    },
+    {
+      "word": "パンケーキ",
+      "kanji": "",
+      "reading": "パンケーキ",
+      "meaning": "pancake",
+      "example": "パンケーキ を 食べる。"
+    },
+    {
+      "word": "集める",
+      "kanji": "集める",
+      "reading": "あつめる",
+      "meaning": "to collect, gather",
+      "example": "集める の が 楽しい ね。"
+    },
+    {
+      "word": "切手",
+      "kanji": "切手",
+      "reading": "きって",
+      "meaning": "postage stamp",
+      "example": "切手 を みせた。"
+    },
+    {
+      "word": "はしる",
+      "kanji": "走る",
+      "reading": "はしる",
+      "meaning": "to run",
+      "example": "はしる の が はやい。"
+    },
+    {
+      "word": "アリ",
+      "kanji": "",
+      "reading": "アリ",
+      "meaning": "Ari (a character)",
+      "example": "アリ も きた。"
+    },
+    {
+      "word": "ホラ",
+      "kanji": "",
+      "reading": "ホラ",
+      "meaning": "Hora (a character)",
+      "example": "あの ホラ が きた！"
+    },
+    {
+      "word": "珍しい",
+      "kanji": "珍しい",
+      "reading": "めずらしい",
+      "meaning": "rare, unusual, uncommon",
+      "example": "珍しい パンケーキ だ。"
+    }
+  ],
+  "storyNote": "Moominmamma's kitchen, morning. A tall stack of pancakes on the table."
+}

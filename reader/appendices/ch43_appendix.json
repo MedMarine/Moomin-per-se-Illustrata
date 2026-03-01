@@ -1,0 +1,78 @@
+{
+  "chapter": 43,
+  "grammarNote": {
+    "title": "Nominalizers: の and こと",
+    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
+    "examples": [
+      {
+        "japanese": "心配 だ。",
+        "gloss": "worry [COP]",
+        "english": "[I'm] worried."
+      },
+      {
+        "japanese": "旅 に 出る。",
+        "gloss": "journey [on] go-out",
+        "english": "[I] set out on a journey."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "心配",
+      "kanji": "心配",
+      "reading": "しんぱい",
+      "meaning": "worry, anxiety, concern",
+      "example": "心配 だ。"
+    },
+    {
+      "word": "旅",
+      "kanji": "旅",
+      "reading": "たび",
+      "meaning": "journey, trip, travel",
+      "example": "旅 に 出る。"
+    },
+    {
+      "word": "とまる",
+      "kanji": "泊まる",
+      "reading": "とまる",
+      "meaning": "to stay (overnight)",
+      "example": "ここ で とまる。"
+    },
+    {
+      "word": "許す",
+      "kanji": "許す",
+      "reading": "ゆるす",
+      "meaning": "to forgive, permit, allow",
+      "example": "許す こと に した。"
+    },
+    {
+      "word": "逃げる",
+      "kanji": "逃げる",
+      "reading": "にげる",
+      "meaning": "to escape, run away",
+      "example": "逃げる の は はやい。"
+    },
+    {
+      "word": "退屈",
+      "kanji": "退屈",
+      "reading": "たいくつ",
+      "meaning": "boring, boredom",
+      "example": "退屈 だ。"
+    },
+    {
+      "word": "つかう",
+      "kanji": "使う",
+      "reading": "つかう",
+      "meaning": "to use",
+      "example": "これ を つかう。"
+    },
+    {
+      "word": "然う然う",
+      "kanji": "然う然う",
+      "reading": "そうそう",
+      "meaning": "that's right, oh yes, by the way",
+      "example": "そうそう、あの こと だ。"
+    }
+  ],
+  "storyNote": "Moomin Valley on a bright spring morning. Trees in bloom. Clouds drifting. Characters on the porch."
+}

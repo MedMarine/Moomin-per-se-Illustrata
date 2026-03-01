@@ -1,0 +1,78 @@
+{
+  "chapter": 24,
+  "grammarNote": {
+    "title": "Relative Clauses",
+    "explanation": "In Japanese, a modifying clause comes BEFORE the noun it describes (the opposite of English). Instead of 'the storm that came,' Japanese says きた嵐 (came-storm). Any verb phrase can modify a noun this way: 飛んだ帽子 (the hat that flew), 忘れたもの (the thing [I] forgot). There is no relative pronoun like 'that' or 'which' — the clause simply sits in front of the noun.",
+    "examples": [
+      {
+        "japanese": "テント に いる。",
+        "gloss": "tent [at] exist",
+        "english": "[We're] in the tent."
+      },
+      {
+        "japanese": "足 に 薬 を つけた。",
+        "gloss": "leg [on] medicine [OBJ] applied",
+        "english": "[I] applied medicine to the leg."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "戻る",
+      "kanji": "戻る",
+      "reading": "もどる",
+      "meaning": "to return, go back",
+      "example": "家 に 戻る？"
+    },
+    {
+      "word": "秘密",
+      "kanji": "秘密",
+      "reading": "ひみつ",
+      "meaning": "secret",
+      "example": "秘密 の もの を 見つけた。"
+    },
+    {
+      "word": "知れる",
+      "kanji": "知れる",
+      "reading": "しれる",
+      "meaning": "to become known; maybe",
+      "example": ""
+    },
+    {
+      "word": "時間",
+      "kanji": "時間",
+      "reading": "じかん",
+      "meaning": "time, hours",
+      "example": "この 時間 が ない！"
+    },
+    {
+      "word": "薬",
+      "kanji": "薬",
+      "reading": "くすり",
+      "meaning": "medicine, drug",
+      "example": "薬 が 必要 だ。"
+    },
+    {
+      "word": "捨てる",
+      "kanji": "捨てる",
+      "reading": "すてる",
+      "meaning": "to throw away, discard",
+      "example": "これ を 捨てる。"
+    },
+    {
+      "word": "テント",
+      "kanji": "",
+      "reading": "テント",
+      "meaning": "tent",
+      "example": "テント に いる。"
+    },
+    {
+      "word": "足",
+      "kanji": "足",
+      "reading": "あし",
+      "meaning": "foot, leg",
+      "example": "この 足 を みせて。"
+    }
+  ],
+  "storyNote": "A clearing near the forest with a pitched tent. Campfire remnants. Backpacks and supplies. Moonlight through trees."
+}

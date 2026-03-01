@@ -1,0 +1,78 @@
+{
+  "chapter": 22,
+  "grammarNote": {
+    "title": "Conditional: たら",
+    "explanation": "たら expresses 'if/when' — it's formed by adding ら to the past tense: いく→いったら (if [we] go), ある→あったら (if there is). 海岸にいったらいい means 'it would be nice if we went to the coast.' たら is the most versatile conditional in Japanese — it works for hypotheticals, temporal sequences, and discovered results.",
+    "examples": [
+      {
+        "japanese": "海岸 に いったら いい ね。",
+        "gloss": "coast [to] go-if good [CONF]",
+        "english": "It'd be nice if [we] went to the coast."
+      },
+      {
+        "japanese": "水 が 必要 だ。",
+        "gloss": "water [SUBJ] necessary [COP]",
+        "english": "Water is needed."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "素晴らしい",
+      "kanji": "素晴らしい",
+      "reading": "すばらしい",
+      "meaning": "wonderful, splendid",
+      "example": "「素晴らしい！」 と 言った。"
+    },
+    {
+      "word": "ゆっくり",
+      "kanji": "",
+      "reading": "ゆっくり",
+      "meaning": "slowly, at ease",
+      "example": "ゆっくり いく。"
+    },
+    {
+      "word": "もっと",
+      "kanji": "",
+      "reading": "もっと",
+      "meaning": "more",
+      "example": "もっと 水 が 必要 だ。"
+    },
+    {
+      "word": "無くなる",
+      "kanji": "無くなる",
+      "reading": "なくなる",
+      "meaning": "to disappear, run out, be gone",
+      "example": ""
+    },
+    {
+      "word": "ちょうだい",
+      "kanji": "",
+      "reading": "ちょうだい",
+      "meaning": "please give me (casual request)",
+      "example": "もっと ちょうだい。"
+    },
+    {
+      "word": "楽しみ",
+      "kanji": "楽しみ",
+      "reading": "たのしみ",
+      "meaning": "enjoyment, looking forward to",
+      "example": "楽しみ だ！"
+    },
+    {
+      "word": "間",
+      "kanji": "間",
+      "reading": "あいだ",
+      "meaning": "between, interval, while",
+      "example": "この 間 に 水 を もっと 入れた。"
+    },
+    {
+      "word": "必要",
+      "kanji": "必要",
+      "reading": "ひつよう",
+      "meaning": "necessary, needed",
+      "example": "「必要 な もの は？」 と 言った。"
+    }
+  ],
+  "storyNote": "The warm kitchen inside the Moomin house. Mama at the table with tea. Chairs around a big table. Steam from teacups. Morning light through round windows."
+}

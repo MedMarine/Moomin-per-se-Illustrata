@@ -1,0 +1,78 @@
+{
+  "chapter": 23,
+  "grammarNote": {
+    "title": "Relative Clauses",
+    "explanation": "In Japanese, a modifying clause comes BEFORE the noun it describes (the opposite of English). Instead of 'the storm that came,' Japanese says きた嵐 (came-storm). Any verb phrase can modify a noun this way: 飛んだ帽子 (the hat that flew), 忘れたもの (the thing [I] forgot). There is no relative pronoun like 'that' or 'which' — the clause simply sits in front of the noun.",
+    "examples": [
+      {
+        "japanese": "嵐 が きた！",
+        "gloss": "storm [SUBJ] came!",
+        "english": "A storm came!"
+      },
+      {
+        "japanese": "帽子 が 飛んだ！",
+        "gloss": "hat [SUBJ] flew!",
+        "english": "The hat flew [away]!"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "どんな",
+      "kanji": "",
+      "reading": "どんな",
+      "meaning": "what kind of",
+      "example": "これ は どんな 嵐？"
+    },
+    {
+      "word": "上",
+      "kanji": "上",
+      "reading": "うえ",
+      "meaning": "top, above, on",
+      "example": "上 に 飛んだ。"
+    },
+    {
+      "word": "嵐",
+      "kanji": "嵐",
+      "reading": "あらし",
+      "meaning": "storm, tempest",
+      "example": "嵐 が きた！"
+    },
+    {
+      "word": "すごい",
+      "kanji": "凄い",
+      "reading": "すごい",
+      "meaning": "amazing, incredible, terrible",
+      "example": "すごい 嵐 だ！"
+    },
+    {
+      "word": "とぶ",
+      "kanji": "飛ぶ",
+      "reading": "とぶ",
+      "meaning": "to fly, jump",
+      "example": "もの が 飛ぶ ね。"
+    },
+    {
+      "word": "前",
+      "kanji": "前",
+      "reading": "まえ",
+      "meaning": "before, front, previous",
+      "example": "前 に こんな もの は なかった。"
+    },
+    {
+      "word": "忘れる",
+      "kanji": "忘れる",
+      "reading": "わすれる",
+      "meaning": "to forget",
+      "example": ""
+    },
+    {
+      "word": "あと",
+      "kanji": "後",
+      "reading": "あと",
+      "meaning": "after, behind, later",
+      "example": "あと で みる。"
+    }
+  ],
+  "storyNote": "Dark clouds rolling in over the valley. Wind picking up. Characters looking up at the sky. Trees bending."
+}

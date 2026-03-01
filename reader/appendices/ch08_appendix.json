@@ -1,0 +1,83 @@
+{
+  "chapter": 8,
+  "grammarNote": {
+    "title": "Motion: いく and くる, with へ",
+    "explanation": "いく means 'to go' (away from here) and くる means 'to come' (toward here). The particle へ (pronounced 'e') marks the direction of movement: 海へいく (go toward the sea). かえる (帰る) means 'to return/go home.' These verbs combine naturally with に (goal) and から (origin).",
+    "examples": [
+      {
+        "japanese": "海 へ いく！",
+        "gloss": "sea [toward] go!",
+        "english": "Let's go to the sea!"
+      },
+      {
+        "japanese": "スナフキン が きた。",
+        "gloss": "Snufkin [SUBJ] came",
+        "english": "Snufkin came."
+      },
+      {
+        "japanese": "うん、いい。いく。",
+        "gloss": "yeah, good. go.",
+        "english": "Yeah, sounds good. Let's go."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "かえる",
+      "kanji": "帰る",
+      "reading": "かえる",
+      "meaning": "to return, go home",
+      "example": "きく。帰る？"
+    },
+    {
+      "word": "うん",
+      "kanji": "",
+      "reading": "うん",
+      "meaning": "yeah, uh-huh (casual yes)",
+      "example": "うん、いい。いく。"
+    },
+    {
+      "word": "ええ",
+      "kanji": "",
+      "reading": "ええ",
+      "meaning": "yes (slightly formal)",
+      "example": "ええ、いく！"
+    },
+    {
+      "word": "しる",
+      "kanji": "知る",
+      "reading": "しる",
+      "meaning": "to know, learn",
+      "example": ""
+    },
+    {
+      "word": "きく",
+      "kanji": "聞く",
+      "reading": "きく",
+      "meaning": "to listen, ask, hear",
+      "example": "ママ に きく。いい？"
+    },
+    {
+      "word": "おい",
+      "kanji": "",
+      "reading": "おい",
+      "meaning": "hey! (calling out)",
+      "example": "おい、スニフ！いく？"
+    },
+    {
+      "word": "みつかる",
+      "kanji": "見つかる",
+      "reading": "みつかる",
+      "meaning": "to be found, turn up",
+      "example": ""
+    },
+    {
+      "word": "よし",
+      "kanji": "",
+      "reading": "よし",
+      "meaning": "alright!, good! (exclamation)",
+      "example": "よし！みんな で いく。"
+    }
+  ],
+  "storyNote": "The bridge over the river near Moomin house. Path leading from the distance. Snufkin approaching."
+}

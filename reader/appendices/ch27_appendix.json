@@ -1,0 +1,78 @@
+{
+  "chapter": 27,
+  "grammarNote": {
+    "title": "Nominalizers: の and こと",
+    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
+    "examples": [
+      {
+        "japanese": "夜 の 空 を みる。",
+        "gloss": "night [of] sky [OBJ] look-at",
+        "english": "[We] look at the night sky."
+      },
+      {
+        "japanese": "子供 に 教える。",
+        "gloss": "child [to] teach",
+        "english": "[I] teach the child."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "次回",
+      "kanji": "次回",
+      "reading": "じかい",
+      "meaning": "next time",
+      "example": "この 次回 は ちゃんと する。"
+    },
+    {
+      "word": "ジュース",
+      "kanji": "",
+      "reading": "ジュース",
+      "meaning": "juice",
+      "example": "「ジュース ちょうだい」 と 言った。"
+    },
+    {
+      "word": "ちゃんと",
+      "kanji": "",
+      "reading": "ちゃんと",
+      "meaning": "properly, neatly, correctly",
+      "example": "ちゃんと する。"
+    },
+    {
+      "word": "教える",
+      "kanji": "教える",
+      "reading": "おしえる",
+      "meaning": "to teach, tell, inform",
+      "example": "子供 に 教える。"
+    },
+    {
+      "word": "頭",
+      "kanji": "頭",
+      "reading": "あたま",
+      "meaning": "head",
+      "example": "この 頭 で 考える。"
+    },
+    {
+      "word": "夜",
+      "kanji": "夜",
+      "reading": "よる",
+      "meaning": "night",
+      "example": "もう 夜 に なった。"
+    },
+    {
+      "word": "空",
+      "kanji": "空",
+      "reading": "そら",
+      "meaning": "sky",
+      "example": "夜 の 空 を みる。"
+    },
+    {
+      "word": "子供",
+      "kanji": "子供",
+      "reading": "こども",
+      "meaning": "child, children",
+      "example": "ちいさい 子供 が いる。"
+    }
+  ],
+  "storyNote": "Night-time on the Moomin house veranda. Stars fill the dark sky above the valley."
+}

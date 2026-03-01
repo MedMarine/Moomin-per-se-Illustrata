@@ -1,0 +1,78 @@
+{
+  "chapter": 25,
+  "grammarNote": {
+    "title": "Polite Forms: ます and です",
+    "explanation": "Until now, the reader has used plain form (だ, いる, ある). Japanese also has polite forms: だ→です, verb→verb+ます. 悪い→悪いです (is bad — polite), いく→いきます (go — polite). In the Moomin world, characters like Hemulen use polite speech, while family members and close friends use plain form. This register contrast is natural — you'll encounter both in real Japanese conversation.",
+    "examples": [
+      {
+        "japanese": "「悪い です ね」と ヘムレン が 言った。",
+        "gloss": "\"bad [COP-polite] [CONF]\" [QUOT] Hemulen [SUBJ] said",
+        "english": "\"That's too bad, isn't it,\" said Hemulen."
+      },
+      {
+        "japanese": "なにか 聞こえる。",
+        "gloss": "something is-audible",
+        "english": "I can hear something."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "悪い",
+      "kanji": "悪い",
+      "reading": "わるい",
+      "meaning": "bad, wrong, sorry",
+      "example": "悪い ね。"
+    },
+    {
+      "word": "聞こえる",
+      "kanji": "聞こえる",
+      "reading": "きこえる",
+      "meaning": "to be audible, can hear",
+      "example": "聞こえる よ。"
+    },
+    {
+      "word": "下",
+      "kanji": "下",
+      "reading": "した",
+      "meaning": "below, under, bottom",
+      "example": "下 に なに か 落とした。"
+    },
+    {
+      "word": "つもり",
+      "kanji": "積もり",
+      "reading": "つもり",
+      "meaning": "intention, plan",
+      "example": "いく つもり だ。"
+    },
+    {
+      "word": "考える",
+      "kanji": "考える",
+      "reading": "かんがえる",
+      "meaning": "to think, consider",
+      "example": "ムーミン も 考える。"
+    },
+    {
+      "word": "うち",
+      "kanji": "家",
+      "reading": "うち",
+      "meaning": "home, house; within",
+      "example": "うち に きて。"
+    },
+    {
+      "word": "とき",
+      "kanji": "時",
+      "reading": "とき",
+      "meaning": "when, time, occasion",
+      "example": "嵐 の とき は すごかった。"
+    },
+    {
+      "word": "落とす",
+      "kanji": "落とす",
+      "reading": "おとす",
+      "meaning": "to drop (something)",
+      "example": ""
+    }
+  ],
+  "storyNote": "Entrance of the Moomin house. Mama in her apron welcomes the Groke — a large, dark, cold figure — with gracious hospitality."
+}

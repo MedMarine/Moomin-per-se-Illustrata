@@ -1,0 +1,78 @@
+{
+  "chapter": 30,
+  "grammarNote": {
+    "title": "Nominalizers: の and こと",
+    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
+    "examples": [
+      {
+        "japanese": "きれい な 飾り だ。",
+        "gloss": "pretty [ADJ] decoration [COP]",
+        "english": "It's a pretty decoration."
+      },
+      {
+        "japanese": "化け物 が いる？",
+        "gloss": "monster [SUBJ] exist?",
+        "english": "Is there a monster?"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "飾り",
+      "kanji": "飾り",
+      "reading": "かざり",
+      "meaning": "decoration, ornament",
+      "example": "飾り が ある。"
+    },
+    {
+      "word": "化け物",
+      "kanji": "化け物",
+      "reading": "ばけもの",
+      "meaning": "monster, creature",
+      "example": "化け物 が いる？"
+    },
+    {
+      "word": "ハート",
+      "kanji": "",
+      "reading": "ハート",
+      "meaning": "heart",
+      "example": "この ハート が はやい。"
+    },
+    {
+      "word": "やれ",
+      "kanji": "",
+      "reading": "やれ",
+      "meaning": "oh!, goodness! (exclamation)",
+      "example": "やれ やれ。"
+    },
+    {
+      "word": "兄",
+      "kanji": "兄",
+      "reading": "あに",
+      "meaning": "older brother",
+      "example": "兄 が いる。"
+    },
+    {
+      "word": "なく",
+      "kanji": "泣く",
+      "reading": "なく",
+      "meaning": "to cry, weep",
+      "example": "泣く の は やめて。"
+    },
+    {
+      "word": "鼾",
+      "kanji": "鼾",
+      "reading": "いびき",
+      "meaning": "snoring",
+      "example": "鼾 が 聞こえる。"
+    },
+    {
+      "word": "回",
+      "kanji": "回",
+      "reading": "かい",
+      "meaning": "time(s), counter for occurrences",
+      "example": "もう 一 回。"
+    }
+  ],
+  "storyNote": "Edge of the forest at dusk. Characters search for a rumored monster. Eerie but playful twilight atmosphere."
+}

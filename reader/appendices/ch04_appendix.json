@@ -1,0 +1,83 @@
+{
+  "chapter": 4,
+  "grammarNote": {
+    "title": "Topic and Copula: は and だ",
+    "explanation": "は (pronounced 'wa') marks the topic — what the sentence is about. だ is the copula ('is/am/are') for nouns: Xは Yだ means 'X is Y.' Unlike が (which presents new information), は picks up something already known and comments on it. Compare: 山がある (There IS a mountain — new info) vs. この山はいい (THIS mountain is nice — topic already established). Note: This reader uses plain form だ, not the polite です.",
+    "examples": [
+      {
+        "japanese": "みんな は ここ に いる。",
+        "gloss": "everyone [TOPIC] here [at] exist",
+        "english": "Everyone is here."
+      },
+      {
+        "japanese": "ニンニ は だれ？",
+        "gloss": "Ninny [TOPIC] who?",
+        "english": "Who is Ninny?"
+      },
+      {
+        "japanese": "あなた は どう？",
+        "gloss": "you [TOPIC] how?",
+        "english": "How about you?"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "どう",
+      "kanji": "",
+      "reading": "どう",
+      "meaning": "how, what about",
+      "example": "あなた は どう？"
+    },
+    {
+      "word": "みんな",
+      "kanji": "皆",
+      "reading": "みんな",
+      "meaning": "everyone, all",
+      "example": "みんな は ここ に いる。"
+    },
+    {
+      "word": "ニンニ",
+      "kanji": "",
+      "reading": "ニンニ",
+      "meaning": "Ninny (invisible girl character)",
+      "example": "ニンニ が はいる。"
+    },
+    {
+      "word": "あなた",
+      "kanji": "貴方",
+      "reading": "あなた",
+      "meaning": "you",
+      "example": "あなた は どう？"
+    },
+    {
+      "word": "これ",
+      "kanji": "",
+      "reading": "これ",
+      "meaning": "this (thing)",
+      "example": "これ は いい 家 だ。"
+    },
+    {
+      "word": "ここ",
+      "kanji": "",
+      "reading": "ここ",
+      "meaning": "here",
+      "example": "みんな は ここ に いる。"
+    },
+    {
+      "word": "はいる",
+      "kanji": "入る",
+      "reading": "はいる",
+      "meaning": "to enter, go in",
+      "example": "だれ が はいる？"
+    },
+    {
+      "word": "もの",
+      "kanji": "物",
+      "reading": "もの",
+      "meaning": "thing, object",
+      "example": "そう、あなた の もの だ。"
+    }
+  ],
+  "storyNote": "Inside the Moomin house, warm evening light. Ninny sitting among the family. Her outline becoming slightly more visible."
+}

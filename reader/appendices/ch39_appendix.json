@@ -1,0 +1,78 @@
+{
+  "chapter": 39,
+  "grammarNote": {
+    "title": "Nominalizers: の and こと",
+    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
+    "examples": [
+      {
+        "japanese": "設計 の 図 だ。",
+        "gloss": "design [of] drawing [COP]",
+        "english": "It's a design drawing."
+      },
+      {
+        "japanese": "帆 を 張る。",
+        "gloss": "sail [OBJ] put-up",
+        "english": "[We] put up the sail."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "設計",
+      "kanji": "設計",
+      "reading": "せっけい",
+      "meaning": "design, plan, blueprint",
+      "example": "設計 を みた。"
+    },
+    {
+      "word": "図",
+      "kanji": "図",
+      "reading": "ず",
+      "meaning": "drawing, diagram, map",
+      "example": "設計 の 図 だ。"
+    },
+    {
+      "word": "急ぐ",
+      "kanji": "急ぐ",
+      "reading": "いそぐ",
+      "meaning": "to hurry, rush",
+      "example": "急ぐ の は だめ だ。"
+    },
+    {
+      "word": "帆",
+      "kanji": "帆",
+      "reading": "ほ",
+      "meaning": "sail",
+      "example": "帆 を 張った。"
+    },
+    {
+      "word": "上陸",
+      "kanji": "上陸",
+      "reading": "じょうりく",
+      "meaning": "landing, going ashore",
+      "example": "上陸 した。"
+    },
+    {
+      "word": "濡れる",
+      "kanji": "濡れる",
+      "reading": "ぬれる",
+      "meaning": "to get wet",
+      "example": "濡れる の は いや だ。"
+    },
+    {
+      "word": "感じる",
+      "kanji": "感じる",
+      "reading": "かんじる",
+      "meaning": "to feel, sense",
+      "example": "感じる の が いい ね。"
+    },
+    {
+      "word": "たくさん",
+      "kanji": "沢山",
+      "reading": "たくさん",
+      "meaning": "many, a lot, plenty",
+      "example": "波 が たくさん ある。"
+    }
+  ],
+  "storyNote": "Open sea in rain. The boat pitches on grey waves. A makeshift sail strains in the wind."
+}

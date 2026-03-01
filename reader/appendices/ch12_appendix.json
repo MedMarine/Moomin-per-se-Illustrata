@@ -1,0 +1,78 @@
+{
+  "chapter": 12,
+  "grammarNote": {
+    "title": "Conjunctions: でも and だから",
+    "explanation": "でも means 'but/however' and connects contrasting ideas: きれいだ。でもだめ。(It's pretty. But no good.) だから means 'so/therefore' and shows cause-and-effect: まだだ。だからねる。(It's still [early]. So [I'll] sleep.) けど/けれど also means 'but' and can appear mid-sentence: いいけど、まだ。(It's fine, but not yet.)",
+    "examples": [
+      {
+        "japanese": "きれい だ。でも だめ。",
+        "gloss": "pretty [COP]. but no-good.",
+        "english": "It's pretty. But it's no good. (でも = but)"
+      },
+      {
+        "japanese": "まだ ねる。",
+        "gloss": "still sleep.",
+        "english": "[I] still sleep. / [I'm] still sleeping."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "隠れる",
+      "kanji": "隠れる",
+      "reading": "かくれる",
+      "meaning": "to hide (oneself)",
+      "example": "隠れる か？"
+    },
+    {
+      "word": "ミムラ",
+      "kanji": "",
+      "reading": "ミムラ",
+      "meaning": "Mimura (Mymble, a character)",
+      "example": "ミムラ が きた。"
+    },
+    {
+      "word": "きれい",
+      "kanji": "綺麗",
+      "reading": "きれい",
+      "meaning": "pretty, beautiful, clean",
+      "example": "とても きれい だ ね。"
+    },
+    {
+      "word": "まだ",
+      "kanji": "",
+      "reading": "まだ",
+      "meaning": "still, yet, not yet",
+      "example": "まだ だめ だ。"
+    },
+    {
+      "word": "とても",
+      "kanji": "",
+      "reading": "とても",
+      "meaning": "very, extremely",
+      "example": "とても きれい だ ね。"
+    },
+    {
+      "word": "だめ",
+      "kanji": "駄目",
+      "reading": "だめ",
+      "meaning": "no good, useless, not allowed",
+      "example": "だめ！"
+    },
+    {
+      "word": "スーツケース-suitcase",
+      "kanji": "",
+      "reading": "スーツケース",
+      "meaning": "suitcase",
+      "example": "この スーツケース は なに？"
+    },
+    {
+      "word": "ねる",
+      "kanji": "寝る",
+      "reading": "ねる",
+      "meaning": "to sleep, go to bed",
+      "example": "もう ねる？"
+    }
+  ],
+  "storyNote": "Inside the Moomin house. An old suitcase sits open on the floor. Characters gathered around, looking at its contents. Warm lamplight, evening atmosphere."
+}

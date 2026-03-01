@@ -1,0 +1,78 @@
+{
+  "chapter": 44,
+  "grammarNote": {
+    "title": "Nominalizers: の and こと",
+    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
+    "examples": [
+      {
+        "japanese": "三つ ある。",
+        "gloss": "three exist",
+        "english": "There are three."
+      },
+      {
+        "japanese": "沖 に なにか が みえる。",
+        "gloss": "offshore [at] something [SUBJ] visible",
+        "english": "Something is visible offshore."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "三",
+      "kanji": "三",
+      "reading": "さん",
+      "meaning": "three",
+      "example": "三つ ある。"
+    },
+    {
+      "word": "沖",
+      "kanji": "沖",
+      "reading": "おき",
+      "meaning": "open sea, offshore",
+      "example": "沖 に なに か が みえる。"
+    },
+    {
+      "word": "分",
+      "kanji": "分",
+      "reading": "ぶん",
+      "meaning": "portion, share, amount",
+      "example": "自分 の 分 だ。"
+    },
+    {
+      "word": "ううん",
+      "kanji": "",
+      "reading": "ううん",
+      "meaning": "no, nah (casual); hmm",
+      "example": "ううん、ちがう。"
+    },
+    {
+      "word": "沈む",
+      "kanji": "沈む",
+      "reading": "しずむ",
+      "meaning": "to sink",
+      "example": "沈む の を みた。"
+    },
+    {
+      "word": "化け",
+      "kanji": "化け",
+      "reading": "ばけ",
+      "meaning": "disguise, transformation",
+      "example": "あの 化け は なに？"
+    },
+    {
+      "word": "計",
+      "kanji": "計",
+      "reading": "けい",
+      "meaning": "plan, total, meter",
+      "example": "パパ の 時間計 だ。"
+    },
+    {
+      "word": "次",
+      "kanji": "次",
+      "reading": "つぎ",
+      "meaning": "next",
+      "example": "次 は なに？"
+    }
+  ],
+  "storyNote": "Veranda of the Moomin house on a warm lazy afternoon. Hammocks and cushions. A gentle breeze."
+}

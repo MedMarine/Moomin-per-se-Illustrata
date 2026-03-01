@@ -1,0 +1,78 @@
+{
+  "chapter": 45,
+  "grammarNote": {
+    "title": "Nominalizers: の and こと",
+    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
+    "examples": [
+      {
+        "japanese": "雲 の なか に はいった。",
+        "gloss": "cloud [of] inside [to] entered",
+        "english": "[We] went into the clouds."
+      },
+      {
+        "japanese": "いい 夢 だった。",
+        "gloss": "good dream was",
+        "english": "It was a good dream."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "雲",
+      "kanji": "雲",
+      "reading": "くも",
+      "meaning": "cloud",
+      "example": "雲 が ある。"
+    },
+    {
+      "word": "夢",
+      "kanji": "夢",
+      "reading": "ゆめ",
+      "meaning": "dream",
+      "example": "夢 を みた。"
+    },
+    {
+      "word": "春",
+      "kanji": "春",
+      "reading": "はる",
+      "meaning": "spring (season)",
+      "example": "春 が きた。"
+    },
+    {
+      "word": "思い出す",
+      "kanji": "思い出す",
+      "reading": "おもいだす",
+      "meaning": "to remember, recall",
+      "example": "思い出す の が 楽しい ね。"
+    },
+    {
+      "word": "一番",
+      "kanji": "一番",
+      "reading": "いちばん",
+      "meaning": "number one, most, best",
+      "example": "一番 いい の は 春 だ。"
+    },
+    {
+      "word": "浮く",
+      "kanji": "浮く",
+      "reading": "うく",
+      "meaning": "to float",
+      "example": ""
+    },
+    {
+      "word": "物語",
+      "kanji": "物語",
+      "reading": "ものがたり",
+      "meaning": "story, tale, narrative",
+      "example": "物語 を きいた。"
+    },
+    {
+      "word": "ふざける",
+      "kanji": "",
+      "reading": "ふざける",
+      "meaning": "to joke around, fool around",
+      "example": "ふざける の は やめて。"
+    }
+  ],
+  "storyNote": "Moomin Valley at golden hour. All the familiar landmarks visible — the house, the river, the bridge, the mountains, the sea."
+}

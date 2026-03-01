@@ -1,0 +1,78 @@
+{
+  "chapter": 26,
+  "grammarNote": {
+    "title": "Nominalizers: の and こと",
+    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
+    "examples": [
+      {
+        "japanese": "ハンドバッグ を 返して！",
+        "gloss": "handbag [OBJ] return-please!",
+        "english": "Give back the handbag!"
+      },
+      {
+        "japanese": "ビフ が 追った。",
+        "gloss": "Biff [SUBJ] chased",
+        "english": "Biff chased [them]."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "追う",
+      "kanji": "追う",
+      "reading": "おう",
+      "meaning": "to chase, pursue",
+      "example": "追う の は ひどい！"
+    },
+    {
+      "word": "花",
+      "kanji": "花",
+      "reading": "はな",
+      "meaning": "flower",
+      "example": "この 花 が きれい だ。"
+    },
+    {
+      "word": "ビフ",
+      "kanji": "",
+      "reading": "ビフ",
+      "meaning": "Biff (a mischievous character)",
+      "example": "あの ビフ が きた！"
+    },
+    {
+      "word": "ハンドバッグ",
+      "kanji": "",
+      "reading": "ハンドバッグ",
+      "meaning": "handbag",
+      "example": "ハンドバッグ が ない！"
+    },
+    {
+      "word": "ひどい",
+      "kanji": "酷い",
+      "reading": "ひどい",
+      "meaning": "terrible, cruel, awful",
+      "example": "追う の は ひどい！"
+    },
+    {
+      "word": "他",
+      "kanji": "他",
+      "reading": "ほか",
+      "meaning": "other, another, elsewhere",
+      "example": "他 の もの は？"
+    },
+    {
+      "word": "返す",
+      "kanji": "返す",
+      "reading": "かえす",
+      "meaning": "to return (something), give back",
+      "example": "他 の ひと に 返す。"
+    },
+    {
+      "word": "コレクション",
+      "kanji": "",
+      "reading": "コレクション",
+      "meaning": "collection",
+      "example": "コレクション が ある。"
+    }
+  ],
+  "storyNote": "Spring meadow full of wildflowers near the Moomin house. A sudden gust scatters flowers and upends Moominmamma's handbag."
+}

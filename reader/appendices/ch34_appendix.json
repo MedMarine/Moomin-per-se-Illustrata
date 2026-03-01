@@ -1,0 +1,78 @@
+{
+  "chapter": 34,
+  "grammarNote": {
+    "title": "Nominalizers: の and こと",
+    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
+    "examples": [
+      {
+        "japanese": "雨 が 降っている。",
+        "gloss": "rain [SUBJ] falling-is",
+        "english": "It's raining."
+      },
+      {
+        "japanese": "水 で いっぱい だ。",
+        "gloss": "water [with] full [COP]",
+        "english": "It's full of water."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "怒る",
+      "kanji": "怒る",
+      "reading": "おこる",
+      "meaning": "to get angry",
+      "example": "怒る の は だめ だ。"
+    },
+    {
+      "word": "降る",
+      "kanji": "降る",
+      "reading": "ふる",
+      "meaning": "to fall (rain, snow)",
+      "example": "降る の は いや だ。"
+    },
+    {
+      "word": "毒",
+      "kanji": "毒",
+      "reading": "どく",
+      "meaning": "poison",
+      "example": "これ は 毒 だ。"
+    },
+    {
+      "word": "たつ",
+      "kanji": "立つ",
+      "reading": "たつ",
+      "meaning": "to stand, rise",
+      "example": ""
+    },
+    {
+      "word": "いっぱい",
+      "kanji": "",
+      "reading": "いっぱい",
+      "meaning": "full, lots of, plenty",
+      "example": "いっぱい 降った。"
+    },
+    {
+      "word": "いらっしゃる",
+      "kanji": "",
+      "reading": "いらっしゃる",
+      "meaning": "to be, come, go (honorific)",
+      "example": "ここ に いらっしゃる。"
+    },
+    {
+      "word": "壊れる",
+      "kanji": "壊れる",
+      "reading": "こわれる",
+      "meaning": "to break, be broken",
+      "example": ""
+    },
+    {
+      "word": "出発",
+      "kanji": "出発",
+      "reading": "しゅっぱつ",
+      "meaning": "departure, setting off",
+      "example": "もう 出発 だ。"
+    }
+  ],
+  "storyNote": "Deep forest clearing with a strange bubbling pool. Dark water with occasional green-grey bubbles surfacing."
+}

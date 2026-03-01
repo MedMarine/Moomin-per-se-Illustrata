@@ -17,6 +17,12 @@
       <h1 class="site-title">ムーミン per se Illustrata</h1>
       <p class="site-subtitle">Japanese Graded Reader</p>
     </header>
+    <div class="continue-banner" id="continue-banner" style="display:none;">
+      <button class="continue-btn" id="continue-btn">
+        <span class="continue-label">Continue Reading</span>
+        <span class="continue-chapter" id="continue-chapter-label"></span>
+      </button>
+    </div>
     <main class="chapter-grid" id="chapter-grid">
     </main>
   </div>
@@ -49,16 +55,30 @@
           <p class="scene-location" id="scene-location"></p>
           <p class="scene-characters" id="scene-characters"></p>
         </div>
+        <div class="appendix-section" id="appendix-section" style="display:none;">
+          <h4 class="appendix-heading">
+            <button class="appendix-toggle" id="appendix-toggle">
+              Study Guide <span class="appendix-arrow">▶</span>
+            </button>
+          </h4>
+          <div class="appendix-content" id="appendix-content"></div>
+        </div>
       </aside>
 
       <main class="sentence-scroll" id="sentence-scroll"></main>
     </div>
 
     <footer class="reader-footer">
+      <button class="chapter-nav-btn" id="prev-chapter-btn" aria-label="Previous chapter" disabled>
+        &larr; 前へ
+      </button>
       <div class="progress-bar">
         <div class="progress-fill" id="progress-fill"></div>
       </div>
       <span class="progress-text" id="progress-text"></span>
+      <button class="chapter-nav-btn" id="next-chapter-btn" aria-label="Next chapter" disabled>
+        次へ &rarr;
+      </button>
     </footer>
   </div>
 

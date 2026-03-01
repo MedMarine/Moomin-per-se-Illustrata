@@ -1,0 +1,78 @@
+{
+  "chapter": 31,
+  "grammarNote": {
+    "title": "Nominalizers: の and こと",
+    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
+    "examples": [
+      {
+        "japanese": "船 を 漕ぐ の は すごい。",
+        "gloss": "boat [OBJ] row [NOMLZ] [TOPIC] amazing",
+        "english": "Rowing a boat is amazing."
+      },
+      {
+        "japanese": "「手伝って！」と ムーミン が 言った。",
+        "gloss": "\"help-please!\" [QUOT] Moomintroll [SUBJ] said",
+        "english": "\"Help me!\" said Moomintroll."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "およぐ",
+      "kanji": "泳ぐ",
+      "reading": "およぐ",
+      "meaning": "to swim",
+      "example": "およぐ の が 怖い。"
+    },
+    {
+      "word": "漕ぐ",
+      "kanji": "漕ぐ",
+      "reading": "こぐ",
+      "meaning": "to row, paddle",
+      "example": "船 を 漕ぐ の は すごい。"
+    },
+    {
+      "word": "張る",
+      "kanji": "張る",
+      "reading": "はる",
+      "meaning": "to stretch, put up, pitch",
+      "example": "テント を 張る。"
+    },
+    {
+      "word": "地獄",
+      "kanji": "地獄",
+      "reading": "じごく",
+      "meaning": "hell",
+      "example": "「地獄 だ！」 と スニフ が 言った。"
+    },
+    {
+      "word": "秒",
+      "kanji": "秒",
+      "reading": "びょう",
+      "meaning": "second (unit of time)",
+      "example": "秒 で わかる。"
+    },
+    {
+      "word": "手伝う",
+      "kanji": "手伝う",
+      "reading": "てつだう",
+      "meaning": "to help, assist",
+      "example": "手伝う の が いい ね。"
+    },
+    {
+      "word": "此奴",
+      "kanji": "此奴",
+      "reading": "こいつ",
+      "meaning": "this one/guy (rough)",
+      "example": "ほら、こいつ だ。"
+    },
+    {
+      "word": "とにかく",
+      "kanji": "",
+      "reading": "とにかく",
+      "meaning": "anyway, at any rate",
+      "example": "とにかく いく。"
+    }
+  ],
+  "storyNote": "River mouth where it meets the sea, early morning. The old wooden boat is pulled up on the bank."
+}

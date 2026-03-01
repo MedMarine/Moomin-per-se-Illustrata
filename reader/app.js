@@ -1,5 +1,5 @@
 // ============================================================
-// Moomin per se Illustrata — Reader App (v2)
+// Moomin per se Illustrata — Reader App (v3)
 // ============================================================
 // Serve from the project root:
 //   python -m http.server 8000
@@ -9,6 +9,7 @@
 const JSON_BASE = '../pipeline_output/chapters';
 const IMAGE_BASE = '../pipeline_output/images_gemini';
 const AUDIO_BASE = '../pipeline_output/audio';
+const APPENDIX_BASE = 'appendices';
 const MANIFEST_URL = `${JSON_BASE}/manifest.json`;
 const MAX_CHAPTER_PROBE = 99; // fallback if no manifest
 
@@ -28,6 +29,10 @@ const state = {
   kanjiExposures: {},    // { "見える": 3, "今日": 5 } tracks how many times user has seen each kanji word
   currentAudio: null,    // currently playing Audio element
   currentPlayBtn: null,  // currently active play button element
+  completedChapters: new Set(),  // chapters the user has finished
+  lastChapter: null,             // last chapter the user was reading
+  appendixCache: {},             // { 1: appendixData, ... }
+  appendixOpen: false,
 };
 
 // ----- Persistence -----
@@ -41,6 +46,14 @@ function loadSettings() {
     // kanjiExposures are now computed deterministically from chapter data
     // (see computePriorExposures). Clean up any stale persisted data.
     localStorage.removeItem('moomin-kanji-exposures');
+
+    // Load reading progress
+    const completed = localStorage.getItem('moomin-completed-chapters');
+    if (completed) {
+      JSON.parse(completed).forEach(n => state.completedChapters.add(n));
+    }
+    const last = localStorage.getItem('moomin-last-chapter');
+    if (last) state.lastChapter = parseInt(last, 10);
   } catch (e) {
     console.warn('Could not load settings:', e);
   }
@@ -49,8 +62,20 @@ function loadSettings() {
 function saveSettings() {
   try {
     localStorage.setItem('moomin-furigana-mode', state.furiganaMode);
+    localStorage.setItem('moomin-completed-chapters',
+      JSON.stringify([...state.completedChapters]));
+    if (state.lastChapter) {
+      localStorage.setItem('moomin-last-chapter', String(state.lastChapter));
+    }
   } catch (e) {
     console.warn('Could not save settings:', e);
+  }
+}
+
+function markChapterComplete(num) {
+  if (!state.completedChapters.has(num)) {
+    state.completedChapters.add(num);
+    saveSettings();
   }
 }
 
@@ -105,6 +130,21 @@ async function loadAllChapters() {
   }
 
   state.chapterList.sort((a, b) => a - b);
+}
+
+async function loadAppendix(num) {
+  if (state.appendixCache[num]) return state.appendixCache[num];
+  const padded = String(num).padStart(2, '0');
+  const url = `${APPENDIX_BASE}/ch${padded}_appendix.json`;
+  try {
+    const r = await fetch(url, { cache: 'no-cache' });
+    if (!r.ok) return null;
+    const data = await r.json();
+    state.appendixCache[num] = data;
+    return data;
+  } catch (e) {
+    return null;
+  }
 }
 
 // ----- Utility -----
@@ -302,6 +342,29 @@ function toggleAudio(btn, audioSrc) {
   });
 }
 
+/**
+ * Find the most visible sentence card and play its audio.
+ * Used for the Space keyboard shortcut.
+ */
+function playVisibleSentenceAudio() {
+  const cards = document.querySelectorAll('.sentence-card');
+  if (!cards.length) return;
+
+  const threshold = window.innerHeight * 0.5;
+  let bestCard = cards[0];
+  for (const card of cards) {
+    const rect = card.getBoundingClientRect();
+    if (rect.top < threshold && rect.bottom > 0) {
+      bestCard = card;
+    }
+  }
+
+  const playBtn = bestCard.querySelector('.play-btn');
+  if (playBtn && playBtn.style.display !== 'none') {
+    playBtn.click();
+  }
+}
+
 // ----- Navigation -----
 
 function showView(name) {
@@ -318,23 +381,55 @@ function openChapter(num) {
   const ch = state.chapters[num];
   if (!ch) return;
   state.currentChapter = num;
+  state.lastChapter = num;
 
-  // Reset kanji exposures tracking for this chapter view
-  // (AUTO mode counts per reading session, not cumulative)
   renderReader(ch);
   showView('reader');
+  updateChapterNavButtons();
   history.pushState({ chapter: num }, '', `#ch${num}`);
   saveSettings();
 }
 
-function goBack() {
-  // Stop any playing audio
+function openPrevChapter() {
+  if (!state.currentChapter) return;
+  const idx = state.chapterList.indexOf(state.currentChapter);
+  if (idx > 0) {
+    stopAudio();
+    openChapter(state.chapterList[idx - 1]);
+  }
+}
+
+function openNextChapter() {
+  if (!state.currentChapter) return;
+  const idx = state.chapterList.indexOf(state.currentChapter);
+  if (idx < state.chapterList.length - 1) {
+    stopAudio();
+    openChapter(state.chapterList[idx + 1]);
+  }
+}
+
+function updateChapterNavButtons() {
+  const prevBtn = document.getElementById('prev-chapter-btn');
+  const nextBtn = document.getElementById('next-chapter-btn');
+  if (!state.currentChapter) return;
+
+  const idx = state.chapterList.indexOf(state.currentChapter);
+  prevBtn.disabled = (idx <= 0);
+  nextBtn.disabled = (idx >= state.chapterList.length - 1);
+}
+
+function stopAudio() {
   if (state.currentAudio) {
     state.currentAudio.pause();
     state.currentAudio = null;
     state.currentPlayBtn = null;
   }
+}
+
+function goBack() {
+  stopAudio();
   state.currentChapter = null;
+  renderLanding(); // re-render to update checkmarks
   showView('landing');
   history.pushState(null, '', window.location.pathname);
   saveSettings();
@@ -355,6 +450,37 @@ function renderLanding() {
   const grid = document.getElementById('chapter-grid');
   grid.innerHTML = '';
 
+  // Continue banner
+  const banner = document.getElementById('continue-banner');
+  const continueBtn = document.getElementById('continue-btn');
+  const continueLabel = document.getElementById('continue-chapter-label');
+
+  // Find the next unread chapter, or fall back to lastChapter
+  let continueNum = null;
+  if (state.lastChapter && state.chapters[state.lastChapter]) {
+    continueNum = state.lastChapter;
+  }
+  // If last chapter is completed, advance to next incomplete
+  if (continueNum && state.completedChapters.has(continueNum)) {
+    const idx = state.chapterList.indexOf(continueNum);
+    for (let i = idx + 1; i < state.chapterList.length; i++) {
+      if (!state.completedChapters.has(state.chapterList[i])) {
+        continueNum = state.chapterList[i];
+        break;
+      }
+    }
+  }
+
+  if (continueNum && state.chapters[continueNum]) {
+    const ch = state.chapters[continueNum];
+    continueLabel.textContent = `Chapter ${continueNum} — ${ch.title}`;
+    banner.style.display = '';
+    continueBtn.onclick = () => openChapter(continueNum);
+  } else {
+    banner.style.display = 'none';
+  }
+
+  // Chapter cards
   for (const num of state.chapterList) {
     const ch = state.chapters[num];
     if (!ch) continue;
@@ -371,8 +497,12 @@ function renderLanding() {
       }
     });
 
+    const completedMark = state.completedChapters.has(num)
+      ? '<span class="chapter-check" title="Completed">&#10003;</span>'
+      : '';
+
     card.innerHTML = `
-      <span class="chapter-num">Chapter ${num}</span>
+      <span class="chapter-num">Chapter ${num} ${completedMark}</span>
       <h3 class="chapter-title">${escapeHtml(ch.title)}</h3>
       <span class="grammar-label">GS${ch.grammarStep}: ${escapeHtml(ch.grammarName)}</span>
       <div class="card-meta">
@@ -424,6 +554,22 @@ function renderReader(chapter) {
   // Collapse vocab panel on mobile after rendering
   const panel = document.getElementById('vocab-panel');
   panel.classList.remove('expanded');
+
+  // Appendix — try to load, show section if available
+  state.appendixOpen = false;
+  const appendixSection = document.getElementById('appendix-section');
+  const appendixContent = document.getElementById('appendix-content');
+  const appendixArrow = appendixSection.querySelector('.appendix-arrow');
+  appendixSection.style.display = 'none';
+  appendixContent.innerHTML = '';
+  if (appendixArrow) appendixArrow.textContent = '▶';
+
+  loadAppendix(chapter.chapter).then(data => {
+    if (data) {
+      appendixSection.style.display = '';
+      renderAppendixContent(data, appendixContent);
+    }
+  });
 
   // Sentences
   const container = document.getElementById('sentence-scroll');
@@ -497,6 +643,70 @@ function renderReader(chapter) {
     `0 / ${chapter.sentences.length}`;
 }
 
+// ----- Appendix Rendering -----
+
+function renderAppendixContent(data, container) {
+  let html = '';
+
+  // Grammar note
+  if (data.grammarNote) {
+    html += `<div class="appendix-grammar">`;
+    html += `<h5>${escapeHtml(data.grammarNote.title)}</h5>`;
+    html += `<p>${escapeHtml(data.grammarNote.explanation)}</p>`;
+    if (data.grammarNote.examples && data.grammarNote.examples.length) {
+      html += `<div class="appendix-examples">`;
+      for (const ex of data.grammarNote.examples) {
+        html += `<div class="appendix-example">`;
+        html += `<span class="ex-jp">${escapeHtml(ex.japanese)}</span>`;
+        if (ex.gloss) html += `<span class="ex-gloss">${escapeHtml(ex.gloss)}</span>`;
+        if (ex.english) html += `<span class="ex-en">${escapeHtml(ex.english)}</span>`;
+        html += `</div>`;
+      }
+      html += `</div>`;
+    }
+    html += `</div>`;
+  }
+
+  // Vocabulary
+  if (data.vocabulary && data.vocabulary.length) {
+    html += `<div class="appendix-vocab">`;
+    html += `<h5>New Vocabulary</h5>`;
+    html += `<dl class="appendix-vocab-list">`;
+    for (const v of data.vocabulary) {
+      const kanjiPart = v.kanji ? ` (${escapeHtml(v.kanji)})` : '';
+      html += `<dt>${escapeHtml(v.word)}${kanjiPart}</dt>`;
+      html += `<dd>${escapeHtml(v.meaning)}`;
+      if (v.example) html += ` <span class="vocab-ex">${escapeHtml(v.example)}</span>`;
+      html += `</dd>`;
+    }
+    html += `</dl>`;
+    html += `</div>`;
+  }
+
+  // Story note
+  if (data.storyNote) {
+    html += `<div class="appendix-story">`;
+    html += `<h5>Story Context</h5>`;
+    html += `<p>${escapeHtml(data.storyNote)}</p>`;
+    html += `</div>`;
+  }
+
+  container.innerHTML = html;
+}
+
+function toggleAppendix() {
+  state.appendixOpen = !state.appendixOpen;
+  const content = document.getElementById('appendix-content');
+  const arrow = document.querySelector('.appendix-arrow');
+  if (state.appendixOpen) {
+    content.classList.add('open');
+    if (arrow) arrow.textContent = '▼';
+  } else {
+    content.classList.remove('open');
+    if (arrow) arrow.textContent = '▶';
+  }
+}
+
 // ----- Furigana Toggle -----
 
 function updateFuriganaLabel() {
@@ -552,7 +762,31 @@ function setupScrollProgress() {
       `${Math.min(progress * 100, 100)}%`;
     document.getElementById('progress-text').textContent =
       `${visibleIndex} / ${ch.sentences.length}`;
+
+    // Mark chapter complete when last sentence is visible
+    if (visibleIndex >= ch.sentences.length) {
+      markChapterComplete(state.currentChapter);
+    }
   }, { passive: true });
+}
+
+// ----- Sentence Scrolling (J/K navigation) -----
+
+function scrollToSentence(direction) {
+  const cards = document.querySelectorAll('.sentence-card');
+  if (!cards.length) return;
+
+  const threshold = window.innerHeight * 0.4;
+  let currentIdx = 0;
+  cards.forEach((card, i) => {
+    if (card.getBoundingClientRect().top < threshold) currentIdx = i;
+  });
+
+  const targetIdx = direction === 'next'
+    ? Math.min(currentIdx + 1, cards.length - 1)
+    : Math.max(currentIdx - 1, 0);
+
+  cards[targetIdx].scrollIntoView({ behavior: 'smooth', block: 'center' });
 }
 
 // ----- Mobile Vocab Toggle -----
@@ -582,13 +816,52 @@ function setupVocabToggle() {
 
 function setupKeyboard() {
   document.addEventListener('keydown', (e) => {
+    // Ignore if user is typing in an input
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+
     if (state.currentView === 'reader') {
       if (e.key === 'Escape') {
         goBack();
+        return;
       }
       // F key toggles furigana
       if (e.key === 'f' || e.key === 'F') {
         cycleFuriganaMode();
+        return;
+      }
+      // ← / → for chapter navigation
+      if (e.key === 'ArrowLeft') {
+        openPrevChapter();
+        return;
+      }
+      if (e.key === 'ArrowRight') {
+        openNextChapter();
+        return;
+      }
+      // J / K for sentence scrolling
+      if (e.key === 'j' || e.key === 'J') {
+        e.preventDefault();
+        scrollToSentence('next');
+        return;
+      }
+      if (e.key === 'k' || e.key === 'K') {
+        e.preventDefault();
+        scrollToSentence('prev');
+        return;
+      }
+      // Space to play visible sentence audio
+      if (e.key === ' ') {
+        e.preventDefault();
+        playVisibleSentenceAudio();
+        return;
+      }
+      // G to toggle study guide
+      if (e.key === 'g' || e.key === 'G') {
+        const section = document.getElementById('appendix-section');
+        if (section && section.style.display !== 'none') {
+          toggleAppendix();
+        }
+        return;
       }
     }
   });
@@ -610,6 +883,13 @@ async function init() {
     e.preventDefault();
     goBack();
   });
+
+  // Chapter navigation buttons
+  document.getElementById('prev-chapter-btn').addEventListener('click', openPrevChapter);
+  document.getElementById('next-chapter-btn').addEventListener('click', openNextChapter);
+
+  // Appendix toggle
+  document.getElementById('appendix-toggle').addEventListener('click', toggleAppendix);
 
   // Handle initial hash
   const hash = location.hash;

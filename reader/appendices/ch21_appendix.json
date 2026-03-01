@@ -1,0 +1,78 @@
+{
+  "chapter": 21,
+  "grammarNote": {
+    "title": "Quotation: という and とおもう",
+    "explanation": "と marks quoted speech or thought. Direct quotes: 「変だ！」とムーミンが言った ('It's strange!' said Moomintroll). という (to say/called): 変なものという (a thing called something strange). とおもう (to think): いいとおもう (I think it's good). と can quote any clause — it's how Japanese embeds one sentence inside another.",
+    "examples": [
+      {
+        "japanese": "「変 だ！」と ムーミン が 言った。",
+        "gloss": "\"strange [COP]!\" [QUOT] Moomintroll [SUBJ] said",
+        "english": "\"It's strange!\" said Moomintroll."
+      },
+      {
+        "japanese": "変 な もの が ある！",
+        "gloss": "strange [ADJ] thing [SUBJ] exist!",
+        "english": "There's a strange thing!"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "いう",
+      "kanji": "言う",
+      "reading": "いう",
+      "meaning": "to say, tell",
+      "example": "「変 だ ね」 と ママ が 言う。"
+    },
+    {
+      "word": "いれる",
+      "kanji": "入れる",
+      "reading": "いれる",
+      "meaning": "to put in, insert",
+      "example": "これ を 部屋 に 入れる。"
+    },
+    {
+      "word": "部屋",
+      "kanji": "部屋",
+      "reading": "へや",
+      "meaning": "room",
+      "example": "これ を 部屋 に 入れる。"
+    },
+    {
+      "word": "見せる",
+      "kanji": "見せる",
+      "reading": "みせる",
+      "meaning": "to show",
+      "example": ""
+    },
+    {
+      "word": "よぶ",
+      "kanji": "呼ぶ",
+      "reading": "よぶ",
+      "meaning": "to call, summon",
+      "example": "みんな を 呼ぶ！"
+    },
+    {
+      "word": "いつ",
+      "kanji": "",
+      "reading": "いつ",
+      "meaning": "when",
+      "example": "いつ ここ に きた？"
+    },
+    {
+      "word": "海岸",
+      "kanji": "海岸",
+      "reading": "かいがん",
+      "meaning": "coast, seashore",
+      "example": "海岸 へ いく。"
+    },
+    {
+      "word": "変",
+      "kanji": "変",
+      "reading": "へん",
+      "meaning": "strange, weird, odd",
+      "example": "変 な もの が ある！"
+    }
+  ],
+  "storyNote": "Sandy shore near the sea. Shells scattered on the beach. Waves. Mountains visible in the background. A dark silhouette (the Groke) far away."
+}

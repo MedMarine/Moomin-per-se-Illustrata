@@ -1,0 +1,78 @@
+{
+  "chapter": 41,
+  "grammarNote": {
+    "title": "Nominalizers: の and こと",
+    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
+    "examples": [
+      {
+        "japanese": "きれい な 色 だ。",
+        "gloss": "pretty [ADJ] color [COP]",
+        "english": "It's a pretty color."
+      },
+      {
+        "japanese": "大変 だ！",
+        "gloss": "terrible [COP]!",
+        "english": "This is terrible!"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "色",
+      "kanji": "色",
+      "reading": "いろ",
+      "meaning": "color",
+      "example": "きれい な 色 だ。"
+    },
+    {
+      "word": "大変",
+      "kanji": "大変",
+      "reading": "たいへん",
+      "meaning": "terrible, serious; very much",
+      "example": "大変 だ！"
+    },
+    {
+      "word": "こわす",
+      "kanji": "壊す",
+      "reading": "こわす",
+      "meaning": "to break, destroy",
+      "example": "こわす の は だめ だ。"
+    },
+    {
+      "word": "隠す",
+      "kanji": "隠す",
+      "reading": "かくす",
+      "meaning": "to hide (something)",
+      "example": "隠す の は よくない。"
+    },
+    {
+      "word": "頂く",
+      "kanji": "頂く",
+      "reading": "いただく",
+      "meaning": "to receive (humble); to eat/drink (humble)",
+      "example": "頂く の は いい。"
+    },
+    {
+      "word": "信じる",
+      "kanji": "信じる",
+      "reading": "しんじる",
+      "meaning": "to believe, trust",
+      "example": "信じる こと が できない。"
+    },
+    {
+      "word": "出掛ける",
+      "kanji": "出掛ける",
+      "reading": "でかける",
+      "meaning": "to go out, set out",
+      "example": "明日 出掛ける。"
+    },
+    {
+      "word": "嘘",
+      "kanji": "嘘",
+      "reading": "うそ",
+      "meaning": "lie, falsehood",
+      "example": "嘘 を ついた。"
+    }
+  ],
+  "storyNote": "Inside the Moomin house at night. Extra blankets and pillows arranged on the floor. Candles lit."
+}

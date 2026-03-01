@@ -1,0 +1,78 @@
+{
+  "chapter": 38,
+  "grammarNote": {
+    "title": "Nominalizers: の and こと",
+    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
+    "examples": [
+      {
+        "japanese": "パーティー を する。",
+        "gloss": "party [OBJ] do",
+        "english": "[We'll] have a party."
+      },
+      {
+        "japanese": "友達 と 茶 を のんだ。",
+        "gloss": "friend [with] tea [OBJ] drank",
+        "english": "[I] drank tea with a friend."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "茶",
+      "kanji": "茶",
+      "reading": "ちゃ",
+      "meaning": "tea",
+      "example": "お 茶 を のむ。"
+    },
+    {
+      "word": "パーティー",
+      "kanji": "",
+      "reading": "パーティー",
+      "meaning": "party",
+      "example": "パーティー が ある。"
+    },
+    {
+      "word": "そう-伝聞",
+      "kanji": "",
+      "reading": "そう",
+      "meaning": "I hear that, they say (hearsay)",
+      "example": "友達 が くる そう だ。"
+    },
+    {
+      "word": "眠る",
+      "kanji": "眠る",
+      "reading": "ねむる",
+      "meaning": "to sleep, fall asleep",
+      "example": "眠る の は まだ だめ だ。"
+    },
+    {
+      "word": "友達",
+      "kanji": "友達",
+      "reading": "ともだち",
+      "meaning": "friend",
+      "example": "友達 と 茶 を のんだ。"
+    },
+    {
+      "word": "木苺",
+      "kanji": "木苺",
+      "reading": "きいちご",
+      "meaning": "raspberry",
+      "example": "木苺 が ある。"
+    },
+    {
+      "word": "いいえ",
+      "kanji": "",
+      "reading": "いいえ",
+      "meaning": "no (polite)",
+      "example": "いいえ、ちがう。"
+    },
+    {
+      "word": "勝手",
+      "kanji": "勝手",
+      "reading": "かって",
+      "meaning": "selfish, as one pleases",
+      "example": "勝手 に する な。"
+    }
+  ],
+  "storyNote": "The Moomin kitchen in festive chaos. Decorations half-hung, doors open. Characters carry supplies."
+}

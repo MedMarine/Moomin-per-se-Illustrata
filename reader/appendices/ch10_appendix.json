@@ -1,0 +1,78 @@
+{
+  "chapter": 10,
+  "grammarNote": {
+    "title": "Transitive Actions with を",
+    "explanation": "The particle を (pronounced 'o') marks the direct object — the thing being acted upon. With transitive verbs (verbs that take an object), the pattern is: [object]を[verb]. Examples: 船をつくる (make a boat), 話をきく (listen to a story), なにをたべる？ (What will [you] eat?). Japanese often drops the subject, so 食べる can mean 'I eat,' 'you eat,' or 'we eat' depending on context.",
+    "examples": [
+      {
+        "japanese": "今日、船 を つくる！",
+        "gloss": "today, boat [OBJ] make!",
+        "english": "Today, [we] build a boat!"
+      },
+      {
+        "japanese": "いい 船 を つくった。",
+        "gloss": "good boat [OBJ] made",
+        "english": "[He] made a nice boat."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "かお",
+      "kanji": "顔",
+      "reading": "かお",
+      "meaning": "face",
+      "example": "ママ の 顔。いい！"
+    },
+    {
+      "word": "ありがとう",
+      "kanji": "",
+      "reading": "ありがとう",
+      "meaning": "thank you",
+      "example": "パパ、ありがとう！"
+    },
+    {
+      "word": "いや",
+      "kanji": "嫌",
+      "reading": "いや",
+      "meaning": "no; unpleasant, dislike",
+      "example": "待つ？いや！"
+    },
+    {
+      "word": "のる",
+      "kanji": "乗る",
+      "reading": "のる",
+      "meaning": "to ride, get on",
+      "example": "今日、のる！"
+    },
+    {
+      "word": "こんな",
+      "kanji": "",
+      "reading": "こんな",
+      "meaning": "this kind of, like this",
+      "example": "こんな 船 は いい ね！"
+    },
+    {
+      "word": "まつ",
+      "kanji": "待つ",
+      "reading": "まつ",
+      "meaning": "to wait",
+      "example": "ちょっと 待つ。"
+    },
+    {
+      "word": "今日",
+      "kanji": "今日",
+      "reading": "きょう",
+      "meaning": "today",
+      "example": "今日、船 を つくる！"
+    },
+    {
+      "word": "つくる",
+      "kanji": "作る",
+      "reading": "つくる",
+      "meaning": "to make, build, create",
+      "example": "今日、船 を つくる！"
+    }
+  ],
+  "storyNote": "Moomin house garden sloping down to the riverbank. A tent being set up on the flat ground near the water."
+}

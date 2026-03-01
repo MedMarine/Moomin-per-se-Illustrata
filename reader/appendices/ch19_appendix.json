@@ -1,0 +1,78 @@
+{
+  "chapter": 19,
+  "grammarNote": {
+    "title": "Desire: たい",
+    "explanation": "To express wanting to do something, replace the verb's ます-stem ending with たい: 食べる→食べたい (want to eat), いく→いきたい (want to go). たい conjugates like an い-adjective: 食べたかった (wanted to eat), 食べたくない (don't want to eat). Note: たい expresses the speaker's own desire. For others' desires, Japanese uses different constructions.",
+    "examples": [
+      {
+        "japanese": "水 が ある。",
+        "gloss": "water [SUBJ] exist",
+        "english": "There's water."
+      },
+      {
+        "japanese": "穴 の 先 に なに が ある？",
+        "gloss": "hole [of] beyond [at] what [SUBJ] exist?",
+        "english": "What's beyond the hole?"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "水",
+      "kanji": "水",
+      "reading": "みず",
+      "meaning": "water",
+      "example": "水 が ある。"
+    },
+    {
+      "word": "穴",
+      "kanji": "穴",
+      "reading": "あな",
+      "meaning": "hole",
+      "example": "穴 が ある！"
+    },
+    {
+      "word": "自信",
+      "kanji": "自信",
+      "reading": "じしん",
+      "meaning": "self-confidence",
+      "example": "自信 が ない。"
+    },
+    {
+      "word": "だす",
+      "kanji": "出す",
+      "reading": "だす",
+      "meaning": "to take out, put out, send",
+      "example": "ここ から 出す。"
+    },
+    {
+      "word": "助ける",
+      "kanji": "助ける",
+      "reading": "たすける",
+      "meaning": "to help, rescue, save",
+      "example": "出して、助ける！"
+    },
+    {
+      "word": "取る",
+      "kanji": "取る",
+      "reading": "とる",
+      "meaning": "to take, pick up",
+      "example": "手 で 取る。"
+    },
+    {
+      "word": "先",
+      "kanji": "先",
+      "reading": "さき",
+      "meaning": "ahead, beyond, tip, future",
+      "example": "穴 の 先 に なに が ある？"
+    },
+    {
+      "word": "随分",
+      "kanji": "随分",
+      "reading": "ずいぶん",
+      "meaning": "considerably, quite, very",
+      "example": "随分 水 が ある ね。"
+    }
+  ],
+  "storyNote": "Inside the Moomin house on a rainy afternoon. Rain streaks on round windows. Characters looking outside."
+}

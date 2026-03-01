@@ -1,0 +1,85 @@
+{
+  "chapter": 17,
+  "grammarNote": {
+    "title": "て-Form: Connecting and Requesting",
+    "explanation": "The て-form is one of the most versatile verb forms. It connects sequential actions: 見て、きく (look and listen). It also makes polite requests: 見せて (show [me], please). Formation varies by verb ending — this is a pattern you'll internalize through exposure. Common て-forms: いく→いって, くる→きて, みる→みて, する→して, たべる→たべて.",
+    "examples": [
+      {
+        "japanese": "おおきい 声 で きく。",
+        "gloss": "big voice [with] ask",
+        "english": "[I] ask with a loud voice."
+      },
+      {
+        "japanese": "ちいさい 声 が する。",
+        "gloss": "small voice [SUBJ] do",
+        "english": "A small voice sounds."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "よく",
+      "kanji": "",
+      "reading": "よく",
+      "meaning": "often, well, properly",
+      "example": "少し 待って、よく きく。"
+    },
+    {
+      "word": "昨日",
+      "kanji": "昨日",
+      "reading": "きのう",
+      "meaning": "yesterday",
+      "example": "昨日 も きた ね。"
+    },
+    {
+      "word": "また",
+      "kanji": "",
+      "reading": "また",
+      "meaning": "again, also",
+      "example": "また きた よ。"
+    },
+    {
+      "word": "おおきい",
+      "kanji": "大きい",
+      "reading": "おおきい",
+      "meaning": "big, large",
+      "example": "おおきい 声 で きく。"
+    },
+    {
+      "word": "声",
+      "kanji": "声",
+      "reading": "こえ",
+      "meaning": "voice",
+      "example": "おおきい 声 で きく。"
+    },
+    {
+      "word": "少し",
+      "kanji": "少し",
+      "reading": "すこし",
+      "meaning": "a little, a few",
+      "example": "少し 待って、よく きく。"
+    },
+    {
+      "word": "どうぞ",
+      "kanji": "",
+      "reading": "どうぞ",
+      "meaning": "please, go ahead",
+      "example": "どうぞ、こちら へ きて！"
+    },
+    {
+      "word": "さあ",
+      "kanji": "",
+      "reading": "さあ",
+      "meaning": "come on, well then, let's",
+      "example": "ほら、さあ いく よ！"
+    },
+    {
+      "word": "ちいさい",
+      "kanji": "小さい",
+      "reading": "ちいさい",
+      "meaning": "small, little",
+      "example": "ちいさい 声 が する。"
+    }
+  ],
+  "storyNote": "A sunny clearing at the forest edge. Mushrooms growing near tree stumps. A small figure arriving with a bag."
+}

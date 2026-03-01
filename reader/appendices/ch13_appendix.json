@@ -1,0 +1,78 @@
+{
+  "chapter": 13,
+  "grammarNote": {
+    "title": "い-Adjectives",
+    "explanation": "Japanese adjectives ending in い (like いい, 楽しい, おおきい) can directly modify nouns or serve as predicates. Before a noun: 楽しい谷 (a fun valley). As predicate: 谷は楽しい (The valley is fun) — no だ needed. Past tense: drop い, add かった: 楽しかった (was fun). Negative: drop い, add くない: 楽しくない (not fun). Note: いい is irregular — its conjugated forms use よ: よかった (was good).",
+    "examples": [
+      {
+        "japanese": "ルビー を さがす！",
+        "gloss": "ruby [OBJ] search!",
+        "english": "Let's search for rubies!"
+      },
+      {
+        "japanese": "おんな の 子 だ。",
+        "gloss": "female [of] child [COP]",
+        "english": "It's a girl."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "絶対",
+      "kanji": "絶対",
+      "reading": "ぜったい",
+      "meaning": "absolutely, definitely",
+      "example": "絶対 みつける！"
+    },
+    {
+      "word": "あっ",
+      "kanji": "",
+      "reading": "あっ",
+      "meaning": "oh! (surprise exclamation)",
+      "example": "あっ、あそこ！"
+    },
+    {
+      "word": "子",
+      "kanji": "子",
+      "reading": "こ",
+      "meaning": "child",
+      "example": "子 が いる。"
+    },
+    {
+      "word": "おまえ",
+      "kanji": "お前",
+      "reading": "おまえ",
+      "meaning": "you (rough, familiar)",
+      "example": "おまえ も さがす？"
+    },
+    {
+      "word": "いっか",
+      "kanji": "一家",
+      "reading": "いっか",
+      "meaning": "family, household",
+      "example": "一家 で さがす。"
+    },
+    {
+      "word": "ルビー-ruby",
+      "kanji": "",
+      "reading": "ルビー",
+      "meaning": "ruby (gemstone)",
+      "example": "ルビー を さがす！"
+    },
+    {
+      "word": "おんな",
+      "kanji": "女",
+      "reading": "おんな",
+      "meaning": "woman, female",
+      "example": "おんな の 子 だ。"
+    },
+    {
+      "word": "もちろん",
+      "kanji": "勿論",
+      "reading": "もちろん",
+      "meaning": "of course, naturally",
+      "example": "もちろん！"
+    }
+  ],
+  "storyNote": "Near the mountains outside Moomin Valley. Rocky terrain, caves visible. Characters searching for rubies. Mimura and Moomintroll together. Sparkle of gems."
+}

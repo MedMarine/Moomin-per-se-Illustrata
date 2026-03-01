@@ -1,0 +1,71 @@
+{
+  "chapter": 29,
+  "grammarNote": {
+    "title": "Nominalizers: の and こと",
+    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
+    "examples": [
+      {
+        "japanese": "川 へ いく。",
+        "gloss": "river [toward] go",
+        "english": "[Let's] go to the river."
+      },
+      {
+        "japanese": "この 川 の 通り を いく。",
+        "gloss": "this river [of] street [OBJ] go",
+        "english": "[We] go along this riverside street."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "伯母",
+      "kanji": "伯母",
+      "reading": "おば",
+      "meaning": "aunt (older than parent)",
+      "example": "伯母 が きた。"
+    },
+    {
+      "word": "拾う",
+      "kanji": "拾う",
+      "reading": "ひろう",
+      "meaning": "to pick up, find",
+      "example": "川 で 拾う の が 楽しい。"
+    },
+    {
+      "word": "起こる",
+      "kanji": "起こる",
+      "reading": "おこる",
+      "meaning": "to happen, occur",
+      "example": "明日 起こる こと が 楽しみ だ。"
+    },
+    {
+      "word": "天才",
+      "kanji": "天才",
+      "reading": "てんさい",
+      "meaning": "genius",
+      "example": "「天才 だ！」 と 言った。"
+    },
+    {
+      "word": "川",
+      "kanji": "川",
+      "reading": "かわ",
+      "meaning": "river",
+      "example": "川 へ いく。"
+    },
+    {
+      "word": "通り",
+      "kanji": "通り",
+      "reading": "とおり",
+      "meaning": "street; way, as (in 'as expected')",
+      "example": "この 川 の 通り を いく。"
+    },
+    {
+      "word": "明日",
+      "kanji": "明日",
+      "reading": "あした",
+      "meaning": "tomorrow",
+      "example": "明日 も いく。"
+    }
+  ],
+  "storyNote": "Riverside path in the valley. Lush green banks, flowing water, afternoon warmth."
+}

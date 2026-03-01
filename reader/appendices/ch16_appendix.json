@@ -1,0 +1,78 @@
+{
+  "chapter": 16,
+  "grammarNote": {
+    "title": "て-Form: Connecting and Requesting",
+    "explanation": "The て-form is one of the most versatile verb forms. It connects sequential actions: 見て、きく (look and listen). It also makes polite requests: 見せて (show [me], please). Formation varies by verb ending — this is a pattern you'll internalize through exposure. Common て-forms: いく→いって, くる→きて, みる→みて, する→して, たべる→たべて.",
+    "examples": [
+      {
+        "japanese": "風 が きた！",
+        "gloss": "wind [SUBJ] came!",
+        "english": "The wind came!"
+      },
+      {
+        "japanese": "風 の なか に いる。",
+        "gloss": "wind [of] inside [at] exist",
+        "english": "[We're] in the wind."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "飛行",
+      "kanji": "飛行",
+      "reading": "ひこう",
+      "meaning": "flight, flying",
+      "example": "飛行 が 見えた！"
+    },
+    {
+      "word": "はい",
+      "kanji": "",
+      "reading": "はい",
+      "meaning": "yes (polite)",
+      "example": "はい！"
+    },
+    {
+      "word": "風",
+      "kanji": "風",
+      "reading": "かぜ",
+      "meaning": "wind",
+      "example": "風 が きた！"
+    },
+    {
+      "word": "日",
+      "kanji": "日",
+      "reading": "ひ",
+      "meaning": "day, sun",
+      "example": "いい 日 だ ね。"
+    },
+    {
+      "word": "あいつ",
+      "kanji": "",
+      "reading": "あいつ",
+      "meaning": "that guy (rough, casual)",
+      "example": "あいつ は だれ？"
+    },
+    {
+      "word": "手",
+      "kanji": "手",
+      "reading": "て",
+      "meaning": "hand",
+      "example": "この 手 を みて！"
+    },
+    {
+      "word": "こちら",
+      "kanji": "",
+      "reading": "こちら",
+      "meaning": "this way, here (polite)",
+      "example": "こちら に きて！"
+    },
+    {
+      "word": "おりる",
+      "kanji": "降りる",
+      "reading": "おりる",
+      "meaning": "to get off, descend",
+      "example": "おりる！"
+    }
+  ],
+  "storyNote": "Hilltop overlooking the valley on a windy day. Leaves and petals blowing through the air. Bright sky, clouds moving fast."
+}
