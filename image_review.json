@@ -1,8 +1,4 @@
 {
-  "ch01-04": {
-    "status": "regenerate_with_notes",
-    "notes": "Moomintroll should be pointing at the trees, not at the water"
-  },
   "ch01-01": {
     "status": "keep"
   },
@@ -57,14 +53,6 @@
   "ch02-01": {
     "status": "keep"
   },
-  "ch02-02": {
-    "status": "regenerate_with_notes",
-    "notes": "The island is small, with water on all sides."
-  },
-  "ch02-03": {
-    "status": "regenerate_with_notes",
-    "notes": "The island is small, with water on all sides"
-  },
   "ch02-04": {
     "status": "keep"
   },
@@ -95,9 +83,6 @@
   "ch02-13": {
     "status": "keep"
   },
-  "ch02-14": {
-    "status": "regenerate"
-  },
   "ch02-15": {
     "status": "keep"
   },
@@ -121,21 +106,6 @@
   },
   "ch03-03": {
     "status": "keep"
-  },
-  "ch03-04": {
-    "status": "regenerate_with_notes",
-    "refs": [
-      "C:\\Users\\never\\Downloads\\Japanese per se illustrata v2\\review_refs\\ch03-04\\duckduckgo_016.webp"
-    ],
-    "notes": "The small silhouetted figure is Snorkmaiden. leave everything else unchanged"
-  },
-  "ch03-05": {
-    "status": "regenerate_with_notes",
-    "notes": "Show moomintroll peering down the trail at a silhouetted figure on a rock, medium distance. The silhouetted figure is Snorkmaiden.",
-    "refs": [
-      "C:\\Users\\never\\Downloads\\Japanese per se illustrata v2\\review_refs\\ch03-05\\duckduckgo_016.webp",
-      "C:\\Users\\never\\Downloads\\Japanese per se illustrata v2\\reference_images\\moomintroll\\ep01_0023.png"
-    ]
   },
   "ch03-06": {
     "status": "keep"
@@ -175,12 +145,6 @@
   },
   "ch03-18": {
     "status": "keep"
-  },
-  "ch03-19": {
-    "status": "regenerate"
-  },
-  "ch03-20": {
-    "status": "regenerate"
   },
   "ch03-21": {
     "status": "keep"
