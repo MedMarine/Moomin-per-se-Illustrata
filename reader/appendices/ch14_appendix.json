@@ -1,78 +1,57 @@
 {
   "chapter": 14,
   "grammarNote": {
-    "title": "い-Adjectives",
-    "explanation": "Japanese adjectives ending in い (like いい, 楽しい, おおきい) can directly modify nouns or serve as predicates. Before a noun: 楽しい谷 (a fun valley). As predicate: 谷は楽しい (The valley is fun) — no だ needed. Past tense: drop い, add かった: 楽しかった (was fun). Negative: drop い, add くない: 楽しくない (not fun). Note: いい is irregular — its conjugated forms use よ: よかった (was good).",
-    "examples": [
-      {
-        "japanese": "谷 は 楽しい ね。",
-        "gloss": "valley [TOPIC] fun [CONF]",
-        "english": "The valley is fun, isn't it?"
-      },
-      {
-        "japanese": "あれ は にょろにょろ みたい だ。",
-        "gloss": "that [TOPIC] Hattifattener seems [COP]",
-        "english": "That seems to be a Hattifattener."
-      }
-    ]
+    "title": "い-Adjectives (continued)",
+    "explanation": "More い-adjectives. 谷は楽しいね — fun, with no copula needed.\n\nWatch みたい: にょろにょろみたいだ — seems like a Hattifattener. みたい attaches to a noun and means 'resembles.' 山みたいだね — like a mountain. Unlike い-adjectives, みたい needs だ.\n\nRe-read: which descriptions use い alone, and which use みたいだ?"
   },
   "vocabulary": [
     {
       "word": "楽しい",
       "kanji": "楽しい",
       "reading": "たのしい",
-      "meaning": "fun, enjoyable",
-      "example": "楽しい！"
+      "meaning": "fun, enjoyable"
     },
     {
       "word": "止める",
       "kanji": "止める",
       "reading": "とめる",
-      "meaning": "to stop (something)",
-      "example": "にょろにょろ！止める！"
+      "meaning": "to stop (something)"
     },
     {
       "word": "度",
       "kanji": "度",
       "reading": "ど",
-      "meaning": "degree; time, occasion",
-      "example": "もう 一 度 みる。"
+      "meaning": "degree; time, occasion"
     },
     {
       "word": "下さる",
       "kanji": "下さる",
       "reading": "くださる",
-      "meaning": "to give (respectful; please)",
-      "example": "下さる もの は いい ね。"
+      "meaning": "to give (respectful; please)"
     },
     {
       "word": "にょろにょろ",
       "kanji": "",
       "reading": "にょろにょろ",
-      "meaning": "Hattifatteners (silent electric creatures)",
-      "example": "にょろにょろ が いる！"
+      "meaning": "Hattifatteners (silent electric creatures)"
     },
     {
       "word": "違う",
       "kanji": "違う",
       "reading": "ちがう",
-      "meaning": "to differ, be different, be wrong",
-      "example": "違う！"
+      "meaning": "to differ, be different, be wrong"
     },
     {
       "word": "みたい",
       "kanji": "",
       "reading": "みたい",
-      "meaning": "seems like, looks like",
-      "example": "あれ は にょろにょろ みたい だ。"
+      "meaning": "seems like, looks like"
     },
     {
       "word": "たに",
       "kanji": "谷",
       "reading": "たに",
-      "meaning": "valley",
-      "example": "谷 へ いく。"
+      "meaning": "valley"
     }
-  ],
-  "storyNote": "Walking through the valley. Trees line the path, river visible below. Characters walking together in a group."
+  ]
 }

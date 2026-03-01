@@ -652,22 +652,15 @@ function renderAppendixContent(data, container) {
   if (data.grammarNote) {
     html += `<div class="appendix-grammar">`;
     html += `<h5>${escapeHtml(data.grammarNote.title)}</h5>`;
-    html += `<p>${escapeHtml(data.grammarNote.explanation)}</p>`;
-    if (data.grammarNote.examples && data.grammarNote.examples.length) {
-      html += `<div class="appendix-examples">`;
-      for (const ex of data.grammarNote.examples) {
-        html += `<div class="appendix-example">`;
-        html += `<span class="ex-jp">${escapeHtml(ex.japanese)}</span>`;
-        if (ex.gloss) html += `<span class="ex-gloss">${escapeHtml(ex.gloss)}</span>`;
-        if (ex.english) html += `<span class="ex-en">${escapeHtml(ex.english)}</span>`;
-        html += `</div>`;
-      }
-      html += `</div>`;
+    // Split on double newlines for paragraphs
+    const paragraphs = data.grammarNote.explanation.split('\n\n');
+    for (const para of paragraphs) {
+      html += `<p>${escapeHtml(para)}</p>`;
     }
     html += `</div>`;
   }
 
-  // Vocabulary
+  // Vocabulary — bare glossary
   if (data.vocabulary && data.vocabulary.length) {
     html += `<div class="appendix-vocab">`;
     html += `<h5>New Vocabulary</h5>`;
@@ -675,19 +668,9 @@ function renderAppendixContent(data, container) {
     for (const v of data.vocabulary) {
       const kanjiPart = v.kanji ? ` (${escapeHtml(v.kanji)})` : '';
       html += `<dt>${escapeHtml(v.word)}${kanjiPart}</dt>`;
-      html += `<dd>${escapeHtml(v.meaning)}`;
-      if (v.example) html += ` <span class="vocab-ex">${escapeHtml(v.example)}</span>`;
-      html += `</dd>`;
+      html += `<dd>${escapeHtml(v.meaning)}</dd>`;
     }
     html += `</dl>`;
-    html += `</div>`;
-  }
-
-  // Story note
-  if (data.storyNote) {
-    html += `<div class="appendix-story">`;
-    html += `<h5>Story Context</h5>`;
-    html += `<p>${escapeHtml(data.storyNote)}</p>`;
     html += `</div>`;
   }
 

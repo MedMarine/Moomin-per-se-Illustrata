@@ -400,14 +400,12 @@ body {
 }
 
 .appendix-grammar,
-.appendix-vocab,
-.appendix-story {
+.appendix-vocab {
   margin-top: 1rem;
 }
 
 .appendix-grammar h5,
-.appendix-vocab h5,
-.appendix-story h5 {
+.appendix-vocab h5 {
   font-size: 0.8rem;
   color: var(--text-secondary);
   text-transform: uppercase;
@@ -415,43 +413,11 @@ body {
   margin-bottom: 0.5rem;
 }
 
-.appendix-grammar p,
-.appendix-story p {
+.appendix-grammar p {
   font-size: 0.85rem;
   color: var(--text-primary);
   line-height: 1.6;
-}
-
-.appendix-examples {
-  margin-top: 0.75rem;
-}
-
-.appendix-example {
-  background: white;
-  border: 1px solid var(--border-soft);
-  border-radius: 8px;
-  padding: 0.5rem 0.75rem;
   margin-bottom: 0.5rem;
-}
-
-.ex-jp {
-  font-family: var(--font-reading);
-  font-size: 1rem;
-  display: block;
-  color: var(--text-primary);
-}
-
-.ex-gloss {
-  font-size: 0.78rem;
-  color: var(--text-muted);
-  display: block;
-  font-style: italic;
-}
-
-.ex-en {
-  font-size: 0.82rem;
-  color: var(--text-secondary);
-  display: block;
 }
 
 .appendix-vocab-list {
@@ -469,12 +435,6 @@ body {
   color: var(--text-secondary);
   margin-left: 0;
   padding-left: 0.75rem;
-}
-
-.vocab-ex {
-  font-family: var(--font-reading);
-  font-size: 0.82rem;
-  color: var(--text-muted);
 }
 
 /* Sentence scroll area */

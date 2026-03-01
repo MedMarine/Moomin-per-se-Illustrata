@@ -1,83 +1,57 @@
 {
   "chapter": 7,
   "grammarNote": {
-    "title": "は vs. が: Topic vs. Subject",
-    "explanation": "This is one of the most important distinctions in Japanese. が marks NEW information (something just noticed or discovered): 貝殻があった！ (A shell was [there]! — discovery). は marks KNOWN information being commented on: この貝殻はいい (This shell [that we're looking at] is nice). A useful test: if you could say 'As for X...' naturally, use は. If the sentence answers 'who/what did it?', use が.",
-    "examples": [
-      {
-        "japanese": "帽子 が ない！",
-        "gloss": "hat [SUBJ] not-exist!",
-        "english": "The hat is missing!"
-      },
-      {
-        "japanese": "今、さがす！",
-        "gloss": "now, search!",
-        "english": "Let's search now!"
-      },
-      {
-        "japanese": "きみ は どこ に おいた？",
-        "gloss": "you [TOPIC] where [at] put?",
-        "english": "Where did you put it?"
-      }
-    ]
+    "title": "は vs. が (continued)",
+    "explanation": "The same pattern continues. パパ says 帽子がない — discovering the hat is missing (が for new realization). Then きみはどこにおいた？ — は shifts to the known topic to ask about it.\n\nNotice スニフがみつけた — who found it? Sniff did. が answers the 'who did it?' question.\n\nRe-read and mark every が and は. What triggers each one?"
   },
   "vocabulary": [
     {
       "word": "一",
       "kanji": "一",
       "reading": "いち",
-      "meaning": "one",
-      "example": "一 の 帽子 を みつけた。"
+      "meaning": "one"
     },
     {
       "word": "今",
       "kanji": "今",
       "reading": "いま",
-      "meaning": "now",
-      "example": "さがす！今、さがす！"
+      "meaning": "now"
     },
     {
       "word": "ところ",
       "kanji": "所",
       "reading": "ところ",
-      "meaning": "place, spot",
-      "example": "ぼく は あの ところ に おいた。"
+      "meaning": "place, spot"
     },
     {
       "word": "さがす",
       "kanji": "探す",
       "reading": "さがす",
-      "meaning": "to search for, look for",
-      "example": "さがす！今、さがす！"
+      "meaning": "to search for, look for"
     },
     {
       "word": "きみ",
       "kanji": "君",
       "reading": "きみ",
-      "meaning": "you (familiar, friendly)",
-      "example": "きみ は どこ に おいた？"
+      "meaning": "you (familiar, friendly)"
     },
     {
       "word": "みつける",
       "kanji": "見つける",
       "reading": "みつける",
-      "meaning": "to find, discover",
-      "example": ""
+      "meaning": "to find, discover"
     },
     {
       "word": "おもう",
       "kanji": "思う",
       "reading": "おもう",
-      "meaning": "to think, feel",
-      "example": "そう、ぼく は おもう。ここ だ。"
+      "meaning": "to think, feel"
     },
     {
       "word": "おく",
       "kanji": "置く",
       "reading": "おく",
-      "meaning": "to put, place",
-      "example": "この ところ に おく。"
+      "meaning": "to put, place"
     }
-  ],
-  "storyNote": "Moomin house at dawn. Morning light. Garden path, trees, river visible. Characters searching around the house and garden."
+  ]
 }

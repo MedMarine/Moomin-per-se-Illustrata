@@ -1,83 +1,57 @@
 {
   "chapter": 1,
   "grammarNote": {
-    "title": "Foundation: Naming and Pointing",
-    "explanation": "This chapter introduces character names and basic nouns. In Japanese, a single noun can be a complete utterance: 船。(A boat.) needs no verb. Characters identify themselves with わたし、X。(I [am] X.) — the comma marks a pause that equates two things without any grammar word. You will also encounter basic demonstratives like pointing at things and naming them.",
-    "examples": [
-      {
-        "japanese": "船。",
-        "gloss": "boat",
-        "english": "A boat."
-      },
-      {
-        "japanese": "わたし、ムーミン。",
-        "gloss": "I, Moomintroll",
-        "english": "I'm Moomintroll."
-      },
-      {
-        "japanese": "パパ、帽子！",
-        "gloss": "Papa, hat!",
-        "english": "Papa, [your] hat!"
-      }
-    ]
+    "title": "Naming and Pointing",
+    "explanation": "A noun by itself is a complete utterance. When you read 船 — look at the illustration. That single word IS the sentence.\n\nNotice the comma pattern: わたし、ムーミン。 The comma equates two things. The pause is the grammar. No verb, no copula — just two nouns placed side by side.\n\nRe-read the chapter and watch for single-noun utterances and comma-equations. Every line works this way."
   },
   "vocabulary": [
     {
       "word": "ムーミン",
       "kanji": "",
       "reading": "ムーミン",
-      "meaning": "Moomintroll (the main character)",
-      "example": "ムーミン！"
+      "meaning": "Moomintroll (the main character)"
     },
     {
       "word": "ふね",
       "kanji": "船",
       "reading": "ふね",
-      "meaning": "boat, ship",
-      "example": "船。"
+      "meaning": "boat, ship"
     },
     {
       "word": "わたし",
       "kanji": "私",
       "reading": "わたし",
-      "meaning": "I, me",
-      "example": "わたし、ムーミン。"
+      "meaning": "I, me"
     },
     {
       "word": "ママ",
       "kanji": "",
       "reading": "ママ",
-      "meaning": "Mama (Moominmamma)",
-      "example": "ママ！"
+      "meaning": "Mama (Moominmamma)"
     },
     {
       "word": "なに",
       "kanji": "何",
       "reading": "なに",
-      "meaning": "what",
-      "example": "なに？"
+      "meaning": "what"
     },
     {
       "word": "パパ",
       "kanji": "",
       "reading": "パパ",
-      "meaning": "Papa (Moominpappa)",
-      "example": "パパ！"
+      "meaning": "Papa (Moominpappa)"
     },
     {
       "word": "き",
       "kanji": "木",
       "reading": "き",
-      "meaning": "tree, wood",
-      "example": "木！"
+      "meaning": "tree, wood"
     },
     {
       "word": "ぼうし",
       "kanji": "帽子",
       "reading": "ぼうし",
-      "meaning": "hat, cap",
-      "example": "帽子！"
+      "meaning": "hat, cap"
     }
-  ],
-  "storyNote": "River mouth where it meets the sea, early morning. The old wooden boat is pulled up on the bank."
+  ]
 }

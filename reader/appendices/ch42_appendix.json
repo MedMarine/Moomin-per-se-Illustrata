@@ -1,78 +1,57 @@
 {
   "chapter": 42,
   "grammarNote": {
-    "title": "Nominalizers: の and こと",
-    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
-    "examples": [
-      {
-        "japanese": "入り口 から 風 が はいった。",
-        "gloss": "entrance [from] wind [SUBJ] entered",
-        "english": "Wind came in from the entrance."
-      },
-      {
-        "japanese": "驚いた！",
-        "gloss": "was-surprised!",
-        "english": "[I] was surprised!"
-      }
-    ]
+    "title": "ため: Purpose and Cause",
+    "explanation": "みんなの為にやった — did it for everyone's sake. 友達の為にする — do it for a friend. ため marks purpose or beneficiary.\n\n取り戻すのは大変だった — getting it back was tough. 驚くことがある — surprising things exist (ことがある = such things happen).\n\nAlso notice 所為: スニフの所為だ — it's Sniff's fault. 所為 marks blame, the opposite of ため.\n\nRe-read and find: ため (purpose) and 所為 (blame)."
   },
   "vocabulary": [
     {
       "word": "入り口",
       "kanji": "入り口",
       "reading": "いりぐち",
-      "meaning": "entrance, entry",
-      "example": "入り口 から 風 が はいった。"
+      "meaning": "entrance, entry"
     },
     {
       "word": "驚く",
       "kanji": "驚く",
       "reading": "おどろく",
-      "meaning": "to be surprised, astonished",
-      "example": "驚く こと が ある。"
+      "meaning": "to be surprised, astonished"
     },
     {
       "word": "全く",
       "kanji": "全く",
       "reading": "まったく",
-      "meaning": "completely, entirely; honestly",
-      "example": "全く だめ だ。"
+      "meaning": "completely, entirely; honestly"
     },
     {
       "word": "よいしょ",
       "kanji": "",
       "reading": "よいしょ",
-      "meaning": "heave-ho! (effort exclamation)",
-      "example": "よいしょ！"
+      "meaning": "heave-ho! (effort exclamation)"
     },
     {
       "word": "持ち主",
       "kanji": "持ち主",
       "reading": "もちぬし",
-      "meaning": "owner",
-      "example": "これ の 持ち主 は だれ？"
+      "meaning": "owner"
     },
     {
       "word": "為",
       "kanji": "為",
       "reading": "ため",
-      "meaning": "for the sake of, because of",
-      "example": "みんな の 為 に やった。"
+      "meaning": "for the sake of, because of"
     },
     {
       "word": "取り戻す",
       "kanji": "取り戻す",
       "reading": "とりもどす",
-      "meaning": "to get back, recover",
-      "example": "取り戻す！"
+      "meaning": "to get back, recover"
     },
     {
       "word": "所為",
       "kanji": "所為",
       "reading": "せい",
-      "meaning": "fault, cause, because of",
-      "example": "嵐 の 所為 だ。"
+      "meaning": "fault, cause, because of"
     }
-  ],
-  "storyNote": "Inside the Moomin house during a thunderstorm. Lightning flashes through round windows."
+  ]
 }

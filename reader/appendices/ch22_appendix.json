@@ -2,77 +2,56 @@
   "chapter": 22,
   "grammarNote": {
     "title": "Conditional: たら",
-    "explanation": "たら expresses 'if/when' — it's formed by adding ら to the past tense: いく→いったら (if [we] go), ある→あったら (if there is). 海岸にいったらいい means 'it would be nice if we went to the coast.' たら is the most versatile conditional in Japanese — it works for hypotheticals, temporal sequences, and discovered results.",
-    "examples": [
-      {
-        "japanese": "海岸 に いったら いい ね。",
-        "gloss": "coast [to] go-if good [CONF]",
-        "english": "It'd be nice if [we] went to the coast."
-      },
-      {
-        "japanese": "水 が 必要 だ。",
-        "gloss": "water [SUBJ] necessary [COP]",
-        "english": "Water is needed."
-      }
-    ]
+    "explanation": "たら = past tense + ら. 海岸にいったら — if/when [we] go to the coast. 水が無くなったら — if the water runs out.\n\nSentence shape: [condition]たら + [result]. 海岸にいったらいいね — if we went to the coast, that'd be nice.\n\nNotice たら is built from the past form you already know. いった (went) → いったら (if/when going).\n\nRe-read and find every たら. What condition leads to what result?"
   },
   "vocabulary": [
     {
       "word": "素晴らしい",
       "kanji": "素晴らしい",
       "reading": "すばらしい",
-      "meaning": "wonderful, splendid",
-      "example": "「素晴らしい！」 と 言った。"
+      "meaning": "wonderful, splendid"
     },
     {
       "word": "ゆっくり",
       "kanji": "",
       "reading": "ゆっくり",
-      "meaning": "slowly, at ease",
-      "example": "ゆっくり いく。"
+      "meaning": "slowly, at ease"
     },
     {
       "word": "もっと",
       "kanji": "",
       "reading": "もっと",
-      "meaning": "more",
-      "example": "もっと 水 が 必要 だ。"
+      "meaning": "more"
     },
     {
       "word": "無くなる",
       "kanji": "無くなる",
       "reading": "なくなる",
-      "meaning": "to disappear, run out, be gone",
-      "example": ""
+      "meaning": "to disappear, run out, be gone"
     },
     {
       "word": "ちょうだい",
       "kanji": "",
       "reading": "ちょうだい",
-      "meaning": "please give me (casual request)",
-      "example": "もっと ちょうだい。"
+      "meaning": "please give me (casual request)"
     },
     {
       "word": "楽しみ",
       "kanji": "楽しみ",
       "reading": "たのしみ",
-      "meaning": "enjoyment, looking forward to",
-      "example": "楽しみ だ！"
+      "meaning": "enjoyment, looking forward to"
     },
     {
       "word": "間",
       "kanji": "間",
       "reading": "あいだ",
-      "meaning": "between, interval, while",
-      "example": "この 間 に 水 を もっと 入れた。"
+      "meaning": "between, interval, while"
     },
     {
       "word": "必要",
       "kanji": "必要",
       "reading": "ひつよう",
-      "meaning": "necessary, needed",
-      "example": "「必要 な もの は？」 と 言った。"
+      "meaning": "necessary, needed"
     }
-  ],
-  "storyNote": "The warm kitchen inside the Moomin house. Mama at the table with tea. Chairs around a big table. Steam from teacups. Morning light through round windows."
+  ]
 }

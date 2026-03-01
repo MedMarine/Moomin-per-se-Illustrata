@@ -2,82 +2,56 @@
   "chapter": 2,
   "grammarNote": {
     "title": "Existence: いる and ある",
-    "explanation": "Japanese uses two verbs for 'to exist': いる for living things (people, animals) and ある for non-living things (objects, places). The thing that exists is marked with the particle が: 海がある (There is a sea), 人がいる (There is a person). が marks the subject — the thing being presented as new information. ない is the negative of ある: 家がない (There is no house).",
-    "examples": [
-      {
-        "japanese": "海 が ある！",
-        "gloss": "sea [SUBJ] exist",
-        "english": "There's a sea!"
-      },
-      {
-        "japanese": "島 が ある。",
-        "gloss": "island [SUBJ] exist",
-        "english": "There's an island."
-      },
-      {
-        "japanese": "人 が いない。",
-        "gloss": "person [SUBJ] not-exist",
-        "english": "Nobody is here."
-      }
-    ]
+    "explanation": "Two verbs for 'exists.' ある for things (海がある, 島がある, 家がある) and いる for living beings (人がいる, ぼくがいる).\n\nThe particle が marks what exists — the thing being presented.\n\nNotice ない: when ムーミン says 帽子がない, the hat is absent. ない is the opposite of ある.\n\nRe-read and sort every sentence: is it ある (thing) or いる (being)?"
   },
   "vocabulary": [
     {
       "word": "ぼく",
       "kanji": "僕",
       "reading": "ぼく",
-      "meaning": "I, me (male, casual)",
-      "example": "ぼく が いる。"
+      "meaning": "I, me (male, casual)"
     },
     {
       "word": "いえ",
       "kanji": "家",
       "reading": "いえ",
-      "meaning": "house, home",
-      "example": "家 が ある！"
+      "meaning": "house, home"
     },
     {
       "word": "しま",
       "kanji": "島",
       "reading": "しま",
-      "meaning": "island",
-      "example": "島 が ある。"
+      "meaning": "island"
     },
     {
       "word": "この",
       "kanji": "",
       "reading": "この",
-      "meaning": "this (before a noun)",
-      "example": "この 島！"
+      "meaning": "this (before a noun)"
     },
     {
       "word": "ない",
       "kanji": "無い",
       "reading": "ない",
-      "meaning": "not exist, there is no",
-      "example": "帽子 が ない！"
+      "meaning": "not exist, there is no"
     },
     {
       "word": "そう",
       "kanji": "",
       "reading": "そう",
-      "meaning": "so, that's right",
-      "example": "ない？そう、ない！"
+      "meaning": "so, that's right"
     },
     {
       "word": "ひと",
       "kanji": "人",
       "reading": "ひと",
-      "meaning": "person, people",
-      "example": "人 が いる！"
+      "meaning": "person, people"
     },
     {
       "word": "うみ",
       "kanji": "海",
       "reading": "うみ",
-      "meaning": "sea, ocean",
-      "example": "海 が ある！"
+      "meaning": "sea, ocean"
     }
-  ],
-  "storyNote": "Sandy shore of a small island reached by boat. Rocky outcrops to climb. Turquoise water, white sand, blue sky."
+  ]
 }

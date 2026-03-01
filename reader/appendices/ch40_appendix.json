@@ -1,78 +1,57 @@
 {
   "chapter": 40,
   "grammarNote": {
-    "title": "Nominalizers: の and こと",
-    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
-    "examples": [
-      {
-        "japanese": "夜 になった。",
-        "gloss": "night [to] became",
-        "english": "Night fell."
-      },
-      {
-        "japanese": "ここ は 静か だ。",
-        "gloss": "here [TOPIC] quiet [COP]",
-        "english": "It's quiet here."
-      }
-    ]
+    "title": "の and こと (continued)",
+    "explanation": "いじめるのはだめだ — bullying is wrong. 消えるのをみた — watched it disappear. 会うのが楽しみだね — meeting is something to look forward to.\n\nNotice のを again: 消えるのを — the disappearing, as something witnessed. The camera catches the moment.\n\nRe-read and separate: のは (judging), のが (feeling about), のを (observing)."
   },
   "vocabulary": [
     {
       "word": "苛める",
       "kanji": "苛める",
       "reading": "いじめる",
-      "meaning": "to bully, tease, torment",
-      "example": "いじめる の は だめ だ。"
+      "meaning": "to bully, tease, torment"
     },
     {
       "word": "消える",
       "kanji": "消える",
       "reading": "きえる",
-      "meaning": "to disappear, go out",
-      "example": "消える の を みた。"
+      "meaning": "to disappear, go out"
     },
     {
       "word": "静か",
       "kanji": "静か",
       "reading": "しずか",
-      "meaning": "quiet, calm, peaceful",
-      "example": "ここ は 静か だ。"
+      "meaning": "quiet, calm, peaceful"
     },
     {
       "word": "出でる",
       "kanji": "出でる",
       "reading": "いでる",
-      "meaning": "to come forth (literary)",
-      "example": ""
+      "meaning": "to come forth (literary)"
     },
     {
       "word": "会う",
       "kanji": "会う",
       "reading": "あう",
-      "meaning": "to meet, see (a person)",
-      "example": "会う の が 楽しみ だ ね。"
+      "meaning": "to meet, see (a person)"
     },
     {
       "word": "奥",
       "kanji": "奥",
       "reading": "おく",
-      "meaning": "interior, depths, back",
-      "example": "奥 に ある。"
+      "meaning": "interior, depths, back"
     },
     {
       "word": "おお",
       "kanji": "",
       "reading": "おお",
-      "meaning": "oh! (exclamation)",
-      "example": "おお、すごい。"
+      "meaning": "oh! (exclamation)"
     },
     {
       "word": "力",
       "kanji": "力",
       "reading": "ちから",
-      "meaning": "power, strength, force",
-      "example": "力 が ある。"
+      "meaning": "power, strength, force"
     }
-  ],
-  "storyNote": "Outside the Moomin house at night. Moonlight on the garden. Strange colored shadows from inside."
+  ]
 }

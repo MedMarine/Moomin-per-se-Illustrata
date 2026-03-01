@@ -1,78 +1,57 @@
 {
   "chapter": 39,
   "grammarNote": {
-    "title": "Nominalizers: の and こと",
-    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
-    "examples": [
-      {
-        "japanese": "設計 の 図 だ。",
-        "gloss": "design [of] drawing [COP]",
-        "english": "It's a design drawing."
-      },
-      {
-        "japanese": "帆 を 張る。",
-        "gloss": "sail [OBJ] put-up",
-        "english": "[We] put up the sail."
-      }
-    ]
+    "title": "の and こと (continued)",
+    "explanation": "Multiple の-judgments in one chapter: 急ぐのはだめだ — hurrying is bad. 濡れるのはいやだ — getting wet is unpleasant. 感じるのがいいね — feeling is nice. 上陸するのはいい — landing is good.\n\nNotice how they stack: each packages a different experience and attaches a verdict.\n\nRe-read and count: how many のは/のが sentences appear?"
   },
   "vocabulary": [
     {
       "word": "設計",
       "kanji": "設計",
       "reading": "せっけい",
-      "meaning": "design, plan, blueprint",
-      "example": "設計 を みた。"
+      "meaning": "design, plan, blueprint"
     },
     {
       "word": "図",
       "kanji": "図",
       "reading": "ず",
-      "meaning": "drawing, diagram, map",
-      "example": "設計 の 図 だ。"
+      "meaning": "drawing, diagram, map"
     },
     {
       "word": "急ぐ",
       "kanji": "急ぐ",
       "reading": "いそぐ",
-      "meaning": "to hurry, rush",
-      "example": "急ぐ の は だめ だ。"
+      "meaning": "to hurry, rush"
     },
     {
       "word": "帆",
       "kanji": "帆",
       "reading": "ほ",
-      "meaning": "sail",
-      "example": "帆 を 張った。"
+      "meaning": "sail"
     },
     {
       "word": "上陸",
       "kanji": "上陸",
       "reading": "じょうりく",
-      "meaning": "landing, going ashore",
-      "example": "上陸 した。"
+      "meaning": "landing, going ashore"
     },
     {
       "word": "濡れる",
       "kanji": "濡れる",
       "reading": "ぬれる",
-      "meaning": "to get wet",
-      "example": "濡れる の は いや だ。"
+      "meaning": "to get wet"
     },
     {
       "word": "感じる",
       "kanji": "感じる",
       "reading": "かんじる",
-      "meaning": "to feel, sense",
-      "example": "感じる の が いい ね。"
+      "meaning": "to feel, sense"
     },
     {
       "word": "たくさん",
       "kanji": "沢山",
       "reading": "たくさん",
-      "meaning": "many, a lot, plenty",
-      "example": "波 が たくさん ある。"
+      "meaning": "many, a lot, plenty"
     }
-  ],
-  "storyNote": "Open sea in rain. The boat pitches on grey waves. A makeshift sail strains in the wind."
+  ]
 }

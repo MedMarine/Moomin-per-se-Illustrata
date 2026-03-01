@@ -1,78 +1,57 @@
 {
   "chapter": 21,
   "grammarNote": {
-    "title": "Quotation: という and とおもう",
-    "explanation": "と marks quoted speech or thought. Direct quotes: 「変だ！」とムーミンが言った ('It's strange!' said Moomintroll). という (to say/called): 変なものという (a thing called something strange). とおもう (to think): いいとおもう (I think it's good). と can quote any clause — it's how Japanese embeds one sentence inside another.",
-    "examples": [
-      {
-        "japanese": "「変 だ！」と ムーミン が 言った。",
-        "gloss": "\"strange [COP]!\" [QUOT] Moomintroll [SUBJ] said",
-        "english": "\"It's strange!\" said Moomintroll."
-      },
-      {
-        "japanese": "変 な もの が ある！",
-        "gloss": "strange [ADJ] thing [SUBJ] exist!",
-        "english": "There's a strange thing!"
-      }
-    ]
+    "title": "Quotation: と",
+    "explanation": "と marks where someone's words end. 「変だ！」とムーミンが言った — everything before と is what was said.\n\nThe pattern: [words] + と + [verb of speaking]. This works with 言う, 呼ぶ, and other communication verbs. 「ここにきて！」と呼んだ — called out (saying) 'come here!'\n\nRe-read and find every と. What words does it wrap up each time?"
   },
   "vocabulary": [
     {
       "word": "いう",
       "kanji": "言う",
       "reading": "いう",
-      "meaning": "to say, tell",
-      "example": "「変 だ ね」 と ママ が 言う。"
+      "meaning": "to say, tell"
     },
     {
       "word": "いれる",
       "kanji": "入れる",
       "reading": "いれる",
-      "meaning": "to put in, insert",
-      "example": "これ を 部屋 に 入れる。"
+      "meaning": "to put in, insert"
     },
     {
       "word": "部屋",
       "kanji": "部屋",
       "reading": "へや",
-      "meaning": "room",
-      "example": "これ を 部屋 に 入れる。"
+      "meaning": "room"
     },
     {
       "word": "見せる",
       "kanji": "見せる",
       "reading": "みせる",
-      "meaning": "to show",
-      "example": ""
+      "meaning": "to show"
     },
     {
       "word": "よぶ",
       "kanji": "呼ぶ",
       "reading": "よぶ",
-      "meaning": "to call, summon",
-      "example": "みんな を 呼ぶ！"
+      "meaning": "to call, summon"
     },
     {
       "word": "いつ",
       "kanji": "",
       "reading": "いつ",
-      "meaning": "when",
-      "example": "いつ ここ に きた？"
+      "meaning": "when"
     },
     {
       "word": "海岸",
       "kanji": "海岸",
       "reading": "かいがん",
-      "meaning": "coast, seashore",
-      "example": "海岸 へ いく。"
+      "meaning": "coast, seashore"
     },
     {
       "word": "変",
       "kanji": "変",
       "reading": "へん",
-      "meaning": "strange, weird, odd",
-      "example": "変 な もの が ある！"
+      "meaning": "strange, weird, odd"
     }
-  ],
-  "storyNote": "Sandy shore near the sea. Shells scattered on the beach. Waves. Mountains visible in the background. A dark silhouette (the Groke) far away."
+  ]
 }

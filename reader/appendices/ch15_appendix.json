@@ -2,82 +2,56 @@
   "chapter": 15,
   "grammarNote": {
     "title": "Negation: ない and じゃない",
-    "explanation": "ない negates existence (ある → ない: there isn't) and also forms the negative of い-adjectives (楽しい → 楽しくない: not fun). For nouns and な-adjectives, use じゃない: ひとりじゃない (not alone), だいじょうぶじゃない (not okay). いない is the negative of いる: だれもいない (nobody is here). Past negative: なかった (there wasn't / it wasn't).",
-    "examples": [
-      {
-        "japanese": "ひとり で いる。",
-        "gloss": "alone [by] exist",
-        "english": "[I'm] alone."
-      },
-      {
-        "japanese": "みんな は いない。",
-        "gloss": "everyone [TOPIC] not-exist",
-        "english": "Everyone is gone. (いない = negative of いる)"
-      },
-      {
-        "japanese": "いっしょ じゃない。",
-        "gloss": "together not-be",
-        "english": "[We're] not together. (じゃない = negative copula)"
-      }
-    ]
+    "explanation": "This chapter is full of absence. みんなはいない — いない negates いる. なにもない — も + ない = 'not even anything.'\n\nじゃない negates nouns: いっしょじゃない — not together. ひとりじゃない — not alone.\n\nない behaves like an い-adjective: 怖いことはないよ — there is no scary thing. It slots into the same positions.\n\nRe-read and count every negation. Which uses ない, which uses じゃない?"
   },
   "vocabulary": [
     {
       "word": "いっしょ",
       "kanji": "一緒",
       "reading": "いっしょ",
-      "meaning": "together",
-      "example": "いっしょ じゃない。"
+      "meaning": "together"
     },
     {
       "word": "ひとり",
       "kanji": "一人",
       "reading": "ひとり",
-      "meaning": "alone, one person",
-      "example": "ひとり で いる。"
+      "meaning": "alone, one person"
     },
     {
       "word": "自分",
       "kanji": "自分",
       "reading": "じぶん",
-      "meaning": "oneself, myself",
-      "example": "自分 で みる。"
+      "meaning": "oneself, myself"
     },
     {
       "word": "えー",
       "kanji": "",
       "reading": "えー",
-      "meaning": "eh? what? (surprise/disbelief)",
-      "example": "えー、だれ も いない？"
+      "meaning": "eh? what? (surprise/disbelief)"
     },
     {
       "word": "怖い",
       "kanji": "怖い",
       "reading": "こわい",
-      "meaning": "scary, frightening",
-      "example": "怖い！"
+      "meaning": "scary, frightening"
     },
     {
       "word": "やっぱり",
       "kanji": "",
       "reading": "やっぱり",
-      "meaning": "as expected, after all, I knew it",
-      "example": "でも、やっぱり いっしょ が いい。"
+      "meaning": "as expected, after all, I knew it"
     },
     {
       "word": "ほう",
       "kanji": "方",
       "reading": "ほう",
-      "meaning": "direction, side; alternative",
-      "example": "山 の ほう から きた。"
+      "meaning": "direction, side; alternative"
     },
     {
       "word": "落ちる",
       "kanji": "落ちる",
       "reading": "おちる",
-      "meaning": "to fall, drop",
-      "example": ""
+      "meaning": "to fall, drop"
     }
-  ],
-  "storyNote": "Inside the Moomin house at night. Warm firelight. Characters settling down for the evening. Food on the table. Cozy, safe atmosphere."
+  ]
 }

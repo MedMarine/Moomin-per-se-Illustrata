@@ -1,78 +1,57 @@
 {
   "chapter": 36,
   "grammarNote": {
-    "title": "Nominalizers: の and こと",
-    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
-    "examples": [
-      {
-        "japanese": "ママ は 優しい。",
-        "gloss": "Mama [TOPIC] kind",
-        "english": "Mama is kind."
-      },
-      {
-        "japanese": "夫婦 の 話 を きいた。",
-        "gloss": "couple [of] story [OBJ] listened",
-        "english": "[We] listened to the couple's story."
-      }
-    ]
+    "title": "の and こと (continued)",
+    "explanation": "聞き出すのは悪い — prying is bad. はなすのが楽しいね — talking is fun.\n\nThis chapter's の sentences judge social behaviors: listening too hard (悪い), talking (楽しい). The pattern lets characters discuss whether actions are acceptable.\n\nRe-read and find: what behaviors are being judged?"
   },
   "vocabulary": [
     {
       "word": "聞き出す",
       "kanji": "聞き出す",
       "reading": "ききだす",
-      "meaning": "to find out by asking",
-      "example": "秘密 を 聞き出す。"
+      "meaning": "to find out by asking"
     },
     {
       "word": "優しい",
       "kanji": "優しい",
       "reading": "やさしい",
-      "meaning": "kind, gentle, tender",
-      "example": "あの 夫婦 は 優しい。"
+      "meaning": "kind, gentle, tender"
     },
     {
       "word": "中身",
       "kanji": "中身",
       "reading": "なかみ",
-      "meaning": "contents, substance",
-      "example": "中身 が ない。"
+      "meaning": "contents, substance"
     },
     {
       "word": "邪魔",
       "kanji": "邪魔",
       "reading": "じゃま",
-      "meaning": "hindrance, in the way, nuisance",
-      "example": "邪魔 だ！"
+      "meaning": "hindrance, in the way, nuisance"
     },
     {
       "word": "気持ち",
       "kanji": "気持ち",
       "reading": "きもち",
-      "meaning": "feeling, mood, sensation",
-      "example": "気持ち が いい ね。"
+      "meaning": "feeling, mood, sensation"
     },
     {
       "word": "えーと",
       "kanji": "",
       "reading": "えーと",
-      "meaning": "um, let me see, well",
-      "example": "えーと、なに だった？"
+      "meaning": "um, let me see, well"
     },
     {
       "word": "夫婦",
       "kanji": "夫婦",
       "reading": "ふうふ",
-      "meaning": "married couple, husband and wife",
-      "example": "夫婦 が きた。"
+      "meaning": "married couple, husband and wife"
     },
     {
       "word": "はなす",
       "kanji": "話す",
       "reading": "はなす",
-      "meaning": "to speak, talk",
-      "example": "はなす の が 楽しい ね。"
+      "meaning": "to speak, talk"
     }
-  ],
-  "storyNote": "The cozy Moomin house living room. Tea and cakes on the table. Warm lamplight, sociable atmosphere."
+  ]
 }

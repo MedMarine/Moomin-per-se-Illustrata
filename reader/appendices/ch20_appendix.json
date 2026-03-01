@@ -1,78 +1,57 @@
 {
   "chapter": 20,
   "grammarNote": {
-    "title": "Giving and Receiving: あげる, もらう, くれる",
-    "explanation": "Japanese has three verbs for giving/receiving that encode social perspective. あげる: I/someone gives (away from speaker). くれる: someone gives (to speaker/speaker's group — a favor to me). もらう: I/someone receives. These often attach to て-form verbs: 書いてくれる (writes for me), 書いてもらう (I get someone to write). The choice reflects how the speaker views the social relationship.",
-    "examples": [
-      {
-        "japanese": "起きた！",
-        "gloss": "woke-up!",
-        "english": "[I] woke up!"
-      },
-      {
-        "japanese": "さっき 雨 が きた。",
-        "gloss": "a-while-ago rain [SUBJ] came",
-        "english": "Rain came a while ago."
-      }
-    ]
+    "title": "Giving and Receiving",
+    "explanation": "Three verbs for the same exchange, each from a different angle.\n\n姉に書いてあげる — writing (as a favor) FOR the sister. The action flows away from the speaker.\n\n姉が書いてくれた — the sister wrote (as a favor) FOR ME. The action flows toward the speaker.\n\n姉にもらった — received from the sister.\n\nSame act, three camera angles. Re-read and determine: which direction does the favor flow in each sentence?"
   },
   "vocabulary": [
     {
       "word": "おきる",
       "kanji": "起きる",
       "reading": "おきる",
-      "meaning": "to wake up, get up",
-      "example": ""
+      "meaning": "to wake up, get up"
     },
     {
       "word": "さっき",
       "kanji": "",
       "reading": "さっき",
-      "meaning": "a while ago, just now",
-      "example": "さっき 雨 が きた。"
+      "meaning": "a while ago, just now"
     },
     {
       "word": "まあ",
       "kanji": "",
       "reading": "まあ",
-      "meaning": "well, oh my, I suppose",
-      "example": "まあ いい。"
+      "meaning": "well, oh my, I suppose"
     },
     {
       "word": "かくれんぼ",
       "kanji": "隠れん坊",
       "reading": "かくれんぼ",
-      "meaning": "hide-and-seek",
-      "example": "かくれんぼ を する。"
+      "meaning": "hide-and-seek"
     },
     {
       "word": "雨",
       "kanji": "雨",
       "reading": "あめ",
-      "meaning": "rain",
-      "example": "さっき 雨 が きた。"
+      "meaning": "rain"
     },
     {
       "word": "気圧",
       "kanji": "気圧",
       "reading": "きあつ",
-      "meaning": "atmospheric pressure",
-      "example": "気圧 が 変わった ね。"
+      "meaning": "atmospheric pressure"
     },
     {
       "word": "姉",
       "kanji": "姉",
       "reading": "あね",
-      "meaning": "older sister",
-      "example": "姉 が きた！"
+      "meaning": "older sister"
     },
     {
       "word": "書く",
       "kanji": "書く",
       "reading": "かく",
-      "meaning": "to write",
-      "example": "書く よ。"
+      "meaning": "to write"
     }
-  ],
-  "storyNote": "Rocky coastline with tide pools and a small cave. Characters exploring the shore. Shells scattered. Waves in the background."
+  ]
 }

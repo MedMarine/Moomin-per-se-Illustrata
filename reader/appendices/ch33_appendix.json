@@ -1,78 +1,57 @@
 {
   "chapter": 33,
   "grammarNote": {
-    "title": "Nominalizers: の and こと",
-    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
-    "examples": [
-      {
-        "japanese": "場所 を さがす。",
-        "gloss": "place [OBJ] search",
-        "english": "[I] search for a place."
-      },
-      {
-        "japanese": "山 を 上った。",
-        "gloss": "mountain [OBJ] climbed",
-        "english": "[We] climbed the mountain."
-      }
-    ]
+    "title": "の and こと (continued)",
+    "explanation": "上るのは怖い — climbing is scary. 住むのがいいね — living here is nice. The same structure as before.\n\nNotice a new use of と: 「実を言うと…」— 'if I speak the truth...' This is quotation と applied to a general statement, not just direct speech.\n\nRe-read and watch for both の-nominalizations and uses of と."
   },
   "vocabulary": [
     {
       "word": "場所",
       "kanji": "場所",
       "reading": "ばしょ",
-      "meaning": "place, location",
-      "example": "場所 を さがす。"
+      "meaning": "place, location"
     },
     {
       "word": "上る",
       "kanji": "上る",
       "reading": "のぼる",
-      "meaning": "to climb, go up",
-      "example": "上る の は 怖い。"
+      "meaning": "to climb, go up"
     },
     {
       "word": "王",
       "kanji": "王",
       "reading": "おう",
-      "meaning": "king",
-      "example": "ここ に 王 が いた かもしれない。"
+      "meaning": "king"
     },
     {
       "word": "客",
       "kanji": "客",
       "reading": "きゃく",
-      "meaning": "guest, visitor, customer",
-      "example": "客 が きた かもしれない。"
+      "meaning": "guest, visitor, customer"
     },
     {
       "word": "別",
       "kanji": "別",
       "reading": "べつ",
-      "meaning": "separate, different, another",
-      "example": "別 の もの だ。"
+      "meaning": "separate, different, another"
     },
     {
       "word": "辺",
       "kanji": "辺",
       "reading": "へん",
-      "meaning": "area, vicinity, around",
-      "example": "この 辺 に ある。"
+      "meaning": "area, vicinity, around"
     },
     {
       "word": "すむ",
       "kanji": "住む",
       "reading": "すむ",
-      "meaning": "to live, reside",
-      "example": "だれ が ここ に 住む？"
+      "meaning": "to live, reside"
     },
     {
       "word": "実",
       "kanji": "実",
       "reading": "じつ",
-      "meaning": "truth, actually, reality",
-      "example": "実 は ちがう。"
+      "meaning": "truth, actually, reality"
     }
-  ],
-  "storyNote": "Dark cave entrance in a grassy hillside. Inside: damp walls with black tar streaks. Light filters in from the entrance."
+  ]
 }

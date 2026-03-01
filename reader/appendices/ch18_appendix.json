@@ -2,77 +2,56 @@
   "chapter": 18,
   "grammarNote": {
     "title": "ている: Ongoing States",
-    "explanation": "Verb て-form + いる describes an ongoing state or action in progress. 動いている (is moving), 隠れている (is hiding). Unlike English '-ing,' ている often describes a resulting state: 知っている means 'knows' (the state of having learned), not 'is knowing.' Shortened in casual speech: 動いてる.",
-    "examples": [
-      {
-        "japanese": "スラン が いる！",
-        "gloss": "Thingumy [SUBJ] exist!",
-        "english": "Thingumy is here!"
-      },
-      {
-        "japanese": "この 植物 は おおきい ね。",
-        "gloss": "this plant [TOPIC] big [CONF]",
-        "english": "This plant is big, isn't it."
-      }
-    ]
+    "explanation": "て-form + いる describes a state. It has two faces.\n\nThe Rolling Camera — action in progress. When ムーミン says 動いている, look at the illustration: the plant is actively curling. The camera catches an action mid-way.\n\nThe Aftermath — result still visible. 茸が落ちている — the mushroom is not falling now. It already fell, and there it sits. The camera shows what remains after a change.\n\n変わっている — this place HAS changed (and still shows it). Re-read and sort: is each ている a rolling camera or an aftermath?"
   },
   "vocabulary": [
     {
       "word": "動く",
       "kanji": "動く",
       "reading": "うごく",
-      "meaning": "to move",
-      "example": "ほら、すぐ 動く よ。"
+      "meaning": "to move"
     },
     {
       "word": "えっ",
       "kanji": "",
       "reading": "えっ",
-      "meaning": "huh? what? (mild surprise)",
-      "example": "えっ、動いている！"
+      "meaning": "huh? what? (mild surprise)"
     },
     {
       "word": "茸",
       "kanji": "茸",
       "reading": "きのこ",
-      "meaning": "mushroom",
-      "example": "茸 が ある よ。"
+      "meaning": "mushroom"
     },
     {
       "word": "スラン",
       "kanji": "",
       "reading": "スラン",
-      "meaning": "Thingumy (a small shy character)",
-      "example": "スラン が いる！"
+      "meaning": "Thingumy (a small shy character)"
     },
     {
       "word": "面白い",
       "kanji": "面白い",
       "reading": "おもしろい",
-      "meaning": "interesting, amusing, funny",
-      "example": "面白い 植物 だ。"
+      "meaning": "interesting, amusing, funny"
     },
     {
       "word": "すぐ",
       "kanji": "",
       "reading": "すぐ",
-      "meaning": "immediately, right away",
-      "example": "すぐ みて！"
+      "meaning": "immediately, right away"
     },
     {
       "word": "確か",
       "kanji": "確か",
       "reading": "たしか",
-      "meaning": "certain, sure; if I remember right",
-      "example": "確か に スラン だ ね。"
+      "meaning": "certain, sure; if I remember right"
     },
     {
       "word": "植物",
       "kanji": "植物",
       "reading": "しょくぶつ",
-      "meaning": "plant, vegetation",
-      "example": "この 植物 は おおきい ね。"
+      "meaning": "plant, vegetation"
     }
-  ],
-  "storyNote": "The riverbank with lush plants growing along the water. Shallow pools, holes in the muddy bank."
+  ]
 }

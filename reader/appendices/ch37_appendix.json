@@ -1,78 +1,57 @@
 {
   "chapter": 37,
   "grammarNote": {
-    "title": "Nominalizers: の and こと",
-    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
-    "examples": [
-      {
-        "japanese": "あら、大事 な こと だ。",
-        "gloss": "oh-my, important [ADJ] thing [COP]",
-        "english": "Oh my, it's an important matter."
-      },
-      {
-        "japanese": "ちいさな 波 だ。",
-        "gloss": "small wave [COP]",
-        "english": "It's a small wave."
-      }
-    ]
+    "title": "の and こと (continued)",
+    "explanation": "痛いのはいやだね — being in pain is unpleasant. Here の nominalizes an adjective-like state, not just a verb action.\n\n大事なこと — an important matter. こと also works with な-adjectives to name abstract concepts.\n\nRe-read and notice: does の/こと package an action or a state?"
   },
   "vocabulary": [
     {
       "word": "あら",
       "kanji": "",
       "reading": "あら",
-      "meaning": "oh my, oh dear (feminine exclamation)",
-      "example": "あら、みんな が きた。"
+      "meaning": "oh my, oh dear (feminine exclamation)"
     },
     {
       "word": "波",
       "kanji": "波",
       "reading": "なみ",
-      "meaning": "wave",
-      "example": "波 が きた。"
+      "meaning": "wave"
     },
     {
       "word": "済む",
       "kanji": "済む",
       "reading": "すむ",
-      "meaning": "to be finished, be settled",
-      "example": "済む まで まつ。"
+      "meaning": "to be finished, be settled"
     },
     {
       "word": "洞穴",
       "kanji": "洞穴",
       "reading": "ほらあな",
-      "meaning": "cave, cavern",
-      "example": "あの 洞穴 は 危ない。"
+      "meaning": "cave, cavern"
     },
     {
       "word": "女王",
       "kanji": "女王",
       "reading": "じょおう",
-      "meaning": "queen",
-      "example": "女王 が いた かもしれない。"
+      "meaning": "queen"
     },
     {
       "word": "大事",
       "kanji": "大事",
       "reading": "だいじ",
-      "meaning": "important, precious",
-      "example": "あら、大事 な こと だ。"
+      "meaning": "important, precious"
     },
     {
       "word": "ちいさな",
       "kanji": "小さな",
       "reading": "ちいさな",
-      "meaning": "small, little (prenominal)",
-      "example": "ちいさな 波 だ。"
+      "meaning": "small, little (prenominal)"
     },
     {
       "word": "痛い",
       "kanji": "痛い",
       "reading": "いたい",
-      "meaning": "painful, hurts",
-      "example": "手 が 痛い。"
+      "meaning": "painful, hurts"
     }
-  ],
-  "storyNote": "Quiet afternoon in the Moomin house. Tea set on the table, steam rising from cups."
+  ]
 }

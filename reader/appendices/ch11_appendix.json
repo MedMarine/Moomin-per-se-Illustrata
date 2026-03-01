@@ -1,78 +1,57 @@
 {
   "chapter": 11,
   "grammarNote": {
-    "title": "Sentence-Final Particles: ね and よ",
-    "explanation": "ね and よ appear at the end of sentences and convey the speaker's attitude. ね seeks agreement or confirmation (like English 'right?' or 'isn't it?'): 楽しいね (Fun, isn't it?). よ asserts information the listener may not know, adding emphasis: あそぶよ！ (We're playing! / Let's play!). These particles make speech sound natural and are extremely common.",
-    "examples": [
-      {
-        "japanese": "あそぶ よ！",
-        "gloss": "play [EMPH]!",
-        "english": "Let's play! (よ = emphasis)"
-      },
-      {
-        "japanese": "ニンニ さん も あそぶ ね。",
-        "gloss": "Ninny [HON] also play [CONF]",
-        "english": "Ninny plays too, right? (ね = confirmation)"
-      }
-    ]
+    "title": "Sentence Particles: ね and よ",
+    "explanation": "Notice the feel of each sentence ending. あそぶよ！ — よ pushes information outward (announcing). ニンニさんもあそぶね — ね pulls the listener in (seeking agreement).\n\nThe same words change energy with different particles. よ says 'know this!' ね says 'right?'\n\nRe-read and feel the difference: which sentences announce and which ones invite?"
   },
   "vocabulary": [
     {
       "word": "こと",
       "kanji": "事",
       "reading": "こと",
-      "meaning": "thing, matter (abstract)",
-      "example": "いい こと だ。"
+      "meaning": "thing, matter (abstract)"
     },
     {
       "word": "さん",
       "kanji": "",
       "reading": "さん",
-      "meaning": "Mr., Ms., Mrs. (honorific)",
-      "example": "スニフ さん！"
+      "meaning": "Mr., Ms., Mrs. (honorific)"
     },
     {
       "word": "よう",
       "kanji": "様",
       "reading": "よう",
-      "meaning": "manner, appearance, seeming",
-      "example": "よう が 変わった！"
+      "meaning": "manner, appearance, seeming"
     },
     {
       "word": "なか",
       "kanji": "中",
       "reading": "なか",
-      "meaning": "inside, middle",
-      "example": "木 の なか に いる か？"
+      "meaning": "inside, middle"
     },
     {
       "word": "はやい",
       "kanji": "早い",
       "reading": "はやい",
-      "meaning": "early, fast, quick",
-      "example": "はやい！"
+      "meaning": "early, fast, quick"
     },
     {
       "word": "目",
       "kanji": "目",
       "reading": "め",
-      "meaning": "eye; ordinal suffix",
-      "example": "ほら、目！"
+      "meaning": "eye; ordinal suffix"
     },
     {
       "word": "変わる",
       "kanji": "変わる",
       "reading": "かわる",
-      "meaning": "to change",
-      "example": "なに が 変わる？"
+      "meaning": "to change"
     },
     {
       "word": "あそぶ",
       "kanji": "遊ぶ",
       "reading": "あそぶ",
-      "meaning": "to play, have fun",
-      "example": "今日 は みんな で あそぶ。"
+      "meaning": "to play, have fun"
     }
-  ],
-  "storyNote": "Moomin house and garden on a warm afternoon. Characters playing hide-and-seek. Trees, bushes, and the house provide hiding spots. Mimura is visiting."
+  ]
 }

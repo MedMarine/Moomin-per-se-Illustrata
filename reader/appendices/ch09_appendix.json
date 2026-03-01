@@ -1,78 +1,57 @@
 {
   "chapter": 9,
   "grammarNote": {
-    "title": "Transitive Actions with を",
-    "explanation": "The particle を (pronounced 'o') marks the direct object — the thing being acted upon. With transitive verbs (verbs that take an object), the pattern is: [object]を[verb]. Examples: 船をつくる (make a boat), 話をきく (listen to a story), なにをたべる？ (What will [you] eat?). Japanese often drops the subject, so 食べる can mean 'I eat,' 'you eat,' or 'we eat' depending on context.",
-    "examples": [
-      {
-        "japanese": "なに を たべる？",
-        "gloss": "what [OBJ] eat?",
-        "english": "What shall [we] eat?"
-      },
-      {
-        "japanese": "パパ の 話 を きく。",
-        "gloss": "Papa [of] story [OBJ] listen",
-        "english": "[We] listen to Papa's story."
-      }
-    ]
+    "title": "Transitive Actions: を",
+    "explanation": "を marks what is being acted upon. なにをたべる？ — 'what' is the thing being eaten. パパの話をきく — the story gets listened to. あれをみる — that thing gets looked at.\n\nLook at the illustrations: the thing marked by を is what is being physically handled, consumed, or attended to.\n\nRe-read and find every を. What is being acted on each time?"
   },
   "vocabulary": [
     {
       "word": "ちょっと",
       "kanji": "",
       "reading": "ちょっと",
-      "meaning": "a little, a moment; hey",
-      "example": "ちょっと たべる。"
+      "meaning": "a little, a moment; hey"
     },
     {
       "word": "話",
       "kanji": "話",
       "reading": "はなし",
-      "meaning": "story, talk, conversation",
-      "example": "パパ の 話 を きく。"
+      "meaning": "story, talk, conversation"
     },
     {
       "word": "ほら",
       "kanji": "",
       "reading": "ほら",
-      "meaning": "look!, see! (drawing attention)",
-      "example": "ほら！あの すがた！"
+      "meaning": "look!, see! (drawing attention)"
     },
     {
       "word": "奴",
       "kanji": "奴",
       "reading": "やつ",
-      "meaning": "guy, fellow (rough/casual)",
-      "example": "あの 奴 は だれ だ？"
+      "meaning": "guy, fellow (rough/casual)"
     },
     {
       "word": "きっと",
       "kanji": "",
       "reading": "きっと",
-      "meaning": "surely, certainly",
-      "example": "きっと ほんとう だ。"
+      "meaning": "surely, certainly"
     },
     {
       "word": "だいじょうぶ",
       "kanji": "大丈夫",
       "reading": "だいじょうぶ",
-      "meaning": "okay, alright, no problem",
-      "example": "だいじょうぶ だ よ。"
+      "meaning": "okay, alright, no problem"
     },
     {
       "word": "すがた",
       "kanji": "姿",
       "reading": "すがた",
-      "meaning": "figure, form, appearance",
-      "example": "ほら！あの すがた！"
+      "meaning": "figure, form, appearance"
     },
     {
       "word": "そんな",
       "kanji": "",
       "reading": "そんな",
-      "meaning": "such, that kind of",
-      "example": "そんな 奴 は ない。"
+      "meaning": "such, that kind of"
     }
-  ],
-  "storyNote": "A clearing near the forest with a pitched tent. Campfire remnants. Backpacks and supplies. Moonlight through trees."
+  ]
 }

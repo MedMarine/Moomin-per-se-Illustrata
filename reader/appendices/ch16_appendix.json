@@ -1,78 +1,57 @@
 {
   "chapter": 16,
   "grammarNote": {
-    "title": "て-Form: Connecting and Requesting",
-    "explanation": "The て-form is one of the most versatile verb forms. It connects sequential actions: 見て、きく (look and listen). It also makes polite requests: 見せて (show [me], please). Formation varies by verb ending — this is a pattern you'll internalize through exposure. Common て-forms: いく→いって, くる→きて, みる→みて, する→して, たべる→たべて.",
-    "examples": [
-      {
-        "japanese": "風 が きた！",
-        "gloss": "wind [SUBJ] came!",
-        "english": "The wind came!"
-      },
-      {
-        "japanese": "風 の なか に いる。",
-        "gloss": "wind [of] inside [at] exist",
-        "english": "[We're] in the wind."
-      }
-    ]
+    "title": "て-Form: Linking and Requesting",
+    "explanation": "The て-form links actions or makes requests. こちらにきて！ — a request to come here. おりてきて！ — two actions chained: descend, then come.\n\n飛行をみて、あそこへいく — look at the flight, then go there. て connects what happens first to what follows.\n\nNotice: きて is a request (come!), きた is past (came). The て-form is open-ended, pointing to what comes next.\n\nRe-read and find every て. Is it linking actions or making a request?"
   },
   "vocabulary": [
     {
       "word": "飛行",
       "kanji": "飛行",
       "reading": "ひこう",
-      "meaning": "flight, flying",
-      "example": "飛行 が 見えた！"
+      "meaning": "flight, flying"
     },
     {
       "word": "はい",
       "kanji": "",
       "reading": "はい",
-      "meaning": "yes (polite)",
-      "example": "はい！"
+      "meaning": "yes (polite)"
     },
     {
       "word": "風",
       "kanji": "風",
       "reading": "かぜ",
-      "meaning": "wind",
-      "example": "風 が きた！"
+      "meaning": "wind"
     },
     {
       "word": "日",
       "kanji": "日",
       "reading": "ひ",
-      "meaning": "day, sun",
-      "example": "いい 日 だ ね。"
+      "meaning": "day, sun"
     },
     {
       "word": "あいつ",
       "kanji": "",
       "reading": "あいつ",
-      "meaning": "that guy (rough, casual)",
-      "example": "あいつ は だれ？"
+      "meaning": "that guy (rough, casual)"
     },
     {
       "word": "手",
       "kanji": "手",
       "reading": "て",
-      "meaning": "hand",
-      "example": "この 手 を みて！"
+      "meaning": "hand"
     },
     {
       "word": "こちら",
       "kanji": "",
       "reading": "こちら",
-      "meaning": "this way, here (polite)",
-      "example": "こちら に きて！"
+      "meaning": "this way, here (polite)"
     },
     {
       "word": "おりる",
       "kanji": "降りる",
       "reading": "おりる",
-      "meaning": "to get off, descend",
-      "example": "おりる！"
+      "meaning": "to get off, descend"
     }
-  ],
-  "storyNote": "Hilltop overlooking the valley on a windy day. Leaves and petals blowing through the air. Bright sky, clouds moving fast."
+  ]
 }

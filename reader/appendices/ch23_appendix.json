@@ -2,77 +2,56 @@
   "chapter": 23,
   "grammarNote": {
     "title": "Relative Clauses",
-    "explanation": "In Japanese, a modifying clause comes BEFORE the noun it describes (the opposite of English). Instead of 'the storm that came,' Japanese says きた嵐 (came-storm). Any verb phrase can modify a noun this way: 飛んだ帽子 (the hat that flew), 忘れたもの (the thing [I] forgot). There is no relative pronoun like 'that' or 'which' — the clause simply sits in front of the noun.",
-    "examples": [
-      {
-        "japanese": "嵐 が きた！",
-        "gloss": "storm [SUBJ] came!",
-        "english": "A storm came!"
-      },
-      {
-        "japanese": "帽子 が 飛んだ！",
-        "gloss": "hat [SUBJ] flew!",
-        "english": "The hat flew [away]!"
-      }
-    ]
+    "explanation": "A whole phrase can sit before a noun to describe it. 前にみた嵐 — the storm [that was] seen before. The phrase 前にみた sits directly in front of 嵐.\n\n忘れたもの — the thing [that was] forgotten. 上に飛んだものをみた — saw the thing that flew up.\n\nNo connecting word needed — the modifier simply precedes the noun.\n\nRe-read and find every [verb]た + [noun] pair."
   },
   "vocabulary": [
     {
       "word": "どんな",
       "kanji": "",
       "reading": "どんな",
-      "meaning": "what kind of",
-      "example": "これ は どんな 嵐？"
+      "meaning": "what kind of"
     },
     {
       "word": "上",
       "kanji": "上",
       "reading": "うえ",
-      "meaning": "top, above, on",
-      "example": "上 に 飛んだ。"
+      "meaning": "top, above, on"
     },
     {
       "word": "嵐",
       "kanji": "嵐",
       "reading": "あらし",
-      "meaning": "storm, tempest",
-      "example": "嵐 が きた！"
+      "meaning": "storm, tempest"
     },
     {
       "word": "すごい",
       "kanji": "凄い",
       "reading": "すごい",
-      "meaning": "amazing, incredible, terrible",
-      "example": "すごい 嵐 だ！"
+      "meaning": "amazing, incredible, terrible"
     },
     {
       "word": "とぶ",
       "kanji": "飛ぶ",
       "reading": "とぶ",
-      "meaning": "to fly, jump",
-      "example": "もの が 飛ぶ ね。"
+      "meaning": "to fly, jump"
     },
     {
       "word": "前",
       "kanji": "前",
       "reading": "まえ",
-      "meaning": "before, front, previous",
-      "example": "前 に こんな もの は なかった。"
+      "meaning": "before, front, previous"
     },
     {
       "word": "忘れる",
       "kanji": "忘れる",
       "reading": "わすれる",
-      "meaning": "to forget",
-      "example": ""
+      "meaning": "to forget"
     },
     {
       "word": "あと",
       "kanji": "後",
       "reading": "あと",
-      "meaning": "after, behind, later",
-      "example": "あと で みる。"
+      "meaning": "after, behind, later"
     }
-  ],
-  "storyNote": "Dark clouds rolling in over the valley. Wind picking up. Characters looking up at the sky. Trees bending."
+  ]
 }

@@ -1,78 +1,57 @@
 {
   "chapter": 24,
   "grammarNote": {
-    "title": "Relative Clauses",
-    "explanation": "In Japanese, a modifying clause comes BEFORE the noun it describes (the opposite of English). Instead of 'the storm that came,' Japanese says きた嵐 (came-storm). Any verb phrase can modify a noun this way: 飛んだ帽子 (the hat that flew), 忘れたもの (the thing [I] forgot). There is no relative pronoun like 'that' or 'which' — the clause simply sits in front of the noun.",
-    "examples": [
-      {
-        "japanese": "テント に いる。",
-        "gloss": "tent [at] exist",
-        "english": "[We're] in the tent."
-      },
-      {
-        "japanese": "足 に 薬 を つけた。",
-        "gloss": "leg [on] medicine [OBJ] applied",
-        "english": "[I] applied medicine to the leg."
-      }
-    ]
+    "title": "Relative Clauses (continued)",
+    "explanation": "More noun modification. 嵐のあとのテント — the tent after the storm. 捨てたものがある — there exists a thing thrown away.\n\nNotice these stack: 捨てたもののなかに秘密がある — inside the discarded thing, there's a secret. Each phrase builds on the last.\n\nAlso notice かもしれない appearing: 嵐が戻るかもしれない — the storm might return. This attaches to any sentence to add uncertainty.\n\nRe-read and trace how descriptions layer onto nouns."
   },
   "vocabulary": [
     {
       "word": "戻る",
       "kanji": "戻る",
       "reading": "もどる",
-      "meaning": "to return, go back",
-      "example": "家 に 戻る？"
+      "meaning": "to return, go back"
     },
     {
       "word": "秘密",
       "kanji": "秘密",
       "reading": "ひみつ",
-      "meaning": "secret",
-      "example": "秘密 の もの を 見つけた。"
+      "meaning": "secret"
     },
     {
       "word": "知れる",
       "kanji": "知れる",
       "reading": "しれる",
-      "meaning": "to become known; maybe",
-      "example": ""
+      "meaning": "to become known; maybe"
     },
     {
       "word": "時間",
       "kanji": "時間",
       "reading": "じかん",
-      "meaning": "time, hours",
-      "example": "この 時間 が ない！"
+      "meaning": "time, hours"
     },
     {
       "word": "薬",
       "kanji": "薬",
       "reading": "くすり",
-      "meaning": "medicine, drug",
-      "example": "薬 が 必要 だ。"
+      "meaning": "medicine, drug"
     },
     {
       "word": "捨てる",
       "kanji": "捨てる",
       "reading": "すてる",
-      "meaning": "to throw away, discard",
-      "example": "これ を 捨てる。"
+      "meaning": "to throw away, discard"
     },
     {
       "word": "テント",
       "kanji": "",
       "reading": "テント",
-      "meaning": "tent",
-      "example": "テント に いる。"
+      "meaning": "tent"
     },
     {
       "word": "足",
       "kanji": "足",
       "reading": "あし",
-      "meaning": "foot, leg",
-      "example": "この 足 を みせて。"
+      "meaning": "foot, leg"
     }
-  ],
-  "storyNote": "A clearing near the forest with a pitched tent. Campfire remnants. Backpacks and supplies. Moonlight through trees."
+  ]
 }

@@ -1,83 +1,57 @@
 {
   "chapter": 6,
   "grammarNote": {
-    "title": "は vs. が: Topic vs. Subject",
-    "explanation": "This is one of the most important distinctions in Japanese. が marks NEW information (something just noticed or discovered): 貝殻があった！ (A shell was [there]! — discovery). は marks KNOWN information being commented on: この貝殻はいい (This shell [that we're looking at] is nice). A useful test: if you could say 'As for X...' naturally, use は. If the sentence answers 'who/what did it?', use が.",
-    "examples": [
-      {
-        "japanese": "貝殻 が あった！",
-        "gloss": "shell [NEW-SUBJ] existed!",
-        "english": "There was a shell! (new discovery — が)"
-      },
-      {
-        "japanese": "この 貝殻 は いい！",
-        "gloss": "this shell [TOPIC] good!",
-        "english": "This shell is nice! (known topic — は)"
-      },
-      {
-        "japanese": "スナフキン は いい 人 だ ね。",
-        "gloss": "Snufkin [TOPIC] good person [COP] [CONF]",
-        "english": "Snufkin is a good person, isn't he."
-      }
-    ]
+    "title": "は vs. が",
+    "explanation": "Watch ムーミン on the beach. He spots something: 貝殻があった！ — が marks the shell as a discovery.\n\nThe next line: この貝殻はいい！ — は marks the same shell, now established, being commented on.\n\nが = the moment of noticing. は = talking about something already in view.\n\nWatch this shift throughout the chapter: が appears at moments of surprise, は appears when commenting on something established."
   },
   "vocabulary": [
     {
       "word": "もつ",
       "kanji": "持つ",
       "reading": "もつ",
-      "meaning": "to hold, have, carry",
-      "example": "貝殻 を もつ。"
+      "meaning": "to hold, have, carry"
     },
     {
       "word": "スナフキン",
       "kanji": "",
       "reading": "スナフキン",
-      "meaning": "Snufkin (wandering philosopher friend)",
-      "example": "スナフキン だ！"
+      "meaning": "Snufkin (wandering philosopher friend)"
     },
     {
       "word": "ああ",
       "kanji": "",
       "reading": "ああ",
-      "meaning": "ah, oh (exclamation)",
-      "example": "ああ、いい 貝殻 だ。"
+      "meaning": "ah, oh (exclamation)"
     },
     {
       "word": "モラン",
       "kanji": "",
       "reading": "モラン",
-      "meaning": "the Groke (fearsome, cold creature)",
-      "example": "モラン が いた！"
+      "meaning": "the Groke (fearsome, cold creature)"
     },
     {
       "word": "もう",
       "kanji": "",
       "reading": "もう",
-      "meaning": "already; more; enough",
-      "example": "もう 貝殻 が あった！"
+      "meaning": "already; more; enough"
     },
     {
       "word": "見える",
       "kanji": "見える",
       "reading": "みえる",
-      "meaning": "to be visible, can be seen",
-      "example": "なに が 見える？"
+      "meaning": "to be visible, can be seen"
     },
     {
       "word": "わかる",
       "kanji": "分かる",
       "reading": "わかる",
-      "meaning": "to understand, to become clear",
-      "example": "わかる？モラン だ。"
+      "meaning": "to understand, to become clear"
     },
     {
       "word": "かいがら",
       "kanji": "貝殻",
       "reading": "かいがら",
-      "meaning": "seashell",
-      "example": "貝殻 が あった！"
+      "meaning": "seashell"
     }
-  ],
-  "storyNote": "Sandy shore near the sea. Shells scattered on the beach. Waves. Mountains visible in the background. A dark silhouette (the Groke) far away."
+  ]
 }

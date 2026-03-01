@@ -1,78 +1,57 @@
 {
   "chapter": 44,
   "grammarNote": {
-    "title": "Nominalizers: の and こと",
-    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
-    "examples": [
-      {
-        "japanese": "三つ ある。",
-        "gloss": "three exist",
-        "english": "There are three."
-      },
-      {
-        "japanese": "沖 に なにか が みえる。",
-        "gloss": "offshore [at] something [SUBJ] visible",
-        "english": "Something is visible offshore."
-      }
-    ]
+    "title": "の and こと (continued)",
+    "explanation": "沈むのをみた — watched it sink. The のを pattern: packaging an event as something witnessed.\n\nこの次のことをする — do the next thing. Here こと means 'matter' or 'thing to handle' — close to its basic noun sense.\n\nRe-read and notice: does each こと refer to an abstract action, or a concrete matter?"
   },
   "vocabulary": [
     {
       "word": "三",
       "kanji": "三",
       "reading": "さん",
-      "meaning": "three",
-      "example": "三つ ある。"
+      "meaning": "three"
     },
     {
       "word": "沖",
       "kanji": "沖",
       "reading": "おき",
-      "meaning": "open sea, offshore",
-      "example": "沖 に なに か が みえる。"
+      "meaning": "open sea, offshore"
     },
     {
       "word": "分",
       "kanji": "分",
       "reading": "ぶん",
-      "meaning": "portion, share, amount",
-      "example": "自分 の 分 だ。"
+      "meaning": "portion, share, amount"
     },
     {
       "word": "ううん",
       "kanji": "",
       "reading": "ううん",
-      "meaning": "no, nah (casual); hmm",
-      "example": "ううん、ちがう。"
+      "meaning": "no, nah (casual); hmm"
     },
     {
       "word": "沈む",
       "kanji": "沈む",
       "reading": "しずむ",
-      "meaning": "to sink",
-      "example": "沈む の を みた。"
+      "meaning": "to sink"
     },
     {
       "word": "化け",
       "kanji": "化け",
       "reading": "ばけ",
-      "meaning": "disguise, transformation",
-      "example": "あの 化け は なに？"
+      "meaning": "disguise, transformation"
     },
     {
       "word": "計",
       "kanji": "計",
       "reading": "けい",
-      "meaning": "plan, total, meter",
-      "example": "パパ の 時間計 だ。"
+      "meaning": "plan, total, meter"
     },
     {
       "word": "次",
       "kanji": "次",
       "reading": "つぎ",
-      "meaning": "next",
-      "example": "次 は なに？"
+      "meaning": "next"
     }
-  ],
-  "storyNote": "Veranda of the Moomin house on a warm lazy afternoon. Hammocks and cushions. A gentle breeze."
+  ]
 }

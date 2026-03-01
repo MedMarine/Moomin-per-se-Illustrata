@@ -1,78 +1,57 @@
 {
   "chapter": 35,
   "grammarNote": {
-    "title": "Nominalizers: の and こと",
-    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
-    "examples": [
-      {
-        "japanese": "砂 の 上 を あるいた。",
-        "gloss": "sand [of] top [OBJ] walked",
-        "english": "[We] walked on the sand."
-      },
-      {
-        "japanese": "危ない！",
-        "gloss": "dangerous!",
-        "english": "It's dangerous!"
-      }
-    ]
+    "title": "の and こと (continued)",
+    "explanation": "潜るのは危ない — diving is dangerous. Consistent pattern: [verb] + のは + [judgment].\n\nNotice 俺 — a rough first-person pronoun, contrasting with ぼく (ムーミン) and わたし (ママ). 「俺だ！」signals a different kind of speaker. Japanese pronouns carry social weight.\n\nRe-read and notice who says 俺 vs. ぼく."
   },
   "vocabulary": [
     {
       "word": "砂",
       "kanji": "砂",
       "reading": "すな",
-      "meaning": "sand",
-      "example": "砂 が ある。"
+      "meaning": "sand"
     },
     {
       "word": "俺",
       "kanji": "俺",
       "reading": "おれ",
-      "meaning": "I, me (rough, masculine)",
-      "example": "「俺 だ！」 と 言った。"
+      "meaning": "I, me (rough, masculine)"
     },
     {
       "word": "潜る",
       "kanji": "潜る",
       "reading": "もぐる",
-      "meaning": "to dive, submerge",
-      "example": "潜る の は 危ない。"
+      "meaning": "to dive, submerge"
     },
     {
       "word": "鋸",
       "kanji": "鋸",
       "reading": "のこぎり",
-      "meaning": "saw (cutting tool)",
-      "example": "パパ の 鋸 だ。"
+      "meaning": "saw (cutting tool)"
     },
     {
       "word": "タール",
       "kanji": "",
       "reading": "タール",
-      "meaning": "tar",
-      "example": "タール が ある。"
+      "meaning": "tar"
     },
     {
       "word": "鬼",
       "kanji": "鬼",
       "reading": "おに",
-      "meaning": "demon, ogre, oni",
-      "example": "飛行鬼 の 場所 だ。"
+      "meaning": "demon, ogre, oni"
     },
     {
       "word": "危ない",
       "kanji": "危ない",
       "reading": "あぶない",
-      "meaning": "dangerous, risky",
-      "example": "潜る の は 危ない。"
+      "meaning": "dangerous, risky"
     },
     {
       "word": "事件",
       "kanji": "事件",
       "reading": "じけん",
-      "meaning": "incident, case, affair",
-      "example": "すごい 事件 だ ね。"
+      "meaning": "incident, case, affair"
     }
-  ],
-  "storyNote": "Dark cave entrance in a grassy hillside. Inside: damp walls with black tar streaks. Light filters in from the entrance."
+  ]
 }

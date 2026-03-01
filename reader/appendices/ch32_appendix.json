@@ -1,78 +1,57 @@
 {
   "chapter": 32,
   "grammarNote": {
-    "title": "Nominalizers: の and こと",
-    "explanation": "の and こと turn verb phrases into noun phrases. 泳ぐのが楽しい (Swimming is fun — の makes 'swim' into a noun). 忘れることがある (There are things [I] forget — こと nominalizes). の tends to be more concrete/experiential, こと more abstract. With these, you can now express complex ideas: the act of doing X, the fact that Y happened, etc. This is the last major grammar pattern — from here, you're building vocabulary toward full anime comprehension.",
-    "examples": [
-      {
-        "japanese": "海岸 を あるいた。",
-        "gloss": "coast [OBJ] walked",
-        "english": "[We] walked along the coast."
-      },
-      {
-        "japanese": "あるく の が 楽しい ね。",
-        "gloss": "walk [NOMLZ] [SUBJ] fun [CONF]",
-        "english": "Walking is fun, isn't it."
-      }
-    ]
+    "title": "の and こと (continued)",
+    "explanation": "The pattern continues consistently: あるくのが楽しいね — walking is fun. 上がるのは怖い — going up is scary. 連れていくのがいい — taking someone along is good.\n\nNotice how の captures the speaker's feeling about an activity: the emotion (楽しい, 怖い, いい) always follows のが or のは.\n\nRe-read and find every [verb]のは/が + [feeling]."
   },
   "vocabulary": [
     {
       "word": "あるく",
       "kanji": "歩く",
       "reading": "あるく",
-      "meaning": "to walk",
-      "example": "あるく の が 楽しい ね。"
+      "meaning": "to walk"
     },
     {
       "word": "御覧",
       "kanji": "御覧",
       "reading": "ごらん",
-      "meaning": "look (honorific); please look",
-      "example": "ごらん、きれい だ。"
+      "meaning": "look (honorific); please look"
     },
     {
       "word": "上がる",
       "kanji": "上がる",
       "reading": "あがる",
-      "meaning": "to rise, go up",
-      "example": "船 から 上がる。"
+      "meaning": "to rise, go up"
     },
     {
       "word": "調子",
       "kanji": "調子",
       "reading": "ちょうし",
-      "meaning": "condition, tone, tune",
-      "example": "調子 が いい。"
+      "meaning": "condition, tone, tune"
     },
     {
       "word": "連れる",
       "kanji": "連れる",
       "reading": "つれる",
-      "meaning": "to take (someone) along",
-      "example": ""
+      "meaning": "to take (someone) along"
     },
     {
       "word": "結ぶ",
       "kanji": "結ぶ",
       "reading": "むすぶ",
-      "meaning": "to tie, bind, connect",
-      "example": "ここ に 結ぶ。"
+      "meaning": "to tie, bind, connect"
     },
     {
       "word": "髪の毛",
       "kanji": "髪の毛",
       "reading": "かみのけ",
-      "meaning": "hair (on the head)",
-      "example": "髪の毛 が 風 で 変わった。"
+      "meaning": "hair (on the head)"
     },
     {
       "word": "利く",
       "kanji": "利く",
       "reading": "きく",
-      "meaning": "to be effective, work",
-      "example": "目 が 利く。"
+      "meaning": "to be effective, work"
     }
-  ],
-  "storyNote": "Sandy shore of a small island reached by boat. Rocky outcrops to climb. Turquoise water, white sand, blue sky."
+  ]
 }

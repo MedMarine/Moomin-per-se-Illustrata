@@ -2,82 +2,56 @@
   "chapter": 5,
   "grammarNote": {
     "title": "Past Tense: た and だった",
-    "explanation": "Japanese marks the past by changing the verb or copula ending. いる → いた (was there, animate), ある → あった (was there, inanimate), だ → だった (was). Past tense with が often expresses discovery: スニフがいた！ (Sniff was [here]! — I just found out). The た ending will appear on all verbs going forward.",
-    "examples": [
-      {
-        "japanese": "スニフ が いた！",
-        "gloss": "Sniff [SUBJ] was-there!",
-        "english": "Sniff was there!"
-      },
-      {
-        "japanese": "そこ に いた！",
-        "gloss": "there [at] was-there!",
-        "english": "[Someone] was there!"
-      },
-      {
-        "japanese": "ほんとう だ ね！",
-        "gloss": "truth [COP] [CONF]",
-        "english": "It's true, isn't it!"
-      }
-    ]
+    "explanation": "The illustrations show scenes that already happened. いた is the past of いる: スニフがいた！ あった is the past of ある. だった is the past of だ: あれはスニフだった.\n\nPast + が often signals discovery — the moment of finding out. スニフがいた！ is the shock of realization.\n\nRe-read the chapter: which sentences describe discovery (past + が) and which describe completed states?"
   },
   "vocabulary": [
     {
       "word": "それ",
       "kanji": "",
       "reading": "それ",
-      "meaning": "that (thing, near listener)",
-      "example": "それ！そこ に あった。"
+      "meaning": "that (thing, near listener)"
     },
     {
       "word": "あれ",
       "kanji": "",
       "reading": "あれ",
-      "meaning": "that (thing, far away)",
-      "example": "あれ は なに だった？"
+      "meaning": "that (thing, far away)"
     },
     {
       "word": "そこ",
       "kanji": "",
       "reading": "そこ",
-      "meaning": "there (near listener)",
-      "example": "そこ に いた！"
+      "meaning": "there (near listener)"
     },
     {
       "word": "あそこ",
       "kanji": "",
       "reading": "あそこ",
-      "meaning": "over there (far)",
-      "example": "あそこ に だれ が いる？"
+      "meaning": "over there (far)"
     },
     {
       "word": "でる",
       "kanji": "出る",
       "reading": "でる",
-      "meaning": "to go out, come out, appear",
-      "example": "みんな、でる！"
+      "meaning": "to go out, come out, appear"
     },
     {
       "word": "スニフ",
       "kanji": "",
       "reading": "スニフ",
-      "meaning": "Sniff (timid, treasure-loving character)",
-      "example": "スニフ が いた！"
+      "meaning": "Sniff (timid, treasure-loving character)"
     },
     {
       "word": "ほんとう",
       "kanji": "本当",
       "reading": "ほんとう",
-      "meaning": "truth, really",
-      "example": "ほんとう だ ね！スニフ！"
+      "meaning": "truth, really"
     },
     {
       "word": "二",
       "kanji": "二",
       "reading": "に",
-      "meaning": "two",
-      "example": "二 が でた。"
+      "meaning": "two"
     }
-  ],
-  "storyNote": "Moomin house and garden on a warm afternoon. Characters playing hide-and-seek. Trees, bushes, and the house provide hiding spots. Mimura is visiting."
+  ]
 }
