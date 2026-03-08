@@ -312,10 +312,10 @@ body {
 .vocab-panel {
   background: var(--bg-sidebar);
   border-right: 1px solid var(--border-soft);
-  padding: 1.5rem 1.25rem;
+  padding: 1.5rem 1.25rem 3.5rem; /* extra bottom padding clears sticky footer */
   position: sticky;
   top: 56px; /* below the header */
-  height: calc(100vh - 56px);
+  height: calc(100vh - 56px - 44px); /* subtract header + footer */
   overflow-y: auto;
 }
 
