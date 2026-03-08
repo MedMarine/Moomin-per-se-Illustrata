@@ -1,0 +1,57 @@
+{
+  "chapter": 5,
+  "grammarNote": {
+    "title": "Past Tense: た and だった",
+    "explanation": "The illustrations show scenes that already happened. いた is the past of いる: スニフがいた！ あった is the past of ある. だった is the past of だ: あれはスニフだった.\n\nPast + が often signals discovery — the moment of finding out. スニフがいた！ is the shock of realization.\n\nRe-read the chapter: which sentences describe discovery (past + が) and which describe completed states?"
+  },
+  "vocabulary": [
+    {
+      "word": "それ",
+      "kanji": "",
+      "reading": "それ",
+      "meaning": "that (thing, near listener)"
+    },
+    {
+      "word": "あれ",
+      "kanji": "",
+      "reading": "あれ",
+      "meaning": "that (thing, far away)"
+    },
+    {
+      "word": "そこ",
+      "kanji": "",
+      "reading": "そこ",
+      "meaning": "there (near listener)"
+    },
+    {
+      "word": "あそこ",
+      "kanji": "",
+      "reading": "あそこ",
+      "meaning": "over there (far)"
+    },
+    {
+      "word": "でる",
+      "kanji": "出る",
+      "reading": "でる",
+      "meaning": "to go out, come out, appear"
+    },
+    {
+      "word": "スニフ",
+      "kanji": "",
+      "reading": "スニフ",
+      "meaning": "Sniff (timid, treasure-loving character)"
+    },
+    {
+      "word": "ほんとう",
+      "kanji": "本当",
+      "reading": "ほんとう",
+      "meaning": "truth, really"
+    },
+    {
+      "word": "二",
+      "kanji": "二",
+      "reading": "に",
+      "meaning": "two"
+    }
+  ]
+}

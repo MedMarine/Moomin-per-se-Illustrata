@@ -1,0 +1,57 @@
+{
+  "chapter": 1,
+  "grammarNote": {
+    "title": "Naming and Pointing",
+    "explanation": "A noun by itself is a complete utterance. When you read 船 — look at the illustration. That single word IS the sentence.\n\nNotice the comma pattern: わたし、ムーミン。 The comma equates two things. The pause is the grammar. No verb, no copula — just two nouns placed side by side.\n\nRe-read the chapter and watch for single-noun utterances and comma-equations. Every line works this way."
+  },
+  "vocabulary": [
+    {
+      "word": "ムーミン",
+      "kanji": "",
+      "reading": "ムーミン",
+      "meaning": "Moomintroll (the main character)"
+    },
+    {
+      "word": "ふね",
+      "kanji": "船",
+      "reading": "ふね",
+      "meaning": "boat, ship"
+    },
+    {
+      "word": "わたし",
+      "kanji": "私",
+      "reading": "わたし",
+      "meaning": "I, me"
+    },
+    {
+      "word": "ママ",
+      "kanji": "",
+      "reading": "ママ",
+      "meaning": "Mama (Moominmamma)"
+    },
+    {
+      "word": "なに",
+      "kanji": "何",
+      "reading": "なに",
+      "meaning": "what"
+    },
+    {
+      "word": "パパ",
+      "kanji": "",
+      "reading": "パパ",
+      "meaning": "Papa (Moominpappa)"
+    },
+    {
+      "word": "き",
+      "kanji": "木",
+      "reading": "き",
+      "meaning": "tree, wood"
+    },
+    {
+      "word": "ぼうし",
+      "kanji": "帽子",
+      "reading": "ぼうし",
+      "meaning": "hat, cap"
+    }
+  ]
+}

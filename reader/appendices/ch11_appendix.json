@@ -1,0 +1,57 @@
+{
+  "chapter": 11,
+  "grammarNote": {
+    "title": "Sentence Particles: ね and よ",
+    "explanation": "Notice the feel of each sentence ending. あそぶよ！ — よ pushes information outward (announcing). ニンニさんもあそぶね — ね pulls the listener in (seeking agreement).\n\nThe same words change energy with different particles. よ says 'know this!' ね says 'right?'\n\nRe-read and feel the difference: which sentences announce and which ones invite?"
+  },
+  "vocabulary": [
+    {
+      "word": "こと",
+      "kanji": "事",
+      "reading": "こと",
+      "meaning": "thing, matter (abstract)"
+    },
+    {
+      "word": "さん",
+      "kanji": "",
+      "reading": "さん",
+      "meaning": "Mr., Ms., Mrs. (honorific)"
+    },
+    {
+      "word": "よう",
+      "kanji": "様",
+      "reading": "よう",
+      "meaning": "manner, appearance, seeming"
+    },
+    {
+      "word": "なか",
+      "kanji": "中",
+      "reading": "なか",
+      "meaning": "inside, middle"
+    },
+    {
+      "word": "はやい",
+      "kanji": "早い",
+      "reading": "はやい",
+      "meaning": "early, fast, quick"
+    },
+    {
+      "word": "目",
+      "kanji": "目",
+      "reading": "め",
+      "meaning": "eye; ordinal suffix"
+    },
+    {
+      "word": "変わる",
+      "kanji": "変わる",
+      "reading": "かわる",
+      "meaning": "to change"
+    },
+    {
+      "word": "あそぶ",
+      "kanji": "遊ぶ",
+      "reading": "あそぶ",
+      "meaning": "to play, have fun"
+    }
+  ]
+}

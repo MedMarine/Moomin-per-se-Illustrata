@@ -1,0 +1,71 @@
+{
+  "reviewed_at": "2026-02-28T21:41:18.490Z",
+  "total": 1019,
+  "keep": 50,
+  "regenerate": 3,
+  "regenerate_with_notes": 5,
+  "unreviewed": 961,
+  "items": {
+    "ch01-04": {
+      "status": "regenerate_with_notes",
+      "notes": "Moomintroll should be pointing at the trees, not at the water",
+      "refs": [],
+      "original_prompt": "More of the shoreline visible now, a row of trees stretching along the bank. Moomintroll points at each tree in turn as fog lifts. Multiple trees revealed along the shore. Medium-wide shot, eye-level. Brightening morning light, counting and discovering mood.",
+      "chapter": 1
+    },
+    "ch02-02": {
+      "status": "regenerate_with_notes",
+      "notes": "The island is small, with water on all sides.",
+      "refs": [],
+      "original_prompt": "Rocky outcrop on the small island, Moomintroll looks around at the island itself. Green vegetation, sandy beach, rocky edges. The island landscape from a hillock. Medium-wide shot, slightly elevated. Soft morning light, surveying mood.",
+      "chapter": 2
+    },
+    "ch02-03": {
+      "status": "regenerate_with_notes",
+      "notes": "The island is small, with water on all sides",
+      "refs": [],
+      "original_prompt": "Moomintroll stamps one foot on the sand of the island, arms spread wide claiming it. Rocky shore and green bushes behind. Moomintroll claiming the island excitedly. Medium shot, eye-level. Bright morning sun, proud excited mood.",
+      "chapter": 2
+    },
+    "ch02-14": {
+      "status": "regenerate",
+      "notes": "",
+      "refs": [],
+      "original_prompt": "Split scene: Moomintroll sees another figure on the far shore of the island, then looks down at himself. Two Moomin shapes — one distant, one close. Distant figure and Moomintroll on the island. Wide shot, eye-level. Afternoon island light, curious doubling mood.",
+      "chapter": 2
+    },
+    "ch03-04": {
+      "status": "regenerate_with_notes",
+      "notes": "The small silhouetted figure is Snorkmaiden. leave everything else unchanged",
+      "refs": [
+        "C:\\Users\\never\\Downloads\\Japanese per se illustrata v2\\review_refs\\ch03-04\\duckduckgo_016.webp"
+      ],
+      "original_prompt": "On the mountain path, Moomintroll spots a distant figure sitting on a rock. The figure is small and far away, silhouetted against the sky. Distant figure on the mountain trail. Medium-wide shot, eye-level from the path. Hazy afternoon light, intrigued questioning mood.",
+      "chapter": 3
+    },
+    "ch03-05": {
+      "status": "regenerate_with_notes",
+      "notes": "Show moomintroll peering down the trail at a silhouetted figure on a rock, medium distance. The silhouetted figure is Snorkmaiden.",
+      "refs": [
+        "C:\\Users\\never\\Downloads\\Japanese per se illustrata v2\\review_refs\\ch03-05\\duckduckgo_016.webp",
+        "C:\\Users\\never\\Downloads\\Japanese per se illustrata v2\\reference_images\\moomintroll\\ep01_0023.png"
+      ],
+      "original_prompt": "Moomintroll creeps closer along the path, peering around a large boulder at the figure ahead. Wildflowers line the trail. Moomintroll peeking from behind a boulder. Medium shot, eye-level. Warm afternoon light, cautious curiosity mood.",
+      "chapter": 3
+    },
+    "ch03-19": {
+      "status": "regenerate",
+      "notes": "",
+      "refs": [],
+      "original_prompt": "At the Moomin house door, Moominmamma looks out to see who is coming. Moomintroll introduces Snorkmaiden proudly. Introduction at the front door. Medium shot, eye-level. Warm doorway light, proud introduction mood.",
+      "chapter": 3
+    },
+    "ch03-20": {
+      "status": "regenerate",
+      "notes": "",
+      "refs": [],
+      "original_prompt": "Night sky over the valley, the mountain visible as a dark silhouette with stars above it. Moomintroll looks out his window at it. Mountain silhouette under stars from the window. Medium shot from inside looking out. Moonlight and starlight, reflective evening mood.",
+      "chapter": 3
+    }
+  }
+}

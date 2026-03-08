@@ -1,0 +1,57 @@
+{
+  "chapter": 26,
+  "grammarNote": {
+    "title": "Nominalizers: の and こと",
+    "explanation": "の and こと turn a verb phrase into a noun. 追うのはひどい — chasing (as a thing) is terrible. 返すことが必要だ — returning (as a thing) is necessary.\n\n花をみるのが楽しいね — looking at flowers (the activity, packaged as a noun) is fun. The の wraps the whole action into something that が or は can mark.\n\nFrom here forward, の and こと appear constantly. Watch for [verb] + の or [verb] + こと followed by は, が, or を."
+  },
+  "vocabulary": [
+    {
+      "word": "追う",
+      "kanji": "追う",
+      "reading": "おう",
+      "meaning": "to chase, pursue"
+    },
+    {
+      "word": "花",
+      "kanji": "花",
+      "reading": "はな",
+      "meaning": "flower"
+    },
+    {
+      "word": "ビフ",
+      "kanji": "",
+      "reading": "ビフ",
+      "meaning": "Biff (a mischievous character)"
+    },
+    {
+      "word": "ハンドバッグ",
+      "kanji": "",
+      "reading": "ハンドバッグ",
+      "meaning": "handbag"
+    },
+    {
+      "word": "ひどい",
+      "kanji": "酷い",
+      "reading": "ひどい",
+      "meaning": "terrible, cruel, awful"
+    },
+    {
+      "word": "他",
+      "kanji": "他",
+      "reading": "ほか",
+      "meaning": "other, another, elsewhere"
+    },
+    {
+      "word": "返す",
+      "kanji": "返す",
+      "reading": "かえす",
+      "meaning": "to return (something), give back"
+    },
+    {
+      "word": "コレクション",
+      "kanji": "",
+      "reading": "コレクション",
+      "meaning": "collection"
+    }
+  ]
+}

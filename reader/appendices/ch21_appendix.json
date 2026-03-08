@@ -1,0 +1,57 @@
+{
+  "chapter": 21,
+  "grammarNote": {
+    "title": "Quotation: と",
+    "explanation": "と marks where someone's words end. 「変だ！」とムーミンが言った — everything before と is what was said.\n\nThe pattern: [words] + と + [verb of speaking]. This works with 言う, 呼ぶ, and other communication verbs. 「ここにきて！」と呼んだ — called out (saying) 'come here!'\n\nRe-read and find every と. What words does it wrap up each time?"
+  },
+  "vocabulary": [
+    {
+      "word": "いう",
+      "kanji": "言う",
+      "reading": "いう",
+      "meaning": "to say, tell"
+    },
+    {
+      "word": "いれる",
+      "kanji": "入れる",
+      "reading": "いれる",
+      "meaning": "to put in, insert"
+    },
+    {
+      "word": "部屋",
+      "kanji": "部屋",
+      "reading": "へや",
+      "meaning": "room"
+    },
+    {
+      "word": "見せる",
+      "kanji": "見せる",
+      "reading": "みせる",
+      "meaning": "to show"
+    },
+    {
+      "word": "よぶ",
+      "kanji": "呼ぶ",
+      "reading": "よぶ",
+      "meaning": "to call, summon"
+    },
+    {
+      "word": "いつ",
+      "kanji": "",
+      "reading": "いつ",
+      "meaning": "when"
+    },
+    {
+      "word": "海岸",
+      "kanji": "海岸",
+      "reading": "かいがん",
+      "meaning": "coast, seashore"
+    },
+    {
+      "word": "変",
+      "kanji": "変",
+      "reading": "へん",
+      "meaning": "strange, weird, odd"
+    }
+  ]
+}

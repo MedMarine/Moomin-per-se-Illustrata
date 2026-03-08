@@ -1,0 +1,57 @@
+{
+  "chapter": 3,
+  "grammarNote": {
+    "title": "Topic and Copula: は and だ",
+    "explanation": "は picks up something already visible and comments on it. あの人はだれ？ — pointing at someone in view, asking about them.\n\nだ declares what something is: フローレンだ！ — identifying the figure.\n\nNotice the shift from が to は: 山がある (a mountain appears) vs. いい山だ (that mountain — now established — is nice). が introduces, は comments.\n\nWatch for は and だ in every line. Which sentences introduce and which ones comment?"
+  },
+  "vocabulary": [
+    {
+      "word": "だれ",
+      "kanji": "誰",
+      "reading": "だれ",
+      "meaning": "who"
+    },
+    {
+      "word": "どこ",
+      "kanji": "",
+      "reading": "どこ",
+      "meaning": "where"
+    },
+    {
+      "word": "その",
+      "kanji": "",
+      "reading": "その",
+      "meaning": "that (before a noun, near listener)"
+    },
+    {
+      "word": "あの",
+      "kanji": "",
+      "reading": "あの",
+      "meaning": "that (before a noun, far away)"
+    },
+    {
+      "word": "いい",
+      "kanji": "良い",
+      "reading": "いい",
+      "meaning": "good, nice, fine"
+    },
+    {
+      "word": "やま",
+      "kanji": "山",
+      "reading": "やま",
+      "meaning": "mountain"
+    },
+    {
+      "word": "ふたり",
+      "kanji": "二人",
+      "reading": "ふたり",
+      "meaning": "two people, a pair"
+    },
+    {
+      "word": "フローレン",
+      "kanji": "",
+      "reading": "フローレン",
+      "meaning": "Floren (the Snork Maiden)"
+    }
+  ]
+}

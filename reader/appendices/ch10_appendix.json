@@ -1,0 +1,57 @@
+{
+  "chapter": 10,
+  "grammarNote": {
+    "title": "を (continued)",
+    "explanation": "More を in action. 船をつくる — the boat is what gets built. Watch パパ in the illustration.\n\nNotice the contrast with に: 船にのる (get on the boat — direction of movement) vs. 船をつくる (build the boat — thing acted upon). に and を do different work.\n\nRe-read and separate に from を. Which marks a destination and which marks an object?"
+  },
+  "vocabulary": [
+    {
+      "word": "かお",
+      "kanji": "顔",
+      "reading": "かお",
+      "meaning": "face"
+    },
+    {
+      "word": "ありがとう",
+      "kanji": "",
+      "reading": "ありがとう",
+      "meaning": "thank you"
+    },
+    {
+      "word": "いや",
+      "kanji": "嫌",
+      "reading": "いや",
+      "meaning": "no; unpleasant, dislike"
+    },
+    {
+      "word": "のる",
+      "kanji": "乗る",
+      "reading": "のる",
+      "meaning": "to ride, get on"
+    },
+    {
+      "word": "こんな",
+      "kanji": "",
+      "reading": "こんな",
+      "meaning": "this kind of, like this"
+    },
+    {
+      "word": "まつ",
+      "kanji": "待つ",
+      "reading": "まつ",
+      "meaning": "to wait"
+    },
+    {
+      "word": "今日",
+      "kanji": "今日",
+      "reading": "きょう",
+      "meaning": "today"
+    },
+    {
+      "word": "つくる",
+      "kanji": "作る",
+      "reading": "つくる",
+      "meaning": "to make, build, create"
+    }
+  ]
+}

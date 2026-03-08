@@ -1,0 +1,57 @@
+{
+  "chapter": 18,
+  "grammarNote": {
+    "title": "ている: Ongoing States",
+    "explanation": "て-form + いる describes a state. It has two faces.\n\nThe Rolling Camera — action in progress. When ムーミン says 動いている, look at the illustration: the plant is actively curling. The camera catches an action mid-way.\n\nThe Aftermath — result still visible. 茸が落ちている — the mushroom is not falling now. It already fell, and there it sits. The camera shows what remains after a change.\n\n変わっている — this place HAS changed (and still shows it). Re-read and sort: is each ている a rolling camera or an aftermath?"
+  },
+  "vocabulary": [
+    {
+      "word": "動く",
+      "kanji": "動く",
+      "reading": "うごく",
+      "meaning": "to move"
+    },
+    {
+      "word": "えっ",
+      "kanji": "",
+      "reading": "えっ",
+      "meaning": "huh? what? (mild surprise)"
+    },
+    {
+      "word": "茸",
+      "kanji": "茸",
+      "reading": "きのこ",
+      "meaning": "mushroom"
+    },
+    {
+      "word": "スラン",
+      "kanji": "",
+      "reading": "スラン",
+      "meaning": "Thingumy (a small shy character)"
+    },
+    {
+      "word": "面白い",
+      "kanji": "面白い",
+      "reading": "おもしろい",
+      "meaning": "interesting, amusing, funny"
+    },
+    {
+      "word": "すぐ",
+      "kanji": "",
+      "reading": "すぐ",
+      "meaning": "immediately, right away"
+    },
+    {
+      "word": "確か",
+      "kanji": "確か",
+      "reading": "たしか",
+      "meaning": "certain, sure; if I remember right"
+    },
+    {
+      "word": "植物",
+      "kanji": "植物",
+      "reading": "しょくぶつ",
+      "meaning": "plant, vegetation"
+    }
+  ]
+}

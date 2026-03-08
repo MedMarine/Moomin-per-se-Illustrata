@@ -1,0 +1,21 @@
+{
+  "_comment": "Voicevox speaker ID mapping. Run 'curl localhost:50021/speakers' to see available voices.",
+  "speakers": {
+    "ムーミン":     { "id": 2,  "notes": "Young protagonist" },
+    "パパ":         { "id": 13, "notes": "Mature male" },
+    "ママ":         { "id": 14, "notes": "Warm female" },
+    "スナフキン":   { "id": 29, "notes": "Cool wanderer" },
+    "スニフ":       { "id": 2,  "notes": "Shares voice with Moomin" },
+    "フローレン":   { "id": 8,  "notes": "Young female" },
+    "ニンニ":       { "id": 8,  "notes": "Quiet young female" },
+    "ミー":         { "id": 8,  "notes": "Little My" },
+    "ミムラ":       { "id": 8,  "notes": "Female" },
+    "モラン":       { "id": 2,  "notes": "Mystery creature" },
+    "ヘムレン":     { "id": 13, "notes": "Adult male" },
+    "スノーク":     { "id": 13, "notes": "Adult male" },
+    "スラン":       { "id": 2,  "notes": "Minor character" },
+    "飛行鬼":       { "id": 13, "notes": "Hobgoblin" },
+    "ナレーター":   { "id": 21, "notes": "Neutral narrator" }
+  },
+  "default": "ナレーター"
+}

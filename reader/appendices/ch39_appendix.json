@@ -1,0 +1,57 @@
+{
+  "chapter": 39,
+  "grammarNote": {
+    "title": "の and こと (continued)",
+    "explanation": "Multiple の-judgments in one chapter: 急ぐのはだめだ — hurrying is bad. 濡れるのはいやだ — getting wet is unpleasant. 感じるのがいいね — feeling is nice. 上陸するのはいい — landing is good.\n\nNotice how they stack: each packages a different experience and attaches a verdict.\n\nRe-read and count: how many のは/のが sentences appear?"
+  },
+  "vocabulary": [
+    {
+      "word": "設計",
+      "kanji": "設計",
+      "reading": "せっけい",
+      "meaning": "design, plan, blueprint"
+    },
+    {
+      "word": "図",
+      "kanji": "図",
+      "reading": "ず",
+      "meaning": "drawing, diagram, map"
+    },
+    {
+      "word": "急ぐ",
+      "kanji": "急ぐ",
+      "reading": "いそぐ",
+      "meaning": "to hurry, rush"
+    },
+    {
+      "word": "帆",
+      "kanji": "帆",
+      "reading": "ほ",
+      "meaning": "sail"
+    },
+    {
+      "word": "上陸",
+      "kanji": "上陸",
+      "reading": "じょうりく",
+      "meaning": "landing, going ashore"
+    },
+    {
+      "word": "濡れる",
+      "kanji": "濡れる",
+      "reading": "ぬれる",
+      "meaning": "to get wet"
+    },
+    {
+      "word": "感じる",
+      "kanji": "感じる",
+      "reading": "かんじる",
+      "meaning": "to feel, sense"
+    },
+    {
+      "word": "たくさん",
+      "kanji": "沢山",
+      "reading": "たくさん",
+      "meaning": "many, a lot, plenty"
+    }
+  ]
+}

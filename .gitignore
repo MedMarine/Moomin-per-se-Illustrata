@@ -14,3 +14,14 @@ dist/images/versions/
 # Python
 __pycache__/
 *.pyc
+
+# Environment
+.env
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude session data
+.claude/

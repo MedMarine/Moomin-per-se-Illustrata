@@ -1,0 +1,57 @@
+{
+  "chapter": 31,
+  "grammarNote": {
+    "title": "こと が できる: Can Do",
+    "explanation": "Another set pattern: [verb] + ことができる means 'can do.' およぐことができる — can swim. 結ぶことができる — can tie.\n\nAlso notice longer の-phrases: 船を漕ぐのはすごい — rowing a boat is amazing. The whole phrase 船を漕ぐ becomes a single noun.\n\nRe-read and find both ことができる (ability) and のは/のが (judgment about an activity)."
+  },
+  "vocabulary": [
+    {
+      "word": "およぐ",
+      "kanji": "泳ぐ",
+      "reading": "およぐ",
+      "meaning": "to swim"
+    },
+    {
+      "word": "漕ぐ",
+      "kanji": "漕ぐ",
+      "reading": "こぐ",
+      "meaning": "to row, paddle"
+    },
+    {
+      "word": "張る",
+      "kanji": "張る",
+      "reading": "はる",
+      "meaning": "to stretch, put up, pitch"
+    },
+    {
+      "word": "地獄",
+      "kanji": "地獄",
+      "reading": "じごく",
+      "meaning": "hell"
+    },
+    {
+      "word": "秒",
+      "kanji": "秒",
+      "reading": "びょう",
+      "meaning": "second (unit of time)"
+    },
+    {
+      "word": "手伝う",
+      "kanji": "手伝う",
+      "reading": "てつだう",
+      "meaning": "to help, assist"
+    },
+    {
+      "word": "此奴",
+      "kanji": "此奴",
+      "reading": "こいつ",
+      "meaning": "this one/guy (rough)"
+    },
+    {
+      "word": "とにかく",
+      "kanji": "",
+      "reading": "とにかく",
+      "meaning": "anyway, at any rate"
+    }
+  ]
+}

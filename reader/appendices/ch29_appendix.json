@@ -1,0 +1,51 @@
+{
+  "chapter": 29,
+  "grammarNote": {
+    "title": "の and こと (continued)",
+    "explanation": "Notice こと with past-tense verbs: 起こったことを教えて — tell me the thing that happened. こと captures a completed event as a noun.\n\nAlso: 川で拾うのが楽しい. The longer the phrase before の, the more complex the 'thing' being described.\n\nRe-read and watch the phrase length before each の or こと."
+  },
+  "vocabulary": [
+    {
+      "word": "伯母",
+      "kanji": "伯母",
+      "reading": "おば",
+      "meaning": "aunt (older than parent)"
+    },
+    {
+      "word": "拾う",
+      "kanji": "拾う",
+      "reading": "ひろう",
+      "meaning": "to pick up, find"
+    },
+    {
+      "word": "起こる",
+      "kanji": "起こる",
+      "reading": "おこる",
+      "meaning": "to happen, occur"
+    },
+    {
+      "word": "天才",
+      "kanji": "天才",
+      "reading": "てんさい",
+      "meaning": "genius"
+    },
+    {
+      "word": "川",
+      "kanji": "川",
+      "reading": "かわ",
+      "meaning": "river"
+    },
+    {
+      "word": "通り",
+      "kanji": "通り",
+      "reading": "とおり",
+      "meaning": "street; way, as (in 'as expected')"
+    },
+    {
+      "word": "明日",
+      "kanji": "明日",
+      "reading": "あした",
+      "meaning": "tomorrow"
+    }
+  ]
+}
