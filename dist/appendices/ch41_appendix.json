@@ -1,0 +1,57 @@
+{
+  "chapter": 41,
+  "grammarNote": {
+    "title": "のは…だ: Identifying Who Did It",
+    "explanation": "A new pattern: こわしたのはスニフだ — the one who broke it is Sniff. Here のは does not just nominalize an action — it identifies who performed it. [verb]た + のは + [person]だ.\n\n隠すのはよくない — hiding things is bad. 信じることができない — cannot believe. The familiar patterns continue alongside the new one.\n\nRe-read and find: when does のは identify a person vs. judge an action?"
+  },
+  "vocabulary": [
+    {
+      "word": "色",
+      "kanji": "色",
+      "reading": "いろ",
+      "meaning": "color"
+    },
+    {
+      "word": "大変",
+      "kanji": "大変",
+      "reading": "たいへん",
+      "meaning": "terrible, serious; very much"
+    },
+    {
+      "word": "こわす",
+      "kanji": "壊す",
+      "reading": "こわす",
+      "meaning": "to break, destroy"
+    },
+    {
+      "word": "隠す",
+      "kanji": "隠す",
+      "reading": "かくす",
+      "meaning": "to hide (something)"
+    },
+    {
+      "word": "頂く",
+      "kanji": "頂く",
+      "reading": "いただく",
+      "meaning": "to receive (humble); to eat/drink (humble)"
+    },
+    {
+      "word": "信じる",
+      "kanji": "信じる",
+      "reading": "しんじる",
+      "meaning": "to believe, trust"
+    },
+    {
+      "word": "出掛ける",
+      "kanji": "出掛ける",
+      "reading": "でかける",
+      "meaning": "to go out, set out"
+    },
+    {
+      "word": "嘘",
+      "kanji": "嘘",
+      "reading": "うそ",
+      "meaning": "lie, falsehood"
+    }
+  ]
+}

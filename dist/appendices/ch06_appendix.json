@@ -1,0 +1,57 @@
+{
+  "chapter": 6,
+  "grammarNote": {
+    "title": "は vs. が",
+    "explanation": "Watch ムーミン on the beach. He spots something: 貝殻があった！ — が marks the shell as a discovery.\n\nThe next line: この貝殻はいい！ — は marks the same shell, now established, being commented on.\n\nが = the moment of noticing. は = talking about something already in view.\n\nWatch this shift throughout the chapter: が appears at moments of surprise, は appears when commenting on something established."
+  },
+  "vocabulary": [
+    {
+      "word": "もつ",
+      "kanji": "持つ",
+      "reading": "もつ",
+      "meaning": "to hold, have, carry"
+    },
+    {
+      "word": "スナフキン",
+      "kanji": "",
+      "reading": "スナフキン",
+      "meaning": "Snufkin (wandering philosopher friend)"
+    },
+    {
+      "word": "ああ",
+      "kanji": "",
+      "reading": "ああ",
+      "meaning": "ah, oh (exclamation)"
+    },
+    {
+      "word": "モラン",
+      "kanji": "",
+      "reading": "モラン",
+      "meaning": "the Groke (fearsome, cold creature)"
+    },
+    {
+      "word": "もう",
+      "kanji": "",
+      "reading": "もう",
+      "meaning": "already; more; enough"
+    },
+    {
+      "word": "見える",
+      "kanji": "見える",
+      "reading": "みえる",
+      "meaning": "to be visible, can be seen"
+    },
+    {
+      "word": "わかる",
+      "kanji": "分かる",
+      "reading": "わかる",
+      "meaning": "to understand, to become clear"
+    },
+    {
+      "word": "かいがら",
+      "kanji": "貝殻",
+      "reading": "かいがら",
+      "meaning": "seashell"
+    }
+  ]
+}

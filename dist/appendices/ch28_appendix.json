@@ -1,0 +1,57 @@
+{
+  "chapter": 28,
+  "grammarNote": {
+    "title": "の and こと (continued)",
+    "explanation": "More の as nominalizer: 集めるのが楽しい — collecting is fun. はしるのがはやい — running is fast.\n\nThese nominalized phrases slot into the same positions as regular nouns: where you could say パンケーキがいい, you can say 集めるのがいい.\n\nRe-read and try replacing each の-phrase with a simple noun. The grammar slot is the same."
+  },
+  "vocabulary": [
+    {
+      "word": "修理",
+      "kanji": "修理",
+      "reading": "しゅうり",
+      "meaning": "repair, fixing"
+    },
+    {
+      "word": "パンケーキ",
+      "kanji": "",
+      "reading": "パンケーキ",
+      "meaning": "pancake"
+    },
+    {
+      "word": "集める",
+      "kanji": "集める",
+      "reading": "あつめる",
+      "meaning": "to collect, gather"
+    },
+    {
+      "word": "切手",
+      "kanji": "切手",
+      "reading": "きって",
+      "meaning": "postage stamp"
+    },
+    {
+      "word": "はしる",
+      "kanji": "走る",
+      "reading": "はしる",
+      "meaning": "to run"
+    },
+    {
+      "word": "アリ",
+      "kanji": "",
+      "reading": "アリ",
+      "meaning": "Ari (a character)"
+    },
+    {
+      "word": "ホラ",
+      "kanji": "",
+      "reading": "ホラ",
+      "meaning": "Hora (a character)"
+    },
+    {
+      "word": "珍しい",
+      "kanji": "珍しい",
+      "reading": "めずらしい",
+      "meaning": "rare, unusual, uncommon"
+    }
+  ]
+}

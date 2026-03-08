@@ -1,0 +1,57 @@
+{
+  "chapter": 8,
+  "grammarNote": {
+    "title": "Motion: いく, くる, and へ",
+    "explanation": "へ points a direction. 海へいく — toward the sea, moving away.\n\nWhen ムーミン says スナフキンがくる, look at the illustration: Snufkin approaches, coming toward the viewer. いく moves away from here, くる moves toward here.\n\n帰る carries its own destination: 家へ帰る — returning home.\n\nRe-read and trace the motion: who goes, who comes, who returns? Which direction does each verb point?"
+  },
+  "vocabulary": [
+    {
+      "word": "かえる",
+      "kanji": "帰る",
+      "reading": "かえる",
+      "meaning": "to return, go home"
+    },
+    {
+      "word": "うん",
+      "kanji": "",
+      "reading": "うん",
+      "meaning": "yeah, uh-huh (casual yes)"
+    },
+    {
+      "word": "ええ",
+      "kanji": "",
+      "reading": "ええ",
+      "meaning": "yes (slightly formal)"
+    },
+    {
+      "word": "しる",
+      "kanji": "知る",
+      "reading": "しる",
+      "meaning": "to know, learn"
+    },
+    {
+      "word": "きく",
+      "kanji": "聞く",
+      "reading": "きく",
+      "meaning": "to listen, ask, hear"
+    },
+    {
+      "word": "おい",
+      "kanji": "",
+      "reading": "おい",
+      "meaning": "hey! (calling out)"
+    },
+    {
+      "word": "みつかる",
+      "kanji": "見つかる",
+      "reading": "みつかる",
+      "meaning": "to be found, turn up"
+    },
+    {
+      "word": "よし",
+      "kanji": "",
+      "reading": "よし",
+      "meaning": "alright!, good! (exclamation)"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "chapter": 7,
+  "grammarNote": {
+    "title": "は vs. が (continued)",
+    "explanation": "The same pattern continues. パパ says 帽子がない — discovering the hat is missing (が for new realization). Then きみはどこにおいた？ — は shifts to the known topic to ask about it.\n\nNotice スニフがみつけた — who found it? Sniff did. が answers the 'who did it?' question.\n\nRe-read and mark every が and は. What triggers each one?"
+  },
+  "vocabulary": [
+    {
+      "word": "一",
+      "kanji": "一",
+      "reading": "いち",
+      "meaning": "one"
+    },
+    {
+      "word": "今",
+      "kanji": "今",
+      "reading": "いま",
+      "meaning": "now"
+    },
+    {
+      "word": "ところ",
+      "kanji": "所",
+      "reading": "ところ",
+      "meaning": "place, spot"
+    },
+    {
+      "word": "さがす",
+      "kanji": "探す",
+      "reading": "さがす",
+      "meaning": "to search for, look for"
+    },
+    {
+      "word": "きみ",
+      "kanji": "君",
+      "reading": "きみ",
+      "meaning": "you (familiar, friendly)"
+    },
+    {
+      "word": "みつける",
+      "kanji": "見つける",
+      "reading": "みつける",
+      "meaning": "to find, discover"
+    },
+    {
+      "word": "おもう",
+      "kanji": "思う",
+      "reading": "おもう",
+      "meaning": "to think, feel"
+    },
+    {
+      "word": "おく",
+      "kanji": "置く",
+      "reading": "おく",
+      "meaning": "to put, place"
+    }
+  ]
+}

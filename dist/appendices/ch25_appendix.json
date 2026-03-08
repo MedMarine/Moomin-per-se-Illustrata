@@ -1,0 +1,57 @@
+{
+  "chapter": 25,
+  "grammarNote": {
+    "title": "Polite Forms: ます and です",
+    "explanation": "A new voice enters the chapter. ヘムレン says 悪いですね where ムーミン would say 悪いね. 聞こえますか instead of 聞こえる？ 落としました instead of 落とした.\n\nです replaces だ. ます replaces the plain verb ending. The meaning is identical — only the social register changes.\n\nRe-read and compare ヘムレン's lines with ムーミン's. Same information, different form."
+  },
+  "vocabulary": [
+    {
+      "word": "悪い",
+      "kanji": "悪い",
+      "reading": "わるい",
+      "meaning": "bad, wrong, sorry"
+    },
+    {
+      "word": "聞こえる",
+      "kanji": "聞こえる",
+      "reading": "きこえる",
+      "meaning": "to be audible, can hear"
+    },
+    {
+      "word": "下",
+      "kanji": "下",
+      "reading": "した",
+      "meaning": "below, under, bottom"
+    },
+    {
+      "word": "つもり",
+      "kanji": "積もり",
+      "reading": "つもり",
+      "meaning": "intention, plan"
+    },
+    {
+      "word": "考える",
+      "kanji": "考える",
+      "reading": "かんがえる",
+      "meaning": "to think, consider"
+    },
+    {
+      "word": "うち",
+      "kanji": "家",
+      "reading": "うち",
+      "meaning": "home, house; within"
+    },
+    {
+      "word": "とき",
+      "kanji": "時",
+      "reading": "とき",
+      "meaning": "when, time, occasion"
+    },
+    {
+      "word": "落とす",
+      "kanji": "落とす",
+      "reading": "おとす",
+      "meaning": "to drop (something)"
+    }
+  ]
+}

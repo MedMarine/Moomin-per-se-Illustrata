@@ -1,0 +1,57 @@
+{
+  "chapter": 23,
+  "grammarNote": {
+    "title": "Relative Clauses",
+    "explanation": "A whole phrase can sit before a noun to describe it. 前にみた嵐 — the storm [that was] seen before. The phrase 前にみた sits directly in front of 嵐.\n\n忘れたもの — the thing [that was] forgotten. 上に飛んだものをみた — saw the thing that flew up.\n\nNo connecting word needed — the modifier simply precedes the noun.\n\nRe-read and find every [verb]た + [noun] pair."
+  },
+  "vocabulary": [
+    {
+      "word": "どんな",
+      "kanji": "",
+      "reading": "どんな",
+      "meaning": "what kind of"
+    },
+    {
+      "word": "上",
+      "kanji": "上",
+      "reading": "うえ",
+      "meaning": "top, above, on"
+    },
+    {
+      "word": "嵐",
+      "kanji": "嵐",
+      "reading": "あらし",
+      "meaning": "storm, tempest"
+    },
+    {
+      "word": "すごい",
+      "kanji": "凄い",
+      "reading": "すごい",
+      "meaning": "amazing, incredible, terrible"
+    },
+    {
+      "word": "とぶ",
+      "kanji": "飛ぶ",
+      "reading": "とぶ",
+      "meaning": "to fly, jump"
+    },
+    {
+      "word": "前",
+      "kanji": "前",
+      "reading": "まえ",
+      "meaning": "before, front, previous"
+    },
+    {
+      "word": "忘れる",
+      "kanji": "忘れる",
+      "reading": "わすれる",
+      "meaning": "to forget"
+    },
+    {
+      "word": "あと",
+      "kanji": "後",
+      "reading": "あと",
+      "meaning": "after, behind, later"
+    }
+  ]
+}

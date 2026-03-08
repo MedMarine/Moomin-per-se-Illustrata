@@ -1,0 +1,16 @@
+# Build & tooling
+build/
+scripts/
+contexta/
+draft/
+
+# Reference images (not needed for display)
+corpus/
+
+# Image processing artifacts
+dist/images/masks/
+dist/images/versions/
+
+# Python
+__pycache__/
+*.pyc
